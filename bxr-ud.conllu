@@ -38,7 +38,7 @@
 7	баалаба	_	VERB	_	_	0	root	_	Offset=178-185
 8	.	_	PUNCT	_	_	7	punct	_	Offset=186-187
 
-1	Петиин	_	PROPN	_	_	2	nmod-own	_	Offset=188-194
+1	Петиин	_	PROPN	_	_	2	nmod:own	_	Offset=188-194
 2	хүршэ	_	NOUN	_	_	4	nsubj	_	Offset=195-200
 3	хорёогоо	_	NOUN	_	_	4	dobj	_	Offset=201-209
 4	шэрдэбэ	_	VERB	_	_	0	root	_	Offset=210-217
@@ -154,7 +154,7 @@
 6	.	_	PUNCT	_	_	4	punct	_	Offset=751-752
 
 1	Энэ	_	PRON	_	_	3	nsubj	_	Offset=753-756
-2	Пётрой	_	PROPN	_	_	3	nmod-own	_	Offset=757-763
+2	Пётрой	_	PROPN	_	_	3	nmod:own	_	Offset=757-763
 3	бэшэг	_	NOUN	_	_	7	parataxis	_	Offset=764-769
 4	,	_	PUNCT	_	_	3	punct	_	Offset=770-771
 5	үсэгэлдэр	_	ADV	_	_	7	advmod	_	Offset=772-781
@@ -165,7 +165,7 @@
 
 1	Тэрэ	_	DET	_	_	2	det	_	Offset=800-804
 2	басаган	_	NOUN	_	_	8	nsubj	_	Offset=805-812
-3	Франциин	_	PROPN	_	_	5	nmod-own	_	Offset=813-821
+3	Франциин	_	PROPN	_	_	5	nmod:own	_	Offset=813-821
 4	ниислэл	_	NOUN	_	_	5	compound	_	Offset=822-829
 5	хото	_	NOUN	_	_	6	nmod	_	Offset=830-834
 6	Париста	_	PROPN	_	_	8	nmod	_	Offset=835-842
@@ -306,7 +306,7 @@
 1	Тэрэ	_	PRON	_	_	8	nsubj	_	Offset=692-696
 2	,	_	PUNCT	_	_	1	punct	_	Offset=697-698
 3	хажуудахи	_	ADP	_	_	4	mwe	_	Offset=699-708
-4	айлай	_	NOUN	_	_	5	nmod-own	_	Offset=709-714
+4	айлай	_	NOUN	_	_	5	nmod:own	_	Offset=709-714
 5	нохой	_	NOUN	_	_	1	appos	_	Offset=715-720
 6	,	_	PUNCT	_	_	5	punct	_	Offset=721-722
 7	эжые	_	NOUN	_	_	8	dobj	_	Offset=723-727
@@ -480,7 +480,7 @@
 6	байгаа	_	VERB	_	_	0	root	_	Offset=1710-1716
 7	.	_	PUNCT	_	_	6	punct	_	Offset=1717-1718
 
-1	Мааттида	_	PROPN	_	_	4	nmod-own	_	Offset=1720-1728
+1	Мааттида	_	PROPN	_	_	4	nmod:own	_	Offset=1720-1728
 2	шэнэ	_	ADJ	_	_	4	amod	_	Offset=1729-1733
 3	тγмэр	_	ADJ	_	_	4	mwe	_	Offset=1734-1739
 4	морин	_	NOUN	_	_	0	root	_	Offset=1740-1745
@@ -832,7 +832,7 @@
 
 1	Минии	_	DET	_	_	3	det	_	Offset=3599-3604
 2	хани	_	NOUN	_	_	3	mwe	_	Offset=3605-3609
-3	нγхэртэ	_	NOUN	_	_	6	nmod-own	_	Offset=3610-3617
+3	нγхэртэ	_	NOUN	_	_	6	nmod:own	_	Offset=3610-3617
 4	Оулуhаань	_	PROPN	_	_	5	nmod	_	Offset=3618-3627
 5	эльгээгдэhээн	_	ADJ	_	_	6	acl	_	Offset=3628-3641
 6	бэлэг	_	NOUN	_	_	0	root	_	Offset=3642-3647
@@ -937,7 +937,7 @@
 
 1	Хамтарал	_	NOUN	_	_	0	root	_	Offset=4169-4177
 2	,	_	PUNCT	_	_	1	punct	_	Offset=4178-4179
-3	тэрэнэй	_	PRON	_	_	4	nmod-own	_	Offset=4180-4187
+3	тэрэнэй	_	PRON	_	_	4	nmod:own	_	Offset=4180-4187
 4	тγрγγлэгшэ	_	NOUN	_	_	1	nmod	_	Offset=4188-4198
 5	гэхэдээ	_	PART	_	_	4	discourse	_	Offset=4199-4206
 6	,	_	PUNCT	_	_	7	punct	_	Offset=4207-4208
@@ -1271,7 +1271,7 @@
 5	тэмсээн	_	NOUN	_	_	0	root	_	Offset=6111-6118
 6	.	_	PUNCT	_	_	5	punct	_	Offset=6119-6120
 
-1	Шандаганай	_	NOUN	_	_	5	nmod-own	_	Offset=6122-6132
+1	Шандаганай	_	NOUN	_	_	5	nmod:own	_	Offset=6122-6132
 2	хамагай	_	ADV	_	_	3	advmod	_	Offset=6133-6140
 3	муу	_	ADJ	_	_	5	amod	_	Offset=6141-6144
 4	дай	_	ADJ	_	_	5	compound	_	Offset=6145-6148
@@ -1289,7 +1289,7 @@
 2	шалгаруулха	_	NOUN	_	_	3	compound	_	Offset=6211-6222
 3	тэмсээн	_	NOUN	_	_	6	nsubj	_	Offset=6223-6230
 4	–	_	PUNCT	_	_	3	punct	_	Offset=6231-6232
-5	Виртаненэй	_	PROPN	_	_	6	nmod-own	_	Offset=6233-6243
+5	Виртаненэй	_	PROPN	_	_	6	nmod:own	_	Offset=6233-6243
 6	зургаадахи	_	ADJ	_	_	0	root	_	Offset=6244-6254
 7	.	_	PUNCT	_	_	6	punct	_	Offset=6255-6256
 
@@ -1345,17 +1345,17 @@
 2	соошоогоо	_	VERB	_	_	0	root	_	Offset=6544-6553
 3	,	_	PUNCT	_	_	2	punct	_	Offset=6554-6555
 4	хγбγγн	_	NOUN	_	_	8	nsubj	_	Offset=6556-6562
-5	мориной	_	NOUN	_	_	6	nmod-own	_	Offset=6563-6570
+5	мориной	_	NOUN	_	_	6	nmod:own	_	Offset=6563-6570
 6	нюрган	_	NOUN	_	_	8	nmod	_	Offset=6571-6577
 7	дээрэhээнь	_	ADP	_	_	6	case	_	Offset=6578-6588
 8	унахадань	_	VERB	_	_	2	advcl	_	Offset=6589-6598
 9	.	_	PUNCT	_	_	8	punct	_	Offset=6599-6600
 
-1	Гэрэй	_	NOUN	_	_	2	nmod-own	_	Offset=6602-6607
+1	Гэрэй	_	NOUN	_	_	2	nmod:own	_	Offset=6602-6607
 2	орой	_	NOUN	_	_	0	root	_	Offset=6608-6612
 3	.	_	PUNCT	_	_	2	punct	_	Offset=6613-6614
 
-1	Гэрэй	_	NOUN	_	_	2	nmod-own	_	Offset=6616-6621
+1	Гэрэй	_	NOUN	_	_	2	nmod:own	_	Offset=6616-6621
 2	байшан	_	NOUN	_	_	0	root	_	Offset=6622-6628
 3	.	_	PUNCT	_	_	2	punct	_	Offset=6629-6630
 
@@ -1594,12 +1594,12 @@
 6	мэдээжэ	_	ADJ	_	_	1	acl	_	Offset=7979-7986
 7	.	_	PUNCT	_	_	6	punct	_	Offset=7987-7988
 
-1	Майин	_	PROPN	_	_	3	nmod-own	_	Offset=7990-7995
+1	Майин	_	PROPN	_	_	3	nmod:own	_	Offset=7990-7995
 2	хожомдохи	_	ADJ	_	_	3	amod	_	Offset=7996-8005
 3	нγхэр	_	NOUN	_	_	0	root	_	Offset=8006-8011
 4	.	_	PUNCT	_	_	3	punct	_	Offset=8012-8013
 
-1	Майин	_	PROPN	_	_	2	nmod-own	_	Offset=8015-8020
+1	Майин	_	PROPN	_	_	2	nmod:own	_	Offset=8015-8020
 2	нγхэр	_	NOUN	_	_	4	nsubj	_	Offset=8021-8026
 3	Туркуhаань	_	PROPN	_	_	4	nmod	_	Offset=8027-8037
 4	бусахань	_	VERB	_	_	0	root	_	Offset=8038-8046
@@ -1808,7 +1808,7 @@
 11	γргэнэ	_	VERB	_	_	0	root	_	Offset=383-389
 12	.	_	PUNCT	_	_	11	punct	_	Offset=390-391
 
-1	Катя	_	PROPN	_	_	2	nmod-own	_	Offset=393-397
+1	Катя	_	PROPN	_	_	2	nmod:own	_	Offset=393-397
 2	абгазы	_	NOUN	_	_	7	nsubj	_	Offset=398-404
 3	олон	_	DET	_	_	4	det	_	Offset=405-409
 4	хγγгэдтэй	_	NOUN	_	_	6	nmod	_	Offset=410-419
@@ -1903,7 +1903,7 @@
 9	байгаа	_	VERB	_	_	8	cop	_	Offset=952-958
 10	.	_	PUNCT	_	_	8	punct	_	Offset=959-960
 
-1	Дармаевтанайнгаа	_	PROPN	_	_	2	nmod-own	_	Offset=962-978
+1	Дармаевтанайнгаа	_	PROPN	_	_	2	nmod:own	_	Offset=962-978
 2	уг	_	NOUN	_	_	3	dobj	_	Offset=979-981
 3	hажаажа	_	VERB	_	_	0	root	_	Offset=982-989
 4	,	_	PUNCT	_	_	3	punct	_	Offset=990-991
@@ -2014,7 +2014,7 @@
 8	.	_	PUNCT	_	_	6	punct	_	Offset=1614-1615
 
 1	Долоон	_	NUM	_	_	2	nummod	_	Offset=1617-1623
-2	Мундаргын	_	PROPN	_	_	3	nmod-own	_	Offset=1624-1633
+2	Мундаргын	_	PROPN	_	_	3	nmod:own	_	Offset=1624-1633
 3	хормойдо	_	NOUN	_	_	4	nmod	_	Offset=1634-1642
 4	мγндэлhэн	_	ADJ	_	_	0	root	_	Offset=1643-1652
 5	.	_	PUNCT	_	_	4	punct	_	Offset=1653-1654
@@ -2242,7 +2242,7 @@
 4	?	_	PUNCT	_	_	3	punct	_	Offset=2930-2931
 
 1	Екатерина	_	PROPN	_	_	2	name	_	Offset=2933-2942
-2	Шенхоровагай	_	PROPN	_	_	3	nmod-own	_	Offset=2943-2955
+2	Шенхоровагай	_	PROPN	_	_	3	nmod:own	_	Offset=2943-2955
 3	шγлэгγγд	_	NOUN	_	_	8	nmod	_	Offset=2956-2964
 4	соо	_	ADP	_	_	3	case	_	Offset=2965-2968
 5	инаг	_	ADJ	_	_	6	amod	_	Offset=2969-2973
@@ -2388,7 +2388,7 @@
 3	шγлэгдэмэл	_	NOUN	_	_	4	nmod	_	Offset=3728-3738
 4	зохёол	_	NOUN	_	_	8	nsubj	_	Offset=3739-3745
 5	баhал	_	ADV	_	_	8	advmod	_	Offset=3746-3751
-6	уншагшадай	_	NOUN	_	_	7	nmod-own	_	Offset=3752-3762
+6	уншагшадай	_	NOUN	_	_	7	nmod:own	_	Offset=3752-3762
 7	hонирхол	_	NOUN	_	_	8	dobj	_	Offset=3763-3771
 8	тγрγγлнэ	_	VERB	_	_	0	root	_	Offset=3772-3780
 9	.	_	PUNCT	_	_	8	punct	_	Offset=3781-3782
@@ -2497,7 +2497,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	Offset=4436-4437
 
 1	Екатерина	_	PROPN	_	_	2	name	_	Offset=4439-4448
-2	Дамдиновагай	_	PROPN	_	_	5	nmod-own	_	Offset=4449-4461
+2	Дамдиновагай	_	PROPN	_	_	5	nmod:own	_	Offset=4449-4461
 3	зохёохы	_	ADJ	_	_	4	amod	_	Offset=4462-4469
 4	оршом	_	NOUN	_	_	5	nmod	_	Offset=4470-4475
 5	байгуулга	_	NOUN	_	_	0	root	_	Offset=4476-4485
@@ -2537,7 +2537,7 @@
 9	бэзэ	_	PART	_	_	8	discourse	_	Offset=4677-4681
 10	.	_	PUNCT	_	_	8	punct	_	Offset=4682-4683
 
-1	Россиин	_	PROPN	_	_	3	nmod-own	_	Offset=4685-4692
+1	Россиин	_	PROPN	_	_	3	nmod:own	_	Offset=4685-4692
 2	уран	_	ADJ	_	_	3	compound	_	Offset=4693-4697
 3	зохёолшодой	_	NOUN	_	_	4	nmod	_	Offset=4698-4709
 4	холбооной	_	NOUN	_	_	5	nmod	_	Offset=4710-4719
@@ -2593,7 +2593,7 @@
 
 1	Эндэ	_	ADV	_	_	6	advmod	_	Offset=4992-4996
 2	Александр	_	PROPN	_	_	3	name	_	Offset=4997-5006
-3	Блогой	_	PROPN	_	_	4	nmod-own	_	Offset=5007-5013
+3	Блогой	_	PROPN	_	_	4	nmod:own	_	Offset=5007-5013
 4	шγлэгэй	_	NOUN	_	_	5	nmod	_	Offset=5014-5021
 5	шэнхинээн	_	NOUN	_	_	6	nsubj	_	Offset=5022-5031
 6	зэдэлшэхэдэл	_	VERB	_	_	0	root	_	Offset=5032-5044
@@ -2638,7 +2638,7 @@
 1	Тиигээд	_	CONJ	_	_	7	cc	_	Offset=5241-5248
 2	лэ	_	PART	_	_	7	discourse	_	Offset=5249-5251
 3	тэдэнэр	_	PRON	_	_	7	nsubj	_	Offset=5252-5259
-4	Хэрэнэй	_	PROPN	_	_	6	nmod-own	_	Offset=5260-5267
+4	Хэрэнэй	_	PROPN	_	_	6	nmod:own	_	Offset=5260-5267
 5	дунда	_	ADJ	_	_	6	compound	_	Offset=5268-5273
 6	hургуули	_	NOUN	_	_	7	nmod	_	Offset=5274-5282
 7	дγγргээ	_	VERB	_	_	0	root	_	Offset=5283-5290
@@ -2734,7 +2734,7 @@
 5	.	_	PUNCT	_	_	3	punct	_	Offset=5782-5783
 
 1	Саяан	_	PROPN	_	_	2	name	_	Offset=5785-5790
-2	Мундаргын	_	PROPN	_	_	3	nmod-own	_	Offset=5791-5800
+2	Мундаргын	_	PROPN	_	_	3	nmod:own	_	Offset=5791-5800
 3	орой	_	NOUN	_	_	0	root	_	Offset=5801-5805
 4	шэнги	_	ADV	_	_	3	advmod	_	Offset=5806-5811
 5	хурса	_	ADJ	_	_	6	amod	_	Offset=5812-5817
@@ -2755,7 +2755,7 @@
 4	hэн	_	PART	_	_	3	discourse	_	Offset=5907-5910
 5	.	_	PUNCT	_	_	3	punct	_	Offset=5911-5912
 
-1	Тγнхэнэй	_	PROPN	_	_	3	nmod-own	_	Offset=5914-5922
+1	Тγнхэнэй	_	PROPN	_	_	3	nmod:own	_	Offset=5914-5922
 2	уран	_	ADJ	_	_	3	amod	_	Offset=5923-5927
 3	зохёолшодой	_	NOUN	_	_	4	nmod	_	Offset=5928-5939
 4	хγтэлбэритэй	_	NOUN	_	_	5	nmod	_	Offset=5940-5952
@@ -3000,7 +3000,7 @@
 5	бэдэрхэеэ	_	VERB	_	_	2	advcl	_	Offset=7291-7300
 6	.	_	PUNCT	_	_	5	punct	_	Offset=7301-7302
 
-1	Саяанайм	_	PROPN	_	_	3	nmod-own	_	Offset=7304-7312
+1	Саяанайм	_	PROPN	_	_	3	nmod:own	_	Offset=7304-7312
 2	хурса	_	ADJ	_	_	3	amod	_	Offset=7313-7318
 3	оройнууд	_	NOUN	_	_	7	nsubj	_	Offset=7319-7327
 4	хγтэрэлдɵɵд	_	ADV	_	_	7	advmod	_	Offset=7328-7339
@@ -3017,7 +3017,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	Offset=7404-7405
 
 1	Омар	_	PROPN	_	_	2	name	_	Offset=7407-7411
-2	Хайямай	_	PROPN	_	_	4	nmod-own	_	Offset=7412-7419
+2	Хайямай	_	PROPN	_	_	4	nmod:own	_	Offset=7412-7419
 3	алтан	_	ADJ	_	_	4	amod	_	Offset=7420-7425
 4	аялгаар	_	NOUN	_	_	0	root	_	Offset=7426-7433
 5	.	_	PUNCT	_	_	4	punct	_	Offset=7434-7435
@@ -3284,7 +3284,7 @@
 9	үзүүлдэг	_	VERB	_	_	0	root	_	Offset=8948-8956
 10	.	_	PUNCT	_	_	9	punct	_	Offset=8957-8958
 
-1	Албан	_	PROPN	_	_	3	nmod-own	_	Offset=8960-8965
+1	Албан	_	PROPN	_	_	3	nmod:own	_	Offset=8960-8965
 2	еһоной	_	ADJ	_	_	3	amod	_	Offset=8966-8972
 3	хэлэнүүд	_	NOUN	_	_	5	nsubj	_	Offset=8973-8981
 4	—	_	PUNCT	_	_	3	punct	_	Offset=8982-8983
