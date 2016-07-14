@@ -449,16 +449,6 @@
 4	хэлээгγй	_	VERB	_	_	0	root	_	Offset=1457-1465
 5	.	_	PUNCT	_	_	4	punct	_	Offset=1466-1467
 
-1	Да	_	ADP	_	_	2	name	_	Offset=1469-1471
-2	Винчиин	_	PROPN	_	_	0	root	_	Offset=1472-1479
-3	γйлэдбэрилhэн	_	ADJ	_	_	0	root	_	Offset=1480-1493
-4	зубхиёо	_	NOUN	_	_	8	nmod	_	Offset=1494-1501
-5	тγрхидэг	_	VERB	_	_	0	root	_	Offset=1502-1510
-6	элдэб	_	ADJ	_	_	7	amod	_	Offset=1511-1516
-7	γнгэтэй	_	ADJ	_	_	8	amod	_	Offset=1517-1524
-8	гоелто	_	NOUN	_	_	0	root	_	Offset=1525-1531
-9	.	_	PUNCT	_	_	8	punct	_	Offset=1532-1533
-
 1	Yдын	_	NOUN	_	_	2	mwe	_	Offset=1535-1539
 2	хоолтой	_	NOUN	_	_	3	nmod	_	Offset=1540-1547
 3	таhаг	_	NOUN	_	_	0	root	_	Offset=1548-1553
@@ -1047,15 +1037,6 @@
 7	би	_	PRON	_	_	8	nsubj	_	Offset=4734-4736
 8	буудажархёоб	_	VERB	_	_	0	root	_	Offset=4737-4749
 9	.	_	PUNCT	_	_	8	punct	_	Offset=4750-4751
-
-1	унталгын	_	NOUN	_	_	2	compound	_	Offset=4753-4761
-2	хубсаhан	_	NOUN	_	_	0	root	_	Offset=4762-4770
-3	соогоо	_	ADP	_	_	2	case	_	Offset=4771-4777
-4	байгаад	_	VERB	_	_	2	cop	_	Offset=4778-4785
-5	,	_	PUNCT	_	_	2	punct	_	Offset=4786-4787
-6	зааниие	_	NOUN	_	_	7	dobj	_	Offset=4788-4795
-7	буудажархёоб	_	VERB	_	_	0	root	_	Offset=4796-4808
-8	.	_	PUNCT	_	_	7	punct	_	Offset=4809-4810
 
 1	Би	_	PRON	_	_	6	nsubj	_	Offset=4812-4814
 2	ɵɵрынгɵɵ	_	DET	_	_	4	det	_	Offset=4815-4823
@@ -3344,52 +3325,6 @@
 4	газарай	_	NOUN	_	_	5	nmod	_	Offset=9141-9148
 5	уларилтай	_	NOUN	_	_	0	root	_	Offset=9149-9158
 6	.	_	PUNCT	_	_	5	punct	_	Offset=9159-9160
-
-1	Тэгшэ	_	ADJ	_	_	2	amod	_	Offset=9162-9167
-2	газарта	_	NOUN	_	_	13	nmod	_	Offset=9168-9175
-3	1	_	NUM	_	_	4	nummod	_	Offset=9176-9177
-4	һарын	_	NOUN	_	_	13	nmod	_	Offset=9178-9183
-5	дундажа	_	ADJ	_	_	6	amod	_	Offset=9184-9191
-6	температура	_	NOUN	_	_	13	nsubj	_	Offset=9192-9203
-7	0	root	NUM	_	_	8	goeswith	_	Offset=9204-9205
-8	-	_	SYM	_	_	9	goeswith	_	Offset=9206-9207
-9	һээ	_	NUM	_	_	11	nummod	_	Offset=9208-9211
-10	8	_	NUM	_	_	11	nummod	_	Offset=9212-9213
-11	градус	_	NOUN	_	_	13	nmod	_	Offset=9214-9220
-12	хүрэтэр	_	ADP	_	_	11	case	_	Offset=9221-9228
-13	найгалзаад	_	VERB	_	_	0	root	_	Offset=9229-9239
-14	,	_	PUNCT	_	_	13	punct	_	Offset=9240-9241
-15	үндэр	_	ADJ	_	_	16	amod	_	Offset=9242-9247
-16	уулада	_	NOUN	_	_	21	nmod	_	Offset=9248-9254
-17	-	_	SYM	_	_	18	compound	_	Offset=9255-9256
-18	20	_	NUM	_	_	19	compound	_	Offset=9257-9259
-19	°	_	SYM	_	_	20	compound	_	Offset=9259-9260
-20	C	_	SYM	_	_	0	root	_	Offset=9260-9261
-21	хүрэнэ	_	VERB	_	_	13	parataxis	_	Offset=9262-9268
-22	.	_	PUNCT	_	_	21	punct	_	Offset=9269-9270
-
-1	Зундаа	_	NOUN	_	_	21	nmod	_	Offset=9272-9278
-2	7	_	NUM	_	_	3	nummod	_	Offset=9279-9280
-3	һарын	_	NOUN	_	_	21	nmod	_	Offset=9281-9286
-4	дундажа	_	ADJ	_	_	5	amod	_	Offset=9287-9294
-5	температура	_	NOUN	_	_	21	nsubj	_	Offset=9295-9306
-6	тус	_	PART	_	_	7	mwe	_	Offset=9307-9310
-7	тусда	_	PART	_	_	21	discourse	_	Offset=9311-9316
-8	24	_	NUM	_	_	9	goeswith	_	Offset=9317-9319
-9	-	_	SYM	_	_	10	goeswith	_	Offset=9320-9321
-10	һөө	_	NUM	_	_	21	nummod	_	Offset=9322-9325
-11	32	_	NUM	_	_	12	compound	_	Offset=9326-9328
-12	°	_	SYM	_	_	13	compound	_	Offset=9328-9329
-13	C	_	SYM	_	_	10	nummod	_	Offset=9329-9330
-14	,	_	PUNCT	_	_	12	punct	_	Offset=9331-9332
-15	0	root	NUM	_	_	16	goeswith	_	Offset=9333-9334
-16	-	_	SYM	_	_	17	goeswith	_	Offset=9335-9336
-17	һээ	_	NUM	_	_	21	nummod	_	Offset=9337-9340
-18	10	_	NUM	_	_	19	compound	_	Offset=9341-9343
-19	°	_	SYM	_	_	20	compound	_	Offset=9343-9344
-20	C	_	SYM	_	_	17	nummod	_	Offset=9344-9345
-21	хүрэнэ	_	VERB	_	_	0	root	_	Offset=9346-9352
-22	.	_	PUNCT	_	_	21	punct	_	Offset=9353-9354
 
 1	Жэлдээ	_	NOUN	_	_	7	nmod	_	Offset=9356-9362
 2	200	_	NUM	_	_	3	compound	_	Offset=9363-9366
