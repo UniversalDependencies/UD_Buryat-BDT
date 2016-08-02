@@ -856,7 +856,7 @@
 8	.	.	PUNCT	_	_	6	punct	_	Offset=3728-3729
 
 1	Ушар	ушар	NOUN	_	_	7	nsubj	_	Offset=3731-3735
-2	хадаа		PART	_	_	1	discourse	_	Offset=3736-3741
+2	хадаа	хадаа	PART	_	_	1	discourse	_	Offset=3736-3741
 3	–	–	PUNCT	_	_	1	punct	_	Offset=3742-3743
 4	үдэшын	үдэшын	ADJ	_	_	5	compound	_	Offset=3744-3750
 5	найрай	найр	NOUN	_	_	7	nmod	_	Offset=3751-3757
@@ -3147,7 +3147,7 @@
 1	Даяар	даяар	DET	_	_	2	det	_	Offset=8154-8159
 2	дэлхэйдэ	дэлхэй	NOUN	_	_	5	nmod	_	Offset=8160-8168
 3	376	376	NUM	_	_	5	nummod	_	Offset=8169-8172
-4	сая		NOUN	_	_	5	nmod	_	Offset=8173-8176
+4	сая	сая	NOUN	_	_	5	nmod	_	Offset=8173-8176
 5	һүзэгтэдтэй	һүзэгтэ	NOUN	_	_	0	root	_	Offset=8177-8188
 6	.	.	PUNCT	_	_	5	punct	_	Offset=8189-8190
 
