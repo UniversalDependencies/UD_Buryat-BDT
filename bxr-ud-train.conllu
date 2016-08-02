@@ -2222,7 +2222,7 @@
 1	Аяга	аяга	NOUN	_	_	2	nmod	_	Offset=5629-5633
 2	сай	сай	NOUN	_	_	3	nmod	_	Offset=5634-5637
 3	уужа	ууха	VERB	_	_	4	xcomp	_	Offset=5638-5642
-4	һуха	һууха	VERB	_	_	0	root	_	Offset=5643-5647
+4	һууха	һууха	VERB	_	_	0	root	_	Offset=5643-5647
 5	зуураа	зуураа	ADJ	_	_	6	amod	_	Offset=5648-5654
 6	шүлэгүүдэй	шүлэг	NOUN	_	_	7	dobj	_	Offset=5655-5665
 7	зохёохо	зохёохо	VERB	_	_	4	advcl	_	Offset=5666-5673
