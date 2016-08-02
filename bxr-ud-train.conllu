@@ -38,7 +38,7 @@
 6	–	–	PUNCT	_	_	5	punct	_	Offset=273-274
 7	мүнгэн	мүнгэн	ADJ	_	_	12	remnant	_	Offset=275-281
 8	,	,	PUNCT	_	_	7	punct	_	Offset=282-283
-9	харин	 харин	CONJ	_	_	16	cc	_	Offset=284-289
+9	харин	харин	CONJ	_	_	16	cc	_	Offset=284-289
 10	Джейн	Джейн	PROPN	_	_	16	nsubj	_	Offset=290-295
 11	–	–	PUNCT	_	_	10	punct	_	Offset=296-297
 12	алтан	алтан	ADJ	_	_	13	amod	_	Offset=298-303
@@ -93,7 +93,7 @@
 3	машина	машина	NOUN	_	_	4	dobj	_	Offset=535-541
 4	абаа	абаха	VERB	_	_	10	conj	_	Offset=542-546
 5	,	,	PUNCT	_	_	4	punct	_	Offset=546-547
-6	харин	 харин	CONJ	_	_	2	cc	_	Offset=548-553
+6	харин	харин	CONJ	_	_	2	cc	_	Offset=548-553
 7	дүүнь	дүүн	NOUN	_	_	10	nsubj	_	Offset=554-559
 8	оройдоол	оройдоол	ADV	_	_	10	advmod	_	Offset=560-568
 9	велосипед	велосипед	NOUN	_	_	10	dobj	_	Offset=569-578
@@ -459,7 +459,7 @@
 6	гүйгээб	гүйхэ	VERB	_	_	0	root	_	Offset=2156-2163
 7	.	.	PUNCT	_	_	6	punct	_	Offset=2164-2165
 
-1	Тиигэбэшье	 тиигэбэшье	ADP	_	_	9	case	_	Offset=2167-2177
+1	Тиигэбэшье	тиигэбэшье	ADP	_	_	9	case	_	Offset=2167-2177
 2	,	,	PUNCT	_	_	1	punct	_	Offset=2178-2179
 3	ксилитоол	ксилитоол	NOUN	_	_	9	nsubj	_	Offset=2180-2189
 4	шүдэнэй	шүдэн	NOUN	_	_	5	mwe	_	Offset=2190-2197
@@ -487,7 +487,7 @@
 5	хүдэлгүүртэй	хүдэлгүүр	NOUN	_	_	0	root	_	Offset=2333-2345
 6	.	.	PUNCT	_	_	5	punct	_	Offset=2346-2347
 
-1	Харин	 харин	ADP	_	_	4	case	_	Offset=2372-2377
+1	Харин	харин	ADP	_	_	4	case	_	Offset=2372-2377
 2	,	,	PUNCT	_	_	1	punct	_	Offset=2378-2379
 3	мэдүүлэл	мэдүүлэл	NOUN	_	_	4	nsubj	_	Offset=2380-2388
 4	зохидхон	зохидхон	ADJ	_	_	0	root	_	Offset=2389-2397
@@ -603,7 +603,7 @@
 3	аяншалга	аяншалга	NOUN	_	_	4	nsubj	_	Offset=3091-3099
 4	болоо	болохо	VERB	_	_	0	root	_	Offset=3100-3105
 5	,	,	PUNCT	_	_	4	punct	_	Offset=3106-3107
-6	харин	 харин	CONJ	_	_	1	cc	_	Offset=3108-3113
+6	харин	харин	CONJ	_	_	1	cc	_	Offset=3108-3113
 7	Хеэльсинкидэ	Хеэльсинки	PROPN	_	_	1	remnant	_	Offset=3114-3126
 8	–	–	PUNCT	_	_	9	punct	_	Offset=3127-3128
 9	оперо	оперо	NOUN	_	_	2	remnant	_	Offset=3129-3134
@@ -1469,7 +1469,7 @@
 1	Эсэгэнь	эсэгэ	NOUN	_	_	2	nsubj	_	Offset=498-505
 2	Далахайн	Далахай	ADJ	_	_	0	root	_	Offset=506-514
 3	,	,	PUNCT	_	_	2	punct	_	Offset=515-516
-4	харин	 харин	CONJ	_	_	2	cc	_	Offset=517-522
+4	харин	харин	CONJ	_	_	2	cc	_	Offset=517-522
 5	эжынь	эжы	NOUN	_	_	6	nsubj	_	Offset=523-528
 6	Хойтоголой	Хойтогол	ADJ	_	_	2	conj	_	Offset=529-539
 7	.	.	PUNCT	_	_	6	punct	_	Offset=540-541
@@ -1499,7 +1499,7 @@
 4	һуража	һураха	VERB	_	_	0	root	_	Offset=682-688
 5	үрдеэгүй	үрдихэ	AUX	_	_	4	aux	_	Offset=689-697
 6	,	,	PUNCT	_	_	4	punct	_	Offset=698-699
-7	харин	 харин	CONJ	_	_	4	cc	_	Offset=700-705
+7	харин	харин	CONJ	_	_	4	cc	_	Offset=700-705
 8	үхибүүдэй	үхибүүн	NOUN	_	_	9	dobj	_	Offset=706-715
 9	һургажа	һургаха	VERB	_	_	4	conj	_	Offset=716-723
 10	гаргаа	гаргаха	VERB	_	_	9	aux	_	Offset=724-730
@@ -1530,7 +1530,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	Offset=924-925
 5	тоо	тоо	NOUN	_	_	6	nmod	_	Offset=926-929
 6	бодолгодо	бодолго	NOUN	_	_	8	nsubj	_	Offset=930-939
-7	тон	 тон	ADV	_	_	8	advmod	_	Offset=940-943
+7	тон	тон	ADV	_	_	8	advmod	_	Offset=940-943
 8	шударгы	шударгы	ADJ	_	_	3	parataxis	_	Offset=944-951
 9	байгаа	байха	VERB	_	_	8	cop	_	Offset=952-958
 10	.	.	PUNCT	_	_	8	punct	_	Offset=959-960
@@ -1990,7 +1990,7 @@
 
 1	Хүнэй	хүн	NOUN	_	_	2	nmod	_	Offset=3980-3985
 2	сэдьхэлэй	сэдьхэл	NOUN	_	_	6	nmod	_	Offset=3986-3995
-3	тон	 тон	ADV	_	_	4	advmod	_	Offset=3996-3999
+3	тон	тон	ADV	_	_	4	advmod	_	Offset=3996-3999
 4	үнжэгэн	үнжэгэн	ADJ	_	_	6	amod	_	Offset=4000-4007
 5	нарин	нарин	ADJ	_	_	6	amod	_	Offset=4008-4013
 6	утаһые	утаһан	NOUN	_	_	7	dobj	_	Offset=4014-4020
@@ -2036,7 +2036,7 @@
 8	мэдэдэг	мэдэхэ	VERB	_	_	0	root	_	Offset=4326-4333
 9	.	.	PUNCT	_	_	8	punct	_	Offset=4334-4335
 
-1	Монгол	 монгол	ADJ	_	_	2	amod	_	Offset=4337-4343
+1	Монгол	монгол	ADJ	_	_	2	amod	_	Offset=4337-4343
 2	бүтээлнүүдые	бүтээл	NOUN	_	_	6	dobj	_	Offset=4344-4356
 3	залуушуулда	залуушуул	NOUN	_	_	6	iobj	_	Offset=4357-4368
 4	нягта	нягта	ADV	_	_	5	advmod	_	Offset=4369-4374
@@ -2062,7 +2062,7 @@
 2	ɵɵрынгɵɵ	ɵɵрынгɵɵ	DET	_	_	4	det	_	Offset=4557-4565
 3	зохёохы	зохёохы	ADJ	_	_	4	amod	_	Offset=4566-4573
 4	ажалда	ажал	NOUN	_	_	8	dobj	_	Offset=4574-4580
-5	тон	 тон	ADV	_	_	6	advmod	_	Offset=4581-4584
+5	тон	тон	ADV	_	_	6	advmod	_	Offset=4581-4584
 6	үндэр	үндэр	ADJ	_	_	7	amod	_	Offset=4585-4590
 7	хэмжээтэйгээр	хэмжээ(н)	NOUN	_	_	8	nmod	_	Offset=4591-4604
 8	хандадаг	хандаха	VERB	_	_	0	root	_	Offset=4605-4613
@@ -2085,7 +2085,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	Offset=4772-4773
 
 1	Поэзии	поэзи	NOUN	_	_	4	nsubj	_	Offset=4775-4781
-2	тон	 тон	ADV	_	_	3	advmod	_	Offset=4782-4785
+2	тон	тон	ADV	_	_	3	advmod	_	Offset=4782-4785
 3	ɵɵрсэ	ɵɵрсэ	ADV	_	_	4	advmod	_	Offset=4786-4791
 4	шэнжэтэй	шэнжэтэй	ADJ	_	_	0	root	_	Offset=4792-4800
 5	.	.	PUNCT	_	_	4	punct	_	Offset=4801-4802
