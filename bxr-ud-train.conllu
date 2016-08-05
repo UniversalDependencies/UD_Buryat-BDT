@@ -2626,7 +2626,7 @@
 1	Түрын	түрын	ADJ	_	_	2	amod	_	Offset=9057-9062
 2	тэригүүн	тэригүүн	NOUN	_	_	4	nsubj	_	Offset=9063-9071
 3	—	—	PUNCT	_	_	2	punct	_	Offset=9072-9073
-4	юрэнхылэгшэ	юрэнхы	ADJ	_	_	0	root	_	Offset=9074-9085
+4	юрэнхылэгшэ	юрэнхылэгшэ	NOUN	_	_	0	root	_	Offset=9074-9085
 5	.	.	PUNCT	_	_	4	punct	_	Offset=9086-9087
 
 1	Афганистан	Афганистан	PROPN	_	_	4	nsubj	_	Offset=9089-9099
