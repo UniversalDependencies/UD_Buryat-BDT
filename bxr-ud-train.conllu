@@ -1,2673 +1,2372 @@
-1	Басаган	басаган	NOUN	_	_	2	nsubj	_	Offset=7-14
-2	бэшээ	бэшэхэ	VERB	_	_	0	root	_	Offset=15-20
-3	.	.	PUNCT	_	_	2	punct	_	Offset=21-22
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=60-64
-2	хүн	хүн	NOUN	_	_	6	nsubj	_	Offset=65-68
-3	архи	архи	NOUN	_	_	4	conj	_	Offset=69-73
-4	тамхияа	тамхи	NOUN	_	_	5	dobj	_	Offset=74-81
-5	хаяжа	хаяха	VERB	_	_	6	xcomp	_	Offset=82-87
-6	үзэбэ	үзэхэ	VERB	_	_	0	root	_	Offset=88-93
-7	.	.	PUNCT	_	_	6	punct	_	Offset=94-95
-
-1	Ошохоо	ошохо	VERB	_	_	2	xcomp	_	Offset=96-102
-2	һанана	һанаха	VERB	_	_	0	root	_	Offset=103-109
-3	гүш	гүш	PART	_	_	2	discourse	_	Offset=110-113
-4	?	?	PUNCT	_	_	2	punct	_	Offset=114-115
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=138-142
-2	һамган	һамган	NOUN	_	_	7	nsubj	_	Offset=143-149
-3	үбгэеэ	үбгэн	NOUN	_	_	7	iobj	_	Offset=150-156
-4	машинаа	машина	NOUN	_	_	5	dobj	_	Offset=157-164
-5	угаагыш	үгэхэ	VERB	_	_	7	xcomp	_	Offset=165-172
-6	гэжэ	гэ	PART	_	_	7	discourse	_	Offset=173-177
-7	баалаба	баалаха	VERB	_	_	0	root	_	Offset=178-185
-8	.	.	PUNCT	_	_	7	punct	_	Offset=186-187
-
-1	Петиин	Пети	PROPN	_	_	2	nmod:own	_	Offset=188-194
-2	хүршэ	хүршэ	NOUN	_	_	4	nsubj	_	Offset=195-200
-3	хорёогоо	хорёо	NOUN	_	_	4	dobj	_	Offset=201-209
-4	шэрдэбэ	шэрдэхэ	VERB	_	_	0	root	_	Offset=210-217
-5	.	.	PUNCT	_	_	4	punct	_	Offset=218-219
-
-1	Мэри	Мэри	PROPN	_	_	10	remnant	_	Offset=252-256
-2	–	–	PUNCT	_	_	1	punct	_	Offset=257-258
-3	хүрэл	хүрэл	ADJ	_	_	12	remnant	_	Offset=259-264
-4	,	,	PUNCT	_	_	3	punct	_	Offset=265-266
-5	Питер	Питер	PROPN	_	_	10	remnant	_	Offset=267-272
-6	–	–	PUNCT	_	_	5	punct	_	Offset=273-274
-7	мүнгэн	мүнгэн	ADJ	_	_	12	remnant	_	Offset=275-281
-8	,	,	PUNCT	_	_	7	punct	_	Offset=282-283
-9	харин	харин	CONJ	_	_	16	cc	_	Offset=284-289
-10	Джейн	Джейн	PROPN	_	_	16	nsubj	_	Offset=290-295
-11	–	–	PUNCT	_	_	10	punct	_	Offset=296-297
-12	алтан	алтан	ADJ	_	_	13	amod	_	Offset=298-303
-13	медаль	медаль	NOUN	_	_	16	dobj	_	Offset=304-310
-14	тус	тус	PART	_	_	15	mwe	_	Offset=311-314
-15	тус	тус	PART	_	_	16	discourse	_	Offset=315-318
-16	абаба	абаха	VERB	_	_	0	root	_	Offset=319-324
-17	.	.	PUNCT	_	_	16	punct	_	Offset=325-326
-
-1	Игаузу	Игаузу	PROPN	_	_	4	nsubj	_	Offset=327-333
-2	гээшэ	гээшэ	PART	_	_	4	discourse	_	Offset=334-339
-3	томо	томо	ADJ	_	_	4	amod	_	Offset=340-344
-4	гүрэн	гүрэн	NOUN	_	_	0	root	_	Offset=345-350
-5	гү	гү	PART	_	_	4	discourse	_	Offset=351-353
-6	,	,	PUNCT	_	_	4	punct	_	Offset=354-355
-7	бага	бага	ADJ	_	_	4	amod	_	Offset=356-360
-8	гү	гү	PART	_	_	4	discourse	_	Offset=361-363
-9	?	?	PUNCT	_	_	4	punct	_	Offset=364-365
-
-1	Питер	Питер	PROPN	_	_	2	name	_	Offset=366-371
-2	Смит	Смит	PROPN	_	_	5	conj	_	Offset=372-376
-3	,	,	PUNCT	_	_	2	punct	_	Offset=377-378
-4	Мэри	Мэри	PROPN	_	_	5	name	_	Offset=379-383
-5	Браун	Браун	PROPN	_	_	8	dobj	_	Offset=384-389
-6	хоёрой	хоёрой	CONJ	_	_	5	cc	_	Offset=390-396
-7	алииеньшье	алииеньшье	PRON	_	_	5	appos	_	Offset=397-407
-8	шэлэхын	шэлэхэ	VERB	_	_	9	xcomp	_	Offset=408-415
-9	аргагүй	аргатай	ADJ	_	_	0	root	_	Offset=416-423
-10	байба	байха	AUX	_	_	9	cop	_	Offset=424-429
-11	.	.	PUNCT	_	_	9	punct	_	Offset=430-431
-
-1	Хэнэйшье	хэнэйшье	PRON	_	_	2	nsubj	_	Offset=432-440
-2	бэшэһэн	бэшэхэ	VERB	_	_	0	root	_	Offset=441-448
-3	хынь	хынь	PRON	_	_	5	nsubj	_	Offset=449-453
-4	оройдоо	оройдоо	ADV	_	_	5	advmod	_	Offset=454-461
-5	мэдэнэгүй	мэдэхэ	VERB	_	_	2	ccomp	_	Offset=462-471
-6	.	.	PUNCT	_	_	5	punct	_	Offset=472-473
-
-1	Юугээ	юу	PRON	_	_	2	dobj	_	Offset=474-479
-2	харанабши	хараха	VERB	_	_	0	root	_	Offset=480-489
-3	?	?	PUNCT	_	_	2	punct	_	Offset=490-491
-
-1	Хэзээ	хэзээ	PRON	_	_	2	advmod	_	Offset=492-497
-2	ерэжэ	ерэхэ	VERB	_	_	3	xcomp	_	Offset=498-503
-3	шадахаяа	шадаха	VERB	_	_	4	advcl	_	Offset=504-512
-4	мэдэнэ	мэдэхэ	VERB	_	_	0	root	_	Offset=513-519
-5	гүш	гүш	PART	_	_	4	discourse	_	Offset=520-523
-6	?	?	PUNCT	_	_	4	punct	_	Offset=524-525
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=526-530
-2	хүн	хүн	NOUN	_	_	4	nsubj	_	Offset=531-534
-3	машина	машина	NOUN	_	_	4	dobj	_	Offset=535-541
-4	абаа	абаха	VERB	_	_	10	conj	_	Offset=542-546
-5	,	,	PUNCT	_	_	4	punct	_	Offset=546-547
-6	харин	харин	CONJ	_	_	2	cc	_	Offset=548-553
-7	дүүнь	дүүн	NOUN	_	_	10	nsubj	_	Offset=554-559
-8	оройдоол	оройдоол	ADV	_	_	10	advmod	_	Offset=560-568
-9	велосипед	велосипед	NOUN	_	_	10	dobj	_	Offset=569-578
-10	абажа	абаха	VERB	_	_	0	root	_	Offset=579-584
-11	шадаа	шадаха	AUX	_	_	10	aux	_	Offset=585-590
-12	.	.	PUNCT	_	_	10	punct	_	Offset=591-592
-
-1	Питер	Питер	PROPN	_	_	2	conj	_	Offset=593-598
-2	Мэри	Мэри	PROPN	_	_	7	nsubj	_	Offset=599-603
-3	хоёр	хоёр	CONJ	_	_	2	cc	_	Offset=604-608
-4	тэбэрилдээд	тэбэрилхэ	VERB	_	_	7	advcl	_	Offset=609-620
-5	,	,	PUNCT	_	_	4	punct	_	Offset=620-621
-6	таһалгаһаа	таһалга	NOUN	_	_	7	nmod	_	Offset=622-632
-7	гараба	гараха	VERB	_	_	0	root	_	Offset=633-639
-8	.	.	PUNCT	_	_	7	punct	_	Offset=640-641
-
-1	Үһэеэ	үһэн	NOUN	_	_	2	dobj	_	Offset=642-647
-2	заһуулха	заһуулха	VERB	_	_	0	root	_	Offset=648-656
-3	хүн	хүн	NOUN	_	_	2	nsubj	_	Offset=657-660
-4	аад	аад	CONJ	_	_	2	cc	_	Offset=661-664
-5	,	,	PUNCT	_	_	2	punct	_	Offset=665-666
-6	тэрэ	тэрэ	DET	_	_	7	det	_	Offset=667-671
-7	үдэр	үдэр	NOUN	_	_	14	nmod	_	Offset=672-676
-8	юундэ	юундэ	SCONJ	_	_	11	mark	_	Offset=678-683
-9	хынь	хынь	PART	_	_	11	discourse	_	Offset=684-688
-10	бү	бү	PART	_	_	11	neg	_	Offset=689-691
-11	мэдэ	мэдэхэ	VERB	_	_	14	parataxis	_	Offset=692-696
-12	,	,	PUNCT	_	_	11	punct	_	Offset=696-697
-13	залхуунь	залхуунь	NOUN	_	_	14	nsubj	_	Offset=698-706
-14	хүрэбэ	хүрэхэ	VERB	_	_	2	advcl	_	Offset=707-713
-15	.	.	PUNCT	_	_	14	punct	_	Offset=714-715
-
-1	Ехэ	ехэ	ADV	_	_	2	advmod	_	Offset=716-719
-2	хурдаар	хурдаар	ADV	_	_	3	advmod	_	Offset=720-727
-3	гүйхэдэнь	гүйхэ	VERB	_	_	4	ccomp	_	Offset=728-737
-4	хүсэжэ	хүсэхэ	VERB	_	_	0	root	_	Offset=738-744
-5	ядааб	ядаха	AUX	_	_	4	aux	_	Offset=745-750
-6	.	.	PUNCT	_	_	4	punct	_	Offset=751-752
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=800-804
-2	басаган	басаган	NOUN	_	_	8	nsubj	_	Offset=805-812
-3	Франциин	Франциин	PROPN	_	_	5	nmod:own	_	Offset=813-821
-4	ниислэл	ниислэл	NOUN	_	_	5	compound	_	Offset=822-829
-5	хото	хото	NOUN	_	_	6	nmod	_	Offset=830-834
-6	Париста	Парис	PROPN	_	_	8	nmod	_	Offset=835-842
-7	өөдөө	өөдөө	PRON	_	_	8	compound	_	Offset=843-848
-8	болоо	болохо	VERB	_	_	0	root	_	Offset=849-854
-9	һэн	һэн	PART	_	_	8	discourse	_	Offset=855-858
-10	.	.	PUNCT	_	_	8	punct	_	Offset=859-860
-
-1	Гэр	гэр	NOUN	_	_	4	nsubj	_	Offset=8-11
-2	хадын	хада	NOUN	_	_	4	nmod	_	Offset=12-17
-3	саана	саана	ADP	_	_	2	case	_	Offset=18-23
-4	байна	байха	VERB	_	_	0	root	_	Offset=24-29
-5	.	.	PUNCT	_	_	4	punct	_	Offset=30-31
-
-1	Эжын	эжы	NOUN	_	_	3	nsubj	_	Offset=33-37
-2	гэртээ	гэр	NOUN	_	_	3	nmod	_	Offset=38-44
-3	ерэхэдэнь	ерэхэ	VERB	_	_	0	root	_	Offset=45-54
-4	,	,	PUNCT	_	_	3	punct	_	Offset=55-56
-5	аба	аба	NOUN	_	_	7	nsubj	_	Offset=57-60
-6	кофе	кофе	NOUN	_	_	7	dobj	_	Offset=61-65
-7	шанажа	шанаха	VERB	_	_	3	advcl	_	Offset=66-72
-8	байгаа	бай	AUX	_	_	7	aux	_	Offset=73-79
-9	.	.	PUNCT	_	_	7	punct	_	Offset=80-81
-
-1	Би	би	PRON	_	_	9	nsubj	_	Offset=120-122
-2	баһаа	баһа	ADV	_	_	9	advmod	_	Offset=123-128
-3	ханада	хана	NOUN	_	_	4	mwe	_	Offset=129-135
-4	үлгɵɵтэй	үлгɵɵтэй	ADV	_	_	5	mwe	_	Offset=136-144
-5	байһан	байха	AUX	_	_	6	mwe	_	Offset=145-151
-6	шкаф	шкаф	NOUN	_	_	9	nmod	_	Offset=152-156
-7	сооһоонь	соо	ADP	_	_	6	case	_	Offset=157-165
-8	алха	алха	NOUN	_	_	9	dobj	_	Offset=166-170
-9	гаргааб	гаргаха	VERB	_	_	0	root	_	Offset=171-178
-10	.	.	PUNCT	_	_	9	punct	_	Offset=179-180
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=182-186
-2	хүн	хүн	NOUN	_	_	5	nsubj	_	Offset=187-190
-3	ехэ	ехэ	ADV	_	_	4	advmod	_	Offset=191-194
-4	хүндɵɵр	хүндɵɵр	ADV	_	_	5	advmod	_	Offset=195-202
-5	хэнхэй	хэхэ	VERB	_	_	0	root	_	Offset=203-209
-6	байна	байха	AUX	_	_	5	aux	_	Offset=210-215
-7	.	.	PUNCT	_	_	5	punct	_	Offset=216-217
-
-1	Ехэ	ехэ	ADJ	_	_	2	amod	_	Offset=219-222
-2	хабсагайнай	хабсагай	NOUN	_	_	4	nmod	_	Offset=223-234
-3	хажуудахи	хажууда	ADP	_	_	2	case	_	Offset=235-244
-4	харгы	харгы	NOUN	_	_	0	root	_	Offset=245-250
-5	.	.	PUNCT	_	_	4	punct	_	Offset=251-252
-
-1	Аймшагтай	аймшагтай	ADV	_	_	2	advmod	_	Offset=254-263
-2	ехэ	ехэ	ADJ	_	_	3	amod	_	Offset=264-267
-3	хабсагай	хабсагай	NOUN	_	_	0	root	_	Offset=268-276
-4	.	.	PUNCT	_	_	3	punct	_	Offset=277-278
-
-1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	6	nsubj	_	Offset=280-288
-2	Матти	Матти	PROPN	_	_	3	name	_	Offset=289-294
-3	Тамминэн	Тамминэн	PROPN	_	_	1	appos	_	Offset=295-303
-4	мүнɵɵдэр	мүнɵɵдэр	ADV	_	_	6	advmod	_	Offset=304-312
-5	лекци	лекци	NOUN	_	_	6	dobj	_	Offset=313-318
-6	уншана	уншаха	VERB	_	_	0	root	_	Offset=319-325
-7	.	.	PUNCT	_	_	6	punct	_	Offset=326-327
-
-1	«	«	PUNCT	_	_	2	punct	_	Offset=329-330
-2	Путкинотко	Путкинотко	PROPN	_	_	5	nmod	_	Offset=331-341
-3	»	»	PUNCT	_	_	2	punct	_	Offset=342-343
-4	гэжэ	гэ	PART	_	_	5	discourse	_	Offset=344-348
-5	нэрэтэй	нэрэ	ADJ	_	_	6	amod	_	Offset=349-356
-6	ном	ном	NOUN	_	_	10	nmod	_	Offset=357-360
-7	соо	соо	ADP	_	_	6	case	_	Offset=361-364
-8	һонин	һонин	ADJ	_	_	9	amod	_	Offset=365-370
-9	ушарнууд	ушар	NOUN	_	_	10	nsubj	_	Offset=371-379
-10	болоно	болохо	VERB	_	_	0	root	_	Offset=380-386
-11	.	.	PUNCT	_	_	10	punct	_	Offset=387-388
-
-1	Түсэб	түсэб	NOUN	_	_	5	nmod	_	Offset=425-430
-2	соо	соо	ADP	_	_	1	case	_	Offset=431-434
-3	зарим	зарим	DET	_	_	4	det	_	Offset=435-440
-4	хубилалтанууд	хубилалта	NOUN	_	_	5	nsubj	_	Offset=441-454
-5	болоно	болохо	VERB	_	_	0	root	_	Offset=455-461
-6	.	.	PUNCT	_	_	5	punct	_	Offset=462-463
-
-1	Түсэб	түсэб	NOUN	_	_	5	nmod	_	Offset=465-470
-2	соо	соо	ADP	_	_	1	case	_	Offset=471-474
-3	зарим	зарим	DET	_	_	4	det	_	Offset=475-480
-4	хубилалтанууд	хубилалта	NOUN	_	_	5	nsubj	_	Offset=481-494
-5	хэгдэжэ	хэхэ	VERB	_	_	0	root	_	Offset=495-502
-6	болохо	болохо	AUX	_	_	5	aux	_	Offset=503-509
-7	.	.	PUNCT	_	_	5	punct	_	Offset=510-511
-
-1	Номууд	ном	NOUN	_	_	0	root	_	Offset=513-519
-2	,	,	PUNCT	_	_	1	punct	_	Offset=520-521
-3	харандаашууд	харандааш	NOUN	_	_	1	conj	_	Offset=522-534
-4	ба	ба	CONJ	_	_	1	cc	_	Offset=535-537
-5	шугамууд	шугам	NOUN	_	_	1	conj	_	Offset=538-546
-6	.	.	PUNCT	_	_	1	punct	_	Offset=547-548
-
-1	Нэгэ	нэгэ	DET	_	_	2	det	_	Offset=550-554
-2	талаһаань	тала	NOUN	_	_	4	nmod	_	Offset=555-564
-3	-	-	PUNCT	_	_	4	punct	_	Offset=565-566
-4	харандаашууд	харандааш	NOUN	_	_	7	parataxis	_	Offset=567-579
-5	,	,	PUNCT	_	_	4	punct	_	Offset=580-581
-6	нүгɵɵ	нүгɵɵ	DET	_	_	7	det	_	Offset=582-587
-7	талаһаань	тала	NOUN	_	_	9	nmod	_	Offset=588-597
-8	–	–	PUNCT	_	_	9	punct	_	Offset=598-599
-9	шугамууд	шугам	NOUN	_	_	0	root	_	Offset=600-608
-10	.	.	PUNCT	_	_	9	punct	_	Offset=609-610
-
-1	Харандаашууд	харандааш	NOUN	_	_	0	root	_	Offset=612-624
-2	гү	гү	CONJ	_	_	1	cc	_	Offset=625-627
-3	али	али	CONJ	_	_	2	mwe	_	Offset=628-631
-4	шугамууд	шугам	NOUN	_	_	1	conj	_	Offset=632-640
-5	.	.	PUNCT	_	_	1	punct	_	Offset=641-642
-
-1	Би	би	PRON	_	_	3	nsubj	_	Offset=644-646
-2	тэрээндэ	тэрэ	PRON	_	_	3	dobj	_	Offset=647-655
-3	хэлээб	хэлэхэ	VERB	_	_	0	root	_	Offset=656-662
-4	,	,	PUNCT	_	_	3	punct	_	Offset=663-664
-5	уһан	уһан	NOUN	_	_	6	nsubj	_	Offset=665-669
-6	бусалжа	бусалха	VERB	_	_	3	ccomp	_	Offset=670-677
-7	байна	байха	AUX	_	_	6	aux	_	Offset=678-683
-8	гэжэ	гэ	PART	_	_	6	discourse	_	Offset=684-688
-9	.	.	PUNCT	_	_	6	punct	_	Offset=689-690
-
-1	Тэрэ	тэрэ	PRON	_	_	8	nsubj	_	Offset=692-696
-2	,	,	PUNCT	_	_	1	punct	_	Offset=697-698
-3	хажуудахи	хажууда	ADP	_	_	4	mwe	_	Offset=699-708
-4	айлай	айлай	NOUN	_	_	5	nmod:own	_	Offset=709-714
-5	нохой	нохой	NOUN	_	_	1	appos	_	Offset=715-720
-6	,	,	PUNCT	_	_	5	punct	_	Offset=721-722
-7	эжые	эжы	NOUN	_	_	8	dobj	_	Offset=723-727
-8	сухалдуулаа	сухалдаха	VERB	_	_	0	root	_	Offset=728-739
-9	.	.	PUNCT	_	_	8	punct	_	Offset=740-741
-
-1	һүүн	һүн	NOUN	_	_	0	root	_	Offset=862-866
-2	,	,	PUNCT	_	_	1	punct	_	Offset=867-868
-3	хилээмэн	хилээмэн	NOUN	_	_	1	conj	_	Offset=869-877
-4	ба	ба	CONJ	_	_	1	cc	_	Offset=878-880
-5	тоһон	тоһон	NOUN	_	_	1	conj	_	Offset=881-886
-6	.	.	PUNCT	_	_	1	punct	_	Offset=887-888
-
-1	Хүзүүбшэ	хүзүүбшэ	NOUN	_	_	3	nsubj	_	Offset=890-898
-2	улан	улан	ADJ	_	_	3	amod	_	Offset=899-903
-3	үнгэтэй	үнгэтэй	NOUN	_	_	0	root	_	Offset=904-911
-4	байгаа	байха	VERB	_	_	3	cop	_	Offset=912-918
-5	.	.	PUNCT	_	_	4	punct	_	Offset=919-920
-
-1	Тэрэнэй	тэрэ	DET	_	_	2	det	_	Offset=922-929
-2	һэдэлгэнь	һэдэлгэ	NOUN	_	_	5	nsubj	_	Offset=930-939
-3	,	,	PUNCT	_	_	4	punct	_	Offset=940-941
-4	ошожо	ошохо	VERB	_	_	5	compound	_	Offset=942-947
-5	зайгаа	зайха	VERB	_	_	0	root	_	Offset=948-954
-6	һаа	һаа	PART	_	_	5	discourse	_	Offset=955-958
-7	,	,	PUNCT	_	_	6	punct	_	Offset=959-960
-8	гэжэ	гэ	PART	_	_	9	discourse	_	Offset=961-965
-9	байгаа	байха	VERB	_	_	5	cop	_	Offset=966-972
-10	.	.	PUNCT	_	_	9	punct	_	Offset=973-974
-
-1	Театр	театр	NOUN	_	_	2	nmod	_	Offset=976-981
-2	ошолго	ошолго	NOUN	_	_	3	nsubj	_	Offset=982-988
-3	хүхюутэйгɵɵр	хүхюутэйгɵɵр	ADV	_	_	0	root	_	Offset=989-1001
-4	үнгэрɵɵ	үнгэхэ	VERB	_	_	3	cop	_	Offset=1002-1009
-5	.	.	PUNCT	_	_	3	punct	_	Offset=1010-1011
-
-1	Yнэндɵɵ	үнэндɵɵ	ADV	_	_	2	mwe	_	Offset=1013-1020
-2	хэлээ	хэлэхэ	VERB	_	_	8	advmod	_	Offset=1021-1026
-3	һаа	һаа	PART	_	_	2	discourse	_	Offset=1027-1030
-4	,	,	PUNCT	_	_	3	punct	_	Offset=1031-1032
-5	тэрэшни	тэрэ	PRON	_	_	8	nsubj	_	Offset=1033-1040
-6	үшɵɵ	үшɵɵ	ADV	_	_	7	advmod	_	Offset=1041-1045
-7	үсэгэлдэртɵɵ	үсэгэлдэр	ADV	_	_	8	advmod	_	Offset=1046-1058
-8	ерэнхэй	ерэхэ	VERB	_	_	0	root	_	Offset=1059-1066
-9	.	.	PUNCT	_	_	8	punct	_	Offset=1067-1068
-
-1	Булта	булта	DET	_	_	3	det	_	Offset=1070-1075
-2	бүһэтэй	бүһэтэй	ADJ	_	_	3	mwe	_	Offset=1076-1083
-3	зон	зон	NOUN	_	_	5	nsubj	_	Offset=1084-1087
-4	толгойгороо	толгой	NOUN	_	_	5	dobj	_	Offset=1088-1099
-5	һэжэрээ	һэжэрхэ	VERB	_	_	0	root	_	Offset=1100-1107
-6	.	.	PUNCT	_	_	5	punct	_	Offset=1108-1109
-
-1	Тэрэшни	тэрэ	PRON	_	_	3	nsubj	_	Offset=1111-1118
-2	үүдээ	үүдэн	NOUN	_	_	3	dobj	_	Offset=1119-1124
-3	хаагаа	хааха	VERB	_	_	0	root	_	Offset=1125-1131
-4	.	.	PUNCT	_	_	3	punct	_	Offset=1132-1133
-
-1	Тогтоол	тогтоол	NOUN	_	_	4	nsubjpass	_	Offset=1135-1142
-2	ноябрь	ноябрь	NOUN	_	_	3	nmod	_	Offset=1143-1149
-3	һарада	һара	NOUN	_	_	4	nmod	_	Offset=1150-1156
-4	табигдаһаан	табигдаха	VERB	_	_	0	root	_	Offset=1157-1168
-5	байна	байха	AUX	_	_	4	aux	_	Offset=1169-1174
-6	.	.	PUNCT	_	_	4	punct	_	Offset=1175-1176
-
-1	Хартаабхын	хартаабха	NOUN	_	_	2	nmod	_	Offset=1178-1188
-2	ургалта	ургалта	NOUN	_	_	4	nsubj	_	Offset=1189-1196
-3	саашадаа	сааша	ADV	_	_	4	advmod	_	Offset=1197-1205
-4	хомор	хомор	ADJ	_	_	0	root	_	Offset=1206-1211
-5	болоо	болохо	VERB	_	_	4	cop	_	Offset=1212-1217
-6	.	.	PUNCT	_	_	5	punct	_	Offset=1218-1219
-
-1	Вазын	ваза	NOUN	_	_	4	nmod	_	Offset=1221-1226
-2	үй	үй	PART	_	_	4	discourse	_	Offset=1227-1229
-3	бута	бута	PART	_	_	4	compound	_	Offset=1230-1234
-4	сохилго	сохилго	NOUN	_	_	0	root	_	Offset=1235-1242
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1243-1244
-
-1	Би	би	PRON	_	_	4	nsubj	_	Offset=1246-1248
-2	тэрээхэнэй	тэрэ	PRON	_	_	3	nmod	_	Offset=1249-1259
-3	орилхыень	орилхо	VERB	_	_	4	xcomp	_	Offset=1260-1269
-4	ташуурдуулааб	ташуурдаха	VERB	_	_	0	root	_	Offset=1270-1283
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1284-1285
-
-1	Намда	би	PRON	_	_	3	nmod	_	Offset=1287-1292
-2	гарахаар	гараха	VERB	_	_	3	xcomp	_	Offset=1293-1301
-3	зүбшɵɵл	зүбшɵɵл	NOUN	_	_	0	root	_	Offset=1302-1309
-4	байгаа	байха	VERB	_	_	3	cop	_	Offset=1310-1316
-5	.	.	PUNCT	_	_	3	punct	_	Offset=1317-1318
-
-1	һээ	һээ	INTJ	_	_	3	discourse	_	Offset=1320-1323
-2	,	,	PUNCT	_	_	3	punct	_	Offset=1324-1325
-3	абарыт	абарха	VERB	_	_	0	root	_	Offset=1326-1332
-4	даа	даа	PART	_	_	3	discourse	_	Offset=1333-1336
-5	!	!	PUNCT	_	_	3	punct	_	Offset=1337-1338
-
-1	һмм	һмм	INTJ	_	_	7	discourse	_	Offset=1340-1343
-2	…	…	PUNCT	_	_	1	punct	_	Offset=1344-1345
-3	Энээхэн	энээхэн	DET	_	_	4	det	_	Offset=1346-1353
-4	юумэндэ	юумэн	PRON	_	_	7	nmod	_	Offset=1354-1361
-5	юун	юун	PRON	_	_	7	nsubj	_	Offset=1362-1365
-6	гэжэ	гэ	PART	_	_	7	discourse	_	Offset=1366-1370
-7	хэлэхэбши	хэлэхэ	VERB	_	_	0	root	_	Offset=1371-1380
-8	даа	даа	PART	_	_	7	discourse	_	Offset=1381-1384
-9	?	?	PUNCT	_	_	7	punct	_	Offset=1385-1386
-
-1	Гэртээ	гэр	NOUN	_	_	2	dobj	_	Offset=1388-1394
-2	ерэмсээрээ	ерэхэ	VERB	_	_	0	root	_	Offset=1395-1405
-3	,	,	PUNCT	_	_	2	punct	_	Offset=1406-1407
-4	түлхюур	түлхюур	NOUN	_	_	7	dobj	_	Offset=1408-1415
-5	таһаг	таһаг	NOUN	_	_	7	nmod	_	Offset=1416-1421
-6	дээрэ	дээрэ	ADP	_	_	5	case	_	Offset=1422-1427
-7	орхеоб	орхихо	VERB	_	_	2	advcl	_	Offset=1428-1434
-8	.	.	PUNCT	_	_	7	punct	_	Offset=1435-1436
-
-1	Энэшни	энэ	PRON	_	_	4	nsubj	_	Offset=1438-1444
-2	юуншье	юуншье	PRON	_	_	4	dobj	_	Offset=1445-1451
-3	гэжэ	гэ	PART	_	_	4	discourse	_	Offset=1452-1456
-4	хэлээгүй	хэлэхэ	VERB	_	_	0	root	_	Offset=1457-1465
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1466-1467
-
-1	Yдын	үүдэн	NOUN	_	_	2	mwe	_	Offset=1535-1539
-2	хоолтой	хоол	NOUN	_	_	3	nmod	_	Offset=1540-1547
-3	таһаг	таһаг	NOUN	_	_	0	root	_	Offset=1548-1553
-4	амтатай	амтатай	ADJ	_	_	5	amod	_	Offset=1554-1561
-5	эдеэгээр	эдеэн	NOUN	_	_	6	dobj	_	Offset=1562-1570
-6	элбэг	элбэг	ADJ	_	_	3	amod	_	Offset=1571-1576
-7	байгаа	байха	VERB	_	_	6	cop	_	Offset=1577-1583
-8	.	.	PUNCT	_	_	6	punct	_	Offset=1584-1585
-
-1	Сэсэгэй	сэсэг	NOUN	_	_	2	nmod	_	Offset=1629-1636
-2	багтаамжа	багтаамжа	NOUN	_	_	5	nsubj	_	Offset=1637-1646
-3	таһаг	таһаг	NOUN	_	_	5	iobj	_	Offset=1647-1652
-4	дээрэ	дээрэ	ADP	_	_	3	case	_	Offset=1653-1658
-5	байгаа	байха	VERB	_	_	0	root	_	Offset=1659-1665
-6	.	.	PUNCT	_	_	5	punct	_	Offset=1666-1667
-
-1	Мааттида	Матти	PROPN	_	_	4	nmod:own	_	Offset=1720-1728
-2	шэнэ	шэнэ	ADJ	_	_	4	amod	_	Offset=1729-1733
-3	түмэр	түмэр	ADJ	_	_	4	mwe	_	Offset=1734-1739
-4	морин	морин	NOUN	_	_	0	root	_	Offset=1740-1745
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1746-1747
-
-1	Евэ	Ева	PROPN	_	_	3	nsubj	_	Offset=1749-1752
-2	ажалһаань	ажал	NOUN	_	_	3	dobj	_	Offset=1753-1762
-3	ерээ	ерэхэ	VERB	_	_	0	root	_	Offset=1763-1767
-4	.	.	PUNCT	_	_	3	punct	_	Offset=1768-1769
-
-1	Шэрдэг	шэрдэг	NOUN	_	_	2	nsubj	_	Offset=1771-1777
-2	хатанхай	хатанхай	ADJ	_	_	0	root	_	Offset=1778-1786
-3	.	.	PUNCT	_	_	2	punct	_	Offset=1787-1788
-
-1	Бүүбэйнүүд	бүүбэй	NOUN	_	_	6	nsubj	_	Offset=1894-1904
-2	зодоо	зодоо	ADV	_	_	6	advmod	_	Offset=1905-1910
-3	гурбанһаа	гурба	NUM	_	_	6	nummod	_	Offset=1911-1920
-4	таба	табан	NUM	_	_	3	nummod	_	Offset=1921-1925
-5	болон	болон	ADP	_	_	4	case	_	Offset=1926-1931
-6	наһатай	наһатай	ADJ	_	_	0	root	_	Offset=1932-1939
-7	.	.	PUNCT	_	_	6	punct	_	Offset=1940-1941
-
-1	«	«	PUNCT	_	_	2	punct	_	Offset=1981-1982
-2	Би	би	PRON	_	_	6	nsubj	_	Offset=1983-1985
-3	гэртэй	гэр	NOUN	_	_	6	nmod	_	Offset=1986-1992
-4	гансал	гансал	ADV	_	_	5	advmod	_	Offset=1993-1999
-5	үдэшэндɵɵ	үдэшэ	ADV	_	_	6	advmod	_	Offset=2000-2009
-6	ерэхэб	ерэхэ	VERB	_	_	0	root	_	Offset=2010-2016
-7	»	»	PUNCT	_	_	6	punct	_	Offset=2017-2018
-8	-	-	PUNCT	_	_	6	punct	_	Offset=2019-2020
-9	гэжэ	гэ	PART	_	_	12	discourse	_	Offset=2021-2025
-10	эрэ	эрэ	DET	_	_	11	det	_	Offset=2026-2029
-11	хүн	хүн	NOUN	_	_	12	nsubj	_	Offset=2030-2033
-12	хэлээ	хэлэхэ	VERB	_	_	6	parataxis	_	Offset=2034-2039
-13	.	.	PUNCT	_	_	12	punct	_	Offset=2040-2041
-
-1	Эжын	эжы	NOUN	_	_	2	nmod	_	Offset=2043-2047
-2	шараһан	шараһан	ADJ	_	_	3	amod	_	Offset=2048-2055
-3	кексэ	кексэ	NOUN	_	_	4	nsubj	_	Offset=2056-2061
-4	амжалта	амжалта	NOUN	_	_	0	root	_	Offset=2062-2069
-5	болоо	болохо	VERB	_	_	4	cop	_	Offset=2070-2075
-6	.	.	PUNCT	_	_	4	punct	_	Offset=2076-2077
-
-1	Yгэгдэһэн	үгэгдэһэн	ADJ	_	_	2	amod	_	Offset=2079-2088
-2	бэлэгүүд	бэлэг	NOUN	_	_	5	nsubj	_	Offset=2089-2097
-3	хүүгэдтэ	хүүгэн	NOUN	_	_	5	iobj	_	Offset=2098-2106
-4	баяр	баяр	NOUN	_	_	5	dobj	_	Offset=2107-2111
-5	асараа	асарха	VERB	_	_	0	root	_	Offset=2112-2118
-6	.	.	PUNCT	_	_	5	punct	_	Offset=2119-2120
-
-1	Сэдьхэлэй	сэдьхэл	NOUN	_	_	2	nmod	_	Offset=2122-2131
-2	зобоһон	зобохо	ADJ	_	_	4	amod	_	Offset=2132-2139
-3	,	,	PUNCT	_	_	2	punct	_	Offset=2140-2141
-4	би	би	PRON	_	_	6	nsubj	_	Offset=2142-2144
-5	хойноһоонь	хойноһоо	ADV	_	_	6	advmod	_	Offset=2145-2155
-6	гүйгээб	гүйхэ	VERB	_	_	0	root	_	Offset=2156-2163
-7	.	.	PUNCT	_	_	6	punct	_	Offset=2164-2165
-
-1	Тиигэбэшье	тиигэбэшье	ADP	_	_	9	case	_	Offset=2167-2177
-2	,	,	PUNCT	_	_	1	punct	_	Offset=2178-2179
-3	ксилитоол	ксилитоол	NOUN	_	_	9	nsubj	_	Offset=2180-2189
-4	шүдэнэй	шүдэн	NOUN	_	_	5	mwe	_	Offset=2190-2197
-5	яһанай	яһанай	NOUN	_	_	6	mwe	_	Offset=2198-2204
-6	һандарал	һандарал	NOUN	_	_	7	nsubj	_	Offset=2205-2213
-7	болохогүйнь	болохо	VERB	_	_	9	ccomp	_	Offset=2214-2225
-8	түлɵɵ	түлɵɵ	ADP	_	_	7	mark	_	Offset=2226-2231
-9	хамгаалалдаг	хамгаалалха	VERB	_	_	0	root	_	Offset=2232-2244
-10	.	.	PUNCT	_	_	9	punct	_	Offset=2245-2246
-
-1	Маттин	Матти	PROPN	_	_	3	nmod	_	Offset=2248-2254
-2	гонзогорхон	гонзогорхон	ADJ	_	_	3	compound	_	Offset=2255-2266
-3	хобто	хобто	NOUN	_	_	7	nsubj	_	Offset=2267-2272
-4	түмэр	түмэр	ADJ	_	_	5	mwe	_	Offset=2273-2278
-5	морин	морин	NOUN	_	_	7	nmod	_	Offset=2279-2284
-6	соо	соо	ADP	_	_	5	case	_	Offset=2285-2288
-7	орхигдоһон	орхигдоһон	ADJ	_	_	0	root	_	Offset=2289-2299
-8	байна	байха	VERB	_	_	7	cop	_	Offset=2300-2305
-9	.	.	PUNCT	_	_	8	punct	_	Offset=2306-2307
-
-1	Түмэр	түмэр	ADJ	_	_	2	mwe	_	Offset=2309-2314
-2	морин	морин	NOUN	_	_	5	nsubj	_	Offset=2315-2320
-3	хоер	хоер	NUM	_	_	4	nummod	_	Offset=2321-2325
-4	литрэй	литр	NOUN	_	_	5	nmod	_	Offset=2326-2332
-5	хүдэлгүүртэй	хүдэлгүүр	NOUN	_	_	0	root	_	Offset=2333-2345
-6	.	.	PUNCT	_	_	5	punct	_	Offset=2346-2347
-
-1	Харин	харин	ADP	_	_	4	case	_	Offset=2372-2377
-2	,	,	PUNCT	_	_	1	punct	_	Offset=2378-2379
-3	мэдүүлэл	мэдүүлэл	NOUN	_	_	4	nsubj	_	Offset=2380-2388
-4	зохидхон	зохидхон	ADJ	_	_	0	root	_	Offset=2389-2397
-5	байгаа	байха	VERB	_	_	4	cop	_	Offset=2398-2404
-6	.	.	PUNCT	_	_	4	punct	_	Offset=2405-2406
-
-1	Сагдаанар	сагдаанар	NOUN	_	_	3	nsubj	_	Offset=2438-2447
-2	хулгайшаниие	хулгайша(н)	NOUN	_	_	3	dobj	_	Offset=2448-2460
-3	баряа	баряха	VERB	_	_	0	root	_	Offset=2461-2466
-4	.	.	PUNCT	_	_	3	punct	_	Offset=2467-2468
-
-1	Блогоор	блог	NOUN	_	_	3	nmod	_	Offset=2470-2477
-2	байгуулагданхай	байгуулагда	NOUN	_	_	1	compound	_	Offset=2478-2493
-3	гэрнүүд	гэр	NOUN	_	_	0	root	_	Offset=2494-2501
-4	,	,	PUNCT	_	_	3	punct	_	Offset=2502-2503
-5	ленточнэ	ленточнэ	ADJ	_	_	6	amod	_	Offset=2504-2512
-6	барилгын	барилга	NOUN	_	_	7	nmod	_	Offset=2513-2521
-7	гэрнүүд	гэр	NOUN	_	_	3	conj	_	Offset=2522-2529
-8	ба	ба	CONJ	_	_	3	cc	_	Offset=2530-2532
-9	нэгэ	нэгэ	NUM	_	_	11	nmod	_	Offset=2533-2537
-10	айлайхи	айлай	ADJ	_	_	11	amod	_	Offset=2538-2545
-11	гэр	гэр	NOUN	_	_	3	conj	_	Offset=2546-2549
-12	.	.	PUNCT	_	_	3	punct	_	Offset=2550-2551
-
-1	Тэрэнэй	тэрэ	PRON	_	_	2	nsubj	_	Offset=2553-2560
-2	ерэхэдэнь	ерэхэ	VERB	_	_	0	root	_	Offset=2561-2570
-3	,	,	PUNCT	_	_	2	punct	_	Offset=2571-2572
-4	гэртэ	гэр	NOUN	_	_	5	nsubj	_	Offset=2573-2578
-5	дуугай	дуугай	ADV	_	_	2	advcl	_	Offset=2579-2585
-6	байгаа	байха	VERB	_	_	5	cop	_	Offset=2586-2592
-7	.	.	PUNCT	_	_	5	punct	_	Offset=2593-2594
-
-1	Талмайн	талмай	NOUN	_	_	2	nmod	_	Offset=2596-2603
-2	хирэ	хирэ	NOUN	_	_	7	nsubj	_	Offset=2604-2608
-3	багаар	багаар	ADV	_	_	7	amod	_	Offset=2609-2615
-4	арбан	арбан	NUM	_	_	7	nummod	_	Offset=2616-2621
-5	дүрбэлжэн	дүрбэлжэн	ADJ	_	_	7	amod	_	Offset=2622-2631
-6	мянган	мянган	NUM	_	_	4	nummod	_	Offset=2632-2638
-7	метр	метр	NOUN	_	_	0	root	_	Offset=2639-2643
-8	байгаа	байха	VERB	_	_	7	cop	_	Offset=2644-2650
-9	.	.	PUNCT	_	_	7	punct	_	Offset=2651-2652
-
-1	Эрэ	эрэ	DET	_	_	2	det	_	Offset=2654-2657
-2	хүн	хүн	NOUN	_	_	10	nsubj	_	Offset=2658-2661
-3	,	,	PUNCT	_	_	5	punct	_	Offset=2662-2663
-4	үсэгэлдэр	үсэгэлдэр	ADV	_	_	5	advmod	_	Offset=2664-2673
-5	харагдаһан	харагдаһан	ADJ	_	_	2	amod	_	Offset=2674-2684
-6	,	,	PUNCT	_	_	5	punct	_	Offset=2685-2686
-7	баһаашье	баһа	ADV	_	_	10	advmod	_	Offset=2687-2695
-8	үүдэнэй	үүдэн	NOUN	_	_	10	nmod	_	Offset=2696-2703
-9	хажууда	хажууда	ADP	_	_	8	case	_	Offset=2704-2711
-10	зогсожо	зогсохо	VERB	_	_	0	root	_	Offset=2712-2719
-11	байгаа	бай	AUX	_	_	10	aux	_	Offset=2720-2726
-12	.	.	PUNCT	_	_	10	punct	_	Offset=2727-2728
-
-1	Yүдэн	үүдэн	NOUN	_	_	2	nsubj	_	Offset=2730-2735
-2	нээгдээ	нээхэ	VERB	_	_	0	root	_	Offset=2736-2743
-3	,	,	PUNCT	_	_	4	punct	_	Offset=2744-2745
-4	тэрьедээд	тэрьедээд	ADV	_	_	2	advmod	_	Offset=2746-2755
-5	,	,	PUNCT	_	_	4	punct	_	Offset=2756-2757
-6	тиигээд	тиигээд	SCONJ	_	_	8	mark	_	Offset=2758-2765
-7	хүүгэдые	хүүгэн	NOUN	_	_	8	dobj	_	Offset=2766-2774
-8	сошоолгоо	сошоохо	VERB	_	_	4	advcl	_	Offset=2775-2784
-9	.	.	PUNCT	_	_	8	punct	_	Offset=2785-2786
-
-1	Түмэр	түмэр	ADJ	_	_	2	mwe	_	Offset=2788-2793
-2	морин	морин	NOUN	_	_	11	nsubj	_	Offset=2794-2799
-3	,	,	PUNCT	_	_	7	punct	_	Offset=2800-2801
-4	манай	манай	PRON	_	_	7	nmod	_	Offset=2802-2807
-5	хажуугаар	хажуугаар	ADP	_	_	4	case	_	Offset=2808-2817
-6	шуумайса	шуумай	ADV	_	_	7	advmod	_	Offset=2818-2826
-7	гараһан	гараха	VERB	_	_	2	acl	_	Offset=2827-2834
-8	,	,	PUNCT	_	_	7	punct	_	Offset=2835-2836
-9	ехэл	ехэл	ADV	_	_	10	advmod	_	Offset=2837-2841
-10	гүйдэлтэйгɵɵр	гүйдэлтэйгɵɵр	ADV	_	_	11	advmod	_	Offset=2842-2855
-11	ябаа	ябаха	VERB	_	_	0	root	_	Offset=2856-2860
-12	.	.	PUNCT	_	_	11	punct	_	Offset=2861-2862
-
-1	Эхэнэр	эхэнэр	NOUN	_	_	9	nsubj	_	Offset=2864-2870
-2	,	,	PUNCT	_	_	6	punct	_	Offset=2871-2872
-3	хэнэй	хэнэй	PRON	_	_	5	det	_	Offset=2873-2878
-4	түмэр	түмэр	ADJ	_	_	5	mwe	_	Offset=2879-2884
-5	морин	морин	NOUN	_	_	6	nsubj	_	Offset=2885-2890
-6	һандарааб	һандарха	VERB	_	_	1	acl	_	Offset=2891-2900
-7	,	,	PUNCT	_	_	6	punct	_	Offset=2901-2902
-8	абаралга	абаралга	NOUN	_	_	9	dobj	_	Offset=2903-2911
-9	гуйлаа	гуйлаа	VERB	_	_	0	root	_	Offset=2912-2918
-10	.	.	PUNCT	_	_	9	punct	_	Offset=2919-2920
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=2966-2969
-2	хүн	хүн	NOUN	_	_	5	nsubj	_	Offset=2970-2973
-3	түлеэ	түлеэ	NOUN	_	_	4	nmod	_	Offset=2974-2979
-4	сабшалга	сабшалга	NOUN	_	_	5	dobj	_	Offset=2980-2988
-5	эхилээ	эхилхэ	VERB	_	_	0	root	_	Offset=2989-2995
-6	.	.	PUNCT	_	_	5	punct	_	Offset=2996-2997
-
-1	Гүрэнэй	гүрэн	NOUN	_	_	2	nmod	_	Offset=2999-3006
-2	дарга	дарга	NOUN	_	_	4	nsubj	_	Offset=3007-3012
-3	Нанхяад	Нанхяад	PROPN	_	_	4	nmod	_	Offset=3013-3020
-4	мордоо	мордохо	VERB	_	_	0	root	_	Offset=3021-3027
-5	,	,	PUNCT	_	_	7	punct	_	Offset=3028-3029
-6	хэлсээ	хэлсээ	NOUN	_	_	7	dobj	_	Offset=3030-3036
-7	бүтээхэеэ	бүтээхэ	VERB	_	_	4	xcomp	_	Offset=3037-3046
-8	.	.	PUNCT	_	_	4	punct	_	Offset=3047-3048
-
-1	Маатти	Матти	PROPN	_	_	3	nsubj	_	Offset=3050-3056
-2	морожено	морожено	NOUN	_	_	3	dobj	_	Offset=3057-3065
-3	захяа	захяаха	VERB	_	_	0	root	_	Offset=3066-3071
-4	.	.	PUNCT	_	_	3	punct	_	Offset=3072-3073
-
-1	Туркада	Турка	PROPN	_	_	2	nmod	_	Offset=3075-3082
-2	куполдо	купол	NOUN	_	_	3	nmod	_	Offset=3083-3090
-3	аяншалга	аяншалга	NOUN	_	_	4	nsubj	_	Offset=3091-3099
-4	болоо	болохо	VERB	_	_	0	root	_	Offset=3100-3105
-5	,	,	PUNCT	_	_	4	punct	_	Offset=3106-3107
-6	харин	харин	CONJ	_	_	1	cc	_	Offset=3108-3113
-7	Хеэльсинкидэ	Хеэльсинки	PROPN	_	_	1	remnant	_	Offset=3114-3126
-8	–	–	PUNCT	_	_	9	punct	_	Offset=3127-3128
-9	оперо	оперо	NOUN	_	_	2	remnant	_	Offset=3129-3134
-10	руу	руу	ADP	_	_	9	case	_	Offset=3135-3138
-11	.	.	PUNCT	_	_	9	punct	_	Offset=3139-3140
-
-1	Бурхад	Бурхан	NOUN	_	_	7	nsubj	_	Offset=3142-3148
-2	һүни	һүни	NOUN	_	_	7	nmod	_	Offset=3149-3153
-3	болотор	болотор	ADP	_	_	2	case	_	Offset=3154-3161
-4	Донна	Донна	PROPN	_	_	6	nmod	_	Offset=3162-3167
-5	Тартай	Тарт	PROPN	_	_	4	name	_	Offset=3168-3174
-6	ажал	ажал	NOUN	_	_	7	dobj	_	Offset=3175-3179
-7	найрлаа	найрлаха	VERB	_	_	0	root	_	Offset=3180-3187
-8	.	.	PUNCT	_	_	7	punct	_	Offset=3188-3189
-
-1	Гэрэй	гэр	NOUN	_	_	4	nmod	_	Offset=3191-3196
-2	хажууда	хажууда	ADP	_	_	1	case	_	Offset=3197-3204
-3	байһан	байха	VERB	_	_	4	cop	_	Offset=3205-3211
-4	харгы	харгы	NOUN	_	_	0	root	_	Offset=3212-3217
-5	.	.	PUNCT	_	_	4	punct	_	Offset=3218-3219
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=3221-3224
-2	хүүндэ	хүн	NOUN	_	_	7	nmod	_	Offset=3225-3231
-3	үмсын	үмсын	ADJ	_	_	6	amod	_	Offset=3232-3237
-4	байшан	байшан	NOUN	_	_	6	nmod	_	Offset=3238-3244
-5	сохи	сохи	ADP	_	_	4	case	_	Offset=3245-3249
-6	байра	байра	NOUN	_	_	7	nsubj	_	Offset=3250-3255
-7	бии	бии	VERB	_	_	0	root	_	Offset=3256-3259
-8	.	.	PUNCT	_	_	7	punct	_	Offset=3260-3261
-
-1	Намда	би	PRON	_	_	6	nmod	_	Offset=3263-3268
-2	гэртээ	гэр	NOUN	_	_	3	nmod	_	Offset=3269-3275
-3	ошохо	ошохо	VERB	_	_	5	acl	_	Offset=3276-3281
-4	гэһэн	гэхэ	PART	_	_	6	discourse	_	Offset=3282-3287
-5	уялга	уялга	NOUN	_	_	6	nsubj	_	Offset=3288-3293
-6	бии	бии	VERB	_	_	0	root	_	Offset=3294-3297
-7	.	.	PUNCT	_	_	6	punct	_	Offset=3298-3299
-
-1	Хүдэлгүүр	хүдэлгүүртэй	NOUN	_	_	4	nsubj	_	Offset=3327-3336
-2	арбан	арбан	NUM	_	_	3	nummod	_	Offset=3337-3342
-3	модо	модон	NOUN	_	_	4	nmod	_	Offset=3343-3347
-4	гараа	гараха	VERB	_	_	0	root	_	Offset=3348-3353
-5	.	.	PUNCT	_	_	4	punct	_	Offset=3354-3355
-
-1	һүүтэй	һүн	NOUN	_	_	2	nmod	_	Offset=3357-3363
-2	багтаамжа	багтаамжа	NOUN	_	_	3	nsubj	_	Offset=3364-3373
-3	килограмм	килограмм	NOUN	_	_	0	root	_	Offset=3374-3383
-4	болоно	болохо	VERB	_	_	3	cop	_	Offset=3384-3390
-5	.	.	PUNCT	_	_	4	punct	_	Offset=3391-3392
-
-1	Хэшээл	хэшээл	NOUN	_	_	3	nsubj	_	Offset=3394-3400
-2	хананхатайгаар	хананхатайгаар	ADV	_	_	3	advmod	_	Offset=3401-3415
-3	бэлдээтэй	бэлдээтэй	ADJ	_	_	0	root	_	Offset=3416-3425
-4	байгаа	байха	VERB	_	_	3	cop	_	Offset=3426-3432
-5	.	.	PUNCT	_	_	3	punct	_	Offset=3433-3434
-
-1	Yүдэн	үүдэн	NOUN	_	_	3	nsubj	_	Offset=3436-3441
-2	хахираар	хахираар	ADV	_	_	3	advmod	_	Offset=3442-3450
-3	нээгдээ	нээхэ	VERB	_	_	0	root	_	Offset=3451-3458
-4	.	.	PUNCT	_	_	3	punct	_	Offset=3459-3460
-
-1	Борбилоо	борбилоо	NOUN	_	_	4	nsubj	_	Offset=3462-3470
-2	–	–	PUNCT	_	_	1	punct	_	Offset=3471-3472
-3	бишыхан	бишыхан	ADJ	_	_	4	amod	_	Offset=3473-3480
-4	шубуун	шубуун	NOUN	_	_	0	root	_	Offset=3481-3487
-5	.	.	PUNCT	_	_	4	punct	_	Offset=3488-3489
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=3521-3524
-2	ном	ном	NOUN	_	_	4	nsubj	_	Offset=3525-3528
-3	–	–	PUNCT	_	_	4	punct	_	Offset=3529-3530
-4	минии	минии	PRON	_	_	0	root	_	Offset=3531-3536
-5	.	.	PUNCT	_	_	4	punct	_	Offset=3537-3538
-
-1	Хүүгэд	хүүгэд	NOUN	_	_	2	nsubj	_	Offset=3540-3546
-2	хорёо	хорёо﻿	NOUN	_	_	0	root	_	Offset=3547-3552
-3	соогоо	соогоо	ADP	_	_	2	case	_	Offset=3553-3559
-4	байгаа	байха	VERB	_	_	2	cop	_	Offset=3560-3566
-5	.	.	PUNCT	_	_	2	punct	_	Offset=3567-3568
-
-1	Минии	минии	DET	_	_	3	det	_	Offset=3599-3604
-2	хани	хани	NOUN	_	_	3	mwe	_	Offset=3605-3609
-3	нүхэртэ	нүхэр	NOUN	_	_	6	nmod:own	_	Offset=3610-3617
-4	Оулуһаань	Оулу	PROPN	_	_	5	nmod	_	Offset=3618-3627
-5	эльгээгдэһээн	эльгээгдэһээн	ADJ	_	_	6	acl	_	Offset=3628-3641
-6	бэлэг	бэлэг	NOUN	_	_	0	root	_	Offset=3642-3647
-7	.	.	PUNCT	_	_	6	punct	_	Offset=3648-3649
-
-1	Эрэ	эрэ	DET	_	_	2	det	_	Offset=3651-3654
-2	хүн	хүн	NOUN	_	_	5	nsubj	_	Offset=3655-3658
-3	баар	баар	NOUN	_	_	5	nmod	_	Offset=3659-3663
-4	соо	соо	ADP	_	_	3	case	_	Offset=3664-3667
-5	үүдэшэн	үүдэшэн	NOUN	_	_	0	root	_	Offset=3668-3675
-6	байгаа	байха	VERB	_	_	5	cop	_	Offset=3676-3682
-7	.	.	PUNCT	_	_	5	punct	_	Offset=3683-3684
-
-1	Эрэ	эрэ	DET	_	_	2	det	_	Offset=3686-3689
-2	хүн	хүн	NOUN	_	_	6	nsubj	_	Offset=3690-3693
-3	баар	баар	NOUN	_	_	6	nmod	_	Offset=3694-3698
-4	соо	соо	ADP	_	_	3	case	_	Offset=3699-3702
-5	үүдэшэнɵɵр	үүдэшэн	NOUN	_	_	6	nmod	_	Offset=3703-3713
-6	ажалжа	ажалха	VERB	_	_	0	root	_	Offset=3714-3720
-7	байгаа	бай	AUX	_	_	6	aux	_	Offset=3721-3727
-8	.	.	PUNCT	_	_	6	punct	_	Offset=3728-3729
-
-1	Ушар	ушар	NOUN	_	_	7	nsubj	_	Offset=3731-3735
-2	хадаа	хадаа	PART	_	_	1	discourse	_	Offset=3736-3741
-3	–	–	PUNCT	_	_	1	punct	_	Offset=3742-3743
-4	үдэшын	үдэшын	ADJ	_	_	5	compound	_	Offset=3744-3750
-5	найрай	найр	NOUN	_	_	7	nmod	_	Offset=3751-3757
-6	үнгэрэмсɵɵр	үнгэрэмсɵɵр	ADP	_	_	5	case	_	Offset=3758-3769
-7	хэлсээн	хэлсэхэ	VERB	_	_	0	root	_	Offset=3770-3777
-8	.	.	PUNCT	_	_	7	punct	_	Offset=3778-3779
-
-1	Энэшни	энэ	PRON	_	_	6	nsubj	_	Offset=3781-3787
-2	баһаашье	баһа	ADV	_	_	6	advmod	_	Offset=3788-3796
-3	,	,	PUNCT	_	_	2	punct	_	Offset=3797-3798
-4	хэзээб	хэзээб	ADV	_	_	6	advmod	_	Offset=3799-3805
-5	даа	даа	PART	_	_	4	discourse	_	Offset=3806-3809
-6	залуухан	залуухан	ADJ	_	_	0	root	_	Offset=3810-3818
-7	ябаа	ябаха	VERB	_	_	6	cop	_	Offset=3819-3823
-8	.	.	PUNCT	_	_	6	punct	_	Offset=3824-3825
-
-1	Намда	би	PRON	_	_	6	iobj	_	Offset=3827-3832
-2	,	,	PUNCT	_	_	3	punct	_	Offset=3833-3834
-3	гэбэшье	гэбэшье	ADV	_	_	6	advmod	_	Offset=3835-3842
-4	,	,	PUNCT	_	_	3	punct	_	Offset=3843-3844
-5	тиигэжэ	тиигэжэ	PRON	_	_	6	dobj	_	Offset=3845-3852
-6	хэлэхэ	хэлэхэ	VERB	_	_	0	root	_	Offset=3853-3859
-7	хэрэггүй	хэрэг	AUX	_	_	6	aux	_	Offset=3860-3868
-8	байгаа	бай	AUX	_	_	6	aux	_	Offset=3869-3875
-9	.	.	PUNCT	_	_	6	punct	_	Offset=3876-3877
-
-1	Жирафууд	жираф	NOUN	_	_	6	nsubj	_	Offset=3879-3887
-2	–	–	PUNCT	_	_	1	punct	_	Offset=3888-3889
-3	эгээл	эгээл	ADV	_	_	4	advmod	_	Offset=3890-3895
-4	һонирхолтой	һонирхолтой	ADJ	_	_	6	amod	_	Offset=3896-3907
-5	зэрлиг	зэрлиг	ADJ	_	_	6	mwe	_	Offset=3908-3914
-6	амитад	амитан	NOUN	_	_	0	root	_	Offset=3915-3921
-7	.	.	PUNCT	_	_	6	punct	_	Offset=3922-3923
-
-1	Эгээл	эгээл	ADV	_	_	2	advmod	_	Offset=3925-3930
-2	һонирхолтой	һонирхолтой	ADJ	_	_	4	amod	_	Offset=3931-3942
-3	зэрлиг	зэрлиг	ADJ	_	_	4	compound	_	Offset=3943-3949
-4	амитад	амитан	NOUN	_	_	7	nsubj	_	Offset=3950-3956
-5	гэхэдээ	гэхэ	PART	_	_	7	discourse	_	Offset=3957-3964
-6	–	–	PUNCT	_	_	7	punct	_	Offset=3965-3966
-7	жирафууд	жираф	NOUN	_	_	0	root	_	Offset=3967-3975
-8	болоно	болохо	VERB	_	_	7	cop	_	Offset=3976-3982
-9	.	.	PUNCT	_	_	7	punct	_	Offset=3983-3984
-
-1	Жирафууд	жираф	NOUN	_	_	6	nsubj	_	Offset=3986-3994
-2	–	–	PUNCT	_	_	1	punct	_	Offset=3995-3996
-3	эгээл	эгээл	ADV	_	_	4	advmod	_	Offset=3997-4002
-4	һонирхолтой	һонирхолтой	ADJ	_	_	6	amod	_	Offset=4003-4014
-5	зэрлиг	зэрлиг	ADJ	_	_	6	mwe	_	Offset=4015-4021
-6	амитад	амитан	NOUN	_	_	0	root	_	Offset=4022-4028
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4029-4030
-
-1	Эгээл	эгээл	ADV	_	_	2	advmod	_	Offset=4032-4037
-2	һонирхолтой	һонирхолтой	ADJ	_	_	4	amod	_	Offset=4038-4049
-3	зэрлиг	зэрлиг	ADJ	_	_	4	compound	_	Offset=4050-4056
-4	амитад	амитан	NOUN	_	_	7	nsubj	_	Offset=4057-4063
-5	гэхэдээ	гэхэ	PART	_	_	7	discourse	_	Offset=4064-4071
-6	–	–	PUNCT	_	_	7	punct	_	Offset=4072-4073
-7	жирафууд	жираф	NOUN	_	_	0	root	_	Offset=4074-4082
-8	болоно	болохо	VERB	_	_	7	cop	_	Offset=4083-4089
-9	.	.	PUNCT	_	_	7	punct	_	Offset=4090-4091
-
-1	Зай	зай	INTJ	_	_	5	discourse	_	Offset=4095-4098
-2	,	,	PUNCT	_	_	1	punct	_	Offset=4099-4100
-3	аян	аян	NOUN	_	_	5	nsubj	_	Offset=4101-4104
-4	ямараар	ямараар	ADV	_	_	5	advmod	_	Offset=4105-4112
-5	үнгэрɵɵб	үнгэрхэ	VERB	_	_	0	root	_	Offset=4113-4121
-6	?	?	PUNCT	_	_	5	punct	_	Offset=4122-4123
-
-1	Би	би	PRON	_	_	2	nsubj	_	Offset=4125-4127
-2	асууһааб	асууха	VERB	_	_	5	parataxis	_	Offset=4128-4136
-3	,	,	PUNCT	_	_	2	punct	_	Offset=4137-4138
-4	аян	аян	NOUN	_	_	5	nsubj	_	Offset=4139-4142
-5	дэмбэрэлтэй	дэмбэрэлтэй	ADJ	_	_	0	root	_	Offset=4143-4154
-6	байгаа	байха	VERB	_	_	5	cop	_	Offset=4155-4161
-7	гүү	гү	PART	_	_	5	discourse	_	Offset=4162-4165
-8	?	?	PUNCT	_	_	5	punct	_	Offset=4166-4167
-
-1	Хамтарал	хамтарал	NOUN	_	_	0	root	_	Offset=4169-4177
-2	,	,	PUNCT	_	_	1	punct	_	Offset=4178-4179
-3	тэрэнэй	тэрэ	PRON	_	_	4	nmod:own	_	Offset=4180-4187
-4	түрүүлэгшэ	түрүүлэгшэ	NOUN	_	_	1	nmod	_	Offset=4188-4198
-5	гэхэдээ	гэхэ	PART	_	_	4	discourse	_	Offset=4199-4206
-6	,	,	PUNCT	_	_	7	punct	_	Offset=4207-4208
-7	Матикайнэн	Матикайнэн	PROPN	_	_	4	appos	_	Offset=4209-4219
-8	.	.	PUNCT	_	_	4	punct	_	Offset=4220-4221
-
-1	һайхан	һайхан	ADJ	_	_	3	nsubj	_	Offset=4223-4229
-2	энэ	энэ	DET	_	_	3	det	_	Offset=4230-4233
-3	гэр	гэр	NOUN	_	_	0	root	_	Offset=4234-4237
-4	.	.	PUNCT	_	_	3	punct	_	Offset=4238-4239
-
-1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	2	compound	_	Offset=4241-4249
-2	Маатти	Матти	PROPN	_	_	3	name	_	Offset=4250-4256
-3	Таммиинэн	Таммиинэн	PROPN	_	_	5	nsubj	_	Offset=4257-4266
-4	үгэдэ	үгэ	NOUN	_	_	5	dobj	_	Offset=4267-4272
-5	хүртэнэ	хүртэхэ	VERB	_	_	0	root	_	Offset=4273-4280
-6	.	.	PUNCT	_	_	5	punct	_	Offset=4281-4282
-
-1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	6	nsubj	_	Offset=4284-4292
-2	Маатти	Матти	PROPN	_	_	3	name	_	Offset=4293-4299
-3	Тамминэн	Тамминэн	PROPN	_	_	1	appos	_	Offset=4300-4308
-4	мүнɵɵдэр	мүнɵɵдэр	ADV	_	_	6	advmod	_	Offset=4309-4317
-5	лекци	лекци	NOUN	_	_	6	dobj	_	Offset=4318-4323
-6	уншана	уншаха	VERB	_	_	0	root	_	Offset=4324-4330
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4331-4332
-
-1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	0	root	_	Offset=4334-4342
-2	,	,	PUNCT	_	_	1	punct	_	Offset=4343-4344
-3	Маатти	Матти	PROPN	_	_	4	name	_	Offset=4345-4351
-4	Тамминэн	Тамминэн	PROPN	_	_	1	appos	_	Offset=4352-4360
-5	.	.	PUNCT	_	_	4	punct	_	Offset=4361-4362
-
-1	Роман	роман	NOUN	_	_	0	root	_	Offset=4364-4369
-2	«	«	PUNCT	_	_	3	punct	_	Offset=4370-4371
-3	Путкинооткэ	Путкинотко	PROPN	_	_	1	appos	_	Offset=4372-4383
-4	»	»	PUNCT	_	_	3	punct	_	Offset=4384-4385
-
-1	Тэрэшни	тэрэ	PRON	_	_	3	nsubj	_	Offset=4455-4462
-2	үдэшэндɵɵ	үдэшэ	ADV	_	_	3	advmod	_	Offset=4463-4472
-3	ерэхэб	ерэхэ	VERB	_	_	0	root	_	Offset=4473-4479
-4	гэжэ	гэ	PART	_	_	5	discourse	_	Offset=4480-4484
-5	хэлээ	хэлэхэ	VERB	_	_	3	parataxis	_	Offset=4485-4490
-6	.	.	PUNCT	_	_	5	punct	_	Offset=4491-4492
-
-1	Хүбүүн	хүбүүн	NOUN	_	_	4	nsubj	_	Offset=4494-4500
-2	гэрэйхи	гэр	NOUN	_	_	3	compound	_	Offset=4501-4508
-3	ажалаа	ажал	NOUN	_	_	4	dobj	_	Offset=4509-4515
-4	абанхай	абадаха	VERB	_	_	0	root	_	Offset=4516-4523
-5	,	,	PUNCT	_	_	4	punct	_	Offset=4524-4525
-6	юундэб	юундэ	ADP	_	_	10	mark	_	Offset=4526-4532
-7	гэхэдэ	гэхэ	PART	_	_	10	discourse	_	Offset=4533-4539
-8	,	,	PUNCT	_	_	6	punct	_	Offset=4540-4541
-9	багшань	багша	NOUN	_	_	10	nsubj	_	Offset=4542-4549
-10	шалгаха	шалгаха	VERB	_	_	4	advcl	_	Offset=4550-4557
-11	.	.	PUNCT	_	_	10	punct	_	Offset=4558-4559
-
-1	Тооһоноо	тооһон	NOUN	_	_	2	nmod	_	Offset=4561-4569
-2	аршажа	аршажа	NOUN	_	_	3	dobj	_	Offset=4570-4576
-3	дууһаад	дууһаха	VERB	_	_	0	root	_	Offset=4577-4584
-4	,	,	PUNCT	_	_	3	punct	_	Offset=4585-4586
-5	тиигээд	тиигээд	ADP	_	_	10	mark	_	Offset=4587-4594
-6	тооһо	тооһон	NOUN	_	_	7	mwe	_	Offset=4595-4600
-7	хородог	хорохо	NOUN	_	_	8	mwe	_	Offset=4601-4608
-8	машинаар	машина	NOUN	_	_	9	nmod	_	Offset=4609-4617
-9	сэбэрлэлгэ	сэбэрлэлгэ	NOUN	_	_	10	dobj	_	Offset=4618-4628
-10	хэбэ	хэхэ	VERB	_	_	3	advcl	_	Offset=4629-4633
-11	.	.	PUNCT	_	_	10	punct	_	Offset=4634-4635
-
-1	Минии	минии	DET	_	_	3	det	_	Offset=4691-4696
-2	унталгын	унталга	NOUN	_	_	3	compound	_	Offset=4697-4705
-3	хубсаһан	хубсаһан	NOUN	_	_	6	acl	_	Offset=4706-4714
-4	соо	соо	ADP	_	_	3	case	_	Offset=4715-4718
-5	байһан	байха	VERB	_	_	3	cop	_	Offset=4719-4725
-6	зааниие	заан	NOUN	_	_	8	dobj	_	Offset=4726-4733
-7	би	би	PRON	_	_	8	nsubj	_	Offset=4734-4736
-8	буудажархёоб	буудажархиха	VERB	_	_	0	root	_	Offset=4737-4749
-9	.	.	PUNCT	_	_	8	punct	_	Offset=4750-4751
-
-1	Би	би	PRON	_	_	6	nsubj	_	Offset=4812-4814
-2	ɵɵрынгɵɵ	ɵɵрынгɵɵ	DET	_	_	4	det	_	Offset=4815-4823
-3	унталгын	унталга	NOUN	_	_	4	compound	_	Offset=4824-4832
-4	хубсаһатаяа	хубсаһан	NOUN	_	_	5	nmod	_	Offset=4833-4844
-5	зааниие	заан	NOUN	_	_	6	dobj	_	Offset=4845-4852
-6	буудажархеоб	буудажархиха	VERB	_	_	0	root	_	Offset=4853-4865
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4866-4867
-
-1	Би	би	PRON	_	_	6	nsubj	_	Offset=4952-4954
-2	тэрэ	тэрэ	DET	_	_	3	det	_	Offset=4955-4959
-3	хүүндэ	хүн	NOUN	_	_	6	iobj	_	Offset=4960-4966
-4	эрэһэн	эрэһэн	ADJ	_	_	5	amod	_	Offset=4967-4973
-5	номыень	ном	NOUN	_	_	6	dobj	_	Offset=4974-4981
-6	үгɵɵб	үгэхэ	VERB	_	_	0	root	_	Offset=4982-4987
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4988-4989
-
-1	Yнɵɵхи	Yнɵɵхи	PRON	_	_	3	det	_	Offset=4991-4997
-2	бархируулһан	бархируулһан	ADJ	_	_	3	amod	_	Offset=4998-5010
-3	үхибүүниинь	үхибүүн	NOUN	_	_	9	nsubj	_	Offset=5011-5022
-4	,	,	PUNCT	_	_	3	punct	_	Offset=5023-5024
-5	мүнɵɵ	мүнɵɵ	ADV	_	_	9	advmod	_	Offset=5025-5030
-6	хүрэтэрɵɵ	хүрэтэр	ADP	_	_	5	case	_	Offset=5031-5040
-7	болингүйгɵɵр	болюулха	ADV	_	_	9	advmod	_	Offset=5041-5053
-8	үлүү	үлүү	ADV	_	_	9	advmod	_	Offset=5054-5058
-9	уйлана	уйлаха	VERB	_	_	0	root	_	Offset=5059-5065
-10	.	.	PUNCT	_	_	9	punct	_	Offset=5066-5067
-
-1	Гурбан	гурбан	NUM	_	_	2	nummod	_	Offset=5163-5169
-2	литр	литр	NOUN	_	_	0	root	_	Offset=5170-5174
-3	.	.	PUNCT	_	_	2	punct	_	Offset=5175-5176
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=5192-5195
-2	хүн	хүн	NOUN	_	_	6	nsubj	_	Offset=5196-5199
-3	нэгэ	нэгэ	NUM	_	_	4	nummod	_	Offset=5200-5204
-4	сара	сара	NOUN	_	_	5	nmod	_	Offset=5205-5209
-5	кофе	кофе	NOUN	_	_	6	dobj	_	Offset=5210-5214
-6	угаа	үгэхэ	VERB	_	_	0	root	_	Offset=5215-5219
-7	.	.	PUNCT	_	_	6	punct	_	Offset=5220-5221
-
-1	Би	би	PRON	_	_	5	nsubj	_	Offset=5316-5318
-2	нэгэ	нэгэ	NUM	_	_	3	nummod	_	Offset=5319-5323
-3	сара	сара	NOUN	_	_	4	nmod	_	Offset=5324-5328
-4	кофеһоо	кофе	NOUN	_	_	5	dobj	_	Offset=5329-5336
-5	арсалааб	арсаха	VERB	_	_	0	root	_	Offset=5337-5345
-6	.	.	PUNCT	_	_	5	punct	_	Offset=5346-5347
-
-1	Хүбүүдэй	хүбүүн	NOUN	_	_	2	nmod	_	Offset=5349-5357
-2	нэгэниинь	нэгэн	PRON	_	_	3	nsubj	_	Offset=5358-5367
-3	зугадаа	зугаха	VERB	_	_	0	root	_	Offset=5368-5375
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5376-5377
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=5379-5383
-2	хүн	хүн	NOUN	_	_	5	nsubj	_	Offset=5384-5387
-3	хүбүүдэй	хүбүүн	NOUN	_	_	5	nmod	_	Offset=5388-5396
-4	нэгэ	нэгэ	NUM	_	_	5	nummod	_	Offset=5397-5401
-5	нэгэниинь	нэгэн	PRON	_	_	0	root	_	Offset=5402-5411
-6	байгаа	байха	VERB	_	_	5	cop	_	Offset=5412-5418
-7	.	.	PUNCT	_	_	6	punct	_	Offset=5419-5420
-
-1	Сонхоор	сонхо	NOUN	_	_	4	nmod	_	Offset=5422-5429
-2	хүхэ	хүхэ	ADJ	_	_	3	amod	_	Offset=5430-5434
-3	юумэн	юумэн	PRON	_	_	4	nsubj	_	Offset=5435-5440
-4	харагдажа	харагдаха	VERB	_	_	0	root	_	Offset=5441-5450
-5	байгаа	бай	AUX	_	_	4	aux	_	Offset=5451-5457
-6	.	.	PUNCT	_	_	4	punct	_	Offset=5458-5459
-
-1	Сэсэгүүдэй	сэсэг	NOUN	_	_	3	nmod	_	Offset=5461-5471
-2	эгээл	эгээл	ADV	_	_	3	advmod	_	Offset=5472-5477
-3	һайханиинь	һайхан	ADJ	_	_	6	nsubj	_	Offset=5478-5488
-4	улаан	улаан	ADJ	_	_	6	amod	_	Offset=5489-5494
-5	бамба	бамба	ADJ	_	_	6	mwe	_	Offset=5495-5500
-6	сэсэг	сэсэг	NOUN	_	_	0	root	_	Offset=5501-5506
-7	байгаа	байха	VERB	_	_	6	cop	_	Offset=5507-5513
-8	.	.	PUNCT	_	_	7	punct	_	Offset=5514-5515
-
-1	Терапи	терапи	NOUN	_	_	2	nsubjpass	_	Offset=5575-5581
-2	зууршалагдаһан	зууршалха	VERB	_	_	0	root	_	Offset=5582-5596
-3	байгаа	бай	AUX	_	_	2	auxpass	_	Offset=5597-5603
-4	тэрэ	тэрэ	DET	_	_	5	det	_	Offset=5604-5608
-5	хүн	хүн	NOUN	_	_	6	nmod	_	Offset=5609-5612
-6	зондо	зон	NOUN	_	_	2	dobj	_	Offset=5613-5618
-7	,	,	PUNCT	_	_	10	punct	_	Offset=5619-5620
-8	хэн	хэн	PRON	_	_	10	nsubj	_	Offset=5621-5624
-9	усалталгада	усалталга	NOUN	_	_	10	dobj	_	Offset=5625-5636
-10	орооб	орохо	VERB	_	_	6	acl	_	Offset=5637-5642
-11	.	.	PUNCT	_	_	10	punct	_	Offset=5643-5644
-
-1	Сонхоной	сонхо	NOUN	_	_	5	nmod	_	Offset=5646-5654
-2	хойно	хойно	ADP	_	_	1	case	_	Offset=5655-5660
-3	хүхэ	хүхэ	ADJ	_	_	4	amod	_	Offset=5661-5665
-4	юумэн	юумэн	PRON	_	_	5	nsubj	_	Offset=5666-5671
-5	харагдажа	харагдаха	VERB	_	_	0	root	_	Offset=5672-5681
-6	байгаа	бай	AUX	_	_	5	aux	_	Offset=5682-5688
-7	.	.	PUNCT	_	_	5	punct	_	Offset=5689-5690
-
-1	Усалталгада	усалталга	NOUN	_	_	2	dobj	_	Offset=5692-5703
-2	ороһон	орохо	VERB	_	_	4	acl	_	Offset=5704-5710
-3	хүн	хүн	NOUN	_	_	4	nmod	_	Offset=5711-5714
-4	зондо	зон	NOUN	_	_	6	iobj	_	Offset=5715-5720
-5	терапи	терапи	NOUN	_	_	6	nsubjpass	_	Offset=5721-5727
-6	зууршалагдаһан	зууршалха	VERB	_	_	0	root	_	Offset=5728-5742
-7	байна	байха	AUX	_	_	6	auxpass	_	Offset=5743-5748
-8	.	.	PUNCT	_	_	6	punct	_	Offset=5749-5750
-
-1	Тогооной	тогоон	NOUN	_	_	2	compound	_	Offset=5752-5760
-2	таһалга	таһалга	NOUN	_	_	3	nsubj	_	Offset=5761-5768
-3	жаахан	жаахан	ADJ	_	_	0	root	_	Offset=5769-5775
-4	,	,	PUNCT	_	_	3	punct	_	Offset=5776-5777
-5	айлшадай	айлшан	NOUN	_	_	6	compound	_	Offset=5778-5786
-6	таһалгада	таһалга	NOUN	_	_	3	nmod	_	Offset=5787-5796
-7	ороходоо	ороходоо	SCONJ	_	_	3	mark	_	Offset=5797-5805
-8	.	.	PUNCT	_	_	3	punct	_	Offset=5806-5807
-
-1	Маттинай	Матти	PROPN	_	_	3	nmod	_	Offset=5809-5817
-2	түмэр	түмэр	ADJ	_	_	3	mwe	_	Offset=5818-5823
-3	морин	морин	NOUN	_	_	4	nsubj	_	Offset=5824-5829
-4	томо	томо	ADJ	_	_	0	root	_	Offset=5830-5834
-5	,	,	PUNCT	_	_	4	punct	_	Offset=5835-5836
-6	Пеккинэй	Пекка	PROPN	_	_	8	nmod	_	Offset=5837-5845
-7	түмэр	түмэр	ADJ	_	_	8	mwe	_	Offset=5846-5851
-8	мориндо	морин	NOUN	_	_	4	nmod	_	Offset=5852-5859
-9	ороходоо	ороходоо	SCONJ	_	_	4	mark	_	Offset=5860-5868
-10	.	.	PUNCT	_	_	4	discourse	_	Offset=5869-5870
-
-1	Айлшадай	айлшан	NOUN	_	_	2	compound	_	Offset=5872-5880
-2	таһалга	таһалга	NOUN	_	_	3	nsubj	_	Offset=5881-5888
-3	томо	томо	ADJ	_	_	0	root	_	Offset=5889-5893
-4	,	,	PUNCT	_	_	3	punct	_	Offset=5894-5895
-5	тогооной	тогоон	NOUN	_	_	6	compound	_	Offset=5896-5904
-6	таһалгада	таһалга	NOUN	_	_	3	nmod	_	Offset=5905-5914
-7	ороходоо	ороходоо	SCONJ	_	_	3	mark	_	Offset=5915-5923
-8	.	.	PUNCT	_	_	3	punct	_	Offset=5924-5925
-
-1	Би	би	PRON	_	_	6	nsubj	_	Offset=5927-5929
-2	мүн	мүн	ADV	_	_	6	advmod	_	Offset=5930-5933
-3	лэ	лэ	PART	_	_	6	discourse	_	Offset=5934-5936
-4	тиимэ	тиимэ	PRON	_	_	5	det	_	Offset=5937-5942
-5	ном	ном	NOUN	_	_	6	dobj	_	Offset=5943-5946
-6	уншааб	уншаха	VERB	_	_	0	root	_	Offset=5947-5953
-7	,	,	PUNCT	_	_	6	punct	_	Offset=5954-5955
-8	Пеккин	Пекка	PROPN	_	_	9	nsubj	_	Offset=5956-5962
-9	уншаһан	уншаха	VERB	_	_	10	acl	_	Offset=5963-5970
-10	номдо	ном﻿	NOUN	_	_	6	nmod	_	Offset=5971-5976
-11	адли	адли	PART	_	_	6	discourse	_	Offset=5977-5981
-12	.	.	PUNCT	_	_	6	punct	_	Offset=5982-5983
-
-1	Эгээ	эгээ	ADV	_	_	2	advmod	_	Offset=5985-5989
-2	томо	томо	ADJ	_	_	3	amod	_	Offset=5990-5994
-3	ореолто	ореолто	NOUN	_	_	7	nsubj	_	Offset=5995-6002
-4	бэшэн	бэшэн	DET	_	_	5	det	_	Offset=6003-6008
-5	ореолтонуудай	ореолто	NOUN	_	_	7	nmod	_	Offset=6009-6022
-6	хойно	хойно	ADP	_	_	5	case	_	Offset=6023-6028
-7	байгаа	байха	VERB	_	_	0	root	_	Offset=6029-6035
-8	.	.	PUNCT	_	_	7	punct	_	Offset=6036-6037
-
-1	Финляндиин	Финляндиин	PROPN	_	_	3	nmod	_	Offset=6039-6049
-2	шэлэдэг	шэлэдэг	ADJ	_	_	3	amod	_	Offset=6050-6057
-3	тогоошон	Тогоошон	NOUN	_	_	0	root	_	Offset=6058-6066
-4	.	.	PUNCT	_	_	3	punct	_	Offset=6067-6068
-
-1	Шандаганай	шандаган	NOUN	_	_	5	nmod:own	_	Offset=6122-6132
-2	хамагай	хамагай	ADV	_	_	3	advmod	_	Offset=6133-6140
-3	муу	муу	ADJ	_	_	5	amod	_	Offset=6141-6144
-4	дай	дай	ADJ	_	_	5	compound	_	Offset=6145-6148
-5	жүрɵɵдэһэн	жүрɵɵдэһэн	NOUN	_	_	0	root	_	Offset=6149-6159
-6	.	.	PUNCT	_	_	5	punct	_	Offset=6160-6161
-
-1	Тогоошон	Тогоошон	NOUN	_	_	4	nsubj	_	Offset=6163-6171
-2	–	–	PUNCT	_	_	1	punct	_	Offset=6172-6173
-3	хамагай	хамагай	ADV	_	_	4	advmod	_	Offset=6174-6181
-4	шэлэдэг	шэлэдэг	ADJ	_	_	0	root	_	Offset=6182-6189
-5	Финляндиин	Финляндиин	PROPN	_	_	4	nmod	_	Offset=6190-6200
-6	.	.	PUNCT	_	_	4	punct	_	Offset=6201-6202
-
-1	Дай	дай	ADJ	_	_	2	compound	_	Offset=6258-6261
-2	жүрɵɵдэһэн	жүрɵɵдэһэн	NOUN	_	_	5	nsubj	_	Offset=6262-6272
-3	–	–	PUNCT	_	_	2	punct	_	Offset=6273-6274
-4	хамагай	хамагай	ADV	_	_	5	advmod	_	Offset=6275-6282
-5	муу	муу	ADJ	_	_	0	root	_	Offset=6283-6286
-6	шандаганда	шандаган	NOUN	_	_	5	nmod	_	Offset=6287-6297
-7	?	?	PUNCT	_	_	5	punct	_	Offset=6298-6299
-
-1	Сэсэгүүдэй	сэсэг	NOUN	_	_	3	nmod	_	Offset=6301-6311
-2	хамагай	хамагай	ADV	_	_	3	advmod	_	Offset=6312-6319
-3	һайханиинь	һайхан	ADJ	_	_	7	nsubj	_	Offset=6320-6330
-4	сонхын	сонхо	NOUN	_	_	5	compound	_	Offset=6331-6337
-5	хулууда	хулууда	NOUN	_	_	7	nmod	_	Offset=6338-6345
-6	дээрэ	дээрэ	ADP	_	_	5	case	_	Offset=6346-6351
-7	байгаа	байха	VERB	_	_	0	root	_	Offset=6352-6358
-8	.	.	PUNCT	_	_	7	punct	_	Offset=6359-6360
-
-1	Би	би	NOUN	_	_	2	nsubj	_	Offset=6434-6436
-2	золгооб	золгохо	VERB	_	_	0	root	_	Offset=6437-6444
-3	тэрэнтэй	тэрэ	PRON	_	_	2	dobj	_	Offset=6445-6453
-4	,	,	PUNCT	_	_	2	punct	_	Offset=6454-6455
-5	алаабхиһаа	алаабхи	NOUN	_	_	6	nmod	_	Offset=6456-6466
-6	гараад	гараха	VERB	_	_	2	xcomp	_	Offset=6467-6473
-7	байтараа	байха	AUX	_	_	6	aux	_	Offset=6474-6482
-8	.	.	PUNCT	_	_	6	punct	_	Offset=6483-6484
-
-1	Би	би	PRON	_	_	4	nsubj	_	Offset=6486-6488
-2	мэтэр	мэтэр	ADV	_	_	4	advmod	_	Offset=6489-6494
-3	тиишээ	тиишээ	ADV	_	_	4	advmod	_	Offset=6495-6501
-4	ошохоб	ошохо	VERB	_	_	0	root	_	Offset=6502-6508
-5	,	,	PUNCT	_	_	4	punct	_	Offset=6509-6510
-6	арга	арга	NOUN	_	_	7	nmod	_	Offset=6511-6515
-7	шадал	шадал	NOUN	_	_	8	dobj	_	Offset=6516-6521
-8	олоһоор	олохо	VERB	_	_	4	xcomp	_	Offset=6522-6529
-9	.	.	PUNCT	_	_	8	punct	_	Offset=6530-6531
-
-1	Гэрэй	гэр	NOUN	_	_	2	nmod:own	_	Offset=6602-6607
-2	орой	орой	NOUN	_	_	0	root	_	Offset=6608-6612
-3	.	.	PUNCT	_	_	2	punct	_	Offset=6613-6614
-
-1	Гэрэй	гэр	NOUN	_	_	2	nmod:own	_	Offset=6616-6621
-2	байшан	байшан	NOUN	_	_	0	root	_	Offset=6622-6628
-3	.	.	PUNCT	_	_	2	punct	_	Offset=6629-6630
-
-1	Сэсэгэй	сэсэг	NOUN	_	_	2	compound	_	Offset=6632-6639
-2	багтаамжын	багтаамжа	NOUN	_	_	3	nmod	_	Offset=6640-6650
-3	уналга	уналга	NOUN	_	_	0	root	_	Offset=6651-6657
-4	.	.	PUNCT	_	_	3	punct	_	Offset=6658-6659
-
-1	Бүүбэйнүүд	бүүбэй	NOUN	_	_	3	nsubj	_	Offset=6661-6671
-2	зодоо	зодоо	ADV	_	_	3	advmod	_	Offset=6672-6677
-3	гурбатайһаань	гурбан	NUM	_	_	0	root	_	Offset=6678-6691
-4	таба	табан	NUM	_	_	3	nummod	_	Offset=6692-6696
-5	болотор	болотор	ADP	_	_	4	case	_	Offset=6697-6704
-6	.	.	PUNCT	_	_	3	punct	_	Offset=6705-6706
-
-1	Декабриин	декабрь	NOUN	_	_	7	nmod	_	Offset=6708-6717
-2	гурбанһаа	гурба	NUM	_	_	1	nummod	_	Offset=6718-6727
-3	мянга	мянга	NUM	_	_	4	compound	_	Offset=6728-6733
-4	табан	табан	NUM	_	_	5	compound	_	Offset=6734-6739
-5	зуун	зуун	NUM	_	_	6	compound	_	Offset=6740-6744
-6	арбадахи	арбан	NUM	_	_	7	nummod	_	Offset=6745-6753
-7	онһоо	он	NOUN	_	_	0	root	_	Offset=6754-6759
-8	июниинь	июнь	NOUN	_	_	16	nmod	_	Offset=6760-6767
-9	арбан	арбан	NUM	_	_	10	compound	_	Offset=6768-6773
-10	табанай	табан	NUM	_	_	8	nummod	_	Offset=6774-6781
-11	мянга	мянга	NUM	_	_	12	compound	_	Offset=6782-6787
-12	табан	табан	NUM	_	_	13	compound	_	Offset=6788-6793
-13	зуун	зуун	NUM	_	_	14	compound	_	Offset=6794-6798
-14	далан	далан	NUM	_	_	15	compound	_	Offset=6799-6804
-15	юһэдэхи	юһэн	NUM	_	_	16	nummod	_	Offset=6805-6812
-16	он	он	NOUN	_	_	7	nmod	_	Offset=6813-6815
-17	хүрэтэр	хүрэтэр	ADP	_	_	16	case	_	Offset=6816-6823
-18	.	.	PUNCT	_	_	16	punct	_	Offset=6824-6825
-
-1	Декабриин	декабрь	NOUN	_	_	0	root	_	Offset=6827-6836
-2	гурба	гурба	NUM	_	_	1	nummod	_	Offset=6837-6842
-
-1	Мянга	мянга	NUM	_	_	2	compound	_	Offset=6843-6848
-2	юһэн	юһэн	NUM	_	_	3	compound	_	Offset=6849-6853
-3	зуун	зуун	NUM	_	_	4	compound	_	Offset=6854-6858
-4	ерэн	ерэн	NUM	_	_	5	compound	_	Offset=6859-6863
-5	зургаадахи	зурган	NUM	_	_	6	nummod	_	Offset=6864-6874
-6	ондо	он	NOUN	_	_	7	nmod	_	Offset=6875-6879
-7	хэлэгдээ	хэлэхэ	VERB	_	_	0	root	_	Offset=6880-6888
-8	.	.	PUNCT	_	_	7	punct	_	Offset=6889-6890
-
-1	Зунай	зун	NOUN	_	_	8	nmod	_	Offset=6892-6897
-2	мянга	мянга	NUM	_	_	3	compound	_	Offset=6898-6903
-3	юһэн	юһэн	NUM	_	_	4	compound	_	Offset=6904-6908
-4	зуун	зуун	NUM	_	_	5	compound	_	Offset=6909-6913
-5	далан	далан	NUM	_	_	6	compound	_	Offset=6914-6919
-6	хоердохи	хоёр	NUM	_	_	7	nummod	_	Offset=6920-6928
-7	ондо	он	NOUN	_	_	8	nmod	_	Offset=6929-6933
-8	болоо	болохо	VERB	_	_	0	root	_	Offset=6934-6939
-9	.	.	PUNCT	_	_	8	punct	_	Offset=6940-6941
-
-1	Сентябриин	Сентябрь	NOUN	_	_	0	root	_	Offset=6943-6953
-2	гурбадахи	гурба	ADJ	_	_	5	amod	_	Offset=6954-6963
-3	ба	ба	CONJ	_	_	2	cc	_	Offset=6964-6966
-4	дүрбэдэхи	дүрбэн	ADJ	_	_	2	conj	_	Offset=6967-6976
-5	үдэрнүүд	үдэр	NOUN	_	_	1	nmod	_	Offset=6977-6985
-6	.	.	PUNCT	_	_	1	punct	_	Offset=6986-6987
-
-1	Зургаадахи	зурган	ADJ	_	_	2	amod	_	Offset=6989-6999
-2	декабриин	декабрь	NOUN	_	_	0	root	_	Offset=7000-7009
-3	арбан	арбан	NUM	_	_	4	nummod	_	Offset=7010-7015
-4	найман	найман	NUM	_	_	5	nummod	_	Offset=7016-7022
-5	сагта	саг	NOUN	_	_	2	nmod	_	Offset=7023-7028
-6	.	.	PUNCT	_	_	2	punct	_	Offset=7029-7030
-
-1	Хоер	хоер	NUM	_	_	2	nummod	_	Offset=7032-7036
-2	килограмм	килограмм	NOUN	_	_	0	root	_	Offset=7037-7046
-3	гурбан	гурбан	NUM	_	_	4	nummod	_	Offset=7047-7053
-4	зуун	зуун	NUM	_	_	5	nummod	_	Offset=7054-7058
-5	арбан	арбан	NUM	_	_	6	nummod	_	Offset=7059-7064
-6	табан	табан	NUM	_	_	7	nummod	_	Offset=7065-7070
-7	грамм	грамм	NOUN	_	_	2	nmod	_	Offset=7071-7076
-
-1	Хоер	хоер	NUM	_	_	2	nummod	_	Offset=7077-7081
-2	килограмм	килограмм	NOUN	_	_	0	root	_	Offset=7082-7091
-3	гурбан	гурбан	NUM	_	_	4	nummod	_	Offset=7092-7098
-4	зуун	зуун	NUM	_	_	5	nummod	_	Offset=7099-7103
-5	арбан	арбан	NUM	_	_	6	nummod	_	Offset=7104-7109
-6	таба	табан	NUM	_	_	2	nummod	_	Offset=7110-7114
-
-1	Евэ	Ева	PROPN	_	_	2	nsubj	_	Offset=7118-7121
-2	хээлитэй	хээлитэй	ADJ	_	_	0	root	_	Offset=7122-7130
-3	.	.	PUNCT	_	_	2	punct	_	Offset=7131-7132
-
-1	Хээлитэй	хээлитэй	ADJ	_	_	2	amod	_	Offset=7134-7142
-2	эхэнэр	эхэнэр	NOUN	_	_	3	nsubj	_	Offset=7143-7149
-3	үлэн	үлэн	ADJ	_	_	0	root	_	Offset=7150-7154
-4	.	.	PUNCT	_	_	3	punct	_	Offset=7155-7156
-
-1	Хээлитэй	хээлитэй	ADJ	_	_	2	amod	_	Offset=7158-7166
-2	эхэнэр	эхэнэр	NOUN	_	_	3	nsubj	_	Offset=7167-7173
-3	үлэн	үлэн	ADJ	_	_	0	root	_	Offset=7174-7178
-4	байна	байха	VERB	_	_	3	cop	_	Offset=7179-7184
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7185-7186
-
-1	Ашагдаһан	ашагдаһан	ADJ	_	_	3	amod	_	Offset=7223-7232
-2	байдалай	байдалай	NOUN	_	_	3	compound	_	Offset=7233-7241
-3	баялигууд	баялиг	NOUN	_	_	5	nsubj	_	Offset=7242-7251
-4	тоодо	тоодо	NOUN	_	_	5	nmod	_	Offset=7252-7257
-5	ороод	орохо	VERB	_	_	0	root	_	Offset=7258-7263
-6	байна	байха	AUX	_	_	5	aux	_	Offset=7264-7269
-7	.	.	PUNCT	_	_	5	punct	_	Offset=7270-7271
-
-1	һайн	һайн	ADJ	_	_	2	amod	_	Offset=7273-7277
-2	эдеэлхэ	эдеэлхэ	NOUN	_	_	3	nsubj	_	Offset=7278-7285
-3	томорхуу	томорхуу	ADJ	_	_	0	root	_	Offset=7286-7294
-4	.	.	PUNCT	_	_	3	punct	_	Offset=7295-7296
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=7298-7302
-2	хүндэ	хүнэй	NOUN	_	_	5	nmod	_	Offset=7303-7308
-3	һайн	һайн	ADJ	_	_	4	amod	_	Offset=7309-7313
-4	эдеэлхэ	эдеэлхэ	NOUN	_	_	5	nsubj	_	Offset=7314-7321
-5	томорхуу	томорхуу	ADJ	_	_	0	root	_	Offset=7322-7330
-
-1	Энэшни	энэ	PRON	_	_	3	nsubj	_	Offset=7331-7337
-2	гэртээ	гэр	NOUN	_	_	3	nmod	_	Offset=7338-7344
-3	ошохо	ошохо	VERB	_	_	0	root	_	Offset=7345-7350
-4	еһотой	еһотой	AUX	_	_	3	aux	_	Offset=7351-7357
-
-1	Шамда	ши	PRON	_	_	4	nmod	_	Offset=7358-7363
-2	һайн	һайн	ADJ	_	_	3	amod	_	Offset=7364-7368
-3	эдеэлхэ	эдеэлхэ	NOUN	_	_	4	dobj	_	Offset=7369-7376
-4	байлсаатай	байлсаатай	VERB	_	_	0	root	_	Offset=7377-7387
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7388-7389
-
-1	Сарюун	сарюун	ADV	_	_	5	nsubj	_	Offset=7391-7397
-2	энээхэндэ	энээхэн	PRON	_	_	5	nmod	_	Offset=7398-7407
-3	газаа	газаа	NOUN	_	_	4	mwe	_	Offset=7408-7413
-4	гараад	гараха	VERB	_	_	5	xcomp	_	Offset=7414-7420
-5	амаржа	амарха	VERB	_	_	0	root	_	Offset=7421-7427
-6	ябаха	ябаха	VERB	_	_	5	xcomp	_	Offset=7428-7433
-7	.	.	PUNCT	_	_	5	punct	_	Offset=7434-7435
-
-1	Сарюун	сарюун	ADV	_	_	4	nsubj	_	Offset=7437-7443
-2	газаа	газаа	NOUN	_	_	3	mwe	_	Offset=7444-7449
-3	гараад	гараха	VERB	_	_	4	advcl	_	Offset=7450-7456
-4	амаржа	амарха	VERB	_	_	0	root	_	Offset=7457-7463
-5	ябаха	ябаха	VERB	_	_	4	xcomp	_	Offset=7464-7469
-6	.	.	PUNCT	_	_	4	punct	_	Offset=7470-7471
-
-1	Тэрэнэй	тэрэ	DET	_	_	2	det	_	Offset=7473-7480
-2	һанаархалга	һанаархалга	NOUN	_	_	5	nsubj	_	Offset=7481-7492
-3	газаа	газаа	NOUN	_	_	4	mwe	_	Offset=7493-7498
-4	гараад	гараха	VERB	_	_	5	advcl	_	Offset=7499-7505
-5	амаржа	амарха	VERB	_	_	0	root	_	Offset=7506-7512
-6	ябаха	ябаха	VERB	_	_	5	xcomp	_	Offset=7513-7518
-7	гэжэ	гэ	PART	_	_	5	discourse	_	Offset=7519-7523
-8	байгаа	байха	VERB	_	_	5	cop	_	Offset=7524-7530
-9	.	.	PUNCT	_	_	5	punct	_	Offset=7531-7532
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=7534-7537
-2	ажал	ажал	NOUN	_	_	4	nsubjpass	_	Offset=7538-7542
-3	мүүнɵɵдэр	мүүнɵɵдэр	ADV	_	_	4	advmod	_	Offset=7543-7552
-4	хэгдэжэ	хэхэ	VERB	_	_	0	root	_	Offset=7553-7560
-5	дууһаха	дууһаха	VERB	_	_	4	xcomp	_	Offset=7561-7568
-6	еһотой	еһотой	AUX	_	_	4	aux	_	Offset=7569-7575
-7	.	.	PUNCT	_	_	4	punct	_	Offset=7576-7577
-
-1	Матти	Матти	PROPN	_	_	4	nsubj	_	Offset=7579-7584
-2	ажалаа	ажал	NOUN	_	_	4	dobj	_	Offset=7585-7591
-3	мүүнɵɵдэр	мүүнɵɵдэр	ADV	_	_	4	advmod	_	Offset=7592-7601
-4	хэжэ	хэхэ	VERB	_	_	0	root	_	Offset=7602-7606
-5	дууһаха	дууһаха	VERB	_	_	4	xcomp	_	Offset=7607-7614
-6	еһотой	еһотой	AUX	_	_	4	aux	_	Offset=7615-7621
-7	.	.	PUNCT	_	_	4	punct	_	Offset=7622-7623
-
-1	Матти	Матти	PROPN	_	_	3	nsubj	_	Offset=7670-7675
-2	мүүнɵɵдэр	мүүнɵɵдэр	ADV	_	_	3	advmod	_	Offset=7676-7685
-3	ажаллаха	ажалха	VERB	_	_	0	root	_	Offset=7686-7694
-4	еһотой	еһотой	AUX	_	_	3	aux	_	Offset=7695-7701
-5	.	.	PUNCT	_	_	3	punct	_	Offset=7702-7703
-
-1	Ажалда	ажал	NOUN	_	_	2	nmod	_	Offset=7705-7711
-2	боломжотой	боломо	ADJ	_	_	3	acl	_	Offset=7712-7722
-3	зэбсэгүүдые	зэбсэг	NOUN	_	_	5	dobj	_	Offset=7723-7734
-4	мүүнɵɵдэр	мүүнɵɵдэр	ADV	_	_	5	advmod	_	Offset=7735-7744
-5	үйлэдбэрилхэ	үйлэдбэрилхэ	VERB	_	_	0	root	_	Offset=7745-7757
-6	алтай	алтай	ADV	_	_	5	aux	_	Offset=7758-7763
-7	.	.	PUNCT	_	_	5	punct	_	Offset=7764-7765
-
-1	Би	би	PRON	_	_	3	nsubj	_	Offset=7767-7769
-2	энээниие	энэ	PRON	_	_	3	dobj	_	Offset=7770-7778
-3	үйлэдэхэ	үйлэдэхэ	VERB	_	_	0	root	_	Offset=7779-7787
-4	еһотойб	еһотой	AUX	_	_	3	aux	_	Offset=7788-7795
-5	.	.	PUNCT	_	_	3	punct	_	Offset=7796-7797
-
-1	Мэдээжэ	мэдээжэ	ADJ	_	_	2	amod	_	Offset=7849-7856
-2	зүжэгшэн	зүжэгшэ	NOUN	_	_	0	root	_	Offset=7857-7865
-3	Джон	Джон	PROPN	_	_	4	name	_	Offset=7866-7870
-4	Травоолтэ	Травоолтэ	PROPN	_	_	2	compound	_	Offset=7871-7880
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7881-7882
-
-1	Уһанда	уһан	NOUN	_	_	2	nmod	_	Offset=7884-7890
-2	шунгалга	шунгалга	NOUN	_	_	3	nsubj	_	Offset=7891-7899
-3	харюултай	харюултай	ADJ	_	_	0	root	_	Offset=7900-7909
-4	.	.	PUNCT	_	_	3	punct	_	Offset=7910-7911
-
-1	Зүжэгшэн	зүжэгшэн	NOUN	_	_	0	root	_	Offset=7942-7950
-2	,	,	PUNCT	_	_	1	punct	_	Offset=7951-7952
-3	сэнтэй	сэнтэй	ADJ	_	_	5	amod	_	Offset=7953-7959
-4	түмэр	түмэр	ADJ	_	_	5	mwe	_	Offset=7960-7965
-5	моринуудараа	морин	NOUN	_	_	6	nmod	_	Offset=7966-7978
-6	мэдээжэ	мэдээжэ	ADJ	_	_	1	acl	_	Offset=7979-7986
-7	.	.	PUNCT	_	_	6	punct	_	Offset=7987-7988
-
-1	Майин	Майа	PROPN	_	_	2	nmod:own	_	Offset=8015-8020
-2	нүхэр	нүхэр	NOUN	_	_	4	nsubj	_	Offset=8021-8026
-3	Туркуһаань	Турка	PROPN	_	_	4	nmod	_	Offset=8027-8037
-4	бусахань	бусаха	VERB	_	_	0	root	_	Offset=8038-8046
-5	.	.	PUNCT	_	_	4	punct	_	Offset=8047-8048
-
-1	Ехэнхидээ	ехэнхидээ	ADV	_	_	5	advmod	_	Offset=8050-8059
-2	энэшни	энэшни	PRON	_	_	5	nsubj	_	Offset=8060-8066
-3	һонирхолой	һонирхол	NOUN	_	_	4	nmod	_	Offset=8067-8077
-4	зэргэдэ	зэргэ	NOUN	_	_	5	dobj	_	Offset=8078-8085
-5	нүлɵɵлэлгдэнэ	нүлөөлэлгэхэ	VERB	_	_	0	root	_	Offset=8086-8099
-6	.	.	PUNCT	_	_	5	punct	_	Offset=8100-8101
-
-1	Елизэ	Елизэ	PROPN	_	_	4	nsubj	_	Offset=8103-8108
-2	ба	ба	CONJ	_	_	1	cc	_	Offset=8109-8111
-3	Елиас	Елиас	PROPN	_	_	1	conj	_	Offset=8112-8117
-4	хоергэрлэнхэй	гэрлэнхэй	ADJ	_	_	0	root	_	Offset=8118-8131
-5	.	.	PUNCT	_	_	4	punct	_	Offset=8132-8133
-
-1	Матти	Матти	PROPN	_	_	2	nsubj	_	Offset=8135-8140
-2	һогтуу	һогтуу	ADJ	_	_	0	root	_	Offset=8141-8147
-3	байгаа	байха	VERB	_	_	2	cop	_	Offset=8148-8154
-4	.	.	PUNCT	_	_	3	punct	_	Offset=8155-8156
-
-1	Би	би	PRON	_	_	3	nsubj	_	Offset=8158-8160
-2	морожено	морожено	NOUN	_	_	3	dobj	_	Offset=8161-8169
-3	эдижэ	эдихэ	VERB	_	_	0	root	_	Offset=8170-8175
-4	байгааб	байха	AUX	_	_	3	aux	_	Offset=8176-8183
-5	.	.	PUNCT	_	_	3	punct	_	Offset=8184-8185
-
-1	һархяаг	һархяаг	NOUN	_	_	2	dobj	_	Offset=8235-8242
-2	эдеэ	эдихэ	VERB	_	_	0	root	_	Offset=8243-8247
-3	һаа	һаа	SCONJ	_	_	2	mark	_	Offset=8248-8251
-4	,	,	PUNCT	_	_	5	punct	_	Offset=8252-8253
-5	тэрэ	тэрэ	PRON	_	_	6	nsubj	_	Offset=8254-8258
-6	хоротой	хоротой	ADJ	_	_	1	acl	_	Offset=8259-8266
-7	,	,	PUNCT	_	_	6	punct	_	Offset=8267-8268
-8	ши	ши	PRON	_	_	9	nsubj	_	Offset=8269-8271
-9	үхэхэш	үхэхэ	VERB	_	_	2	advcl	_	Offset=8272-8278
-10	.	.	PUNCT	_	_	9	punct	_	Offset=8279-8280
-
-1	Шулуу	шулуу	NOUN	_	_	0	root	_	Offset=8282-8287
-2	шонхо	шонхо	NOUN	_	_	1	mwe	_	Offset=8288-8293
-3	,	,	PUNCT	_	_	2	punct	_	Offset=8294-8295
-4	үндэһэд	үндэһэн	NOUN	_	_	1	conj	_	Offset=8296-8303
-5	ба	ба	CONJ	_	_	1	cc	_	Offset=8304-8306
-6	шэнгэрүүһэд	шэнгэрүүһэн	NOUN	_	_	1	conj	_	Offset=8307-8318
-7	.	.	PUNCT	_	_	6	punct	_	Offset=8319-8320
-
-1	Матти	Матти	PROPN	_	_	3	nsubj	_	Offset=8322-8327
-2	ажалһаань	ажал	NOUN	_	_	3	nmod	_	Offset=8328-8337
-3	ерээ	ерэхэ	VERB	_	_	0	root	_	Offset=8338-8342
-4	;	;	PUNCT	_	_	3	punct	_	Offset=8343-8344
-5	Майя	Майя	PROPN	_	_	7	nsubj	_	Offset=8345-8349
-6	гэртээ	гэр	NOUN	_	_	7	nmod	_	Offset=8350-8356
-7	ерэнхэй	ерэнхэй	ADJ	_	_	3	parataxis	_	Offset=8357-8364
-8	байгаа	байха	VERB	_	_	7	cop	_	Offset=8365-8371
-9	.	.	PUNCT	_	_	7	punct	_	Offset=8372-8373
-
-1	«	«	PUNCT	_	_	2	punct	_	Offset=8375-8376
-2	θɵһэнɵɵ	өөһэд	PRON	_	_	4	dobj	_	Offset=8377-8384
-3	хиртээнгүйгɵɵр	хиртээхэ	ADV	_	_	4	advmod	_	Offset=8385-8399
-4	ябаарай	ябаарай	VERB	_	_	0	root	_	Offset=8400-8407
-5	»	»	PUNCT	_	_	4	punct	_	Offset=8408-8409
-6	,	,	PUNCT	_	_	4	punct	_	Offset=8410-8411
-7	-	-	PUNCT	_	_	8	punct	_	Offset=8412-8413
-8	эжы	эжы	NOUN	_	_	9	nsubj	_	Offset=8414-8417
-9	хэлэбэ	хэлэхэ	VERB	_	_	4	parataxis	_	Offset=8418-8424
-10	.	.	PUNCT	_	_	9	punct	_	Offset=8425-8426
-
-1	Мүнɵɵдэр	мүнɵɵдэр	ADV	_	_	2	advmod	_	Offset=8428-8436
-2	үдэшэ	үдэшэ	NOUN	_	_	4	nmod	_	Offset=8437-8442
-3	кино	кино	NOUN	_	_	4	nsubj	_	Offset=8443-8447
-4	гараха	гараха	VERB	_	_	0	root	_	Offset=8448-8454
-5	«	«	PUNCT	_	_	6	punct	_	Offset=8455-8456
-6	Хаан	хаан	NOUN	_	_	7	nsubj	_	Offset=8457-8461
-7	хэлэнэ	хэлэхэ	VERB	_	_	3	compound	_	Offset=8462-8468
-8	»	»	PUNCT	_	_	7	punct	_	Offset=8469-8470
-9	.	.	PUNCT	_	_	7	punct	_	Offset=8471-8472
-
-1	θɵһэнɵɵ	өөһэд	PRON	_	_	3	dobj	_	Offset=8563-8570
-2	хиртээнгүйгɵɵр	хиртээхэ	ADV	_	_	3	advmod	_	Offset=8571-8585
-3	ябаарай	ябаарай	VERB	_	_	0	root	_	Offset=8586-8593
-4	гэжэ	гэ	PART	_	_	6	discourse	_	Offset=8594-8598
-5	эжынь	эжы	NOUN	_	_	6	nsubj	_	Offset=8599-8604
-6	хэлэбэ	хэлэхэ	VERB	_	_	3	parataxis	_	Offset=8605-8611
-7	.	.	PUNCT	_	_	6	punct	_	Offset=8612-8613
-
-1	Энэшни	энэ	PRON	_	_	3	nsubj	_	Offset=8615-8621
-2	номуудта	ном	NOUN	_	_	3	dobj	_	Offset=8622-8630
-3	дуратай	дураха	VERB	_	_	0	root	_	Offset=8631-8638
-4	(	(	PUNCT	_	_	5	punct	_	Offset=8639-8640
-5	ба	ба	CONJ	_	_	2	cc	_	Offset=8641-8643
-6	зүжэгүүдтэ	зүжэг	NOUN	_	_	2	conj	_	Offset=8644-8654
-7	)	)	PUNCT	_	_	6	punct	_	Offset=8655-8656
-8	.	.	PUNCT	_	_	3	punct	_	Offset=8657-8658
-
-1	Матти	Матти	PROPN	_	_	2	name	_	Offset=8660-8665
-2	Тамминэн	Тамминэн	PROPN	_	_	0	root	_	Offset=8666-8674
-3	,	,	PUNCT	_	_	4	punct	_	Offset=8675-8676
-4	эрдэмтэн	эрдэмтэн	NOUN	_	_	2	appos	_	Offset=8677-8685
-5	.	.	PUNCT	_	_	4	punct	_	Offset=8686-8687
-
-1	Би	би	PRON	_	_	3	nsubj	_	Offset=8689-8691
-2	аяншалгада	аяншалга	NOUN	_	_	3	dobj	_	Offset=8692-8702
-3	мордохом	мордохо	VERB	_	_	0	root	_	Offset=8703-8711
-4	,	,	PUNCT	_	_	5	punct	_	Offset=8712-8713
-5	һүүлшын	һүүлшын	ADV	_	_	10	advmod	_	Offset=8714-8721
-6	хирээр	хирээр	ADV	_	_	5	mwe	_	Offset=8722-8728
-7	,	,	PUNCT	_	_	6	punct	_	Offset=8729-8730
-8	долоон	долоон	NUM	_	_	9	compound	_	Offset=8731-8737
-9	хоногой	хоног	NOUN	_	_	10	nmod	_	Offset=8738-8745
-10	турша	туршаха	VERB	_	_	3	xcomp	_	Offset=8746-8751
-11	соо	соо	ADP	_	_	10	case	_	Offset=8752-8755
-12	.	.	PUNCT	_	_	10	punct	_	Offset=8756-8757
-
-1	Алаабшанаар	алаабхи	NOUN	_	_	2	nmod	_	Offset=8759-8770
-2	ябалган	ябалга	NOUN	_	_	0	root	_	Offset=8771-8778
-3	.	.	PUNCT	_	_	2	punct	_	Offset=8779-8780
-
-1	Уян	уян	ADJ	_	_	3	amod	_	Offset=8-11
-2	нугархай	нугархай	ADJ	_	_	3	amod	_	Offset=12-20
-3	шүлэгүүдээрээ	шүлэг	NOUN	_	_	6	iobj	_	Offset=21-34
-4	оюун	оюун	NOUN	_	_	5	compound	_	Offset=35-39
-5	бэлигээ	бэлэг	NOUN	_	_	6	dobj	_	Offset=40-47
-6	гүнзэгырүүлээб	гүнзэгырүүл	VERB	_	_	0	root	_	Offset=48-62
-7	.	.	PUNCT	_	_	6	punct	_	Offset=63-64
-
-1	Дошхон	дошхон	NOUN	_	_	4	dobj	_	Offset=66-72
-2	үреэ	үреэ	INTJ	_	_	4	discourse	_	Offset=73-77
-3	һургажа	һургаха	VERB	_	_	4	xcomp	_	Offset=78-85
-4	үзэе	үзэхэ	VERB	_	_	0	root	_	Offset=86-90
-5	,	,	PUNCT	_	_	4	punct	_	Offset=91-92
-6	дэлхэйн	дэлхэйн	NOUN	_	_	9	dobj	_	Offset=93-100
-7	баялигые	баялиг	NOUN	_	_	8	nmod	_	Offset=101-109
-8	абажа	абаха	VERB	_	_	9	xcomp	_	Offset=110-115
-9	ойлгое	ойлгохо	VERB	_	_	4	parataxis	_	Offset=116-122
-10	.	.	PUNCT	_	_	9	punct	_	Offset=123-124
-
-1	Эдэ	эдэ	DET	_	_	2	det	_	Offset=185-188
-2	мүүрнүүд	мүр	NOUN	_	_	8	nsubj	_	Offset=189-197
-3	минии	минии	DET	_	_	4	det	_	Offset=198-203
-4	досоо	досоо	NOUN	_	_	8	nmod	_	Offset=204-209
-5	буряад	буряад	ADJ	_	_	6	amod	_	Offset=210-216
-6	зондоо	зон	NOUN	_	_	8	iobj	_	Offset=217-223
-7	омогорхол	омогорхол	NOUN	_	_	8	dobj	_	Offset=224-233
-8	түрүүлнэ	түрүүлхэ	VERB	_	_	0	root	_	Offset=234-242
-9	.	.	PUNCT	_	_	8	punct	_	Offset=243-244
-
-1	Нээрээшье	нээрээ	ADV	_	_	11	advmod	_	Offset=316-325
-2	,	,	PUNCT	_	_	1	punct	_	Offset=326-327
-3	буряад	буряад	ADJ	_	_	4	amod	_	Offset=328-334
-4	зон	зон	NOUN	_	_	11	nsubj	_	Offset=335-338
-5	бэшэ	бэшэ	ADJ	_	_	6	amod	_	Offset=339-343
-6	зонһоо	зон	NOUN	_	_	11	nmod	_	Offset=344-350
-7	дутуугүй	дутуу	ADV	_	_	11	advmod	_	Offset=351-359
-8	ɵɵрынгɵɵ	ɵɵрынгɵɵ	DET	_	_	9	det	_	Offset=360-368
-9	нэрые	нэрэ	NOUN	_	_	11	nmod	_	Offset=369-374
-10	дээшэнь	дээшээ	ADV	_	_	11	advmod	_	Offset=375-382
-11	үргэнэ	үргэхэ	VERB	_	_	0	root	_	Offset=383-389
-12	.	.	PUNCT	_	_	11	punct	_	Offset=390-391
-
-1	Катя	Катя	PROPN	_	_	2	nmod:own	_	Offset=393-397
-2	абгазы	абга	NOUN	_	_	7	nsubj	_	Offset=398-404
-3	олон	олон	DET	_	_	4	det	_	Offset=405-409
-4	хүүгэдтэй	хүүгэн	NOUN	_	_	6	nmod	_	Offset=410-419
-5	гэр	гэр	NOUN	_	_	6	compound	_	Offset=420-423
-6	бүлэдэ	бүлэ	NOUN	_	_	7	nmod	_	Offset=424-430
-7	түрэһэн	түрэхэ	VERB	_	_	0	root	_	Offset=431-438
-8	юм	юм	PART	_	_	7	discourse	_	Offset=439-441
-9	.	.	PUNCT	_	_	7	punct	_	Offset=442-443
-
-1	Эсэгэнь	эсэгэ	NOUN	_	_	2	nsubj	_	Offset=498-505
-2	Далахайн	Далахай	ADJ	_	_	0	root	_	Offset=506-514
-3	,	,	PUNCT	_	_	2	punct	_	Offset=515-516
-4	харин	харин	CONJ	_	_	2	cc	_	Offset=517-522
-5	эжынь	эжы	NOUN	_	_	6	nsubj	_	Offset=523-528
-6	Хойтоголой	Хойтогол	ADJ	_	_	2	conj	_	Offset=529-539
-7	.	.	PUNCT	_	_	6	punct	_	Offset=540-541
-
-1	Абань	аба	NOUN	_	_	7	nsubj	_	Offset=543-548
-2	мини	минии	DET	_	_	3	det	_	Offset=549-553
-3	таабайн	таабай	NOUN	_	_	7	nmod	_	Offset=554-561
-4	Дармаев	Дармаев	PROPN	_	_	5	name	_	Offset=562-569
-5	Гомбо	Гомбо	PROPN	_	_	6	name	_	Offset=570-575
-6	Убушеевичай	Убушеевич	PROPN	_	_	3	appos	_	Offset=576-587
-7	дүүниинь	дүүн	NOUN	_	_	0	root	_	Offset=588-596
-8	болоно	болохо	VERB	_	_	7	cop	_	Offset=597-603
-9	.	.	PUNCT	_	_	7	punct	_	Offset=604-605
-
-1	Эхэ	эхэ	NOUN	_	_	2	compound	_	Offset=607-610
-2	эсэгэнь	эсэгэ	NOUN	_	_	4	nsubj	_	Offset=611-618
-3	жиирэй	жиирэй	ADJ	_	_	4	amod	_	Offset=619-625
-4	зон	зон	NOUN	_	_	0	root	_	Offset=626-629
-5	,	,	PUNCT	_	_	4	punct	_	Offset=630-631
-6	колхозой	колхоз	NOUN	_	_	7	nmod	_	Offset=632-640
-7	ажалшад	ажалха	VERB	_	_	4	parataxis	_	Offset=641-648
-8	.	.	PUNCT	_	_	7	punct	_	Offset=649-650
-
-1	θɵһэдɵɵ	ɵɵһэдɵɵ	PRON	_	_	4	nsubj	_	Offset=652-659
-2	һургуулида	һургуули	NOUN	_	_	4	nmod	_	Offset=660-670
-3	һайнааршье	һайнааршье	ADV	_	_	4	advmod	_	Offset=671-681
-4	һуража	һураха	VERB	_	_	0	root	_	Offset=682-688
-5	үрдеэгүй	үрдихэ	AUX	_	_	4	aux	_	Offset=689-697
-6	,	,	PUNCT	_	_	4	punct	_	Offset=698-699
-7	харин	харин	CONJ	_	_	4	cc	_	Offset=700-705
-8	үхибүүдэй	үхибүүн	NOUN	_	_	9	dobj	_	Offset=706-715
-9	һургажа	һургаха	VERB	_	_	4	conj	_	Offset=716-723
-10	гаргаа	гаргаха	VERB	_	_	9	aux	_	Offset=724-730
-11	.	.	PUNCT	_	_	9	punct	_	Offset=731-732
-
-1	Екатерина	Екатерина	PROPN	_	_	2	name	_	Offset=774-783
-2	Дамдиновна	Дамдиновна	PROPN	_	_	7	nsubj	_	Offset=784-794
-3	бага	бага	ADJ	_	_	4	amod	_	Offset=795-799
-4	наһанһаань	наһан	NOUN	_	_	7	nmod	_	Offset=800-810
-5	ажал	ажал	NOUN	_	_	6	compound	_	Offset=811-815
-6	хүдэлмэридэ	хүдэлмэри	NOUN	_	_	7	nmod	_	Offset=816-827
-7	дуратай	дуратай	ADJ	_	_	0	root	_	Offset=828-835
-8	байгаа	байха	VERB	_	_	7	cop	_	Offset=836-842
-9	.	.	PUNCT	_	_	7	punct	_	Offset=843-844
-
-1	Эхэ	эхэ	NOUN	_	_	2	compound	_	Offset=846-849
-2	эсэгэдээ	эсэгэ	NOUN	_	_	4	nmod	_	Offset=850-858
-3	яһала	яһала	ADV	_	_	4	advmod	_	Offset=859-864
-4	туһатай	туһатай	ADJ	_	_	6	acl	_	Offset=865-872
-5	бэрхэ	бэрхэ	ADJ	_	_	6	amod	_	Offset=873-878
-6	басаган	басаган	NOUN	_	_	7	nsubj	_	Offset=879-886
-7	байгаа	байха	VERB	_	_	0	root	_	Offset=887-893
-8	.	.	PUNCT	_	_	7	punct	_	Offset=894-895
-
-1	һургуулида	һургуули	NOUN	_	_	2	nmod	_	Offset=897-907
-2	һурахадаа	һураха	VERB	_	_	3	nsubj	_	Offset=908-917
-3	бэрхэ	бэрхэ	ADV	_	_	0	root	_	Offset=918-923
-4	,	,	PUNCT	_	_	3	punct	_	Offset=924-925
-5	тоо	тоо	NOUN	_	_	6	nmod	_	Offset=926-929
-6	бодолгодо	бодолго	NOUN	_	_	8	nsubj	_	Offset=930-939
-7	тон	тон	ADV	_	_	8	advmod	_	Offset=940-943
-8	шударгы	шударгы	ADJ	_	_	3	parataxis	_	Offset=944-951
-9	байгаа	байха	VERB	_	_	8	cop	_	Offset=952-958
-10	.	.	PUNCT	_	_	8	punct	_	Offset=959-960
-
-1	Улаан	Улаан	PROPN	_	_	2	name	_	Offset=1029-1034
-2	–	–	PUNCT	_	_	3	name	_	Offset=1035-1036
-3	Yдэ	Yдэ	PROPN	_	_	4	nmod	_	Offset=1037-1040
-4	хотын	хото	NOUN	_	_	6	nmod	_	Offset=1041-1046
-5	ажахын	ажахын	ADJ	_	_	6	amod	_	Offset=1047-1053
-6	институдта	институд	NOUN	_	_	8	nmod	_	Offset=1054-1064
-7	химгадалгын	химгадал	NOUN	_	_	8	nmod	_	Offset=1065-1076
-8	һалбарида	һалбарида	NOUN	_	_	9	nmod	_	Offset=1077-1086
-9	һураа	һураха	VERB	_	_	0	root	_	Offset=1087-1092
-10	.	.	PUNCT	_	_	9	punct	_	Offset=1093-1094
-
-1	Бухгалтер	бухгалтер	NOUN	_	_	2	nsubj	_	Offset=1096-1105
-2	мэргэжэлтэй	мэргэжэлтэй	ADJ	_	_	0	root	_	Offset=1106-1117
-3	болоо	болохо	VERB	_	_	2	cop	_	Offset=1118-1123
-4	.	.	PUNCT	_	_	2	punct	_	Offset=1124-1125
-
-1	Тиигээд	тиигээд	ADP	_	_	4	case	_	Offset=1127-1134
-2	нютагаа	нютаг	NOUN	_	_	3	nmod	_	Offset=1135-1142
-3	бусажа	бусаха	VERB	_	_	4	compound	_	Offset=1143-1149
-4	ерээ	ерэхэ	VERB	_	_	0	root	_	Offset=1150-1154
-5	юм	юм	PART	_	_	4	discourse	_	Offset=1155-1157
-6	.	.	PUNCT	_	_	4	punct	_	Offset=1158-1159
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=1161-1165
-2	үедэ	үе	NOUN	_	_	6	nmod	_	Offset=1166-1170
-3	аханарынь	аха	NOUN	_	_	6	nsubj	_	Offset=1171-1180
-4	дээдэ	дээдэ	ADJ	_	_	5	amod	_	Offset=1181-1186
-5	һургуули	һургуулида	NOUN	_	_	6	nmod	_	Offset=1187-1195
-6	дүүргэнхэй	дүүргэнхэй	ADJ	_	_	0	root	_	Offset=1196-1206
-7	байгаа	байха	VERB	_	_	6	cop	_	Offset=1207-1213
-8	юм	юм	PART	_	_	6	discourse	_	Offset=1214-1216
-9	.	.	PUNCT	_	_	6	punct	_	Offset=1217-1218
-
-1	Лопсон	Лопсон	PROPN	_	_	3	nsubj	_	Offset=1220-1226
-2	ахань	аха	NOUN	_	_	1	nmod	_	Offset=1227-1232
-3	химгадалгагша	химгадал	NOUN	_	_	0	root	_	Offset=1233-1246
-4	.	.	PUNCT	_	_	3	punct	_	Offset=1247-1248
-
-1	Мэлс	Мэлс	PROPN	_	_	4	nsubj	_	Offset=1250-1254
-2	ахань	аха	NOUN	_	_	1	nmod	_	Offset=1255-1260
-3	–	–	PUNCT	_	_	4	punct	_	Offset=1261-1262
-4	биолог	биолог	NOUN	_	_	0	root	_	Offset=1263-1269
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1270-1271
-
-1	Ба	ба	CONJ	_	_	5	cc	_	Offset=1273-1275
-2	гурбадахи	гурба	ADJ	_	_	3	amod	_	Offset=1276-1285
-3	ахань	аха	NOUN	_	_	5	nsubj	_	Offset=1286-1291
-4	уран	уран	ADJ	_	_	5	amod	_	Offset=1292-1296
-5	зурааша	зурааша	NOUN	_	_	0	root	_	Offset=1297-1304
-6	.	.	PUNCT	_	_	5	punct	_	Offset=1305-1306
-
-1	Шенхоровтоной	Шенхоров	PROPN	_	_	3	nmod	_	Offset=1308-1321
-2	уг	уг	NOUN	_	_	3	compound	_	Offset=1322-1324
-3	гарбал	гарбал	NOUN	_	_	6	nsubj	_	Offset=1325-1331
-4	уран	уран	ADJ	_	_	5	amod	_	Offset=1332-1336
-5	зураашадаар	зурааша	NOUN	_	_	6	nmod	_	Offset=1337-1348
-6	олон	олон	ADV	_	_	0	root	_	Offset=1349-1353
-7	.	.	PUNCT	_	_	6	punct	_	Offset=1354-1355
-
-1	Тэдэнэй	тэдэ	DET	_	_	2	det	_	Offset=1357-1364
-2	тоодо	тоодо	NOUN	_	_	8	nmod	_	Offset=1365-1370
-3	буряадай	буряяад	ADJ	_	_	6	amod	_	Offset=1371-1379
-4	элитэ	элитэ	NOUN	_	_	6	nmod	_	Offset=1380-1385
-5	уран	уран	ADJ	_	_	6	amod	_	Offset=1386-1390
-6	зурааша	зурааша	NOUN	_	_	8	nmod	_	Offset=1391-1398
-7	Чингис	Чингис	PROPN	_	_	8	name	_	Offset=1399-1405
-8	Шенхоров	Шенхоров	PROPN	_	_	0	root	_	Offset=1406-1414
-9	.	.	PUNCT	_	_	8	punct	_	Offset=1415-1416
-
-1	Мүнɵɵ	мүнɵɵ	ADV	_	_	7	advmod	_	Offset=1418-1423
-2	Екатерина	Екатерина	PROPN	_	_	3	name	_	Offset=1424-1433
-3	Дамдиновна	Дамдиновна	PROPN	_	_	7	nsubj	_	Offset=1434-1444
-4	дүшэн	дүшэн	NUM	_	_	5	nummod	_	Offset=1445-1450
-5	наһанайнгаа	наһан	NOUN	_	_	6	nmod	_	Offset=1451-1462
-6	даба	даба	NOUN	_	_	7	nmod	_	Offset=1463-1467
-7	дабажа	дабаха	VERB	_	_	0	root	_	Offset=1468-1474
-8	ябана	ябаха	AUX	_	_	7	aux	_	Offset=1475-1480
-9	.	.	PUNCT	_	_	7	punct	_	Offset=1481-1482
-
-1	Далаад	далаан	NUM	_	_	2	nummod	_	Offset=1484-1490
-2	онһоо	он	NOUN	_	_	3	nmod	_	Offset=1491-1496
-3	эхилээд	эхилхэ	VERB	_	_	0	root	_	Offset=1497-1504
-4	,	,	PUNCT	_	_	3	punct	_	Offset=1505-1506
-5	түрэл	түрэл	ADJ	_	_	7	amod	_	Offset=1507-1512
-6	буряад	буряад	ADJ	_	_	7	amod	_	Offset=1513-1519
-7	хэлэн	хэлэн	NOUN	_	_	9	nmod	_	Offset=1520-1525
-8	дээрээ	дээрээ	ADP	_	_	7	case	_	Offset=1526-1532
-9	шүлэг	шүлэг	NOUN	_	_	10	nmod	_	Offset=1533-1538
-10	бэшэжэ	бэшэхэ	VERB	_	_	11	xcomp	_	Offset=1539-1545
-11	эхилээ	эхилхэ	VERB	_	_	3	parataxis	_	Offset=1546-1552
-12	.	.	PUNCT	_	_	11	punct	_	Offset=1553-1554
-
-1	Түрүүшын	түрүүшын	ADJ	_	_	2	amod	_	Offset=1556-1564
-2	шүлэгүүдээ	шүлэг	NOUN	_	_	6	nmod	_	Offset=1565-1575
-3	тоонто	тоонто	NOUN	_	_	4	nmod	_	Offset=1576-1582
-4	түрэл	түрэл	NOUN	_	_	5	nmod	_	Offset=1583-1588
-5	нютагтаа	нютаг	NOUN	_	_	6	nmod	_	Offset=1589-1597
-6	зорюулһан	зорюулһан	ADJ	_	_	0	root	_	Offset=1598-1607
-7	байна	байха	VERB	_	_	6	cop	_	Offset=1608-1613
-8	.	.	PUNCT	_	_	6	punct	_	Offset=1614-1615
-
-1	Долоон	долоон	NUM	_	_	2	nummod	_	Offset=1617-1623
-2	Мундаргын	Мундарга	PROPN	_	_	3	nmod:own	_	Offset=1624-1633
-3	хормойдо	хормой	NOUN	_	_	4	nmod	_	Offset=1634-1642
-4	мүндэлһэн	мүндэлһэн	ADJ	_	_	0	root	_	Offset=1643-1652
-5	.	.	PUNCT	_	_	4	punct	_	Offset=1653-1654
-
-1	Долгито	долгин	NOUN	_	_	2	nmod	_	Offset=1656-1663
-2	Эрхүүгэй	Эрхүүгэй	PROPN	_	_	0	root	_	Offset=1664-1672
-3	хойнохоно	хойнохи	ADV	_	_	2	advmod	_	Offset=1673-1682
-4	.	.	PUNCT	_	_	2	punct	_	Offset=1683-1684
-
-1	Долоогоно	долоогоно	NOUN	_	_	6	nmod	_	Offset=1686-1695
-2	,	,	PUNCT	_	_	1	punct	_	Offset=1696-1697
-3	үлир	үлир	NOUN	_	_	1	parataxis	_	Offset=1698-1702
-4	,	,	PUNCT	_	_	3	punct	_	Offset=1703-1704
-5	мойһоор	мойһон	NOUN	_	_	3	parataxis	_	Offset=1705-1712
-6	баян	баян	NOUN	_	_	0	root	_	Offset=1713-1717
-7	.	.	PUNCT	_	_	6	punct	_	Offset=1718-1719
-
-1	Даллан	даллаха	ADV	_	_	2	advmod	_	Offset=1721-1727
-2	байһан	байха	VERB	_	_	0	root	_	Offset=1728-1734
-3	Далахаймни	Далахай	PROPN	_	_	2	nsubj	_	Offset=1735-1745
-4	.	.	PUNCT	_	_	2	punct	_	Offset=1746-1747
-
-1	Шүлэг	шүлэг	NOUN	_	_	2	nmod	_	Offset=1749-1754
-2	зохёогшо	зохёогшо	NOUN	_	_	8	nsubj	_	Offset=1755-1763
-3	Буряад	буряад	ADJ	_	_	4	amod	_	Offset=1764-1770
-4	оронойнгоо	орон	NOUN	_	_	7	nmod	_	Offset=1771-1781
-5	олон	олон	ADJ	_	_	6	amod	_	Offset=1782-1786
-6	газар	газар	NOUN	_	_	7	nmod	_	Offset=1787-1792
-7	нютагуудаар	нютаг	NOUN	_	_	8	nmod	_	Offset=1793-1804
-8	ябаһан	ябаһан	ADJ	_	_	0	root	_	Offset=1805-1811
-9	байна	байха	VERB	_	_	8	cop	_	Offset=1812-1817
-10	.	.	PUNCT	_	_	8	punct	_	Offset=1818-1819
-
-1	Yзэһэн	үзэһэн	NOUN	_	_	3	nmod	_	Offset=1821-1827
-2	тухайгаа	тухайгаа	ADP	_	_	1	case	_	Offset=1828-1836
-3	хɵɵрэдэг	хɵɵрэхэ	VERB	_	_	0	root	_	Offset=1837-1845
-4	.	.	PUNCT	_	_	3	punct	_	Offset=1846-1847
-
-1	Нэгэдэхи	нэгэн	NUM	_	_	2	nummod	_	Offset=1849-1857
-2	курсда	курс	NOUN	_	_	8	nmod	_	Offset=1858-1864
-3	бүлэг	бүлэг	NOUN	_	_	8	nmod	_	Offset=1865-1870
-4	соомнай	соо	ADP	_	_	3	case	_	Offset=1871-1878
-5	олон	олон	DET	_	_	6	det	_	Offset=1879-1883
-6	аймагуудай	аймаг	NOUN	_	_	7	nmod	_	Offset=1884-1894
-7	һурагшад	һурагша	NOUN	_	_	8	nsubj	_	Offset=1895-1903
-8	байгаа	байха	VERB	_	_	0	root	_	Offset=1904-1910
-9	.	.	PUNCT	_	_	8	punct	_	Offset=1911-1912
-
-1	Тиимэһээ	тиимэһээ	CONJ	_	_	8	cc	_	Offset=1914-1922
-2	гадна	гадна	CONJ	_	_	6	cc	_	Offset=1923-1928
-3	,	,	PUNCT	_	_	2	punct	_	Offset=1929-1930
-4	Агын	Ага	PROPN	_	_	6	conj	_	Offset=1931-1935
-5	,	,	PUNCT	_	_	4	punct	_	Offset=1936-1937
-6	Эрхүүгэй	Эрхүүгэй	PROPN	_	_	7	nmod	_	Offset=1938-1946
-7	үхибүүд	үхибүүн	NOUN	_	_	8	nsubj	_	Offset=1947-1954
-8	һурадаг	һураха	VERB	_	_	0	root	_	Offset=1955-1962
-9	һэн	һэн	PART	_	_	8	discourse	_	Offset=1963-1966
-10	.	.	PUNCT	_	_	8	punct	_	Offset=1967-1968
-
-1	Бэе	бэе	PRON	_	_	2	compound	_	Offset=1970-1973
-2	бэеынгээ	бэеэ	PRON	_	_	4	nmod	_	Offset=1974-1982
-3	түрэһэн	түрэхэ	ADJ	_	_	4	amod	_	Offset=1983-1990
-4	нютаг	нютаг	NOUN	_	_	5	nmod	_	Offset=1991-1996
-5	ошожо	ошохо	VERB	_	_	7	xcomp	_	Offset=1997-2002
-6	үзэе	үзэхэ	AUX	_	_	5	aux	_	Offset=2003-2007
-7	гэлсээбди	гэлсэхэ	VERB	_	_	0	root	_	Offset=2008-2017
-8	.	.	PUNCT	_	_	7	punct	_	Offset=2018-2019
-
-1	Бултанайнгаа	Булта	PRON	_	_	3	nmod	_	Offset=2021-2033
-2	тоонто	тоонто	ADJ	_	_	3	amod	_	Offset=2034-2040
-3	нютагтай	нютаг	NOUN	_	_	4	dobj	_	Offset=2041-2049
-4	танилсаабди	танилсааха	VERB	_	_	0	root	_	Offset=2050-2061
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2062-2063
-
-1	Теэд	теэд	CONJ	_	_	9	cc	_	Offset=2065-2069
-2	эгээл	эгээл	ADV	_	_	3	advmod	_	Offset=2070-2075
-3	гоё	гоё	ADJ	_	_	6	amod	_	Offset=2076-2079
-4	,	,	PUNCT	_	_	3	punct	_	Offset=2080-2081
-5	үзэсхэлэнтэ	үзэсхэлэн	NOUN	_	_	6	nmod	_	Offset=2082-2093
-6	дайдань	дайдань	NOUN	_	_	9	nsubj	_	Offset=2094-2101
-7	минии	минии	DET	_	_	9	det	_	Offset=2102-2107
-8	тоонто	тоонто	ADJ	_	_	9	amod	_	Offset=2108-2114
-9	нютаг	нютаг	NOUN	_	_	0	root	_	Offset=2115-2120
-10	Түнхэн	Түнхэн	PROPN	_	_	11	nmod	_	Offset=2121-2127
-11	аймагай	аймаг	NOUN	_	_	12	nmod	_	Offset=2128-2135
-12	Далахай	Далахай	PROPN	_	_	9	appos	_	Offset=2136-2143
-13	байгаа	байха	VERB	_	_	9	cop	_	Offset=2144-2150
-14	.	.	PUNCT	_	_	9	punct	_	Offset=2151-2152
-
-1	Саяан	Саяан	PROPN	_	_	2	compound	_	Offset=2154-2159
-2	хадын	хада	NOUN	_	_	4	nmod	_	Offset=2160-2165
-3	Сарьдаг	Сарьдаг	PROPN	_	_	4	compound	_	Offset=2166-2173
-4	уула	уула	NOUN	_	_	0	root	_	Offset=2174-2178
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2179-2180
-
-1	Сарюун	сарюун	ADJ	_	_	2	amod	_	Offset=2182-2188
-2	дэлхэйн	дэлхэйн	NOUN	_	_	5	iobj	_	Offset=2189-2196
-3	сагаан	сагаан	ADJ	_	_	4	amod	_	Offset=2197-2203
-4	эдеэгээ	эдеэн	NOUN	_	_	5	dobj	_	Offset=2204-2211
-5	дэлгэнхэй	дэлгэнхэй	ADJ	_	_	0	root	_	Offset=2212-2221
-6	.	.	PUNCT	_	_	5	punct	_	Offset=2222-2223
-
-1	Арад	арад	NOUN	_	_	2	nmod	_	Offset=2225-2229
-2	зоноо	зон	NOUN	_	_	3	nmod	_	Offset=2230-2235
-3	хүндэлһэн	хүндэлһэн	ADJ	_	_	0	root	_	Offset=2236-2245
-4	.	.	PUNCT	_	_	3	punct	_	Offset=2246-2247
-
-1	Эхэ	эхэ	NOUN	_	_	3	nmod	_	Offset=2249-2252
-2	һайхан	һайхан	ADJ	_	_	3	amod	_	Offset=2253-2259
-3	Далахаймни	Далахай	PROPN	_	_	0	root	_	Offset=2260-2270
-4	.	.	PUNCT	_	_	3	punct	_	Offset=2271-2272
-
-1	Катя	Катя	PROPN	_	_	2	compound	_	Offset=2274-2278
-2	абгазы	абга	NOUN	_	_	14	nsubj	_	Offset=2279-2285
-3	урихан	урихан	ADV	_	_	4	advmod	_	Offset=2286-2292
-4	шарайтай	шарайтай	ADJ	_	_	13	parataxis	_	Offset=2293-2301
-5	,	,	PUNCT	_	_	4	punct	_	Offset=2302-2303
-6	сэбэр	сэбэр	ADV	_	_	7	advmod	_	Offset=2304-2309
-7	сэдьхэлтэй	сэдьхэлтэй	ADJ	_	_	13	parataxis	_	Offset=2310-2320
-8	,	,	PUNCT	_	_	7	punct	_	Offset=2321-2322
-9	һайхан	һайхан	ADV	_	_	10	advmod	_	Offset=2323-2329
-10	һанаатай	һанаатай	ADJ	_	_	13	parataxis	_	Offset=2330-2338
-11	,	,	PUNCT	_	_	10	punct	_	Offset=2339-2340
-12	зɵɵлэн	зɵɵлэн	ADV	_	_	13	advmod	_	Offset=2341-2347
-13	зантай	зантай	ADJ	_	_	14	amod	_	Offset=2348-2354
-14	хүн	хүн	NOUN	_	_	0	root	_	Offset=2355-2358
-15	.	.	PUNCT	_	_	14	punct	_	Offset=2359-2360
-
-1	Шүлэгүүдыень	шүлэг	NOUN	_	_	2	nmod	_	Offset=2362-2374
-2	уншаад	уншаад	ADJ	_	_	0	root	_	Offset=2375-2381
-3	,	,	PUNCT	_	_	2	punct	_	Offset=2382-2383
-4	һанаа	һанаа	CONJ	_	_	2	cc	_	Offset=2384-2389
-5	бодолдоо	бодол	NOUN	_	_	6	nmod	_	Offset=2390-2398
-6	абаад	абаад	ADJ	_	_	2	conj	_	Offset=2399-2404
-7	туршагты	туршаха	VERB	_	_	2	xcomp	_	Offset=2405-2413
-8	.	.	PUNCT	_	_	7	punct	_	Offset=2414-2415
-
-1	Ямар	ямар	DET	_	_	6	det	_	Offset=2417-2421
-2	тиимэ	тиимэ	ADV	_	_	3	advmod	_	Offset=2422-2427
-3	гүнзэгы	гүнзэгы	ADV	_	_	4	advmod	_	Offset=2428-2435
-4	философско	философско	ADV	_	_	5	advmod	_	Offset=2436-2446
-5	удхатай	удхатай	ADJ	_	_	6	amod	_	Offset=2447-2454
-6	шүлэгүүд	шүлэг	NOUN	_	_	0	root	_	Offset=2455-2463
-7	гээшэб	гээшэ	PART	_	_	6	discourse	_	Offset=2464-2470
-8	!	!	PUNCT	_	_	7	punct	_	Offset=2471-2472
-
-1	Тиимэһээ	тиимэһээ	CONJ	_	_	6	cc	_	Offset=2474-2482
-2	ухаандаа	ухаан	NOUN	_	_	3	nmod	_	Offset=2483-2491
-3	дабтажал	дабтажал	NOUN	_	_	4	dobj	_	Offset=2492-2500
-4	ябаха	ябаха	VERB	_	_	5	acl	_	Offset=2501-2506
-5	дуран	дуран	NOUN	_	_	6	nsubj	_	Offset=2507-2512
-6	хүрэнэ	хүрэхэ	VERB	_	_	0	root	_	Offset=2513-2519
-7	.	.	PUNCT	_	_	6	punct	_	Offset=2520-2521
-
-1	Тэрэ	тэрэ	DET	_	_	2	det	_	Offset=2523-2527
-2	шүлэгүүдээр	шүлэг	NOUN	_	_	7	nmod	_	Offset=2528-2539
-3	хүнэй	хүн	NOUN	_	_	4	nmod	_	Offset=2540-2545
-4	сэдьхэлдэ	сэдьхэл	NOUN	_	_	7	iobj	_	Offset=2546-2555
-5	алтан	алтан	ADJ	_	_	6	amod	_	Offset=2556-2561
-6	дугы	дугы	NOUN	_	_	7	nsubj	_	Offset=2562-2566
-7	татаатай	татаатай	ADJ	_	_	0	root	_	Offset=2567-2575
-8	байна	байха	VERB	_	_	7	cop	_	Offset=2576-2581
-9	.	.	PUNCT	_	_	7	punct	_	Offset=2582-2583
-
-1	Инаг	инаг	ADJ	_	_	2	amod	_	Offset=2585-2589
-2	дуранай	дуран	NOUN	_	_	3	nmod	_	Offset=2590-2597
-3	охин	охин	NOUN	_	_	4	nsubj	_	Offset=2598-2602
-4	үзэгдэнэ	үзэгдэхэ	VERB	_	_	0	root	_	Offset=2603-2611
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2612-2613
-
-1	Ехэл	ехэл	ADV	_	_	2	advmod	_	Offset=2654-2658
-2	дороһоо	доро	ADV	_	_	3	advmod	_	Offset=2659-2666
-3	булгилһан	булгилһан	ADJ	_	_	4	amod	_	Offset=2667-2676
-4	аршаанда	аршаан	NOUN	_	_	0	root	_	Offset=2677-2685
-5	мэтэ	мэтэ	ADV	_	_	4	advmod	_	Offset=2686-2690
-6	.	.	PUNCT	_	_	4	punct	_	Offset=2691-2692
-
-1	Айхабтар	айхабтар	ADV	_	_	2	advmod	_	Offset=2728-2736
-2	наринаар	наринаар	ADV	_	_	4	parataxis	_	Offset=2737-2745
-3	,	,	PUNCT	_	_	2	punct	_	Offset=2746-2747
-4	нангинаар	нангинаар	ADV	_	_	5	advmod	_	Offset=2748-2757
-5	зураглажа	зураглаха	VERB	_	_	0	root	_	Offset=2758-2767
-6	шадана	шадаха	AUX	_	_	5	aux	_	Offset=2768-2774
-7	.	.	PUNCT	_	_	5	punct	_	Offset=2775-2776
-
-1	Дулаан	дулаан	ADJ	_	_	2	amod	_	Offset=2778-2784
-2	амисхаалаар	амисхаалаар	NOUN	_	_	4	nsubj	_	Offset=2785-2796
-3	намайе	би	PRON	_	_	4	dobj	_	Offset=2797-2803
-4	һэрюулээш	һэрюулхэ	VERB	_	_	0	root	_	Offset=2804-2813
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2814-2815
-
-1	Дали	дали	NOUN	_	_	2	dobj	_	Offset=2817-2821
-2	нэмэжэ	нэмэхэ	VERB	_	_	4	xcomp	_	Offset=2822-2828
-3	дээшэн	дээшээ	ADV	_	_	4	advmod	_	Offset=2829-2835
-4	татааш	татаха	VERB	_	_	0	root	_	Offset=2836-2842
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2843-2844
-
-1	Дэлхэйн	дэлхэйн	NOUN	_	_	2	nmod	_	Offset=2846-2853
-2	һайханиие	һайхани	NOUN	_	_	4	dobj	_	Offset=2854-2863
-3	дуулан	дуулан	NOUN	_	_	4	nsubj	_	Offset=2864-2870
-4	үргɵɵш	үргэхэ	VERB	_	_	0	root	_	Offset=2871-2877
-5	.	.	PUNCT	_	_	4	punct	_	Offset=2878-2879
-
-1	Намтаяа	би	PRON	_	_	3	nmod	_	Offset=2881-2888
-2	юундэ	юундэ	ADV	_	_	3	advmod	_	Offset=2889-2894
-3	үгыбши	үгы	VERB	_	_	0	root	_	Offset=2895-2901
-4	?	?	PUNCT	_	_	3	punct	_	Offset=2902-2903
-
-1	Дуран	дуран	NOUN	_	_	3	nsubj	_	Offset=3022-3027
-2	халуун	халуун	ADV	_	_	3	advmod	_	Offset=3028-3034
-3	дүлɵɵр	дүлэтэхэ	VERB	_	_	0	root	_	Offset=3035-3041
-4	соробхилно	соробхилно	ADV	_	_	3	advmod	_	Offset=3042-3052
-5	.	.	PUNCT	_	_	3	punct	_	Offset=3053-3054
-
-1	Дуран	дуран	NOUN	_	_	5	nsubj	_	Offset=3056-3061
-2	ямаршье	ямаршье	DET	_	_	3	det	_	Offset=3062-3069
-3	хүнэй	хүн	NOUN	_	_	4	nmod	_	Offset=3070-3075
-4	зүрхые	зүрхэн	NOUN	_	_	5	dobj	_	Offset=3076-3082
-5	доһолгоно	доһолгохо	VERB	_	_	0	root	_	Offset=3083-3092
-6	.	.	PUNCT	_	_	5	punct	_	Offset=3093-3094
-
-1	Шэдитэ	шэдитэ	ADJ	_	_	2	amod	_	Offset=3144-3150
-2	аргын	арга	NOUN	_	_	4	nmod	_	Offset=3151-3156
-3	шанга	шанга	ADJ	_	_	4	amod	_	Offset=3157-3162
-4	хүсэндэ	хүсэн	NOUN	_	_	5	nmod	_	Offset=3163-3170
-5	оройгдооб	орохо	VERB	_	_	0	root	_	Offset=3171-3180
-6	.	.	PUNCT	_	_	5	punct	_	Offset=3181-3182
-
-1	Бэе	бэе	PRON	_	_	2	compound	_	Offset=3220-3223
-2	бэедээ	бэеэ	PRON	_	_	4	nmod	_	Offset=3224-3230
-3	дуратай	дуратай	ADJ	_	_	4	amod	_	Offset=3231-3238
-4	инагуудай	инаг	NOUN	_	_	10	nmod	_	Offset=3239-3248
-5	хоорондоо	хоорондоо	ADP	_	_	4	case	_	Offset=3249-3258
-6	ямаршье	ямаршье	DET	_	_	7	det	_	Offset=3259-3266
-7	нэгэ	нэгэ	NUM	_	_	9	nummod	_	Offset=3267-3271
-8	ондоо	ондо	ADJ	_	_	9	amod	_	Offset=3272-3277
-9	юумэн	юумэн	NOUN	_	_	10	nsubj	_	Offset=3278-3283
-10	бии	бии	VERB	_	_	0	root	_	Offset=3284-3287
-11	болоо	болохо	AUX	_	_	10	aux	_	Offset=3288-3293
-12	гү	гү	PART	_	_	10	discourse	_	Offset=3294-3296
-13	?	?	PUNCT	_	_	10	punct	_	Offset=3297-3298
-
-1	Али	али	CONJ	_	_	6	cc	_	Offset=3300-3303
-2	басаган	басаган	NOUN	_	_	6	nsubj	_	Offset=3304-3311
-3	хүбүүндээ	хүбүүн	NOUN	_	_	6	iobj	_	Offset=3312-3321
-4	тиимэшье	тиимэ	ADV	_	_	5	advmod	_	Offset=3322-3330
-5	ехээр	ехээр	ADV	_	_	6	advmod	_	Offset=3331-3336
-6	этигэнэгүй	этигэхэ	VERB	_	_	0	root	_	Offset=3337-3347
-7	?	?	PUNCT	_	_	6	punct	_	Offset=3348-3349
-
-1	Хэн	хэн	PRON	_	_	2	nsubj	_	Offset=3351-3354
-2	мэдэхэ	мэдэхэ	VERB	_	_	0	root	_	Offset=3355-3361
-3	аргатайб	аргатай	AUX	_	_	2	aux	_	Offset=3362-3370
-4	?	?	PUNCT	_	_	2	punct	_	Offset=3371-3372
-
-1	Yглɵɵгүүр	үглɵɵгүүр	ADV	_	_	3	advmod	_	Offset=3374-3383
-2	шамтай	ши	PRON	_	_	3	nmod	_	Offset=3384-3390
-3	золгооб	золгохо	VERB	_	_	0	root	_	Offset=3391-3398
-4	.	.	PUNCT	_	_	3	punct	_	Offset=3399-3400
-
-1	Yтэрхэн	үтэрхэн	ADV	_	_	3	advmod	_	Offset=3402-3409
-2	саашаа	сааша	ADV	_	_	3	advmod	_	Offset=3410-3416
-3	болонолши	болохо	VERB	_	_	0	root	_	Offset=3417-3426
-4	.	.	PUNCT	_	_	3	punct	_	Offset=3427-3428
-
-1	Нюдэнсоошни	нюдэн	NOUN	_	_	3	nmod	_	Offset=3430-3441
-2	гомдол	гомдол	NOUN	_	_	3	dobj	_	Offset=3442-3448
-3	харанаб	хараха	VERB	_	_	0	root	_	Offset=3449-3456
-4	.	.	PUNCT	_	_	3	punct	_	Offset=3457-3458
-
-1	Ши	ши	PRON	_	_	5	nsubj	_	Offset=3460-3462
-2	намда	би	PRON	_	_	5	nmod	_	Offset=3463-3468
-3	ɵɵрын	ɵɵрын	ADJ	_	_	4	amod	_	Offset=3469-3474
-4	хүн	хүн	NOUN	_	_	5	nmod	_	Offset=3475-3478
-5	болонхой	болохо	VERB	_	_	0	root	_	Offset=3479-3487
-6	байналши	байха	AUX	_	_	5	aux	_	Offset=3488-3496
-7	.	.	PUNCT	_	_	5	punct	_	Offset=3497-3498
-
-1	Шүлэгшын	шүлэг	NOUN	_	_	5	nmod	_	Offset=3500-3508
-2	дүрбэн	дүрбэн	NUM	_	_	3	nummod	_	Offset=3509-3515
-3	мүрнүүдһээ	мүр﻿	NOUN	_	_	4	nmod	_	Offset=3516-3526
-4	бүридэһэн	бүридэхэ	ADJ	_	_	5	acl	_	Offset=3527-3536
-5	зохёолнууд	зохёол	NOUN	_	_	9	nmod	_	Offset=3537-3547
-6	соо	соо	ADP	_	_	5	case	_	Offset=3548-3551
-7	гүн	гүн	ADJ	_	_	8	amod	_	Offset=3552-3555
-8	удха	удха	NOUN	_	_	9	nsubj	_	Offset=3556-3560
-9	байна	байха	VERB	_	_	0	root	_	Offset=3561-3566
-10	.	.	PUNCT	_	_	9	punct	_	Offset=3567-3568
-
-1	Эхэ	эхэ	DET	_	_	2	det	_	Offset=3570-3573
-2	орондоо	орон	NOUN	_	_	5	parataxis	_	Offset=3574-3581
-3	,	,	PUNCT	_	_	2	punct	_	Offset=3582-3583
-4	эхэ	эхэ	NOUN	_	_	5	compound	_	Offset=3584-3587
-5	эсэгэдээ	эсэгэ	NOUN	_	_	6	nmod	_	Offset=3588-3596
-6	дуран	дуран	NOUN	_	_	10	conj	_	Offset=3597-3602
-7	ба	ба	CONJ	_	_	10	cc	_	Offset=3603-3605
-8	үнэн	үнэн	ADJ	_	_	9	amod	_	Offset=3606-3610
-9	сэхэ	сэхэ	NOUN	_	_	10	nmod	_	Offset=3611-3615
-10	ябадал	ябадал	NOUN	_	_	11	nsubjpass	_	Offset=3616-3622
-11	харуулагданаа	харуулагдаха	VERB	_	_	0	root	_	Offset=3623-3636
-12	.	.	PUNCT	_	_	11	punct	_	Offset=3637-3638
-
-1	Хэтын	хэтын	NOUN	_	_	6	nmod	_	Offset=3640-3645
-2	хэтэдэ	хэтэдэ	ADV	_	_	6	advmod	_	Offset=3646-3652
-3	хэншье	хэншье	PRON	_	_	5	parataxis	_	Offset=3653-3659
-4	,	,	PUNCT	_	_	3	punct	_	Offset=3660-3661
-5	юунһээшье	юуншье	PRON	_	_	6	nmod	_	Offset=3662-3671
-6	үнэтэй	үнэтэй	ADJ	_	_	0	root	_	Offset=3672-3678
-7	.	.	PUNCT	_	_	6	punct	_	Offset=3679-3680
-
-1	Эжэл	эжэл	ADJ	_	_	4	amod	_	Offset=3682-3686
-2	ганса	ганса	ADV	_	_	4	advmod	_	Offset=3687-3692
-3	эхин	эхин	NOUN	_	_	4	nmod	_	Offset=3693-3697
-4	дуран	дуран	NOUN	_	_	7	nsubj	_	Offset=3698-3703
-5	–	–	PUNCT	_	_	4	punct	_	Offset=3704-3705
-6	Эхэ	эхэ	NOUN	_	_	7	nmod	_	Offset=3706-3709
-7	орон	орон	NOUN	_	_	0	root	_	Offset=3710-3714
-8	.	.	PUNCT	_	_	7	punct	_	Offset=3715-3716
-
-1	Харамтай	харамтай	ADV	_	_	9	advmod	_	Offset=3784-3792
-2	,	,	PUNCT	_	_	1	punct	_	Offset=3793-3794
-3	нүхэр	нүхэр	NOUN	_	_	0	root	_	Offset=3795-3800
-4	гэһээмни	гэхэ	PART	_	_	3	discourse	_	Offset=3801-3809
-5	,	,	PUNCT	_	_	4	punct	_	Offset=3810-3811
-6	хадаар	хадаар	SCONJ	_	_	9	mark	_	Offset=3812-3818
-7	зэдэлһэн	зэдэлһэн	ADJ	_	_	8	amod	_	Offset=3819-3827
-8	сууряан	сууряан	NOUN	_	_	9	nsubj	_	Offset=3828-3835
-9	байгааш	байха	VERB	_	_	3	advcl	_	Offset=3836-3843
-10	.	.	PUNCT	_	_	9	punct	_	Offset=3844-3845
-
-1	Дурлаһан	дурлаһан	ADJ	_	_	2	amod	_	Offset=3847-3855
-2	намайе	би	PRON	_	_	3	dobj	_	Offset=3856-3862
-3	ойлгоогүй	ойлгохо	ADJ	_	_	0	root	_	Offset=3863-3872
-4	дуугай	дуугай	ADJ	_	_	6	amod	_	Offset=3873-3879
-5	хооһон	хооһон	ADJ	_	_	6	amod	_	Offset=3880-3886
-6	тала	тала	NOUN	_	_	7	nsubj	_	Offset=3887-3891
-7	байгааш	байха	VERB	_	_	3	parataxis	_	Offset=3892-3899
-8	.	.	PUNCT	_	_	7	punct	_	Offset=3900-3901
-
-1	Нээрээшье	нээрээ	ADV	_	_	9	advmod	_	Offset=3903-3912
-2	,	,	PUNCT	_	_	1	punct	_	Offset=3913-3914
-3	шүлэг	шүлэг	NOUN	_	_	4	nmod	_	Offset=3915-3920
-4	зохёогшо	зохёогшо	NOUN	_	_	9	nsubj	_	Offset=3921-3929
-5	доторойнгоо	доторой	NOUN	_	_	6	nmod	_	Offset=3930-3941
-6	уянгые	уянга	NOUN	_	_	9	dobj	_	Offset=3942-3948
-7	уншагшадтаа	уншагша	NOUN	_	_	9	iobj	_	Offset=3949-3960
-8	дэлгэн	дэлгэн	ADV	_	_	9	advmod	_	Offset=3961-3967
-9	харуулна	харуулха	VERB	_	_	0	root	_	Offset=3968-3976
-10	.	.	PUNCT	_	_	9	punct	_	Offset=3977-3978
-
-1	Хүнэй	хүн	NOUN	_	_	2	nmod	_	Offset=3980-3985
-2	сэдьхэлэй	сэдьхэл	NOUN	_	_	6	nmod	_	Offset=3986-3995
-3	тон	тон	ADV	_	_	4	advmod	_	Offset=3996-3999
-4	үнжэгэн	үнжэгэн	ADJ	_	_	6	amod	_	Offset=4000-4007
-5	нарин	нарин	ADJ	_	_	6	amod	_	Offset=4008-4013
-6	утаһые	утаһан	NOUN	_	_	7	dobj	_	Offset=4014-4020
-7	дайраха	дайраха	VERB	_	_	0	root	_	Offset=4021-4028
-8	шадалтай	шадалтай	AUX	_	_	7	aux	_	Offset=4029-4037
-9	.	.	PUNCT	_	_	7	punct	_	Offset=4038-4039
-
-1	Философско	философско	ADJ	_	_	2	amod	_	Offset=4041-4051
-2	гүн	гүн	NOUN	_	_	3	nmod	_	Offset=4052-4055
-3	удхатай	удхатай	ADJ	_	_	4	acl	_	Offset=4056-4063
-4	мүрнүүдээрээ	мүр	NOUN	_	_	6	iobj	_	Offset=4064-4076
-5	уншагшадые	уншагша	NOUN	_	_	6	dobj	_	Offset=4077-4087
-6	һонирхуулна	һонирхуулха	VERB	_	_	0	root	_	Offset=4088-4099
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4100-4101
-
-1	Шүлэгшэ	шүлэг	NOUN	_	_	2	nmod	_	Offset=4145-4152
-2	зохёолнуудаа	зохёол	NOUN	_	_	6	dobj	_	Offset=4153-4165
-3	түргэхэнɵɵр	түргэхэнɵɵр	ADV	_	_	6	advmod	_	Offset=4166-4177
-4	,	,	PUNCT	_	_	3	punct	_	Offset=4178-4179
-5	хүнгэхэнɵɵр	хүнгэхэн	ADV	_	_	3	parataxis	_	Offset=4180-4191
-6	бэшэжэрхидэг	бэшэжэрхидэг	ADJ	_	_	0	root	_	Offset=4192-4204
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4205-4206
-
-1	Зүрхэ	зүрхэн	NOUN	_	_	4	nsubj	_	Offset=4208-4213
-2	сэдьхэлни	сэдьхэл	NOUN	_	_	3	nmod	_	Offset=4214-4223
-3	доһолоод	доһолоод	ADJ	_	_	4	xcomp	_	Offset=4224-4232
-4	абаба	абаха	VERB	_	_	0	root	_	Offset=4233-4238
-5	.	.	PUNCT	_	_	4	punct	_	Offset=4239-4240
-
-1	Дэбтэрнүүд	дэбтэр	NOUN	_	_	3	nsubj	_	Offset=4242-4252
-2	нангинаар	нангинаар	ADV	_	_	3	advmod	_	Offset=4253-4262
-3	хадагалаатай	хадагалаатай	ADJ	_	_	0	root	_	Offset=4263-4275
-4	байгаа	байха	VERB	_	_	3	cop	_	Offset=4276-4282
-5	.	.	PUNCT	_	_	3	punct	_	Offset=4283-4284
-
-1	θɵрɵɵ	ɵɵрɵɵ	PRON	_	_	8	nsubj	_	Offset=4286-4291
-2	болон	болохо	ADV	_	_	3	advmod	_	Offset=4292-4297
-3	буряад	буряад	ADJ	_	_	5	parataxis	_	Offset=4298-4304
-4	болон	болохо	ADV	_	_	5	advmod	_	Offset=4305-4310
-5	ород	ород	ADJ	_	_	6	amod	_	Offset=4311-4315
-6	хэлэ	хэлэн	NOUN	_	_	8	nmod	_	Offset=4316-4320
-7	һайн	һайн	ADV	_	_	8	advmod	_	Offset=4321-4325
-8	мэдэдэг	мэдэхэ	VERB	_	_	0	root	_	Offset=4326-4333
-9	.	.	PUNCT	_	_	8	punct	_	Offset=4334-4335
-
-1	Монгол	монгол	ADJ	_	_	2	amod	_	Offset=4337-4343
-2	бүтээлнүүдые	бүтээл	NOUN	_	_	6	dobj	_	Offset=4344-4356
-3	залуушуулда	залуушуул	NOUN	_	_	6	iobj	_	Offset=4357-4368
-4	нягта	нягта	ADV	_	_	5	advmod	_	Offset=4369-4374
-5	наринаар	наринаар	ADV	_	_	6	advmod	_	Offset=4375-4383
-6	хүргэдэг	хүргэхэ	VERB	_	_	0	root	_	Offset=4384-4392
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4393-4394
-
-1	Одхон	одхон	ADJ	_	_	2	amod	_	Offset=4396-4401
-2	үхибүүндээ	үхибүүн	NOUN	_	_	5	iobj	_	Offset=4402-4412
-3	нүхэрэйнгɵɵ	нүхэр	NOUN	_	_	4	nmod	_	Offset=4413-4424
-4	нэрэ	нэрэ	NOUN	_	_	5	dobj	_	Offset=4425-4429
-5	үгɵɵб	үгэхэ	VERB	_	_	0	root	_	Offset=4430-4435
-6	.	.	PUNCT	_	_	5	punct	_	Offset=4436-4437
-
-1	Екатерина	Екатерина	PROPN	_	_	2	name	_	Offset=4439-4448
-2	Дамдиновагай	Дамдинова	PROPN	_	_	5	nmod:own	_	Offset=4449-4461
-3	зохёохы	зохёохы	ADJ	_	_	4	amod	_	Offset=4462-4469
-4	оршом	оршом	NOUN	_	_	5	nmod	_	Offset=4470-4475
-5	байгуулга	байгуулга	NOUN	_	_	0	root	_	Offset=4476-4485
-6	.	.	PUNCT	_	_	5	punct	_	Offset=4486-4487
-
-1	Поэт	поэт	NOUN	_	_	8	nsubj	_	Offset=4552-4556
-2	ɵɵрынгɵɵ	ɵɵрынгɵɵ	DET	_	_	4	det	_	Offset=4557-4565
-3	зохёохы	зохёохы	ADJ	_	_	4	amod	_	Offset=4566-4573
-4	ажалда	ажал	NOUN	_	_	8	dobj	_	Offset=4574-4580
-5	тон	тон	ADV	_	_	6	advmod	_	Offset=4581-4584
-6	үндэр	үндэр	ADJ	_	_	7	amod	_	Offset=4585-4590
-7	хэмжээтэйгээр	хэмжээ(н)	NOUN	_	_	8	nmod	_	Offset=4591-4604
-8	хандадаг	хандаха	VERB	_	_	0	root	_	Offset=4605-4613
-9	һэн	һэн	PART	_	_	8	discourse	_	Offset=4614-4617
-10	.	.	PUNCT	_	_	8	punct	_	Offset=4618-4619
-
-1	Россиин	России	PROPN	_	_	3	nmod:own	_	Offset=4685-4692
-2	уран	уран	ADJ	_	_	3	compound	_	Offset=4693-4697
-3	зохёолшодой	зохеолшон	NOUN	_	_	4	nmod	_	Offset=4698-4709
-4	холбооной	холбоон	NOUN	_	_	5	nmod	_	Offset=4710-4719
-5	гэшүүн	гэшүүн	NOUN	_	_	0	root	_	Offset=4720-4726
-6	.	.	PUNCT	_	_	5	punct	_	Offset=4727-4728
-
-1	Шүлэг	шүлэг	NOUN	_	_	5	nsubj	_	Offset=4730-4735
-2	бүхэниинь	бүхэ	DET	_	_	1	det	_	Offset=4736-4745
-3	адли	адли	ADV	_	_	5	advmod	_	Offset=4746-4750
-4	үндэр	үндэр	ADV	_	_	5	advmod	_	Offset=4751-4756
-5	шанартай	шанартай	ADJ	_	_	0	root	_	Offset=4757-4765
-6	байба	байха	VERB	_	_	5	cop	_	Offset=4766-4771
-7	.	.	PUNCT	_	_	5	punct	_	Offset=4772-4773
-
-1	Поэзии	поэзи	NOUN	_	_	4	nsubj	_	Offset=4775-4781
-2	тон	тон	ADV	_	_	3	advmod	_	Offset=4782-4785
-3	ɵɵрсэ	ɵɵрсэ	ADV	_	_	4	advmod	_	Offset=4786-4791
-4	шэнжэтэй	шэнжэтэй	ADJ	_	_	0	root	_	Offset=4792-4800
-5	.	.	PUNCT	_	_	4	punct	_	Offset=4801-4802
-
-1	Буряад	буряад	ADJ	_	_	2	amod	_	Offset=4804-4810
-2	поэзиин	поэзи	NOUN	_	_	3	nmod	_	Offset=4811-4818
-3	хүгжэлтэдэ	хүгжэл	NOUN	_	_	5	nmod	_	Offset=4819-4829
-4	шэнэ	шэнэ	ADJ	_	_	5	amod	_	Offset=4830-4834
-5	шата	шата	NOUN	_	_	9	nsubj	_	Offset=4835-4839
-6	,	,	PUNCT	_	_	5	punct	_	Offset=4840-4841
-7	дабташагүй	дабташа	ADJ	_	_	8	amod	_	Offset=4842-4852
-8	шата	шата	NOUN	_	_	5	parataxis	_	Offset=4853-4857
-9	болон	болохо	VERB	_	_	0	root	_	Offset=4858-4863
-10	мүнхэрɵɵ	мүнхэрхэ	VERB	_	_	9	xcomp	_	Offset=4864-4872
-11	.	.	PUNCT	_	_	9	punct	_	Offset=4873-4874
-
-1	Түрүүшын	түрүүшын	ADJ	_	_	2	amod	_	Offset=4876-4884
-2	шүүлэгүүдэй	шүлэг	NOUN	_	_	3	nmod	_	Offset=4885-4896
-3	нэгые	нэгэн	NUM	_	_	4	nummod	_	Offset=4897-4902
-4	дурдая	дурдаха	VERB	_	_	0	root	_	Offset=4903-4909
-5	.	.	PUNCT	_	_	4	punct	_	Offset=4910-4911
-
-1	Нюдэндэ	нюдэн	NOUN	_	_	2	nmod	_	Offset=4943-4950
-2	харагдаха	харагдаха	VERB	_	_	5	parataxis	_	Offset=4951-4960
-3	,	,	PUNCT	_	_	2	punct	_	Offset=4961-4962
-4	шэхэндэ	шэхэн	NOUN	_	_	5	nmod	_	Offset=4963-4970
-5	соностохо	соностохо	VERB	_	_	6	acl	_	Offset=4971-4980
-6	мүрнүүд	мүр	NOUN	_	_	0	root	_	Offset=4981-4988
-7	.	.	PUNCT	_	_	6	punct	_	Offset=4989-4990
-
-1	Эндэ	эндэ	ADV	_	_	6	advmod	_	Offset=4992-4996
-2	Александр	Александр	PROPN	_	_	3	name	_	Offset=4997-5006
-3	Блогой	Блогой	PROPN	_	_	4	nmod:own	_	Offset=5007-5013
-4	шүлэгэй	шүлэг	NOUN	_	_	5	nmod	_	Offset=5014-5021
-5	шэнхинээн	шэнхинээн	NOUN	_	_	6	nsubj	_	Offset=5022-5031
-6	зэдэлшэхэдэл	зэдэлгэхэ	VERB	_	_	0	root	_	Offset=5032-5044
-7	гэдэг	гэхэ	PART	_	_	6	discourse	_	Offset=5045-5050
-8	.	.	PUNCT	_	_	6	punct	_	Offset=5051-5052
-
-1	Дэлхэйн	дэлхэйн	NOUN	_	_	3	nmod	_	Offset=5054-5061
-2	уран	уран	ADJ	_	_	3	amod	_	Offset=5062-5066
-3	зохёолые	зохёол	NOUN	_	_	5	dobj	_	Offset=5067-5075
-4	яһала	яһала	ADV	_	_	5	advmod	_	Offset=5076-5081
-5	шудалһан	шудалһан	ADJ	_	_	0	root	_	Offset=5082-5090
-6	байха	байха	VERB	_	_	5	cop	_	Offset=5091-5096
-7	.	.	PUNCT	_	_	5	punct	_	Offset=5097-5098
-
-1	һайхан	һайхан	ADJ	_	_	2	amod	_	Offset=5100-5106
-2	юумэн	юумэн	PRON	_	_	6	nmod	_	Offset=5107-5112
-3	тээшэ	тээшэ	ADP	_	_	2	case	_	Offset=5113-5118
-4	хододоо	хододоо(л)	ADV	_	_	6	advmod	_	Offset=5119-5126
-5	эрмэлзэжэ	эрмэлзэхэ	VERB	_	_	6	compound	_	Offset=5127-5136
-6	ябаа	ябаха	VERB	_	_	0	root	_	Offset=5137-5141
-7	юм	юм	PART	_	_	6	discourse	_	Offset=5142-5144
-8	даа	даа	PART	_	_	6	discourse	_	Offset=5145-5148
-9	.	.	PUNCT	_	_	6	punct	_	Offset=5149-5150
-
-1	Хужар	Хужар	PROPN	_	_	3	nmod	_	Offset=5152-5157
-2	гэжэ	гэ	PART	_	_	3	discourse	_	Offset=5158-5162
-3	нютагта	нютаг	NOUN	_	_	7	nmod	_	Offset=5163-5170
-4	үндын	үндын	NOUN	_	_	6	nmod	_	Offset=5171-5176
-5	дээшээ	дээшээ	ADP	_	_	4	case	_	Offset=5177-5183
-6	хүн	хүн	NOUN	_	_	7	nsubj	_	Offset=5184-5187
-7	болоо	болохо	VERB	_	_	0	root	_	Offset=5188-5193
-8	.	.	PUNCT	_	_	7	punct	_	Offset=5194-5195
-
-1	Екатерина	Екатерина	PROPN	_	_	5	nsubj	_	Offset=5197-5206
-2	Дулмаһаа	Дулма	PROPN	_	_	5	nmod	_	Offset=5207-5215
-3	гурба	гурба	NUM	_	_	4	nummod	_	Offset=5216-5221
-4	наһа	наһа(н)	NOUN	_	_	5	nmod	_	Offset=5222-5226
-5	аха	аха	NOUN	_	_	0	root	_	Offset=5227-5230
-6	байгаа	байха	VERB	_	_	5	cop	_	Offset=5231-5237
-7	.	.	PUNCT	_	_	5	punct	_	Offset=5238-5239
-
-1	Тиигээд	тиигээд	CONJ	_	_	7	cc	_	Offset=5241-5248
-2	лэ	лэ	PART	_	_	7	discourse	_	Offset=5249-5251
-3	тэдэнэр	тэдэ	PRON	_	_	7	nsubj	_	Offset=5252-5259
-4	Хэрэнэй	Хэрэн	PROPN	_	_	6	nmod:own	_	Offset=5260-5267
-5	дунда	дунда	ADJ	_	_	6	compound	_	Offset=5268-5273
-6	һургуули	һургуулида	NOUN	_	_	7	nmod	_	Offset=5274-5282
-7	дүүргээ	дүүргэхэ	VERB	_	_	0	root	_	Offset=5283-5290
-8	.	.	PUNCT	_	_	7	punct	_	Offset=5291-5292
-
-1	Жэлнүүд	жэл	NOUN	_	_	3	nsubj	_	Offset=5294-5301
-2	түргэнɵɵр	түргэнɵɵр	ADV	_	_	3	advmod	_	Offset=5302-5311
-3	үнгэрɵɵ	үнгэхэ	VERB	_	_	0	root	_	Offset=5312-5319
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5320-5321
-
-1	Хоер	хоер	NUM	_	_	2	nummod	_	Offset=5378-5382
-2	үхибүүд	үхибүүн	NOUN	_	_	5	nsubj	_	Offset=5383-5390
-3	хойно	хойно	ADV	_	_	4	mwe	_	Offset=5391-5396
-4	хойноһоонь	хойноһоо	ADV	_	_	5	advmod	_	Offset=5397-5407
-5	түрɵɵ	түрэхэ	VERB	_	_	0	root	_	Offset=5408-5413
-6	.	.	PUNCT	_	_	5	punct	_	Offset=5414-5415
-
-1	һуралсал	һуралсал	NOUN	_	_	3	dobj	_	Offset=5417-5425
-2	заочноор	заочно	ADV	_	_	3	advmod	_	Offset=5426-5434
-3	үргэлжэлүүлэгдээ	үргэлжэлхэ	VERB	_	_	0	root	_	Offset=5435-5451
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5452-5453
-
-1	Хүдɵɵгэй	хүдɵɵгэй	NOUN	_	_	2	nmod	_	Offset=5455-5463
-2	ажалда	ажал	NOUN	_	_	4	nmod	_	Offset=5464-5470
-3	хамсыгаа	хамсы	NOUN	_	_	4	nsubj	_	Offset=5471-5479
-4	шуугаа	шууха	VERB	_	_	0	root	_	Offset=5480-5486
-5	бэлэй	бэлэй	AUX	_	_	4	aux	_	Offset=5487-5492
-6	.	.	PUNCT	_	_	4	punct	_	Offset=5493-5494
-
-1	Yнеэ	үнеэн	NOUN	_	_	2	nmod	_	Offset=5496-5500
-2	һаалган	һаалган	NOUN	_	_	0	root	_	Offset=5501-5508
-3	.	.	PUNCT	_	_	2	punct	_	Offset=5509-5510
-
-1	Хоол	Хоол	NOUN	_	_	2	compound	_	Offset=5512-5516
-2	эдеэ	эдеэн	NOUN	_	_	3	nmod	_	Offset=5517-5521
-3	шаналга	шаналга	NOUN	_	_	0	root	_	Offset=5522-5529
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5530-5531
-
-1	Номгон	номгон	ADJ	_	_	2	amod	_	Offset=5533-5539
-2	далайн	далай	NOUN	_	_	3	nmod	_	Offset=5540-5546
-3	флодой	флод	NOUN	_	_	4	nmod	_	Offset=5547-5553
-4	сэрэгшэн	сэрэгшэн	NOUN	_	_	0	root	_	Offset=5554-5562
-5	.	.	PUNCT	_	_	4	punct	_	Offset=5563-5564
-
-1	Тон	тон	ADV	_	_	2	advmod	_	Offset=5566-5569
-2	уран	уран	ADJ	_	_	4	amod	_	Offset=5570-5574
-3	һайхан	һайхан	ADJ	_	_	4	amod	_	Offset=5575-5581
-4	поэзии	поэзи	NOUN	_	_	0	root	_	Offset=5582-5588
-5	.	.	PUNCT	_	_	4	punct	_	Offset=5589-5590
-
-1	Шүлэгүүдэй	шүлэг	NOUN	_	_	2	nmod	_	Offset=5592-5602
-2	суглуулбари	суглуулбари	NOUN	_	_	3	nmod	_	Offset=5603-5614
-3	хэблэгдээн	хэблэгдэхэ	NOUN	_	_	0	root	_	Offset=5615-5625
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5626-5627
-
-1	Аяга	аяга	NOUN	_	_	2	nmod	_	Offset=5629-5633
-2	сай	сай	NOUN	_	_	3	nmod	_	Offset=5634-5637
-3	уужа	ууха	VERB	_	_	4	xcomp	_	Offset=5638-5642
-4	һууха	һууха	VERB	_	_	0	root	_	Offset=5643-5647
-5	зуураа	зуураа	ADJ	_	_	6	amod	_	Offset=5648-5654
-6	шүлэгүүдэй	шүлэг	NOUN	_	_	7	dobj	_	Offset=5655-5665
-7	зохёохо	зохёохо	VERB	_	_	4	advcl	_	Offset=5666-5673
-8	аргатай	аргатай	AUX	_	_	7	aux	_	Offset=5674-5681
-9	.	.	PUNCT	_	_	7	punct	_	Offset=5682-5683
-
-1	Олон	олон	DET	_	_	2	det	_	Offset=5730-5734
-2	үнгэтэ	үнгэтэй	NOUN	_	_	3	nmod	_	Offset=5735-5741
-3	һолонго	һолонго	NOUN	_	_	0	root	_	Offset=5742-5749
-4	мэтэ	мэтэ	ADV	_	_	3	advmod	_	Offset=5750-5754
-5	.	.	PUNCT	_	_	3	punct	_	Offset=5755-5756
-
-1	Ухаан	ухаан	NOUN	_	_	2	compound	_	Offset=5758-5763
-2	бодол	бодол	NOUN	_	_	3	nmod	_	Offset=5764-5769
-3	хурсатай	хурса	ADJ	_	_	0	root	_	Offset=5770-5778
-4	юм	юм	PART	_	_	3	discourse	_	Offset=5779-5781
-5	.	.	PUNCT	_	_	3	punct	_	Offset=5782-5783
-
-1	Саяан	Саяан	PROPN	_	_	2	name	_	Offset=5785-5790
-2	Мундаргын	Мундарга	PROPN	_	_	3	nmod:own	_	Offset=5791-5800
-3	орой	орой	NOUN	_	_	0	root	_	Offset=5801-5805
-4	шэнги	шэнги	ADV	_	_	3	advmod	_	Offset=5806-5811
-5	хурса	хурса	ADJ	_	_	6	amod	_	Offset=5812-5817
-6	һанаа	һанаан	NOUN	_	_	7	nmod	_	Offset=5818-5823
-7	бодолтой	бодолтой	ADJ	_	_	3	amod	_	Offset=5824-5832
-8	.	.	PUNCT	_	_	3	punct	_	Offset=5833-5834
-
-1	Бэе	бэе	PRON	_	_	2	compound	_	Offset=5836-5839
-2	бэеэ	бэеэ	PRON	_	_	4	nsubj	_	Offset=5840-5844
-3	хадхан	хадхан	ADV	_	_	4	advmod	_	Offset=5845-5851
-4	дайралсадаг	дайраха	VERB	_	_	0	root	_	Offset=5852-5863
-5	бэлэй	бэлэй	AUX	_	_	4	aux	_	Offset=5864-5869
-6	.	.	PUNCT	_	_	4	punct	_	Offset=5870-5871
-
-1	Зохёогшо	зохёогшо	NOUN	_	_	3	nsubj	_	Offset=5873-5881
-2	һонирхолтойгоор	һонирхолтой	ADV	_	_	3	advmod	_	Offset=5882-5897
-3	хɵɵрэдэг	хɵɵрэхэ	VERB	_	_	0	root	_	Offset=5898-5906
-4	һэн	һэн	PART	_	_	3	discourse	_	Offset=5907-5910
-5	.	.	PUNCT	_	_	3	punct	_	Offset=5911-5912
-
-1	Түнхэнэй	Түнхэн	PROPN	_	_	3	nmod:own	_	Offset=5914-5922
-2	уран	уран	ADJ	_	_	3	amod	_	Offset=5923-5927
-3	зохёолшодой	зохеолшон	NOUN	_	_	4	nmod	_	Offset=5928-5939
-4	хүтэлбэритэй	хүтэлбэри	NOUN	_	_	5	nmod	_	Offset=5940-5952
-5	золгоо	зон	NOUN	_	_	0	root	_	Offset=5953-5959
-6	.	.	PUNCT	_	_	5	punct	_	Offset=5960-5961
-
-1	Yхибүүдтэ	үхибүүн	NOUN	_	_	2	nmod	_	Offset=5963-5972
-2	зорюулагдаһан	зорюулха	ADJ	_	_	3	acl	_	Offset=5973-5986
-3	зохеолнууд	зохёол	NOUN	_	_	0	root	_	Offset=5987-5997
-4	.	.	PUNCT	_	_	3	punct	_	Offset=5998-5999
-
-1	Замай	замай	ADJ	_	_	2	amod	_	Offset=6096-6101
-2	эхин	эхин	NOUN	_	_	3	nsubj	_	Offset=6102-6106
-3	һанагдана	һанагдаха	VERB	_	_	0	root	_	Offset=6107-6116
-4	.	.	PUNCT	_	_	3	punct	_	Offset=6117-6118
-
-1	Газар	газар	NOUN	_	_	2	nmod	_	Offset=6120-6125
-2	дэлхэй	дэлхэй	NOUN	_	_	3	nsubj	_	Offset=6126-6132
-3	гансалтайхан	гансалтайхан	ADJ	_	_	0	root	_	Offset=6133-6145
-4	гэлсэдэг	гэлсэхэ	VERB	_	_	3	parataxis	_	Offset=6146-6154
-5	.	.	PUNCT	_	_	3	punct	_	Offset=6155-6156
-
-1	Хүхюутэй	хүхюутэй	ADJ	_	_	2	amod	_	Offset=6195-6203
-2	үдэрнүүд	үдэр	NOUN	_	_	4	nsubj	_	Offset=6204-6212
-3	заатагүй	заатагүй	ADV	_	_	4	advmod	_	Offset=6213-6221
-4	ерэхэл	ерэхэ	VERB	_	_	0	root	_	Offset=6222-6228
-5	юм	юм	PART	_	_	4	discourse	_	Offset=6229-6231
-6	.	.	PUNCT	_	_	4	punct	_	Offset=6232-6233
-
-1	Жэргэмэл	жэргэмэл	NOUN	_	_	2	compound	_	Offset=6235-6243
-2	шубууд	шубуун	NOUN	_	_	4	nsubj	_	Offset=6244-6250
-3	гоеор	гоё	ADV	_	_	4	advmod	_	Offset=6251-6256
-4	дуулана	дуулаха	VERB	_	_	0	root	_	Offset=6257-6264
-5	.	.	PUNCT	_	_	4	punct	_	Offset=6265-6266
-
-1	Залуу	залуу	ADJ	_	_	2	amod	_	Offset=6268-6273
-2	наһанай	наһан	NOUN	_	_	3	nmod	_	Offset=6274-6281
-3	заяан	заяан	NOUN	_	_	0	root	_	Offset=6282-6287
-4	.	.	PUNCT	_	_	3	punct	_	Offset=6288-6289
-
-1	Зол	зол	NOUN	_	_	2	compound	_	Offset=6291-6294
-2	жаргал	жаргал	NOUN	_	_	3	nsubj	_	Offset=6295-6301
-3	эдлээ	эдлэхэ	VERB	_	_	0	root	_	Offset=6302-6307
-4	юм	юм	PART	_	_	3	discourse	_	Offset=6308-6310
-5	.	.	PUNCT	_	_	3	punct	_	Offset=6311-6312
-
-1	Саяан	Саяан	PROPN	_	_	2	nmod	_	Offset=6314-6319
-2	уулаяа	уула	NOUN	_	_	4	nmod	_	Offset=6320-6326
-3	магтан	магтан	NOUN	_	_	4	dobj	_	Offset=6327-6333
-4	дууланалби	дуулаха	VERB	_	_	0	root	_	Offset=6334-6344
-5	.	.	PUNCT	_	_	4	punct	_	Offset=6345-6346
-
-1	Байгал	Байгал	PROPN	_	_	2	compound	_	Offset=6348-6354
-2	далайгаа	далай	NOUN	_	_	5	nmod	_	Offset=6355-6363
-3	баһаашье	баһа	ADV	_	_	5	advmod	_	Offset=6364-6372
-4	магтанам	магтан	NOUN	_	_	5	nmod	_	Offset=6373-6381
-5	дуунууд	дуун	NOUN	_	_	0	root	_	Offset=6382-6389
-6	соогоо	соогоо	ADP	_	_	5	case	_	Offset=6390-6396
-7	.	.	PUNCT	_	_	5	punct	_	Offset=6397-6398
-
-1	Саян	Саян	PROPN	_	_	2	nmod	_	Offset=6429-6433
-2	уулаһаашье	уула	NOUN	_	_	4	nmod	_	Offset=6434-6444
-3	үндэр	үндэр	ADJ	_	_	4	amod	_	Offset=6445-6450
-4	мэдэрэлээр	мэдэрэл	NOUN	_	_	5	dobj	_	Offset=6451-6461
-5	һананам	һанаха	VERB	_	_	0	root	_	Offset=6462-6469
-6	.	.	PUNCT	_	_	5	punct	_	Offset=6470-6471
-
-1	Сарюун	сарюун	ADJ	_	_	2	amod	_	Offset=6473-6479
-2	дэлхэйн	дэлхэйн	NOUN	_	_	4	nmod	_	Offset=6480-6487
-3	элшэтэ	элшэ	NOUN	_	_	4	nmod	_	Offset=6488-6494
-4	наран	наран	NOUN	_	_	0	root	_	Offset=6495-6500
-5	.	.	PUNCT	_	_	4	punct	_	Offset=6501-6502
-
-1	Буряад	буряад	ADJ	_	_	2	amod	_	Offset=6504-6510
-2	зон	зон	NOUN	_	_	6	nsubj	_	Offset=6511-6514
-3	бултадаа	булта	DET	_	_	2	det	_	Offset=6515-6523
-4	Байгал	Байгал	PROPN	_	_	5	nmod	_	Offset=6524-6530
-5	далайдаа	далай	NOUN	_	_	6	dobj	_	Offset=6531-6539
-6	дуратай	дураха	VERB	_	_	0	root	_	Offset=6540-6547
-7	.	.	PUNCT	_	_	6	punct	_	Offset=6548-6549
-
-1	Шүлэгэй	шүлэг	NOUN	_	_	2	nmod	_	Offset=6635-6642
-2	үдэшэ	үдэшэ	NOUN	_	_	3	nsubj	_	Offset=6643-6648
-3	эхилбэ	эхилхэ	VERB	_	_	0	root	_	Offset=6649-6655
-4	.	.	PUNCT	_	_	3	punct	_	Offset=6656-6657
-
-1	Заалаар	заал	NOUN	_	_	2	nsubj	_	Offset=6659-6666
-2	дүүрэн	дүүрэн	ADJ	_	_	0	root	_	Offset=6667-6673
-3	хүүнүүд	хүүн	NOUN	_	_	2	nmod	_	Offset=6674-6681
-4	.	.	PUNCT	_	_	2	punct	_	Offset=6682-6683
-
-1	Хүхюун	хүхюун	ADJ	_	_	2	amod	_	Offset=6685-6691
-2	зугаа	зугаа	NOUN	_	_	4	nsubj	_	Offset=6692-6697
-3	дэлгэрнэ	дэлгэрнэ	ADV	_	_	4	advmod	_	Offset=6698-6706
-4	тойроод	тойрохо	VERB	_	_	0	root	_	Offset=6707-6714
-5	.	.	PUNCT	_	_	4	punct	_	Offset=6715-6716
-
-1	Хүн	хүн	NOUN	_	_	2	compound	_	Offset=6718-6721
-2	зон	зон	NOUN	_	_	4	nsubj	_	Offset=6722-6725
-3	олоороо	олоор	DET	_	_	2	det	_	Offset=6726-6733
-4	байгаа	байха	VERB	_	_	0	root	_	Offset=6734-6740
-5	.	.	PUNCT	_	_	4	punct	_	Offset=6741-6742
-
-1	Харахан	харахан	ADJ	_	_	2	amod	_	Offset=6782-6789
-2	нюдэниинь	нюдэн	NOUN	_	_	3	nsubj	_	Offset=6790-6799
-3	энеэнэ	энеэхэ	VERB	_	_	0	root	_	Offset=6800-6806
-4	гоёор	гоё	ADV	_	_	3	advmod	_	Offset=6807-6812
-5	.	.	PUNCT	_	_	3	punct	_	Offset=6813-6814
-
-1	Абаахайн	абаахай	NOUN	_	_	2	compound	_	Offset=6914-6922
-2	шүлһэ	шүлһэ	NOUN	_	_	3	compound	_	Offset=6923-6928
-3	һубиһандал	һубиһандал	NOUN	_	_	8	nmod	_	Offset=6929-6939
-4	,	,	PUNCT	_	_	3	punct	_	Offset=6940-6941
-5	аглаг	аглаг	ADJ	_	_	6	amod	_	Offset=6942-6947
-6	дэлхэйе	дэлхэй	NOUN	_	_	8	dobj	_	Offset=6948-6955
-7	алтаар	алтаар	NOUN	_	_	8	nmod	_	Offset=6956-6962
-8	шэмэглэжэрхёо	шэмэглэхэ	VERB	_	_	0	root	_	Offset=6963-6976
-9	.	.	PUNCT	_	_	8	punct	_	Offset=6977-6978
-
-1	Эрхүүгэй	Эрхүүгэй	PROPN	_	_	3	nmod	_	Offset=6980-6988
-2	зайн	зайн	ADJ	_	_	3	amod	_	Offset=6989-6993
-3	галнууд	гал	NOUN	_	_	4	nsubj	_	Offset=6994-7001
-4	ялараа	яларха	VERB	_	_	0	root	_	Offset=7002-7008
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7009-7010
-
-1	Хэн	хэн	PRON	_	_	3	nsubj	_	Offset=7035-7038
-2	намайе	би	PRON	_	_	3	dobj	_	Offset=7039-7045
-3	зэмэлнэб	зэмэлхэ	VERB	_	_	0	root	_	Offset=7046-7054
-4	?	?	PUNCT	_	_	3	punct	_	Offset=7055-7056
-
-1	Жаргалтайб	жаргал	VERB	_	_	0	root	_	Offset=7058-7068
-2	гэн	гэхэ	PART	_	_	3	discourse	_	Offset=7069-7072
-3	шэбшэбэ	шэбшэхэ	VERB	_	_	1	parataxis	_	Offset=7073-7080
-4	зүрхэмни	зүрхэн	NOUN	_	_	3	nsubj	_	Offset=7081-7089
-5	.	.	PUNCT	_	_	3	punct	_	Offset=7090-7091
-
-1	Шэнжэлбэб	шэнжэлхэ	VERB	_	_	0	root	_	Offset=7093-7102
-2	бадаржа	бадарха	ADJ	_	_	4	acl	_	Offset=7103-7110
-3	байһан	байха	VERB	_	_	2	cop	_	Offset=7111-7117
-4	сэсэгые	сэсэг	NOUN	_	_	1	dobj	_	Offset=7118-7125
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7126-7127
-
-1	һаруулхан	һаруулхан	ADJ	_	_	2	amod	_	Offset=7170-7179
-2	одо	одон	NOUN	_	_	3	compound	_	Offset=7180-7183
-3	мүшэдэй	мүшэн	NOUN	_	_	4	nmod	_	Offset=7184-7191
-4	харгыгаар	харгы	NOUN	_	_	0	root	_	Offset=7192-7201
-5	.	.	PUNCT	_	_	4	nmod	_	Offset=7202-7203
-
-1	Саһанай	саһан	NOUN	_	_	2	nmod	_	Offset=7205-7212
-2	сагаан	сагаан	ADJ	_	_	3	nsubj	_	Offset=7213-7219
-3	байхада	байха	VERB	_	_	0	root	_	Offset=7220-7227
-4	.	.	PUNCT	_	_	3	punct	_	Offset=7228-7229
-
-1	Арбан	арбан	NUM	_	_	2	compound	_	Offset=7231-7236
-2	долоон	долоон	NUM	_	_	3	nummod	_	Offset=7237-7243
-3	наһа	наһа(н)	NOUN	_	_	4	nmod	_	Offset=7244-7248
-4	хүрэхэдɵɵ	хүрэхэ	VERB	_	_	0	root	_	Offset=7249-7258
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7259-7260
-
-1	Гарни	гар	NOUN	_	_	2	nsubj	_	Offset=7262-7267
-2	татагдадаг	татагдаха	VERB	_	_	0	root	_	Offset=7268-7278
-3	зүгын	зүгы	NOUN	_	_	4	nmod	_	Offset=7279-7284
-4	тооһо	тооһон	NOUN	_	_	5	nsubj	_	Offset=7285-7290
-5	бэдэрхэеэ	бэдэрхэ	VERB	_	_	2	advcl	_	Offset=7291-7300
-6	.	.	PUNCT	_	_	5	punct	_	Offset=7301-7302
-
-1	Саяанайм	Саян	PROPN	_	_	3	nmod:own	_	Offset=7304-7312
-2	хурса	хурса	ADJ	_	_	3	amod	_	Offset=7313-7318
-3	оройнууд	орон	NOUN	_	_	7	nsubj	_	Offset=7319-7327
-4	хүтэрэлдɵɵд	хүтэрэлдɵɵд	ADV	_	_	7	advmod	_	Offset=7328-7339
-5	еохор	еохор	NOUN	_	_	7	nmod	_	Offset=7340-7345
-6	наада	наада	ADV	_	_	7	advmod	_	Offset=7346-7351
-7	хатарба	хатарха	VERB	_	_	0	root	_	Offset=7352-7359
-8	.	.	PUNCT	_	_	7	punct	_	Offset=7360-7361
-
-1	Хүхюу	хүхюун	ADJ	_	_	3	amod	_	Offset=7363-7368
-2	олон	олон	DET	_	_	3	det	_	Offset=7369-7373
-3	шубууд	шубуун	NOUN	_	_	5	nsubj	_	Offset=7374-7380
-4	уянгатайгаар	уянгатайгаар	ADV	_	_	5	advmod	_	Offset=7381-7393
-5	дуулалдаа	дуулаха	VERB	_	_	0	root	_	Offset=7394-7403
-6	.	.	PUNCT	_	_	5	punct	_	Offset=7404-7405
-
-1	Омар	Омар	PROPN	_	_	2	name	_	Offset=7407-7411
-2	Хайямай	Хайям	PROPN	_	_	4	nmod:own	_	Offset=7412-7419
-3	алтан	алтан	ADJ	_	_	4	amod	_	Offset=7420-7425
-4	аялгаар	аялга	NOUN	_	_	0	root	_	Offset=7426-7433
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7434-7435
-
-1	Хабарай	хабар	NOUN	_	_	2	nmod	_	Offset=7437-7444
-2	аялганууд	аялга	NOUN	_	_	3	nsubj	_	Offset=7445-7454
-3	дуулдана	дуулдаха	VERB	_	_	0	root	_	Offset=7455-7463
-4	тойроод	тойроод	ADV	_	_	3	advmod	_	Offset=7464-7471
-5	.	.	PUNCT	_	_	3	punct	_	Offset=7472-7473
-
-1	Хонгёо	хонгёо	ADJ	_	_	4	amod	_	Offset=7475-7481
-2	дуутай	дуутай	ADJ	_	_	4	amod	_	Offset=7482-7488
-3	һургуулиин	һургуули	NOUN	_	_	4	nmod	_	Offset=7489-7499
-4	хонхо	хонхо	NOUN	_	_	0	root	_	Offset=7500-7505
-5	.	.	PUNCT	_	_	4	punct	_	Offset=7506-7507
-
-1	Ород	ород	ADJ	_	_	2	amod	_	Offset=7509-7513
-2	гурэнэй	гүрэн	NOUN	_	_	5	nmod	_	Offset=7514-7521
-3	2010	2010	NUM	_	_	4	nummod	_	Offset=7522-7526
-4	оной	он	NOUN	_	_	5	nmod	_	Offset=7527-7531
-5	тоогоор	тоогоор	NOUN	_	_	10	nmod	_	Offset=7532-7539
-6	Буряад	буряад	PROPN	_	_	7	nmod	_	Offset=7540-7546
-7	яһатан	яһатан	NOUN	_	_	10	nsubj	_	Offset=7547-7553
-8	461389	461389	NUM	_	_	9	nummod	_	Offset=7554-7560
-9	хун	хун	NOUN	_	_	10	nmod	_	Offset=7561-7564
-10	зон	зон	NOUN	_	_	0	root	_	Offset=7565-7568
-11	болоно	болохо	VERB	_	_	10	cop	_	Offset=7569-7575
-12	.	.	PUNCT	_	_	10	punct	_	Offset=7576-7577
-
-1	Хори	Хори	NOUN	_	_	8	nsubj	_	Offset=7741-7745
-2	буряадуудай	буряяад	NOUN	_	_	3	nmod	_	Offset=7748-7759
-3	яһатанай	яһатан	NOUN	_	_	4	nmod	_	Offset=7760-7768
-4	нэгэн	нэгэн	NUM	_	_	1	appos	_	Offset=7769-7774
-5	,	,	PUNCT	_	_	4	punct	_	Offset=7775-7776
-6	11	11	NUM	_	_	7	nummod	_	Offset=7777-7779
-7	угуудай	уг	NOUN	_	_	8	nmod	_	Offset=7780-7787
-8	холбоон	холбоон	VERB	_	_	0	root	_	Offset=7788-7795
-9	.	.	PUNCT	_	_	8	punct	_	Offset=7796-7797
-
-1	Буряад	буряад	PROPN	_	_	2	name	_	Offset=7799-7805
-2	Уласта	улас	PROPN	_	_	11	nmod	_	Offset=7806-7812
-3	болон	болон	CONJ	_	_	2	cc	_	Offset=7813-7818
-4	Забайкалиин	Забайкалиин	PROPN	_	_	5	name	_	Offset=7819-7830
-5	хизаарай	хизаар	NOUN	_	_	2	conj	_	Offset=7831-7839
-6	Агын	Ага	PROPN	_	_	7	name	_	Offset=7840-7844
-7	Буряадай	Буряяад	PROPN	_	_	8	name	_	Offset=7845-7853
-8	тойрогто	тойрог	NOUN	_	_	5	appos	_	Offset=7854-7862
-9	тон	тон	NOUN	_	_	10	compound	_	Offset=7863-7866
-10	олоороо	олоор	NOUN	_	_	11	nsubj	_	Offset=7867-7874
-11	ажаһуудаг	ажаһууха	VERB	_	_	0	root	_	Offset=7875-7884
-12	юм	юм	PART	_	_	11	discourse	_	Offset=7885-7887
-13	.	.	PUNCT	_	_	11	punct	_	Offset=7888-7889
-
-1	Энэ	энэ	DET	_	_	2	det	_	Offset=7891-7894
-2	угуудай	уг	NOUN	_	_	3	nmod	_	Offset=7895-7902
-3	холбоон	холбоон	NOUN	_	_	9	nsubj	_	Offset=7903-7910
-4	Буряад	буряад	PROPN	_	_	5	name	_	Offset=7911-7917
-5	Уласай	улас	PROPN	_	_	7	nmod	_	Offset=7918-7924
-6	Хориин	Хориин	PROPN	_	_	7	name	_	Offset=7925-7931
-7	аймагта	аймаг	NOUN	_	_	8	nmod	_	Offset=7932-7939
-8	нэрээ	нэрэ	NOUN	_	_	9	dobj	_	Offset=7940-7945
-9	үгэһэн	үгэхэ	VERB	_	_	0	root	_	Offset=7946-7952
-10	байна	байха	AUX	_	_	9	aux	_	Offset=7953-7958
-11	.	.	PUNCT	_	_	9	punct	_	Offset=7959-7960
-
-1	Урдын	урда	ADJ	_	_	2	compound	_	Offset=7962-7967
-2	урда	урда	NOUN	_	_	3	nmod	_	Offset=7968-7972
-3	сагта	саг	NOUN	_	_	10	nmod	_	Offset=7973-7978
-4	Хоридой	Хоридой	PROPN	_	_	5	compound	_	Offset=7979-7986
-5	гэжэ	гэ	PART	_	_	6	compound	_	Offset=7987-7991
-6	нэрэтэй	нэрэ	ADJ	_	_	7	compound	_	Offset=7992-7999
-7	мэргэн	мэргэн	NOUN	_	_	10	nsubj	_	Offset=8000-8006
-8	11	11	NUM	_	_	9	nummod	_	Offset=8007-8009
-9	хүбүүдтэй	хүбүүн	NOUN	_	_	10	dobj	_	Offset=8010-8019
-10	байһан	байха	VERB	_	_	0	root	_	Offset=8020-8026
-11	байгаа	бай	AUX	_	_	10	aux	_	Offset=8027-8033
-12	юм	юм	PART	_	_	10	discourse	_	Offset=8034-8036
-13	.	.	PUNCT	_	_	10	punct	_	Offset=8037-8038
-
-1	Даяар	даяар	DET	_	_	2	det	_	Offset=8154-8159
-2	дэлхэйдэ	дэлхэй	NOUN	_	_	5	nmod	_	Offset=8160-8168
-3	376	376	NUM	_	_	5	nummod	_	Offset=8169-8172
-4	сая	сая	NOUN	_	_	5	nmod	_	Offset=8173-8176
-5	һүзэгтэдтэй	һүзэгтэ	NOUN	_	_	0	root	_	Offset=8177-8188
-6	.	.	PUNCT	_	_	5	punct	_	Offset=8189-8190
-
-1	Ехэ	ехэ	ADJ	_	_	2	amod	_	Offset=8317-8320
-2	Хүлгэн	хүлгэн	NOUN	_	_	20	nsubj	_	Offset=8321-8327
-3	Зүүн	Зүүн	PROPN	_	_	4	name	_	Offset=8328-8332
-4	Ази	Азии	PROPN	_	_	20	nmod	_	Offset=8333-8336
-5	(	(	PUNCT	_	_	6	punct	_	Offset=8337-8338
-6	Хитад	Хитад	PROPN	_	_	4	appos	_	Offset=8339-8344
-7	,	,	PUNCT	_	_	6	punct	_	Offset=8345-8346
-8	Солонгос	Солонгос	PROPN	_	_	6	list	_	Offset=8347-8355
-9	,	,	PUNCT	_	_	8	punct	_	Offset=8356-8357
-10	Япон	Япон	PROPN	_	_	8	list	_	Offset=8358-8362
-11	,	,	PUNCT	_	_	10	punct	_	Offset=8363-8364
-12	Вьетнам	Вьетнам	PROPN	_	_	10	list	_	Offset=8365-8372
-13	,	,	PUNCT	_	_	12	punct	_	Offset=8373-8374
-14	Сингапур	Сингапур	PROPN	_	_	12	list	_	Offset=8375-8383
-15	,	,	PUNCT	_	_	14	punct	_	Offset=8384-8385
-16	Тайвань	Тайвань	PROPN	_	_	14	list	_	Offset=8386-8393
-17	гэхэ	гэхэ	PART	_	_	16	discourse	_	Offset=8394-8398
-18	мэтэ	мэтэ	INTJ	_	_	17	discourse	_	Offset=8399-8403
-19	)	)	PUNCT	_	_	18	punct	_	Offset=8404-8405
-20	туршада	туршаха	VERB	_	_	0	root	_	Offset=8406-8413
-21	дэлгэрүүлэгдэбэ	дэлгэрүүлэгдэбэ	NOUN	_	_	20	nmod	_	Offset=8414-8429
-22	.	.	PUNCT	_	_	20	punct	_	Offset=8430-8431
-
-1	Будда	Будда	PROPN	_	_	2	name	_	Offset=8514-8519
-2	Бурхан	Бурхан	PROPN	_	_	6	nsubj	_	Offset=8520-8526
-3	түрүүшээр	түрүүшээр	ADV	_	_	6	advmod	_	Offset=8527-8536
-4	тэдээндэ	тэдэ	PRON	_	_	6	iobj	_	Offset=8537-8545
-5	анхаралаашье	анхарала	NOUN	_	_	6	dobj	_	Offset=8546-8558
-6	табибагүй	табиха	VERB	_	_	0	root	_	Offset=8559-8568
-7	.	.	PUNCT	_	_	6	punct	_	Offset=8569-8570
-
-1	Зоной	зон	NOUN	_	_	2	nmod	_	Offset=8572-8577
-2	этигэл	этигэл	NOUN	_	_	3	nmod	_	Offset=8578-8584
-3	һэргээхын	һэргээхэ	NOUN	_	_	4	dobj	_	Offset=8585-8594
-4	тулада	тулаха	VERB	_	_	0	root	_	Offset=8595-8601
-5	Бурхан	Бурхан	PROPN	_	_	6	name	_	Offset=8602-8608
-6	Багша	багша	PROPN	_	_	8	nsubj	_	Offset=8609-8614
-7	гуйлтыень	гуйлта	NOUN	_	_	8	dobj	_	Offset=8615-8624
-8	тогтоохо	тогтоохо	VERB	_	_	4	ccomp	_	Offset=8625-8633
-9	баатай	баатайха	AUX	_	_	8	aux	_	Offset=8634-8640
-10	болобо	болохо	AUX	_	_	8	aux	_	Offset=8641-8647
-11	.	.	PUNCT	_	_	8	punct	_	Offset=8648-8649
-
-1	Португал	Португал	PROPN	_	_	2	compound	_	Offset=8755-8763
-2	улас	улас	NOUN	_	_	10	nsubj	_	Offset=8764-8768
-3	хуурай	хуурай	ADJ	_	_	10	amod	_	Offset=8769-8775
-4	,	,	PUNCT	_	_	3	punct	_	Offset=8776-8777
-5	тэнгисэй	тэнгисэй	ADJ	_	_	3	parataxis	_	Offset=8778-8786
-6	,	,	PUNCT	_	_	5	punct	_	Offset=8787-8788
-7	агаарай	агаарай	ADJ	_	_	3	parataxis	_	Offset=8789-8796
-8	замай	замай	ADJ	_	_	9	compound	_	Offset=8797-8802
-9	сэрэгэй	сэрэгэй	ADJ	_	_	10	compound	_	Offset=8803-8810
-10	хүсэнтэй	хүсэнтэй	ADJ	_	_	0	root	_	Offset=8811-8819
-11	.	.	PUNCT	_	_	10	punct	_	Offset=8820-8821
-
-1	Эдэ	эдэ	DET	_	_	2	det	_	Offset=8823-8826
-2	өөрын	өөрын	PRON	_	_	3	nmod	_	Offset=8827-8832
-3	уласые	улас	NOUN	_	_	7	nsubj	_	Offset=8833-8839
-4	гадна	гадна	ADV	_	_	5	advmod	_	Offset=8840-8845
-5	добтолгоһоо	добтолго	NOUN	_	_	7	nmod	_	Offset=8846-8857
-6	баталжа	баталха	VERB	_	_	7	compound	_	Offset=8858-8865
-7	хамгаалха	хамгаалха	VERB	_	_	0	root	_	Offset=8866-8875
-8	үүргэтэй	үүргэ	AUX	_	_	7	aux	_	Offset=8876-8884
-9	.	.	PUNCT	_	_	7	punct	_	Offset=8885-8886
-
-1	Баһа	баһа	CONJ	_	_	6	cc	_	Offset=8888-8892
-2	гадаада	гадаада	ADJ	_	_	3	amod	_	Offset=8893-8900
-3	уласта	улас	NOUN	_	_	6	nmod	_	Offset=8901-8907
-4	хүнэй	хүн	NOUN	_	_	5	nmod	_	Offset=8908-8913
-5	эрхые	эрхы	NOUN	_	_	6	dobj	_	Offset=8914-8919
-6	хамгаалха	хамгаалха	VERB	_	_	8	xcomp	_	Offset=8920-8929
-7	энэһээ	энэ	PRON	_	_	8	nmod	_	Offset=8930-8936
-8	туһалалсаа	туһалалсаха	VERB	_	_	9	xcomp	_	Offset=8937-8947
-9	үзүүлдэг	үзүүлхэ	VERB	_	_	0	root	_	Offset=8948-8956
-10	.	.	PUNCT	_	_	9	punct	_	Offset=8957-8958
-
-1	Диилэнхи	диилэнхи	ADJ	_	_	2	amod	_	Offset=9001-9009
-2	шажан	шажан	NOUN	_	_	5	nsubj	_	Offset=9010-9015
-3	—	—	PUNCT	_	_	2	punct	_	Offset=9016-9017
-4	лалын	лалын	ADJ	_	_	5	amod	_	Offset=9018-9023
-5	шажан	шажан	NOUN	_	_	0	root	_	Offset=9024-9029
-6	.	.	PUNCT	_	_	5	punct	_	Offset=9030-9031
-
-1	Ниислэл	ниислэл	NOUN	_	_	2	nmod	_	Offset=9033-9040
-2	хото	хото	NOUN	_	_	4	nsubj	_	Offset=9041-9045
-3	—	—	PUNCT	_	_	2	punct	_	Offset=9046-9047
-4	Кабул	Кабул	PROPN	_	_	0	root	_	Offset=9048-9053
-5	.	.	PUNCT	_	_	4	punct	_	Offset=9054-9055
-
-1	Түрын	түрын	ADJ	_	_	2	amod	_	Offset=9057-9062
-2	тэригүүн	тэригүүн	NOUN	_	_	4	nsubj	_	Offset=9063-9071
-3	—	—	PUNCT	_	_	2	punct	_	Offset=9072-9073
-4	юрэнхылэгшэ	юрэнхылэгшэ	NOUN	_	_	0	root	_	Offset=9074-9085
-5	.	.	PUNCT	_	_	4	punct	_	Offset=9086-9087
-
-1	Афганистан	Афганистан	PROPN	_	_	4	nsubj	_	Offset=9089-9099
-2	хадаа	хада	NOUN	_	_	3	compound	_	Offset=9100-9105
-3	уулархаг	уулархаг	NOUN	_	_	4	nmod	_	Offset=9106-9114
-4	орон	орон	NOUN	_	_	0	root	_	Offset=9115-9119
-5	мүн	мүн	PART	_	_	4	discourse	_	Offset=9120-9123
-6	.	.	PUNCT	_	_	4	punct	_	Offset=9124-9125
-
-1	Сүлэй	сүлэй	NOUN	_	_	0	root	_	Offset=9492-9497
-2	ба	ба	CONJ	_	_	1	cc	_	Offset=9498-9500
-3	хахад	хахад	NOUN	_	_	1	conj	_	Offset=9501-9506
-4	-	-	PUNCT	_	_	3	punct	_	Offset=9507-9508
-5	сүлэй	сүлэй	NOUN	_	_	7	nmod	_	Offset=9509-9514
-6	ургамал	ургамал	NOUN	_	_	7	nsubj	_	Offset=9515-9522
-7	диилэнэ	диилэхэ	VERB	_	_	1	parataxis	_	Offset=9523-9530
-8	.	.	PUNCT	_	_	7	punct	_	Offset=9531-9532
-
-1	һалхинай	һалхин	NOUN	_	_	4	nmod	_	Offset=9534-9542
-2	үгыдэ	үгыдэ	ADP	_	_	1	case	_	Offset=9543-9548
-3	ногоон	ногоон	NOUN	_	_	4	nsubj	_	Offset=9549-9555
-4	хүдэлхэгүй	хүдэлхэ	VERB	_	_	0	root	_	Offset=9556-9566
-5	.	.	PUNCT	_	_	4	punct	_	Offset=9567-9568
-
-1	һалхинай	һалхин	NOUN	_	_	0	root	_	Offset=9570-9578
-2	үгы	үгы	PART	_	_	1	neg	_	Offset=9579-9582
-3	һаа	һаа	PART	_	_	1	discourse	_	Offset=9583-9586
-4	,	,	PUNCT	_	_	1	punct	_	Offset=9587-9588
-5	модоной	модон	NOUN	_	_	6	nmod	_	Offset=9589-9596
-6	орой	орой	NOUN	_	_	7	nsubj	_	Offset=9597-9601
-7	хүдэлхэгүй	хүдэлхэ	VERB	_	_	1	advcl	_	Offset=9602-9612
-8	.	.	PUNCT	_	_	7	punct	_	Offset=9613-9614
-
-1	һайн	һайн	ADJ	_	_	2	amod	_	Offset=9616-9620
-2	мориндо	морин	NOUN	_	_	4	nmod	_	Offset=9621-9628
-3	эзэн	эзэн	NOUN	_	_	4	nsubj	_	Offset=9629-9633
-4	олон	олон	ADV	_	_	0	root	_	Offset=9634-9638
-5	,	,	PUNCT	_	_	4	punct	_	Offset=9639-9640
-6	һайн	һайн	ADJ	_	_	7	amod	_	Offset=9641-9645
-7	хүндэ	хүнэй	NOUN	_	_	9	nmod	_	Offset=9646-9651
-8	нүхэр	нүхэр	NOUN	_	_	9	nsubj	_	Offset=9652-9657
-9	олон	олон	ADV	_	_	4	parataxis	_	Offset=9658-9662
-10	.	.	PUNCT	_	_	9	punct	_	Offset=9663-9664
+1	Гэр	гэр	NOUN	_	_	4	nsubj	_	_
+2	хадын	хада	NOUN	_	_	4	nmod	_	_
+3	саана	саана	ADP	_	_	2	case	_	_
+4	байна	байха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Тэрэ	тэрэ	DET	_	_	2	det	_	_
+2	хγн	хγн	NOUN	_	_	4	nsubj	_	_
+3	алиханаар	алиханаар	ADV	_	_	4	advmod	_	_
+4	халираа	халиха	VERB	_	_	0	root	_	_
+5	гэртээ	гэр	NOUN	_	_	4	dobj	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Тэрэ	тэрэ	DET	_	_	2	det	_	_
+2	хγн	хγн	NOUN	_	_	5	nsubj	_	_
+3	ехэ	ехэ	ADV	_	_	4	advmod	_	_
+4	хγндөөр	хγндөөр	ADV	_	_	5	advmod	_	_
+5	хэнхэй	хэхэ	VERB	_	_	0	root	_	_
+6	байна	байха	AUX	_	_	5	aux	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Гэбэшье	гэбэшье	ADV	_	_	5	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	энэшни	энэ	PRON	_	_	5	nsubj	_	_
+4	мγнөөдэр	мγнөөдэр	ADV	_	_	5	advmod	_	_
+5	ошохо	ошохо	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Номууд	ном	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	харандаашууд	харандааш	NOUN	_	_	1	conj	_	_
+4	ба	ба	CONJ	_	_	1	cc	_	_
+5	шугамууд	шугам	NOUN	_	_	1	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Харандаашууд	харандааш	NOUN	_	_	0	root	_	_
+2	гγ	гγ	CONJ	_	_	1	cc	_	_
+3	али	али	CONJ	_	_	2	mwe	_	_
+4	шугамууд	шугам	NOUN	_	_	1	conj	_	_
+5	.	.	PUNCT	_	_	1	punct	_	_
+
+1	һγγн	һγн	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	хилээмэн	хилээмэн	NOUN	_	_	1	conj	_	_
+4	ба	ба	CONJ	_	_	1	cc	_	_
+5	тоһон	тоһон	NOUN	_	_	1	conj	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Тэрэнэй	тэрэ	DET	_	_	2	det	_	_
+2	һэдэлгэнь	һэдэлгэ	NOUN	_	_	5	nsubj	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ошожо	ошохо	VERB	_	_	5	compound	_	_
+5	зайгаа	зайха	VERB	_	_	0	root	_	_
+6	һаа	һаа	PART	_	_	5	discourse	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	гэжэ	гэ	PART	_	_	9	discourse	_	_
+9	байгаа	байха	VERB	_	_	5	cop	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Евэ	Ева	PROPN	_	_	3	nsubj	_	_
+2	ажалһаань	ажал	NOUN	_	_	3	dobj	_	_
+3	ерээ	ерэхэ	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Би	би	PRON	_	_	6	nsubj	_	_
+3	гэртэй	гэр	NOUN	_	_	6	nmod	_	_
+4	гансал	гансал	ADV	_	_	5	advmod	_	_
+5	γдэшэндөө	γдэшэндөө	ADV	_	_	6	advmod	_	_
+6	ерэхэб	ерэхэ	VERB	_	_	0	root	_	_
+7	»	»	PUNCT	_	_	6	punct	_	_
+8	-	-	PUNCT	_	_	6	punct	_	_
+9	гэжэ	гэ	PART	_	_	12	discourse	_	_
+10	эрэ	эрэ	DET	_	_	11	det	_	_
+11	хγн	хγн	NOUN	_	_	12	nsubj	_	_
+12	хэлээ	хэлэхэ	VERB	_	_	6	parataxis	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Yгэгдэһэн	yгэгдэһэн	ADJ	_	_	2	amod	_	_
+2	бэлэгγγд	бэлэг	NOUN	_	_	5	nsubj	_	_
+3	хγγгэдтэ	хγγгэн	NOUN	_	_	5	iobj	_	_
+4	баяр	баяр	NOUN	_	_	5	dobj	_	_
+5	асараа	асарха	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Эхэнэр	эхэнэр	NOUN	_	_	9	nsubj	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	хэнэй	хэнэй	PRON	_	_	5	det	_	_
+4	тγмэр	тγмэр	ADJ	_	_	5	mwe	_	_
+5	морин	морин	NOUN	_	_	6	nsubj	_	_
+6	һандарааб	һандарха	VERB	_	_	1	acl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	абаралга	абаралга	NOUN	_	_	9	dobj	_	_
+9	гуйлаа	гуйлаа	VERB	_	_	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Хγдэлгγγр	хγдэлгγγр	NOUN	_	_	4	nsubj	_	_
+2	арбан	арбан	NUM	_	_	3	nummod	_	_
+3	модо	модон	NOUN	_	_	4	nmod	_	_
+4	гараа	гараха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Борбилоо	борбилоо	NOUN	_	_	4	nsubj	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
+3	бишыхан	бишыхан	ADJ	_	_	4	amod	_	_
+4	шубуун	шубуун	NOUN	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Эрэ	эрэ	DET	_	_	2	det	_	_
+2	хγн	хγн	NOUN	_	_	5	nsubj	_	_
+3	баар	баар	NOUN	_	_	5	nmod	_	_
+4	соо	соо	ADP	_	_	3	case	_	_
+5	γγдэшэн	γγдэшэн	NOUN	_	_	0	root	_	_
+6	байгаа	байха	VERB	_	_	5	cop	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Эгээл	эгээл	ADV	_	_	2	advmod	_	_
+2	һонирхолтой	һонирхолтой	ADJ	_	_	4	amod	_	_
+3	зэрлиг	зэрлиг	ADJ	_	_	4	compound	_	_
+4	амитад	амитан	NOUN	_	_	7	nsubj	_	_
+5	гэхэдээ	гэхэ	PART	_	_	7	discourse	_	_
+6	–	–	PUNCT	_	_	7	punct	_	_
+7	жирафууд	жираф	NOUN	_	_	0	root	_	_
+8	болоно	болохо	VERB	_	_	7	cop	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Би	би	PRON	_	_	2	nsubj	_	_
+2	асууһааб	асууха	VERB	_	_	5	parataxis	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	аян	аян	NOUN	_	_	5	nsubj	_	_
+5	дэмбэрэлтэй	дэмбэрэлтэй	ADJ	_	_	0	root	_	_
+6	байгаа	байха	VERB	_	_	5	cop	_	_
+7	гγγ	гγγ	PART	_	_	5	discourse	_	_
+8	?	?	PUNCT	_	_	5	punct	_	_
+
+1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	2	compound	_	_
+2	Маатти	Матти	PROPN	_	_	3	name	_	_
+3	Таммиинэн	Таммиинэн	PROPN	_	_	5	nsubj	_	_
+4	γгэдэ	γгэ	NOUN	_	_	5	dobj	_	_
+5	хγртэнэ	хγртэхэ	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Эрдэмтэн	эрдэмтэн	NOUN	_	_	6	nsubj	_	_
+2	Маатти	Матти	PROPN	_	_	3	name	_	_
+3	Тамминэн	Тамминэн	PROPN	_	_	1	appos	_	_
+4	мγнөөдэр	мγнөөдэр	ADV	_	_	6	advmod	_	_
+5	лекци	лекци	NOUN	_	_	6	dobj	_	_
+6	уншана	уншаха	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Тооһоноо	тоо	NOUN	_	_	2	nmod	_	_
+2	аршажа	аршажа	NOUN	_	_	3	dobj	_	_
+3	дууһаад	дууха	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тиигээд	тиигээд	ADP	_	_	10	mark	_	_
+6	тооһо	тоо	NOUN	_	_	7	mwe	_	_
+7	хородог	хорохо	NOUN	_	_	8	mwe	_	_
+8	машинаар	машина	NOUN	_	_	9	nmod	_	_
+9	сэбэрлэлгэ	сэбэрлэлгэ	NOUN	_	_	10	dobj	_	_
+10	хэбэ	хэхэ	VERB	_	_	3	advcl	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	унталгын	унталга	NOUN	_	_	2	compound	_	_
+2	хубсаһан	хубсаһан	NOUN	_	_	0	root	_	_
+3	соогоо	соогоо	ADP	_	_	2	case	_	_
+4	байгаад	байха	VERB	_	_	2	cop	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	зааниие	заан	NOUN	_	_	7	dobj	_	_
+7	буудажархёоб	буудажархиха	VERB	_	_	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Yнөөхи	үнөөхи	PRON	_	_	3	det	_	_
+2	бархируулһан	бархируулһан	ADJ	_	_	3	amod	_	_
+3	γхибγγниинь	γхибγγн	NOUN	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Гурбан	гурбан	NUM	_	_	2	nummod	_	_
+2	литр	литр	NOUN	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Дγγрэн	дγγрэн	DET	_	_	2	det	_	_
+2	һγн	һγн	NOUN	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Тэдэнэр	тэдэ	PRON	_	_	11	nsubj	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	ном	ном	NOUN	_	_	4	dobj	_	_
+4	бэшэжэ	бэшэхэ	VERB	_	_	6	acl	_	_
+5	байһан	байха	AUX	_	_	4	aux	_	_
+6	зон	зон	NOUN	_	_	1	acl	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	мγн	мγн	ADV	_	_	11	advmod	_	_
+9	лэ	лэ	PART	_	_	11	discourse	_	_
+10	тиигэжэ	тиигэжэ	PRON	_	_	11	dobj	_	_
+11	хэлээ	хэлэхэ	VERB	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Усалталгада	усалталга	NOUN	_	_	2	dobj	_	_
+2	ороһон	орохо	VERB	_	_	4	acl	_	_
+3	хγн	хγн	NOUN	_	_	4	nmod	_	_
+4	зондо	зон	NOUN	_	_	6	iobj	_	_
+5	терапи	терапи	NOUN	_	_	6	nsubjpass	_	_
+6	зууршалагдаһан	зууршалха	VERB	_	_	0	root	_	_
+7	байна	байха	AUX	_	_	6	auxpass	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Айлшадай	айлшан	NOUN	_	_	2	compound	_	_
+2	таһалга	таһалга	NOUN	_	_	3	nsubj	_	_
+3	томо	томо	ADJ	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тогооной	тогоон	NOUN	_	_	6	compound	_	_
+6	таһалгада	таһалга	NOUN	_	_	3	nmod	_	_
+7	ороходоо	ороходоо	SCONJ	_	_	3	mark	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Би	би	NOUN	_	_	2	nsubj	_	_
+2	золгооб	золгохо	VERB	_	_	0	root	_	_
+3	тэрэнтэй	тэрэ	PRON	_	_	2	dobj	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	алаабхиһаа	алаабхи	NOUN	_	_	6	nmod	_	_
+6	гараад	гараха	VERB	_	_	2	xcomp	_	_
+7	байтараа	байха	AUX	_	_	6	aux	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Гэрэй	гэр	NOUN	_	_	2	nmod:own	_	_
+2	орой	орой	NOUN	_	_	0	root	_	_
+3	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Зургаадахи	зурган	ADJ	_	_	2	amod	_	_
+2	декабриин	декабрь	NOUN	_	_	0	root	_	_
+3	арбан	арбан	NUM	_	_	4	nummod	_	_
+4	найман	найман	NUM	_	_	5	nummod	_	_
+5	сагта	саг	NOUN	_	_	2	nmod	_	_
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Хээлитэй	хээлитэй	ADJ	_	_	2	amod	_	_
+2	эхэнэр	эхэнэр	NOUN	_	_	3	nsubj	_	_
+3	γлэн	γлэн	ADJ	_	_	0	root	_	_
+4	байна	байха	VERB	_	_	3	cop	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Байдалай	байдал	NOUN	_	_	2	compound	_	_
+2	баялигууд	баялиг	NOUN	_	_	3	nsubj	_	_
+3	ашада	ашаха	VERB	_	_	0	root	_	_
+4	тааруу	тааруу	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Сарюун	сарюун	ADV	_	_	4	nsubj	_	_
+2	газаа	газаа	NOUN	_	_	3	mwe	_	_
+3	гараад	гараха	VERB	_	_	4	advcl	_	_
+4	амаржа	амарха	VERB	_	_	0	root	_	_
+5	ябаха	ябаха	VERB	_	_	4	xcomp	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Энэ	энэ	DET	_	_	2	det	_	_
+2	ажал	ажал	NOUN	_	_	4	nsubjpass	_	_
+3	мγγнөөдэр	мγγнөөдэр	ADV	_	_	4	advmod	_	_
+4	хэгдэжэ	хэхэ	VERB	_	_	0	root	_	_
+5	дууһаха	дууһаха	VERB	_	_	4	xcomp	_	_
+6	еһотой	еһотой	AUX	_	_	4	aux	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Зγжэгшэн	зγжэгшэ	NOUN	_	_	0	root	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	сэнтэй	сэнтэй	ADJ	_	_	5	amod	_	_
+4	тγмэр	тγмэр	ADJ	_	_	5	mwe	_	_
+5	моринуудараа	морин	NOUN	_	_	6	nmod	_	_
+6	мэдээжэ	мэдээжэ	ADJ	_	_	1	acl	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Матти	Матти	PROPN	_	_	3	nsubj	_	_
+2	ажалһаань	ажал	NOUN	_	_	3	nmod	_	_
+3	ерээ	ерэхэ	VERB	_	_	0	root	_	_
+4	;	;	PUNCT	_	_	3	punct	_	_
+5	Майя	Майя	PROPN	_	_	7	nsubj	_	_
+6	гэртээ	гэр	NOUN	_	_	7	nmod	_	_
+7	ерэнхэй	ерэнхэй	ADJ	_	_	3	parataxis	_	_
+8	байгаа	байха	VERB	_	_	7	cop	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Мγнөөдэр	мγнөөдэр	ADV	_	_	2	advmod	_	_
+2	γдэшэ	γдэшэ	NOUN	_	_	4	nmod	_	_
+3	кино	кино	NOUN	_	_	4	nsubj	_	_
+4	гараха	гараха	VERB	_	_	0	root	_	_
+5	«	«	PUNCT	_	_	6	punct	_	_
+6	Хаан	хаан	NOUN	_	_	7	nsubj	_	_
+7	хэлэнэ	хэлэхэ	VERB	_	_	3	compound	_	_
+8	»	»	PUNCT	_	_	7	punct	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Матти	Матти	PROPN	_	_	2	name	_	_
+2	Тамминэн	Тамминэн	PROPN	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	эрдэмтэн	эрдэмтэн	NOUN	_	_	2	appos	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Катя	Катя	PROPN	_	_	2	nmod:own	_	_
+2	абгазы	абга	NOUN	_	_	7	nsubj	_	_
+3	олон	олон	DET	_	_	4	det	_	_
+4	хγγгэдтэй	хγγгэн	NOUN	_	_	6	nmod	_	_
+5	гэр	гэр	NOUN	_	_	6	compound	_	_
+6	бγлэдэ	бγлэ	NOUN	_	_	7	nmod	_	_
+7	тγрэһэн	тγрэхэ	VERB	_	_	0	root	_	_
+8	юм	юм	PART	_	_	7	discourse	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Гурбан	гурбан	NUM	_	_	2	nummod	_	_
+2	хγбγγд	хγбγγн	NOUN	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ори	ори	ADV	_	_	5	advmod	_	_
+5	гансахан	гансахан	ADJ	_	_	8	amod	_	_
+6	эрхэ	эрхэ	ADJ	_	_	7	amod	_	_
+7	дангина	дангина	NOUN	_	_	8	nmod	_	_
+8	басаган	басаган	NOUN	_	_	2	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Yхибγγдэй	γхибγγн	NOUN	_	_	4	nmod	_	_
+2	дунда	дунда	ADP	_	_	1	case	_	_
+3	химгадалгашадшье	химгадал	NOUN	_	_	4	nsubj	_	_
+4	бии	бии	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Лопсон	Лопсон	PROPN	_	_	3	nsubj	_	_
+2	ахань	аха	NOUN	_	_	1	nmod	_	_
+3	химгадалгагша	химгадал	NOUN	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Тэдэнэй	тэдэнэй	DET	_	_	2	det	_	_
+2	тоодо	тоодо	NOUN	_	_	8	nmod	_	_
+3	буряадай	буряяад	ADJ	_	_	6	amod	_	_
+4	элитэ	элитэ	NOUN	_	_	6	nmod	_	_
+5	уран	уран	ADJ	_	_	6	amod	_	_
+6	зурааша	зурааша	NOUN	_	_	8	nmod	_	_
+7	Чингис	Чингис	PROPN	_	_	8	name	_	_
+8	Шенхоров	Шенхоров	PROPN	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Нэгэдэхи	нэгэ	NUM	_	_	2	nummod	_	_
+2	курсда	курс	NOUN	_	_	8	nmod	_	_
+3	бγлэг	бγлэг	NOUN	_	_	8	nmod	_	_
+4	соомнай	соо	ADP	_	_	3	case	_	_
+5	олон	олон	DET	_	_	6	det	_	_
+6	аймагуудай	аймаг	NOUN	_	_	7	nmod	_	_
+7	һурагшад	һурагша	NOUN	_	_	8	nsubj	_	_
+8	байгаа	байха	VERB	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Арад	арад	NOUN	_	_	2	nmod	_	_
+2	зоноо	зон	NOUN	_	_	3	nmod	_	_
+3	хγндэлһэн	хγндэлһэн	ADJ	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Эхэ	эхэ	NOUN	_	_	3	nmod	_	_
+2	һайхан	һайхан	ADJ	_	_	3	amod	_	_
+3	Далахаймни	Далахай	PROPN	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Катя	Катя	PROPN	_	_	2	compound	_	_
+2	абгазы	абга	NOUN	_	_	14	nsubj	_	_
+3	урихан	урихан	ADV	_	_	4	advmod	_	_
+4	шарайтай	шарайтай	ADJ	_	_	13	parataxis	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	сэбэр	сэбэр	ADV	_	_	7	advmod	_	_
+7	сэдьхэлтэй	сэдьхэлтэй	ADJ	_	_	13	parataxis	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	һайхан	һайхан	ADV	_	_	10	advmod	_	_
+10	һанаатай	һанаатай	ADJ	_	_	13	parataxis	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	зөөлэн	зөөлэн	ADV	_	_	13	advmod	_	_
+13	зантай	зантай	ADJ	_	_	14	amod	_	_
+14	хγн	хγн	NOUN	_	_	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Шγлэгγγдыень	шγлэг	NOUN	_	_	2	nmod	_	_
+2	уншаад	уншаад	ADJ	_	_	0	root	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	һанаа	һанаа	CONJ	_	_	2	cc	_	_
+5	бодолдоо	бодол	NOUN	_	_	6	nmod	_	_
+6	абаад	абаад	ADJ	_	_	2	conj	_	_
+7	туршагты	туршаха	VERB	_	_	2	xcomp	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Инаг	инаг	ADJ	_	_	2	amod	_	_
+2	дуранай	дуран	NOUN	_	_	3	nmod	_	_
+3	охин	охин	NOUN	_	_	4	nsubj	_	_
+4	γзэгдэнэ	γзэгдэхэ	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Дэлхэйн	дэлхэйн	NOUN	_	_	2	nmod	_	_
+2	һайханиие	һайхани	NOUN	_	_	4	dobj	_	_
+3	дуулан	дуулан	NOUN	_	_	4	nsubj	_	_
+4	γргөөш	γргэхэ	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Шамтай	ши	PRON	_	_	3	dobj	_	_
+2	гансал	гансал	ADV	_	_	3	advmod	_	_
+3	золгооб	золгохо	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Шэдитэ	шэдитэ	ADJ	_	_	2	amod	_	_
+2	аргын	арга	NOUN	_	_	4	nmod	_	_
+3	шанга	шанга	ADJ	_	_	4	amod	_	_
+4	хγсэндэ	хγсэн	NOUN	_	_	5	nmod	_	_
+5	оройгдооб	орохо	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Нээрээшье	нээрээ	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	шγлэг	шγлэг	NOUN	_	_	4	nmod	_	_
+4	зохёогшо	зохёогшо	NOUN	_	_	9	nsubj	_	_
+5	доторойнгоо	доторой	NOUN	_	_	6	nmod	_	_
+6	уянгые	уянга	NOUN	_	_	9	dobj	_	_
+7	уншагшадтаа	уншагша	NOUN	_	_	9	iobj	_	_
+8	дэлгэн	дэлгэн	ADV	_	_	9	advmod	_	_
+9	харуулна	харуулха	VERB	_	_	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Хγнэй	хγн	NOUN	_	_	2	nmod	_	_
+2	сэдьхэлэй	сэдьхэл	NOUN	_	_	6	nmod	_	_
+3	тон	тон	ADV	_	_	4	advmod	_	_
+4	γнжэгэн	γнжэгэн	ADJ	_	_	6	amod	_	_
+5	нарин	нарин	ADJ	_	_	6	amod	_	_
+6	утаһые	ута	NOUN	_	_	7	dobj	_	_
+7	дайраха	дайраха	VERB	_	_	0	root	_	_
+8	шадалтай	шадалтай	AUX	_	_	7	aux	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Шγлэгшэ	шγлэг	NOUN	_	_	2	nmod	_	_
+2	зохёолнуудаа	зохёол	NOUN	_	_	6	dobj	_	_
+3	тγргэхэнөөр	тγргэхэн	ADV	_	_	6	advmod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	хγнгэхэнөөр	хγнгэхэн	ADV	_	_	3	parataxis	_	_
+6	бэшэжэрхидэг	бэшэжэрхидэг	ADJ	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Оршом	оршом	ADV	_	_	5	advmod	_	_
+2	байгуулга	байгуулга	NOUN	_	_	5	nmod	_	_
+3	нэгэ	нэгэ	NUM	_	_	4	nummod	_	_
+4	шугам	шугам	NOUN	_	_	5	dobj	_	_
+5	татан	татаха	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ойлгон	ойлгохо	VERB	_	_	5	advcl	_	_
+8	абашахаар	абашахаар	ADV	_	_	7	advmod	_	_
+9	бэшэ	бэшэ	PART	_	_	7	discourse	_	_
+10	юм	юм	PART	_	_	7	discourse	_	_
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Россиин	России	PROPN	_	_	3	nmod:own	_	_
+2	уран	уран	ADJ	_	_	3	compound	_	_
+3	зохёолшодой	зохеолшон	NOUN	_	_	4	nmod	_	_
+4	холбооной	холбоон	NOUN	_	_	5	nmod	_	_
+5	гэшγγн	гэшγγн	NOUN	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Шγлэг	шγлэг	NOUN	_	_	5	nsubj	_	_
+2	бγхэниинь	бγхэ	DET	_	_	1	det	_	_
+3	адли	адли	ADV	_	_	5	advmod	_	_
+4	γндэр	γндэр	ADV	_	_	5	advmod	_	_
+5	шанартай	шанартай	ADJ	_	_	0	root	_	_
+6	байба	байха	VERB	_	_	5	cop	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Тγрγγшын	тγрγγшын	ADJ	_	_	2	amod	_	_
+2	шγγлэгγγдэй	шγлэг	NOUN	_	_	3	nmod	_	_
+3	нэгые	нэгэ	NUM	_	_	4	nummod	_	_
+4	дурдая	дурдаха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Дэлхэйн	дэлхэйн	NOUN	_	_	3	nmod	_	_
+2	уран	уран	ADJ	_	_	3	amod	_	_
+3	зохёолые	зохёол	NOUN	_	_	5	dobj	_	_
+4	яһала	яһала	ADV	_	_	5	advmod	_	_
+5	шудалһан	шудалһан	ADJ	_	_	0	root	_	_
+6	байха	байха	VERB	_	_	5	cop	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Тиигээд	тиигээд	CONJ	_	_	7	cc	_	_
+2	лэ	лэ	PART	_	_	7	discourse	_	_
+3	тэдэнэр	тэдэ	PRON	_	_	7	nsubj	_	_
+4	Хэрэнэй	Хэрэн	PROPN	_	_	6	nmod:own	_	_
+5	дунда	дунда	ADJ	_	_	6	compound	_	_
+6	һургуули	һургуули	NOUN	_	_	7	nmod	_	_
+7	дγγргээ	дүүргэхэ	VERB	_	_	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Олон	олон	DET	_	_	2	det	_	_
+2	γнгэтэ	γнгэ	NOUN	_	_	3	nmod	_	_
+3	һолонго	һолонго	NOUN	_	_	0	root	_	_
+4	мэтэ	мэтэ	ADV	_	_	3	advmod	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Ухаан	ухаан	NOUN	_	_	2	compound	_	_
+2	бодол	бодол	NOUN	_	_	3	nmod	_	_
+3	хурсатай	хурса	ADJ	_	_	0	root	_	_
+4	юм	юм	PART	_	_	3	discourse	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Саяан	Саяан	PROPN	_	_	2	name	_	_
+2	Мундаргын	Мундарга	PROPN	_	_	3	nmod:own	_	_
+3	орой	орой	NOUN	_	_	0	root	_	_
+4	шэнги	шэнги	ADV	_	_	3	advmod	_	_
+5	хурса	хурса	ADJ	_	_	6	amod	_	_
+6	һанаа	һанаа	NOUN	_	_	7	nmod	_	_
+7	бодолтой	бодолтой	ADJ	_	_	3	amod	_	_
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Зохёогшо	зохёогшо	NOUN	_	_	3	nsubj	_	_
+2	һонирхолтойгоор	һонирхолтойгоор	ADV	_	_	3	advmod	_	_
+3	хөөрэдэг	хөөрэхэ	VERB	_	_	0	root	_	_
+4	һэн	һэн	PART	_	_	3	discourse	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Залуу	залуу	ADJ	_	_	2	amod	_	_
+2	наһанай	наһан	NOUN	_	_	3	nmod	_	_
+3	заяан	заяан	NOUN	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Угаа	угаа	ADV	_	_	2	advmod	_	_
+2	һайхан	һайхан	ADJ	_	_	4	amod	_	_
+3	тунгалаг	тунгалаг	ADJ	_	_	4	amod	_	_
+4	уһан	уһан	NOUN	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Шγлэгэй	шγлэг	NOUN	_	_	2	nmod	_	_
+2	γдэшэ	γдэшэ	NOUN	_	_	3	nsubj	_	_
+3	эхилбэ	эхилхэ	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Заалаар	заал	NOUN	_	_	2	nsubj	_	_
+2	дγγрэн	дγγрэн	ADJ	_	_	0	root	_	_
+3	хγγнγγд	хγн	NOUN	_	_	2	nmod	_	_
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+1	Хγхюун	хγхюун	ADJ	_	_	2	amod	_	_
+2	зугаа	зугаа	NOUN	_	_	4	nsubj	_	_
+3	дэлгэрнэ	дэлгэрнэ	ADV	_	_	4	advmod	_	_
+4	тойроод	тойрохо	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Саһанай	саһан	NOUN	_	_	2	nmod	_	_
+2	сагаан	сагаан	ADJ	_	_	3	nsubj	_	_
+3	байхада	байха	VERB	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Хонгёо	хонгёо	ADJ	_	_	4	amod	_	_
+2	дуутай	дуутай	ADJ	_	_	4	amod	_	_
+3	һургуулиин	һургуули	NOUN	_	_	4	nmod	_	_
+4	хонхо	хонхо	NOUN	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Тиихэдээ	тиихэдээ	ADP	_	_	10	case	_	_
+2	Бухы	бухы	DET	_	_	3	det	_	_
+3	дэлхэйдээрэ	дэлхэй	NOUN	_	_	10	nmod	_	_
+4	буряяадууд	буряяад	NOUN	_	_	10	nsubj	_	_
+5	600000	600000	NUM	_	_	6	nummod	_	_
+6	хун	хун	NOUN	_	_	7	nmod	_	_
+7	аман	аман	NOUN	_	_	8	nmod	_	_
+8	зон	зон	NOUN	_	_	10	nmod	_	_
+9	болохынь	болохо	VERB	_	_	10	compound	_	_
+10	харагдана	харагдаха	VERB	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Буряад	буряад	PROPN	_	_	2	name	_	_
+2	Уласта	улас	PROPN	_	_	11	nmod	_	_
+3	болон	болон	CONJ	_	_	2	cc	_	_
+4	Забайкалиин	Забайкали	PROPN	_	_	5	name	_	_
+5	хизаарай	хизаар	NOUN	_	_	2	conj	_	_
+6	Агын	Ага	PROPN	_	_	7	name	_	_
+7	Буряадай	Буряяад	PROPN	_	_	8	name	_	_
+8	тойрогто	тойрог	NOUN	_	_	5	appos	_	_
+9	тон	тон	NOUN	_	_	10	compound	_	_
+10	олоороо	олоор	NOUN	_	_	11	nsubj	_	_
+11	ажаһуудаг	ажаһууха	VERB	_	_	0	root	_	_
+12	юм	юм	PART	_	_	11	discourse	_	_
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Теравада	Терава	PROPN	_	_	2	name	_	_
+2	Шри	Шри	PROPN	_	_	3	name	_	_
+3	Ланка	Ланка	PROPN	_	_	4	nmod	_	_
+4	болон	болохо	ADV	_	_	21	advmod	_	_
+5	Зүүн	Зүүн	PROPN	_	_	6	name	_	_
+6	урда	урда	PROPN	_	_	7	name	_	_
+7	Азиин	Азии	PROPN	_	_	19	nmod	_	_
+8	(	(	PUNCT	_	_	9	punct	_	_
+9	Камбоджа	Камбоджа	PROPN	_	_	7	appos	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	Лаос	Лаос	PROPN	_	_	9	list	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	Тайланд	Тайланд	PROPN	_	_	11	list	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	Бирма	Бирма	PROPN	_	_	13	list	_	_
+16	гэхэ	гэхэ	PART	_	_	15	discourse	_	_
+17	мэтэ	мэтэ	INTJ	_	_	16	discourse	_	_
+18	)	)	PUNCT	_	_	17	punct	_	_
+19	уласуудта	улас	NOUN	_	_	21	nmod	_	_
+20	үргэнөөр	үргэнөөр	ADV	_	_	21	advmod	_	_
+21	тараһан	тараха	ADJ	_	_	0	root	_	_
+22	байна	байха	VERB	_	_	21	cop	_	_
+23	.	.	PUNCT	_	_	21	punct	_	_
+
+1	Будда	Будда	PROPN	_	_	5	nsubj	_	_
+2	Гималайн	Гималайн	PROPN	_	_	4	nmod	_	_
+3	Сакья	Сакья	PROPN	_	_	4	nmod	_	_
+4	гүрэндэ	гүрэн	NOUN	_	_	5	nmod	_	_
+5	түрэһэн	түрэхэ	VERB	_	_	0	root	_	_
+6	юм	юм	PART	_	_	5	discourse	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	Хоймор	Хоймор	PROPN	_	_	9	name	_	_
+9	Энэдхэг	Энэдхэг	PROPN	_	_	10	name	_	_
+10	орондо	орон	NOUN	_	_	12	nmod	_	_
+11	һургал	һургал	NOUN	_	_	12	dobj	_	_
+12	һургаа	һургаха	VERB	_	_	5	parataxis	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Олон	олон	DET	_	_	2	det	_	_
+2	зоной	зон	NOUN	_	_	3	nmod	_	_
+3	һонирхол	һонирхол	NOUN	_	_	4	dobj	_	_
+4	татаһан	татаха	VERB	_	_	5	acl	_	_
+5	афиша	афиша	NOUN	_	_	6	mwe	_	_
+6	-	-	PUNCT	_	_	7	mwe	_	_
+7	соносхолнууд	соносхол	NOUN	_	_	10	nsubj	_	_
+8	харагшадай	харагша	NOUN	_	_	9	nmod	_	_
+9	найдал	найдал	NOUN	_	_	10	dobj	_	_
+10	мэхэлээгүй	мэхэлхэ	VERB	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Үнэхөөрөө	үнэхөөр	ADV	_	_	15	advmod	_	_
+2	энэ	энэ	DET	_	_	3	det	_	_
+3	концерт	концерт	NOUN	_	_	15	nsubj	_	_
+4	«	«	PUNCT	_	_	5	punct	_	_
+5	Байгал	Байгал	PROPN	_	_	7	name	_	_
+6	»	»	PUNCT	_	_	5	punct	_	_
+7	театрай	театр	NOUN	_	_	9	nmod	_	_
+8	үндэр	үндэр	ADJ	_	_	9	amod	_	_
+9	шатын	шата	NOUN	_	_	12	nmod	_	_
+10	мэргэжэлтэ	мэргэжэлтэ	ADJ	_	_	11	amod	_	_
+11	бэлиг	бэлиг	NOUN	_	_	12	compound	_	_
+12	шадабари	шадабари	NOUN	_	_	15	dobj	_	_
+13	үшөө	үшөө	ADV	_	_	14	advmod	_	_
+14	дахин	даха	NOUN	_	_	15	nmod	_	_
+15	гэршэлбэ	гэршэлэхэ	VERB	_	_	0	root	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+1	Ушар	ушар	NOUN	_	_	2	mwe	_	_
+2	юуб	юу	PRON	_	_	3	mwe	_	_
+3	гэхэдэ	гэхэ	VERB	_	_	11	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	тайзан	тайзан	NOUN	_	_	7	nmod	_	_
+6	дээрэ	дээрэ	ADP	_	_	5	case	_	_
+7	табигдаһан	табигдаха	VERB	_	_	8	acl	_	_
+8	дуу	дуу	NOUN	_	_	11	nsubj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	хатар	хатар	NOUN	_	_	8	conj	_	_
+11	һэлгэлдэн	һэлгэхэ	VERB	_	_	0	root	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	Чингисхаанай	Чингисхаан	PROPN	_	_	14	nsubj	_	_
+14	эзэмдэн	эзэмдэхэ	VERB	_	_	15	xcomp	_	_
+15	ябаһан	ябаха	VERB	_	_	16	acl	_	_
+16	газарнууд	газар	NOUN	_	_	20	nmod	_	_
+17	руу	руу	ADP	_	_	16	case	_	_
+18	нүүдэлшэ	нүүдэлшэ	ADJ	_	_	20	amod	_	_
+19	монгол	монгол	NOUN	_	_	20	nmod	_	_
+20	арадай	арад	NOUN	_	_	21	nmod	_	_
+21	соёл	соёл	NOUN	_	_	28	nsubj	_	_
+22	Азиин	Азии	PROPN	_	_	25	compound	_	_
+23	болон	болон	CONJ	_	_	22	cc	_	_
+24	Энэдхэг	Энэдхэг	PROPN	_	_	22	conj	_	_
+25	орон	орон	NOUN	_	_	27	nmod	_	_
+26	хүрэтэр	хүрэтэр	ADP	_	_	25	case	_	_
+27	нэбтэрүүлэгдэн	нэбтэрхэ	VERB	_	_	28	xcomp	_	_
+28	шэнгэжэ	шэнгэхэ	VERB	_	_	11	parataxis	_	_
+29	,	,	PUNCT	_	_	28	punct	_	_
+30	өөрын	өөрын	DET	_	_	31	det	_	_
+31	нүлөө	нүлөө	NOUN	_	_	32	nsubj	_	_
+32	үзүүлһэн	үзүүлхэ	VERB	_	_	34	advcl	_	_
+33	тухай	тухай	ADP	_	_	32	case	_	_
+34	хөөрэгдэнэ	хөөрэлдэхэ	VERB	_	_	28	parataxis	_	_
+35	.	.	PUNCT	_	_	34	punct	_	_
+
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Монголһоо	Монгол	PROPN	_	_	3	nmod	_	_
+3	Могол	Могол	PROPN	_	_	0	root	_	_
+4	хүрэтэр	хүрэтэр	ADP	_	_	3	case	_	_
+5	»	»	PUNCT	_	_	4	punct	_	_
+
+1	«	«	PUNCT	_	_	2	punct	_	_
+2	Байгал	Байгал	PROPN	_	_	4	compound	_	_
+3	»	»	PUNCT	_	_	2	punct	_	_
+4	театрай	театр	NOUN	_	_	5	nmod	_	_
+5	директор	директор	NOUN	_	_	19	nsubj	_	_
+6	Дандар	Дандар	PROPN	_	_	7	name	_	_
+7	Жапович	Жапович	PROPN	_	_	8	name	_	_
+8	Бадлуев	Бадлуев	PROPN	_	_	5	appos	_	_
+9	анхан	анхан	ADV	_	_	19	advmod	_	_
+10	«	«	PUNCT	_	_	11	punct	_	_
+11	Монголһоо	Монгол	PROPN	_	_	12	nmod	_	_
+12	Могол	Могол	PROPN	_	_	0	root	_	_
+13	хүрэтэр	хүрэтэр	ADP	_	_	12	case	_	_
+14	»	»	PUNCT	_	_	13	punct	_	_
+15	гэһэн	гэһэн	PART	_	_	16	discourse	_	_
+16	проект	проект	NOUN	_	_	19	dobj	_	_
+17	сэдьхэлдээ	сэдьхэл	NOUN	_	_	19	nmod	_	_
+18	удаахан	удаахан	ADV	_	_	19	advmod	_	_
+19	буйлуулаа	булаха	VERB	_	_	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Агууехэ	агууехэ	ADJ	_	_	2	amod	_	_
+2	Чингисхаанай	Чингисхаан	PROPN	_	_	3	nmod	_	_
+3	үри	үри	NOUN	_	_	6	nsubj	_	_
+4	һадаһад	һадаһад	PART	_	_	6	discourse	_	_
+5	юугээрээ	юу	PRON	_	_	6	nmod	_	_
+6	адли	адли	ADV	_	_	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	юугээрээ	юу	PRON	_	_	9	nmod	_	_
+9	ондоо	ондо	ADJ	_	_	6	parataxis	_	_
+10	гээшэбибди	гээшэбибди	PART	_	_	9	discourse	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	арадайнгаа	арад	NOUN	_	_	13	nmod	_	_
+13	һүлдэ	һүлдэ	NOUN	_	_	19	dobj	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	заншал	заншал	NOUN	_	_	13	conj	_	_
+16	али	али	ADV	_	_	19	advmod	_	_
+17	нэгэмнай	нэгэ	NUM	_	_	19	nsubj	_	_
+18	сахижа	сахиха	VERB	_	_	19	xcomp	_	_
+19	ябаа	ябаха	VERB	_	_	9	parataxis	_	_
+20	гү	гү	PART	_	_	19	discourse	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	али	али	SCONJ	_	_	24	mwe	_	_
+23	нэгэниинь	нэгэ	NUM	_	_	24	nsubj	_	_
+24	алдаа	алдаха	VERB	_	_	27	acl	_	_
+25	гү	гү	PART	_	_	24	discourse	_	_
+26	гэһэн	гэһэн	PART	_	_	24	discourse	_	_
+27	бодолоор	бодол	NOUN	_	_	28	nmod	_	_
+28	шэнжэлэн	шэнжэлхэ	VERB	_	_	29	xcomp	_	_
+29	үзэһэн	үзэхэ	VERB	_	_	19	parataxis	_	_
+30	байнаб	байха	AUX	_	_	29	aux	_	_
+31	,	,	PUNCT	_	_	29	punct	_	_
+32	гэжэ	гэ	PART	_	_	35	discourse	_	_
+33	Дандар	Дандар	PROPN	_	_	34	name	_	_
+34	Жапович	Жапович	PROPN	_	_	35	nsubj	_	_
+35	хөөрэнэ	хөөрэхэ	VERB	_	_	29	parataxis	_	_
+36	.	.	PUNCT	_	_	35	punct	_	_
+
+1	Харин	харин	SCONJ	_	_	9	mwe	_	_
+2	Тимур	Тимур	PROPN	_	_	3	compound	_	_
+3	хан	хан	NOUN	_	_	9	nsubj	_	_
+4	Түмүрид	Түмүр	PROPN	_	_	5	compound	_	_
+5	эхынгээ	эхэ	NOUN	_	_	6	nmod	_	_
+6	талаар	талаар	NOUN	_	_	7	nmod	_	_
+7	Алан-гуагай	Алан-гуагай	PROPN	_	_	9	nmod	_	_
+8	зээ	зээ	NOUN	_	_	9	compound	_	_
+9	хүбүүн	хүбүүн	NOUN	_	_	0	root	_	_
+10	гэжэ	гэ	PART	_	_	11	discourse	_	_
+11	хэлсэдэг	хэлсэхэ	VERB	_	_	9	parataxis	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Тэндэхи	тэндэ	ADV	_	_	3	advmod	_	_
+2	соёлой	соёл	NOUN	_	_	3	nmod	_	_
+3	ажалшад	ажалшан	NOUN	_	_	12	nmod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	артистнартай	артист	NOUN	_	_	3	conj	_	_
+6	«	«	PUNCT	_	_	7	punct	_	_
+7	Байгал	Байгал	PROPN	_	_	9	compound	_	_
+8	»	»	PUNCT	_	_	7	punct	_	_
+9	театр	театр	NOUN	_	_	5	nmod	_	_
+10	холбоо	холбоо	NOUN	_	_	11	nmod	_	_
+11	харилсаа	харилсаан	NOUN	_	_	12	nmod	_	_
+12	эрхилжэ	эрхилхэ	VERB	_	_	0	root	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	хани	хани	NOUN	_	_	15	nmod	_	_
+15	барисаата	бариса	NOUN	_	_	16	nmod	_	_
+16	ажал	ажал	NOUN	_	_	17	dobj	_	_
+17	ябуулна	ябуулха	VERB	_	_	12	advcl	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+1	Чингисхаанай	Чингисхаан	PROPN	_	_	3	nmod	_	_
+2	дайшалхы	дайшалха	NOUN	_	_	3	nmod	_	_
+3	замаар	зам	NOUN	_	_	13	nmod	_	_
+4	нэгэдүүлэгдэһэн	нэгэдүүлэгдэһэн	ADJ	_	_	5	amod	_	_
+5	арадуудай	арад	NOUN	_	_	6	nmod	_	_
+6	дуу	дуу	NOUN	_	_	0	root	_	_
+7	хүгжэм	хүгжэм	NOUN	_	_	6	conj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	хатар	хатар	NOUN	_	_	6	conj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	үндэһэн	үндэһэн	ADJ	_	_	12	amod	_	_
+12	хубсаһан	хубсаһан	NOUN	_	_	6	conj	_	_
+13	шэнжэлэгдээ	шэнжэлхэ	VERB	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Тэдэнэй	тэдэнэй	DET	_	_	3	det	_	_
+2	үндэһэн	үндэһэн	ADJ	_	_	3	amod	_	_
+3	хубсаһанда	хубсаһан	NOUN	_	_	11	nmod	_	_
+4	үнэхөөрөө	үнэхөөр	ADV	_	_	11	advmod	_	_
+5	манай	манай	DET	_	_	6	det	_	_
+6	монголшуудай	монгол	NOUN	_	_	7	nmod	_	_
+7	хубсаһадтай	хубсаһан	NOUN	_	_	10	nmod	_	_
+8	адлихан	адлихан	ADJ	_	_	10	amod	_	_
+9	онсо	онсо	ADJ	_	_	10	amod	_	_
+10	шэнжэнүүд	шэнжэ	NOUN	_	_	11	nsubj	_	_
+11	олдоно	олдохо	VERB	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Булад	Булад	PROPN	_	_	2	name	_	_
+2	Раднаев	Раднаев	PROPN	_	_	8	nsubj	_	_
+3	гүрэн	гүрэн	NOUN	_	_	4	nmod	_	_
+4	түрын	түрэ	NOUN	_	_	5	nmod	_	_
+5	хэмжээнэй	хэмжээ	NOUN	_	_	7	nmod	_	_
+6	хэдэн	хэды	DET	_	_	7	det	_	_
+7	харалга-наадануудта	харалга-наадануудта	NOUN	_	_	8	nmod	_	_
+8	хабаадажа	хабаадаха	VERB	_	_	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	амжалта	амжалта	NOUN	_	_	11	nmod	_	_
+11	туйлаһан	туйлаха	VERB	_	_	8	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	түрэл	түрэл	ADJ	_	_	14	amod	_	_
+14	театрайнгаа	театр	NOUN	_	_	15	nmod	_	_
+15	тайзан	тайзан	NOUN	_	_	43	nmod	_	_
+16	дээрэ	дээрэ	ADP	_	_	15	case	_	_
+17	«	«	PUNCT	_	_	18	punct	_	_
+18	Лебединое	лебединое	ADJ	_	_	19	amod	_	_
+19	озеро	озеро	NOUN	_	_	0	root	_	_
+20	»	»	PUNCT	_	_	19	punct	_	_
+21	,	,	PUNCT	_	_	19	punct	_	_
+22	“	“	PUNCT	_	_	23	punct	_	_
+23	Жизель	жизель	NOUN	_	_	19	conj	_	_
+24	”	”	PUNCT	_	_	23	punct	_	_
+25	,	,	PUNCT	_	_	23	punct	_	_
+26	“	“	PUNCT	_	_	27	punct	_	_
+27	Дон	Дон	PROPN	_	_	28	name	_	_
+28	Кихот	Кихот	PROPN	_	_	19	conj	_	_
+29	”	”	PUNCT	_	_	28	punct	_	_
+30	,	,	PUNCT	_	_	28	punct	_	_
+31	“	“	PUNCT	_	_	32	punct	_	_
+32	Тысяча	тысяча	NUM	_	_	35	nmod	_	_
+33	и	и	CONJ	_	_	32	cc	_	_
+34	одна	одна	NUM	_	_	32	conj	_	_
+35	ночь	ночь	NOUN	_	_	19	conj	_	_
+36	”	”	PUNCT	_	_	35	punct	_	_
+37	болон	болон	CONJ	_	_	19	cc	_	_
+38	бусад	бусад	DET	_	_	40	det	_	_
+39	балетнэ	балетнэ	ADJ	_	_	40	amod	_	_
+40	зүжэгүүдтэ	зүжэг	NOUN	_	_	43	nmod	_	_
+41	гол	гол	ADJ	_	_	42	amod	_	_
+42	парти	парти	NOUN	_	_	43	dobj	_	_
+43	гүйсэдхэжэ	гүйсэдхэхэ	VERB	_	_	11	parataxis	_	_
+44	,	,	PUNCT	_	_	43	punct	_	_
+45	харагшадай	харагша	NOUN	_	_	48	dobj	_	_
+46	үндэр	үндэр	ADJ	_	_	47	amod	_	_
+47	сэгнэлтэдэ	сэгнэлтэ	NOUN	_	_	48	nmod	_	_
+48	хүртэнхэй	хүртэхэ	VERB	_	_	43	advcl	_	_
+49	.	.	PUNCT	_	_	48	punct	_	_
+
+1	Өөрөөшье	өөр	PRON	_	_	2	nsubj	_	_
+2	мэдэнгүй	мэдэхэ	VERB	_	_	4	advcl	_	_
+3	артист	артист	NOUN	_	_	4	nmod	_	_
+4	болошооб	болохо	VERB	_	_	0	root	_	_
+
+1	3-дахи	3-дахи	NUM	_	_	2	nummod	_	_
+2	классай	класс	NOUN	_	_	4	nmod	_	_
+3	һүүлээр	һүүлээр	ADV	_	_	4	advmod	_	_
+4	ерээд	ерэхэ	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	хотын	хото	NOUN	_	_	8	nmod	_	_
+7	һуралсалай	һуралсал	NOUN	_	_	8	nmod	_	_
+8	программа	программа	NOUN	_	_	9	nsubj	_	_
+9	ондоо	ондо	ADJ	_	_	4	parataxis	_	_
+10	байжа	байха	VERB	_	_	9	cop	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	нютагайнгаа	нютаг	NOUN	_	_	13	nmod	_	_
+13	һургуулиин	һургуули	NOUN	_	_	15	nmod	_	_
+14	4-дэхи	4-дэхи	NUM	_	_	15	nummod	_	_
+15	класста	класс	NOUN	_	_	16	nmod	_	_
+16	орохо	орохо	VERB	_	_	9	parataxis	_	_
+17	аад	аад	PART	_	_	16	discourse	_	_
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	нэгэ	нэгэ	NUM	_	_	20	nummod	_	_
+20	класс	класс	NOUN	_	_	21	nmod	_	_
+21	алгадажа	алгадаха	VERB	_	_	16	parataxis	_	_
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	одоо	одоо	ADV	_	_	31	advmod	_	_
+24	ганса	ганса	ADV	_	_	31	advmod	_	_
+25	“	“	PUNCT	_	_	26	punct	_	_
+26	2	2	NUM	_	_	29	compound	_	_
+27	”	”	PUNCT	_	_	26	punct	_	_
+28	гэһэн	гэһэн	PART	_	_	29	discourse	_	_
+29	сэгнэлтэнүүдые	сэгнэлтэ	NOUN	_	_	0	root	_	_
+30	абажа	абаха	VERB	_	_	31	xcomp	_	_
+31	эхилээб	эхилхэ	VERB	_	_	21	parataxis	_	_
+32	.	.	PUNCT	_	_	31	punct	_	_
+
+1	Тиигэһээр	тиигээд	ADV	_	_	3	advmod	_	_
+2	тэрэмни	тэрэ	PRON	_	_	3	nmod	_	_
+3	мэдэгдэжэ	мэдэгдэхэ	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Лариса	Лариса	PROPN	_	_	6	name	_	_
+6	Иннокентьевна	Иннокентьевна	PROPN	_	_	13	nsubj	_	_
+7	намда	би	PRON	_	_	13	nmod	_	_
+8	математика	математика	NOUN	_	_	13	dobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	ород	ород	ADJ	_	_	11	amod	_	_
+11	хэлэ	хэлэн	NOUN	_	_	8	conj	_	_
+12	һайнаар	һайнаар	ADV	_	_	13	advmod	_	_
+13	үзүүлжэ	үзүүлхэ	VERB	_	_	3	parataxis	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	үетэнөө	үетэн	NOUN	_	_	16	dobj	_	_
+16	хүсэһэн	хүсэхэ	VERB	_	_	13	parataxis	_	_
+17	байгааб	байха	AUX	_	_	16	aux	_	_
+18	,	,	PUNCT	_	_	16	punct	_	_
+19	-	-	PUNCT	_	_	16	punct	_	_
+20	гэжэ	гэ	PART	_	_	22	discourse	_	_
+21	Булад	Булад	PROPN	_	_	22	nsubj	_	_
+22	хөөрэнэ	хөөрэхэ	VERB	_	_	16	parataxis	_	_
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+1	Угаараа	угаа	NOUN	_	_	3	nmod	_	_
+2	бэлиг	бэлиг	NOUN	_	_	3	nsubj	_	_
+3	дамжуулагдаа	дамжуулха	VERB	_	_	0	root	_	_
+
+1	Хүндэ	хүн	NOUN	_	_	2	nmod	_	_
+2	мэргэжэлэй	мэргэжэл	NOUN	_	_	7	nmod	_	_
+3	ба	ба	CONJ	_	_	2	cc	_	_
+4	ямар	ямар	DET	_	_	6	det	_	_
+5	нэгэ	нэгэ	NUM	_	_	6	nummod	_	_
+6	бэлигэй	бэлиг	NOUN	_	_	2	conj	_	_
+7	шадабарида	шадабари	NOUN	_	_	8	nmod	_	_
+8	һурахын	һураха	VERB	_	_	0	root	_	_
+9	хажуугаар	хажуугаар	ADV	_	_	8	advmod	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	заабол	заабол	ADV	_	_	13	advmod	_	_
+12	байгаалиин	байгаали	NOUN	_	_	13	nsubj	_	_
+13	бэлэглэһэн	бэлэглэхэ	VERB	_	_	14	acl	_	_
+14	бэлиг	бэлиг	NOUN	_	_	21	nsubj	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	мүн	мүн	ADJ	_	_	17	amod	_	_
+17	угаараа	угаа	NOUN	_	_	18	nmod	_	_
+18	дамжуулһан	дамжуулха	VERB	_	_	19	acl	_	_
+19	бэлиг	бэлиг	NOUN	_	_	14	conj	_	_
+20	гэжэ	гэ	PART	_	_	21	discourse	_	_
+21	байдаг	байха	VERB	_	_	8	parataxis	_	_
+22	.	.	PUNCT	_	_	21	punct	_	_
+
+1	Буладай	Булад	PROPN	_	_	2	nmod	_	_
+2	абын	аба	NOUN	_	_	3	nmod	_	_
+3	аха	аха	NOUN	_	_	7	nmod	_	_
+4	Раднаев	Раднаев	PROPN	_	_	5	name	_	_
+5	Еши	Еши	PROPN	_	_	3	appos	_	_
+6	гэжэ	гэ	PART	_	_	7	discourse	_	_
+7	абгань	абга	NOUN	_	_	16	nsubj	_	_
+8	1940	1940	NUM	_	_	9	nummod	_	_
+9	ондо	он	NOUN	_	_	12	nmod	_	_
+10	Москва	Москва	PROPN	_	_	11	compound	_	_
+11	хотодо	хото	NOUN	_	_	12	nmod	_	_
+12	үнгэргэгдэһэн	үнгэрхэ	VERB	_	_	14	acl	_	_
+13	буряад	буряад	ADJ	_	_	14	amod	_	_
+14	соёлой	соёл	NOUN	_	_	15	nmod	_	_
+15	декадада	декада	NOUN	_	_	16	nmod	_	_
+16	хабаадажа	хабаадаха	VERB	_	_	0	root	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	бөө	бөө	NOUN	_	_	19	compound	_	_
+19	удаганай	удаган	NOUN	_	_	20	nmod	_	_
+20	хатар	хатар	NOUN	_	_	21	dobj	_	_
+21	гүйсэдхэһэн	гүйсэдхэ	VERB	_	_	16	advcl	_	_
+22	байна	байха	AUX	_	_	21	aux	_	_
+23	.	.	PUNCT	_	_	21	punct	_	_
+
+1	Булад	Булад	PROPN	_	_	2	nsubj	_	_
+2	томохон	томо	ADJ	_	_	0	root	_	_
+3	болоод	болохо	VERB	_	_	2	cop	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	Буряад	буряад	PROPN	_	_	6	name	_	_
+6	драмын	драма	NOUN	_	_	7	name	_	_
+7	театр	театр	NOUN	_	_	8	nmod	_	_
+8	ерээд	ерэхэ	VERB	_	_	9	xcomp	_	_
+9	бэдэрхэдэнь	бэдэрхэ	VERB	_	_	2	advcl	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	нэгэшье	нэгэ	NUM	_	_	12	nummod	_	_
+12	фото	фото	NOUN	_	_	13	nmod	_	_
+13	баримта	баримта	NOUN	_	_	14	dobj	_	_
+14	олдоогүй	олдохо	VERB	_	_	9	parataxis	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+1	90-ээд	90-ээд	NUM	_	_	2	nummod	_	_
+2	онуудта	он	NOUN	_	_	8	nmod	_	_
+3	хүдөөгэй	хүдөөгэй	ADJ	_	_	4	amod	_	_
+4	хүбүүд	хүбүүн	NOUN	_	_	8	nsubj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	басагад	басаган	NOUN	_	_	4	conj	_	_
+7	Улаан-Үдэ	Улаан-Үдэ	PROPN	_	_	8	nmod	_	_
+8	ерээд	ерэхэ	VERB	_	_	0	root	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	хотын	хотын	ADJ	_	_	11	amod	_	_
+11	хүүгэдтэй	хүүгэн	NOUN	_	_	13	nmod	_	_
+12	адлихан	адли	ADV	_	_	14	advmod	_	_
+13	һуража	һураха	VERB	_	_	14	xcomp	_	_
+14	эхилхэдээ	эхилхэ	VERB	_	_	8	advcl	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	ород	ород	ADJ	_	_	17	amod	_	_
+17	хэлэ	хэлэн	NOUN	_	_	18	nsubj	_	_
+18	муутай	муухай	ADJ	_	_	14	advcl	_	_
+19	,	,	PUNCT	_	_	18	punct	_	_
+20	ядалсадаг	ядалдаха	VERB	_	_	18	parataxis	_	_
+21	бэлэй	бэлэй	PART	_	_	20	discourse	_	_
+22	.	.	PUNCT	_	_	20	punct	_	_
+
+1	Юумэ	юумэн	PRON	_	_	2	nmod	_	_
+2	хэлэжэ	хэлэхэ	VERB	_	_	3	xcomp	_	_
+3	ядаха	ядаха	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	буряадаар	буряадаар	ADV	_	_	6	advmod	_	_
+6	хэлэхэеэ	хэлэхэ	VERB	_	_	7	xcomp	_	_
+7	эшэхэ	эшэхэ	VERB	_	_	3	parataxis	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	тиимэһээ	тиимэһээ	ADV	_	_	11	advmod	_	_
+10	бэеэ	бэе	NOUN	_	_	11	dobj	_	_
+11	абанги	абаха	VERB	_	_	7	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	дуугай	дуугай	ADV	_	_	14	advmod	_	_
+14	ябаха	ябаха	VERB	_	_	11	parataxis	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+1	“	“	PUNCT	_	_	2	punct	_	_
+2	Дон	Дон	PROPN	_	_	3	name	_	_
+3	Кихот	Кихот	PROPN	_	_	9	nsubj	_	_
+4	”	”	PUNCT	_	_	3	punct	_	_
+5	15	15	NUM	_	_	6	nummod	_	_
+6	жэл	жэл	NOUN	_	_	7	nmod	_	_
+7	болоод	болохо	VERB	_	_	9	advcl	_	_
+8	дахин	дахин	ADV	_	_	9	advmod	_	_
+9	табигдаа	табигдаха	VERB	_	_	0	root	_	_
+
+1	Ирина	Ирина	PROPN	_	_	2	name	_	_
+2	Зибарева	Зибарева	PROPN	_	_	7	compound	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Тимофей	Тимофей	PROPN	_	_	5	name	_	_
+5	Лавренюк	Лавренюк	PROPN	_	_	2	conj	_	_
+6	гэгшэд	гэгшэд	PART	_	_	7	discourse	_	_
+7	артистнартай	артист	NOUN	_	_	8	nsubj	_	_
+8	хүдэлөө	хүдэлхэ	VERB	_	_	0	root	_	_
+
+1	Булад	Булад	PROPN	_	_	7	nsubj	_	_
+2	суг	суг	ADV	_	_	3	compound	_	_
+3	хамта	хамта	ADV	_	_	4	advmod	_	_
+4	һураһан	һураха	VERB	_	_	6	acl	_	_
+5	Евгения	Евгения	PROPN	_	_	6	name	_	_
+6	Цыреноватай	Цыренова	PROPN	_	_	7	nmod	_	_
+7	хатараа	хатарха	VERB	_	_	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	8-9	8-9	NUM	_	_	2	nummod	_	_
+2	наһанһаа	наһан	NOUN	_	_	5	nmod	_	_
+3	тайзан	тайзан	NOUN	_	_	5	nmod	_	_
+4	дээрэ	дээрэ	ADP	_	_	3	case	_	_
+5	хатаржа	хатарха	VERB	_	_	6	xcomp	_	_
+6	эхилһэн	эхилхэ	VERB	_	_	7	acl	_	_
+7	Булад	Булад	PROPN	_	_	11	nsubj	_	_
+8	10	10	NUM	_	_	9	nummod	_	_
+9	үдэр	үдэр	NOUN	_	_	11	nmod	_	_
+10	миин	миин	ADV	_	_	11	advmod	_	_
+11	байгаад	байха	VERB	_	_	0	root	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	дахин	дахин	ADV	_	_	14	advmod	_	_
+14	хатархаяа	хатарха	VERB	_	_	15	xcomp	_	_
+15	һанашадагби	һанаха	VERB	_	_	11	advcl	_	_
+16	гэжэ	гэ	PART	_	_	17	discourse	_	_
+17	хөөрэнэ	хөөрэхэ	VERB	_	_	15	parataxis	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Мүнөө	мүнөө	ADV	_	_	6	advmod	_	_
+3	амаралтадаа	амаралта	NOUN	_	_	6	nmod	_	_
+4	түрэл	түрэл	ADJ	_	_	5	amod	_	_
+5	Шэбэртэеэ	Шэбэртэ	PROPN	_	_	6	nmod	_	_
+6	ошохоб	ошохо	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Үзэсхэлэн	үзэсхэлэн	ADJ	_	_	2	amod	_	_
+2	байгаалитай	байгаали	NOUN	_	_	7	nmod	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	үндэр	үндэр	ADJ	_	_	5	amod	_	_
+5	мундаргата	мундарга	NOUN	_	_	7	nmod	_	_
+6	Түнхэнэй	Түнхэн	PROPN	_	_	7	name	_	_
+7	аймагай	аймаг	NOUN	_	_	9	nmod	_	_
+8	Мон	Мон	PROPN	_	_	9	compound	_	_
+9	нютагта	нютаг	NOUN	_	_	20	nmod	_	_
+10	9	9	NUM	_	_	11	nummod	_	_
+11	үхибүүтэй	үхибүүн	NOUN	_	_	17	nmod	_	_
+12	Дондок	Дондок	PROPN	_	_	13	name	_	_
+13	Дашиевич	Дашиевич	PROPN	_	_	17	nmod	_	_
+14	ба	ба	CONJ	_	_	13	cc	_	_
+15	Раднажап	Раднажап	PROPN	_	_	16	name	_	_
+16	Жамсаевнатанай	Жамсаевна	PROPN	_	_	13	conj	_	_
+17	бүлэдэ	бүлэ	NOUN	_	_	20	nmod	_	_
+18	одхон	одхон	ADJ	_	_	19	amod	_	_
+19	үринь	үри	NOUN	_	_	20	nmod	_	_
+20	боложо	болохо	VERB	_	_	0	root	_	_
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	1971	1971	NUM	_	_	23	nummod	_	_
+23	оной	он	NOUN	_	_	24	nmod	_	_
+24	июниин	июнь	NOUN	_	_	26	nmod	_	_
+25	27-до	27-до	NUM	_	_	24	nummod	_	_
+26	түрэһэн	түрэхэ	VERB	_	_	20	parataxis	_	_
+27	юм	юм	PART	_	_	26	discourse	_	_
+28	.	.	PUNCT	_	_	26	punct	_	_
+
+1	Эндэ	эндэ	ADV	_	_	0	root	_	_
+2	хадаа	хадаа	PART	_	_	1	discourse	_	_
+3	урагшаа	урагшаа	ADV	_	_	4	advmod	_	_
+4	һанаатай	һанаха	VERB	_	_	5	acl	_	_
+5	Солбон	Солбон	PROPN	_	_	7	nsubj	_	_
+6	дүй	дүй	NOUN	_	_	7	dobj	_	_
+7	дүршэл	дүршэхэ	VERB	_	_	0	root	_	_
+8	олонгоо	олон	DET	_	_	9	det	_	_
+9	түлөөһэгүйгөөр	түлөөһэгүйгөөр	ADV	_	_	15	advmod	_	_
+10	шахуу	шахуу	ADV	_	_	11	advmod	_	_
+11	мэргэжэлтэ	мэргэжэлтэ	ADJ	_	_	14	amod	_	_
+12	уран	уран	ADJ	_	_	14	amod	_	_
+13	һайханай	һайхан	ADJ	_	_	14	amod	_	_
+14	кинодо	кино	NOUN	_	_	15	nmod	_	_
+15	хабаадалсаһан	хабаадаха	VERB	_	_	7	advcl	_	_
+16	юм	юм	PART	_	_	15	discourse	_	_
+17	.	.	PUNCT	_	_	15	punct	_	_
+
+1	1999	1999	NUM	_	_	2	nummod	_	_
+2	ондо	он	NOUN	_	_	14	nmod	_	_
+3	Солбон	Солбон	PROPN	_	_	4	name	_	_
+4	Лыгденов	Лыгденов	PROPN	_	_	14	nsubj	_	_
+5	Зүүн	Зүүн	PROPN	_	_	6	name	_	_
+6	Сибириин	Сибирь	PROPN	_	_	10	nmod	_	_
+7	соёлой	соёл	NOUN	_	_	10	nmod	_	_
+8	ба	ба	CONJ	_	_	7	cc	_	_
+9	искусствын	искусство	NOUN	_	_	7	conj	_	_
+10	академидэ	академи	NOUN	_	_	13	nmod	_	_
+11	театральна	театральна	ADJ	_	_	12	amod	_	_
+12	режиссёрой	режиссёр	NOUN	_	_	13	nmod	_	_
+13	отделенидэ	отделени	NOUN	_	_	14	nmod	_	_
+14	ороһон	орохо	VERB	_	_	0	root	_	_
+15	болоно	болохо	AUX	_	_	14	aux	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Бэлиг	бэлиг	NOUN	_	_	2	nmod	_	_
+2	талаангаа	талаан	NOUN	_	_	3	nmod	_	_
+3	мүлижэ	мүлихэ	VERB	_	_	23	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	хари	хари	ADJ	_	_	6	amod	_	_
+6	гүрэнэй	гүрэнэй	NOUN	_	_	9	nmod	_	_
+7	«	«	PUNCT	_	_	8	punct	_	_
+8	Код	код	NOUN	_	_	9	name	_	_
+9	Апокалипсиса	апокалипсис	NOUN	_	_	21	nmod	_	_
+10	»	»	PUNCT	_	_	9	punct	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	«	«	PUNCT	_	_	13	punct	_	_
+13	Миссия	миссия	NOUN	_	_	14	name	_	_
+14	невыполнима	невыполнима	VERB	_	_	15	name	_	_
+15	-	-	PUNCT	_	_	16	name	_	_
+16	4	4	NUM	_	_	9	conj	_	_
+17	»	»	PUNCT	_	_	16	punct	_	_
+18	ба	ба	CONJ	_	_	9	cc	_	_
+19	бусад	бусад	DET	_	_	20	det	_	_
+20	кинофильмнүүдтэ	кинофильм	NOUN	_	_	9	conj	_	_
+21	хүдэлхэ	хүдэлхэ	VERB	_	_	22	acl	_	_
+22	азатай	аза	NOUN	_	_	23	nmod	_	_
+23	байһан	байха	VERB	_	_	0	root	_	_
+24	юм	юм	PART	_	_	23	discourse	_	_
+25	.	.	PUNCT	_	_	23	punct	_	_
+
+1	Агууехэ	агууехэ	ADJ	_	_	3	amod	_	_
+2	Чингис	Чингис	PROPN	_	_	3	compound	_	_
+3	хаанай	хаан	NOUN	_	_	4	nmod	_	_
+4	намтарта	намтар	NOUN	_	_	19	nmod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	энэ	энэ	DET	_	_	8	det	_	_
+7	гайхамшагта	гайхамшаг	ADJ	_	_	8	amod	_	_
+8	хүнэй	хүн	NOUN	_	_	9	nmod	_	_
+9	сагай	саг	NOUN	_	_	10	nmod	_	_
+10	түүхэдэ	түүхэ	NOUN	_	_	4	conj	_	_
+11	эрдэмтэд	эрдэмтэй	NOUN	_	_	19	nsubj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	соёл	соёл	NOUN	_	_	14	compound	_	_
+14	болбосоролдо	болбосорол	NOUN	_	_	15	nmod	_	_
+15	хабаатай	хабаадаха	VERB	_	_	16	acl	_	_
+16	хүнүүд	хүн	NOUN	_	_	11	conj	_	_
+17	онсо	онсо	ADJ	_	_	18	amod	_	_
+18	анхаралаа	анхарал	NOUN	_	_	19	dobj	_	_
+19	хандуулдаг	хандаха	VERB	_	_	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Августын	август	NOUN	_	_	3	nmod	_	_
+2	22-25-най	22-25-най	NUM	_	_	3	nummod	_	_
+3	үдэрнүүдтэ	үдэр	NOUN	_	_	9	nmod	_	_
+4	Якутск	Якутск	PROPN	_	_	5	compound	_	_
+5	хотодо	хото	NOUN	_	_	9	nmod	_	_
+6	1-дэхи	1-дэхи	NUM	_	_	8	nummod	_	_
+7	Уласхоорондын	Уласхоорон	PROPN	_	_	8	nmod	_	_
+8	кинофестиваль	кинофестиваль	NOUN	_	_	9	nsubj	_	_
+9	үнгэрһэн	үнгэрхэ	VERB	_	_	0	root	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Хубиин	хубиин	ADJ	_	_	2	amod	_	_
+2	олзо	олзо	NOUN	_	_	3	nmod	_	_
+3	эрхилэгшэд	эрхилэгшэ	NOUN	_	_	17	nsubj	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	нютагаархидынь	нютаг	NOUN	_	_	3	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	нүхэдынь	нүхэр	NOUN	_	_	3	conj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	танил	танил	NOUN	_	_	3	conj	_	_
+10	ба	ба	CONJ	_	_	3	cc	_	_
+11	дүтын	дүтын	ADJ	_	_	12	amod	_	_
+12	зон	зон	NOUN	_	_	3	conj	_	_
+13	энэ	энэ	DET	_	_	16	det	_	_
+14	хүнгэн	хүнгэн	ADJ	_	_	16	amod	_	_
+15	бэшэ	бэшэ	PART	_	_	14	neg	_	_
+16	ажалдань	ажал	NOUN	_	_	17	nmod	_	_
+17	туһалдаг	туһалха	VERB	_	_	0	root	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	дэмжэдэг	дэмжэхэ	VERB	_	_	17	conj	_	_
+20	гэжэ	гэ	PART	_	_	17	discourse	_	_
+21	тэрэ	тэрэ	PRON	_	_	27	nsubj	_	_
+22	Интернедтэ	интернет	NOUN	_	_	27	nmod	_	_
+23	өөрынгөө	өөрын	DET	_	_	24	det	_	_
+24	сайт	сайт	NOUN	_	_	27	nmod	_	_
+25	дээрээ	дээрээ	ADP	_	_	24	case	_	_
+26	уншагшадтаяа	уншагша	NOUN	_	_	27	nmod	_	_
+27	хубаалдана	хубаалдаха	VERB	_	_	17	parataxis	_	_
+28	.	.	PUNCT	_	_	27	punct	_	_
+
+1	Баяр	Баяр	PROPN	_	_	2	compound	_	_
+2	хүбүүхэн	хүбүүхэн	NOUN	_	_	6	nsubj	_	_
+3	гараха	гараха	VERB	_	_	4	acl	_	_
+4	түрэхэһөө	түрэхэ	NOUN	_	_	6	nmod	_	_
+5	хурса	хурса	ADV	_	_	6	advmod	_	_
+6	һонор	һонор	ADJ	_	_	0	root	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	һүбэлгэн	һүбэлгэн	ADJ	_	_	9	compound	_	_
+9	бэрхэ	бэрхэ	ADJ	_	_	6	conj	_	_
+10	байһан	байха	VERB	_	_	6	cop	_	_
+11	юм	юм	PART	_	_	10	discourse	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Энэ	энэ	DET	_	_	2	det	_	_
+2	үедэ	үе	NOUN	_	_	14	nmod	_	_
+3	Баярай	Баяр	PROPN	_	_	4	nmod	_	_
+4	аха	аха	NOUN	_	_	14	nsubj	_	_
+5	Балбар	Балбар	PROPN	_	_	4	appos	_	_
+6	Доржо	Доржо	PROPN	_	_	7	name	_	_
+7	Ринчиновичэй	Ринчинович	PROPN	_	_	8	nmod	_	_
+8	хүтэлбэри	хүтэлбэри	NOUN	_	_	14	nmod	_	_
+9	доро	доро	ADP	_	_	8	case	_	_
+10	дүрэ	дүрэтэй	NOUN	_	_	11	nmod	_	_
+11	буляалдалгын	буляалдаан	NOUN	_	_	12	nmod	_	_
+12	барилдаагаар	барилдаан	NOUN	_	_	13	nmod	_	_
+13	һорилго	һорилго	NOUN	_	_	14	dobj	_	_
+14	хэдэг	хэхэ	VERB	_	_	0	root	_	_
+15	байба	байха	AUX	_	_	14	aux	_	_
+16	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Советскэ	Советскэ	PROPN	_	_	2	name	_	_
+2	Союзай	Союз	PROPN	_	_	3	nmod	_	_
+3	Герой	герой	NOUN	_	_	5	compound	_	_
+4	Базар	Базар	PROPN	_	_	5	name	_	_
+5	Ринчиногой	Ринчин	PROPN	_	_	6	nmod	_	_
+6	дурасхаалай	дурасхаал	NOUN	_	_	7	nmod	_	_
+7	мүрысөөн	мүрысөөн	NOUN	_	_	12	nsubj	_	_
+8	Зүдхэлиин	Зүдхэлиин	PROPN	_	_	10	nmod	_	_
+9	эдир	эдир	ADJ	_	_	10	amod	_	_
+10	барилдаашадай	барилдааша	NOUN	_	_	11	nmod	_	_
+11	зориг	зориг	NOUN	_	_	12	dobj	_	_
+12	бадаруулһан	бадарха	VERB	_	_	0	root	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	мэргэжэл	мэргэжэл	NOUN	_	_	15	nmod	_	_
+15	шадабарииень	шадабари	NOUN	_	_	16	dobj	_	_
+16	мүлиһэн	мүлихэ	VERB	_	_	12	conj	_	_
+17	байгаа	бай	AUX	_	_	16	aux	_	_
+18	.	.	PUNCT	_	_	16	punct	_	_
+
+1	Бэлигтэй	бэлигтэй	ADJ	_	_	3	amod	_	_
+2	бэрхэ	бэрхэ	ADJ	_	_	3	amod	_	_
+3	тренер	тренер	NOUN	_	_	4	compound	_	_
+4	В.Н.Иванов	В.Н.Иванов	PROPN	_	_	7	nsubj	_	_
+5	дүшөөд	дүшэн	NUM	_	_	6	nummod	_	_
+6	жэлдэ	жэл	NOUN	_	_	7	nmod	_	_
+7	хүдэлхэдөө	хүдэлхэ	VERB	_	_	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	СССР-эй	СССР	PROPN	_	_	15	nmod	_	_
+10	болон	болон	CONJ	_	_	9	cc	_	_
+11	Россиин	России	PROPN	_	_	9	conj	_	_
+12	200	200	NUM	_	_	15	nummod	_	_
+13	шахуу	шахуу	ADV	_	_	15	advmod	_	_
+14	спортын	спорт	NOUN	_	_	15	nmod	_	_
+15	мастернуудые	мастер	NOUN	_	_	16	dobj	_	_
+16	һурган	һургаха	VERB	_	_	17	xcomp	_	_
+17	бэлдэһэн	бэлдэхэ	VERB	_	_	7	advcl	_	_
+18	байха	байха	AUX	_	_	17	aux	_	_
+19	юм	юм	PART	_	_	17	discourse	_	_
+20	.	.	PUNCT	_	_	17	punct	_	_
+
+1	Буряад	буряад	ADJ	_	_	2	amod	_	_
+2	хэлэн	хэлэн	NOUN	_	_	4	nsubj	_	_
+3	…	…	PUNCT	_	_	2	punct	_	_
+4	Түрэл	түрэл	ADJ	_	_	0	root	_	_
+5	гү	гү	PART	_	_	4	discourse	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	али	али	CONJ	_	_	4	cc	_	_
+8	гүрэнэй	гүрэнэй	ADJ	_	_	4	conj	_	_
+9	гү	гү	PART	_	_	8	discourse	_	_
+10	?	?	PUNCT	_	_	8	punct	_	_
+
+1	Илагшадай	илагша	NOUN	_	_	3	nmod	_	_
+2	нэрэ	нэрэ	NOUN	_	_	3	compound	_	_
+3	обогууд	обоо	NOUN	_	_	11	nsubjpass	_	_
+4	һуралсалай	һуралсал	NOUN	_	_	8	nmod	_	_
+5	ба	ба	CONJ	_	_	4	cc	_	_
+6	эрдэм	эрдэм	ADJ	_	_	7	amod	_	_
+7	ухаанай	ухаан	NOUN	_	_	4	conj	_	_
+8	министерствын	министерство	NOUN	_	_	9	nmod	_	_
+9	сайт	сайт	NOUN	_	_	11	nmod	_	_
+10	соо	соо	ADP	_	_	9	case	_	_
+11	табигданхай	табигдаха	VERB	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Харин	харин	ADV	_	_	6	advmod	_	_
+2	мүнөөдэрэй	мүнөөдэрэй	ADJ	_	_	3	amod	_	_
+3	асуудал	асуудал	NOUN	_	_	6	nsubj	_	_
+4	буряад	буряад	ADJ	_	_	5	amod	_	_
+5	хэлэнэй	хэлэн	NOUN	_	_	6	nmod	_	_
+6	байдал	байдал	NOUN	_	_	0	root	_	_
+7	тухай	тухай	ADP	_	_	6	case	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Захааминай	Захаамна	PROPN	_	_	2	name	_	_
+2	аймагай	аймаг	NOUN	_	_	5	nmod	_	_
+3	Санагын	Санага	PROPN	_	_	5	nmod	_	_
+4	дунда	дунда	ADJ	_	_	5	amod	_	_
+5	һургуулиин	һургуули	NOUN	_	_	8	nmod	_	_
+6	буряад	буряад	ADJ	_	_	7	amod	_	_
+7	хэлэнэй	хэлэн	NOUN	_	_	8	nmod	_	_
+8	багшанар	багша	NOUN	_	_	0	root	_	_
+9	Таисия	Таисия	PROPN	_	_	10	name	_	_
+10	Хандуевна	Хандуевна	PROPN	_	_	11	name	_	_
+11	Мархаева	Мархаева	PROPN	_	_	8	compound	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	Оюна	Оюна	PROPN	_	_	14	name	_	_
+14	Тогтохоевна	Тогтохоевна	PROPN	_	_	15	name	_	_
+15	Норбоева	Норбоева	PROPN	_	_	11	conj	_	_
+16	гэгшэд	гэхэ	VERB	_	_	17	mwe	_	_
+17	иигэжэ	иигэжэ	ADV	_	_	18	advmod	_	_
+18	хэлэбэ	хэлэхэ	VERB	_	_	0	root	_	_
+19	:	:	PUNCT	_	_	18	punct	_	_
+
+1	-	-	PUNCT	_	_	7	punct	_	_
+2	Манай	манай	DET	_	_	3	det	_	_
+3	нютагта	нютаг	NOUN	_	_	7	nmod	_	_
+4	ажаһуугшад	ажаһуугша	NOUN	_	_	7	nsubj	_	_
+5	буряад	буряад	ADJ	_	_	6	amod	_	_
+6	хэлээр	хэлэн	NOUN	_	_	7	dobj	_	_
+7	дуугардаг	дуугарха	VERB	_	_	0	root	_	_
+8	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Бүхыдөө	бүхы	ADV	_	_	5	advmod	_	_
+2	Буряад	буряад	PROPN	_	_	3	name	_	_
+3	орондо	орон	NOUN	_	_	5	nmod	_	_
+4	байдал	байдал	NOUN	_	_	5	nsubj	_	_
+5	хэсуу	хэсүү	ADJ	_	_	0	root	_	_
+6	болонхой	болохо	VERB	_	_	5	cop	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Буряад	буряад	ADJ	_	_	2	amod	_	_
+2	хэлэн	хэлэн	NOUN	_	_	5	nsubj	_	_
+3	-	-	PUNCT	_	_	2	punct	_	_
+4	түрэл	түрэл	ADJ	_	_	5	amod	_	_
+5	хэлэн	хэлэн	NOUN	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	Буряад	буряад	ADJ	_	_	8	amod	_	_
+8	хэлэн	хэлэн	NOUN	_	_	11	nsubj	_	_
+9	-	-	PUNCT	_	_	8	punct	_	_
+10	гүрэнэй	гүрэнэй	NOUN	_	_	11	nmod	_	_
+11	хэлэн	хэлэн	NOUN	_	_	5	parataxis	_	_
+12	гээд	гээд	PART	_	_	11	punct	_	_
+13	эрдэмтэд	эрдэмтэй	NOUN	_	_	19	nsubj	_	_
+14	буряад	буряад	ADJ	_	_	15	amod	_	_
+15	хэлэ	хэлэн	NOUN	_	_	16	nmod	_	_
+16	шудалалгада	шудалалга	NOUN	_	_	18	nmod	_	_
+17	ехэ	ехэ	ADJ	_	_	18	amod	_	_
+18	анхарал	анхарал	NOUN	_	_	19	dobj	_	_
+19	табидаг	табиха	VERB	_	_	5	parataxis	_	_
+20	болонхой	болонхой	AUX	_	_	19	aux	_	_
+21	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Мүнөө	мүнөө	ADJ	_	_	2	amod	_	_
+2	үеын	үе	NOUN	_	_	3	nmod	_	_
+3	залуушуулай	залуушуул	NOUN	_	_	4	nmod	_	_
+4	үхибүүд	үхибүүн	NOUN	_	_	10	nsubj	_	_
+5	тордиһогүй	тордиһогүй	ADV	_	_	7	advmod	_	_
+6	буряадаар	буряяад	NOUN	_	_	7	dobj	_	_
+7	дуугарха	дуугарха	VERB	_	_	8	acl	_	_
+8	үхибүүд	үхибүүн	NOUN	_	_	4	appos	_	_
+9	һургуулида	һургуули	NOUN	_	_	10	dobj	_	_
+10	ерэнэгүй	ерэхэ	VERB	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Светлана	Светлана	PROPN	_	_	2	name	_	_
+2	Гончикова	Гончикова	PROPN	_	_	3	name	_	_
+3	Будаина	Будаина	PROPN	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Улаан-Үдын	Улаан-Үдэ	PROPN	_	_	7	nmod	_	_
+6	1-дэхи	1-дэхи	NUM	_	_	7	nummod	_	_
+7	лицей-интернадай	лицей-интернад	NOUN	_	_	8	nmod	_	_
+8	багша	багша	NOUN	_	_	3	appos	_	_
+9	:	:	PUNCT	_	_	8	punct	_	_
+
+1	Мүнөө	мүнөө	ADV	_	_	4	advmod	_	_
+2	бидэ	бидэ	PRON	_	_	4	nsubj	_	_
+3	ехэ	ехэ	ADV	_	_	4	advmod	_	_
+4	баяртайбди	баяртай	ADJ	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Ехэ	ехэ	ADV	_	_	2	advmod	_	_
+2	гүнзэгы	гүнзэгы	ADJ	_	_	3	amod	_	_
+3	удха	удха	NOUN	_	_	4	nmod	_	_
+4	шанартай	шанартай	ADJ	_	_	6	acl	_	_
+5	электронно	электронно	ADJ	_	_	6	amod	_	_
+6	ном	ном	NOUN	_	_	7	nsubj	_	_
+7	бии	бии	VERB	_	_	0	root	_	_
+8	болгогдоо	болгохо	AUX	_	_	7	aux	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
+
+1	Хэрбэеэ	хэрбэ	SCONJ	_	_	12	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	республикымнай	республика	NOUN	_	_	5	nmod	_	_
+4	бүхы	бүхы	DET	_	_	5	det	_	_
+5	һургуулинууд	һургуули	NOUN	_	_	12	nsubj	_	_
+6	компьютер	компьютер	NOUN	_	_	7	dobj	_	_
+7	хэрэглэн	хэрэглэхэ	VERB	_	_	12	advcl	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	буряад	буряад	ADJ	_	_	10	amod	_	_
+10	хэлэеэ	хэлэн	NOUN	_	_	11	nmod	_	_
+11	шудалдаг	шудалха	VERB	_	_	12	xcomp	_	_
+12	болобол	болохо	VERB	_	_	0	root	_	_
+13	һайн	һайн	ADJ	_	_	12	parataxis	_	_
+14	бэлэй	бэлэй	PART	_	_	13	discourse	_	_
+15	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Буряад	буряад	ADJ	_	_	2	amod	_	_
+2	хэлэнэй	хэлэн	NOUN	_	_	3	nmod	_	_
+3	баялиг	баялиг	NOUN	_	_	4	dobj	_	_
+4	шудалагдажал	шудалха	VERB	_	_	0	root	_	_
+5	байха	байха	AUX	_	_	4	aux	_	_
+6	ёһотой	ёһотой	AUX	_	_	4	aux	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Хэды	хэды	ADV	_	_	3	advmod	_	_
+2	олон	олон	DET	_	_	3	det	_	_
+3	жэлэй	жэл	NOUN	_	_	4	nmod	_	_
+4	туршада	турша	NOUN	_	_	7	nmod	_	_
+5	буряад	буряад	ADJ	_	_	6	amod	_	_
+6	хэлэеэ	хэлэн	NOUN	_	_	7	dobj	_	_
+7	шудалжал	шудалха	VERB	_	_	0	root	_	_
+8	байһан	байха	AUX	_	_	7	aux	_	_
+9	аад	аад	ADV	_	_	7	advmod	_	_
+10	,	,	PUNCT	_	_	7	punct	_	_
+11	гэнтэ	гэнтэ	ADV	_	_	17	advmod	_	_
+12	гүрэнэй	гүрэнэй	ADJ	_	_	13	amod	_	_
+13	хэлэн	хэлэн	NOUN	_	_	15	nmod	_	_
+14	гэжэ	гэ	PART	_	_	16	discourse	_	_
+15	программа	программа	NOUN	_	_	16	dobj	_	_
+16	шэлэн	шэлэхэ	VERB	_	_	17	xcomp	_	_
+17	абалга	абаха	VERB	_	_	18	csubj	_	_
+18	гайхалтай	гайхалтай	ADJ	_	_	7	parataxis	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+1	Харин	харин	ADV	_	_	5	advmod	_	_
+2	гүрэнэй	гүрэнэй	ADJ	_	_	3	amod	_	_
+3	программада	программа	NOUN	_	_	5	nmod	_	_
+4	1	1	NUM	_	_	5	nummod	_	_
+5	хэшээл	хэшээл	NOUN	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	2-дохи	2-дохи	NUM	_	_	8	nummod	_	_
+8	хэшээлынь	хэшээл	NOUN	_	_	10	nmod	_	_
+9	һайн	һайн	ADJ	_	_	10	amod	_	_
+10	дуранай	дуран	NOUN	_	_	5	parataxis	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Арбагархан	арбагар	ADJ	_	_	2	amod	_	_
+2	платитай	плати	NOUN	_	_	4	nmod	_	_
+3	бишыхан	бишыхан	ADJ	_	_	4	amod	_	_
+4	басаган	басаган	NOUN	_	_	20	nsubj	_	_
+5	хүдөөгэй	хүдөөгэй	ADJ	_	_	6	amod	_	_
+6	соёлой	соёл	NOUN	_	_	7	nmod	_	_
+7	байшан	байшан	NOUN	_	_	9	nmod	_	_
+8	соо	соо	ADP	_	_	7	case	_	_
+9	суглаанда	суглаан	NOUN	_	_	10	nmod	_	_
+10	ерэһэн	ерэхэ	VERB	_	_	11	acl	_	_
+11	гэртэхинээ	гэртэхин	NOUN	_	_	12	dobj	_	_
+12	хүлеэхэ	хүлеэхэ	VERB	_	_	14	xcomp	_	_
+13	үедөө	үе	NOUN	_	_	14	dobj	_	_
+14	һамбаашалан	һамбаашалха	VERB	_	_	20	xcomp	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	тайзан	тайзан	NOUN	_	_	19	nmod	_	_
+17	дээрэ	дээрэ	ADP	_	_	16	case	_	_
+18	гүйжэ	гүйжэ	ADV	_	_	19	advmod	_	_
+19	гараад	гараха	VERB	_	_	20	xcomp	_	_
+20	эрьелдэнэ	эрьелдэхэ	VERB	_	_	0	root	_	_
+21	.	.	PUNCT	_	_	20	punct	_	_
+
+1	Суглаанда	суглаан	NOUN	_	_	2	nmod	_	_
+2	байһан	байха	VERB	_	_	3	acl	_	_
+3	томошуул	томошуул	NOUN	_	_	5	nsubj	_	_
+4	булта	булта	DET	_	_	3	det	_	_
+5	энеэлдэн	энеэлдэхэ	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	альгаа	альган	NOUN	_	_	8	nsubj	_	_
+8	ташаба	ташаха	VERB	_	_	5	parataxis	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Тэдэнэй	тэдэнэй	DET	_	_	2	det	_	_
+2	тоодо	тоодо	NOUN	_	_	11	nmod	_	_
+3	Тангадай	Танга	PROPN	_	_	4	name	_	_
+4	Жаргалай	Жаргал	PROPN	_	_	6	nmod	_	_
+5	9	9	NUM	_	_	6	nummod	_	_
+6	хүүгэдэй	хүүгэн	NOUN	_	_	8	nmod	_	_
+7	гурбадахи	гурбадахи	NUM	_	_	8	nummod	_	_
+8	үхибүүн	үхибүүн	NOUN	_	_	10	compound	_	_
+9	Цыпелма	Цыпелма	PROPN	_	_	10	name	_	_
+10	Шалановае	Шалановае	PROPN	_	_	11	dobj	_	_
+11	оруулбал	оруулха	VERB	_	_	13	csubj	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	алдуугүй	алдуугүй	ADV	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	8-дахи	8-дахи	NUM	_	_	2	nummod	_	_
+2	класс	класс	NOUN	_	_	3	dobj	_	_
+3	дүүргэхэдэнь	дүүргэхэ	VERB	_	_	12	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	нютагайнь	нютаг	NOUN	_	_	7	nmod	_	_
+6	Цыдып	Цыдып	PROPN	_	_	7	name	_	_
+7	Чимитов	Чимитов	PROPN	_	_	12	nsubj	_	_
+8	гэжэ	гэ	PART	_	_	9	discourse	_	_
+9	хүбүүн	хүбүүн	NOUN	_	_	7	appos	_	_
+10	культпросвет	культпросвет	NOUN	_	_	11	nmod	_	_
+11	училищида	училище	NOUN	_	_	0	root	_	_
+12	һуража	һураха	VERB	_	_	0	root	_	_
+13	байгаа	бай	AUX	_	_	12	aux	_	_
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Тэрэ	тэрэ	DET	_	_	2	det	_	_
+2	үедэ	үе	NOUN	_	_	5	nmod	_	_
+3	Москвагай	Москва	PROPN	_	_	4	nmod	_	_
+4	ГИТИС	ГИТИС	PROPN	_	_	5	nmod	_	_
+5	дүүргээд	дүүргэхэ	VERB	_	_	8	acl	_	_
+6	ерэһэн	ерэһэн	ADJ	_	_	8	amod	_	_
+7	залуухан	залуухан	ADJ	_	_	8	amod	_	_
+8	багша	багша	NOUN	_	_	10	compound	_	_
+9	Татьяна	Татьяна	PROPN	_	_	10	name	_	_
+10	Базаровна	Базаровна	PROPN	_	_	17	nsubj	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	Валентина	Валентина	PROPN	_	_	13	name	_	_
+13	Санжиевна	Санжиевна	PROPN	_	_	17	nsubj	_	_
+14	гэгшэд	гэгшэд	PART	_	_	17	discourse	_	_
+15	бэлиг	бэлиг	NOUN	_	_	17	nmod	_	_
+16	дүршэлөөрөө	дүршэлөөрөө	ADV	_	_	17	advmod	_	_
+17	хубаалдажа	хубаалдаха	VERB	_	_	0	root	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	ёһотойл	ёһотой	ADJ	_	_	20	amod	_	_
+20	артистын	артист	NOUN	_	_	21	nmod	_	_
+21	харгы	харгы	NOUN	_	_	22	nmod	_	_
+22	заажа	зааха	VERB	_	_	23	xcomp	_	_
+23	үгэһэн	үгэхэ	VERB	_	_	17	xcomp	_	_
+24	юм	юм	PART	_	_	23	discourse	_	_
+25	.	.	PUNCT	_	_	23	punct	_	_
+
+1	Тэрэ	тэрэ	DET	_	_	2	det	_	_
+2	нааданда	наада	NOUN	_	_	3	nmod	_	_
+3	орохо	орохо	VERB	_	_	0	root	_	_
+4	ори	ори	ADV	_	_	5	advmod	_	_
+5	ганса	ганса	ADJ	_	_	6	amod	_	_
+6	билет	билет	NOUN	_	_	8	nmod	_	_
+7	багшань	багша	NOUN	_	_	8	nsubj	_	_
+8	асараад	асарха	VERB	_	_	3	ccomp	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	оюутад	оюутан	NOUN	_	_	13	nmod	_	_
+11	соо	соо	ADP	_	_	10	case	_	_
+12	жээрэб	жээрэб	NOUN	_	_	13	dobj	_	_
+13	татуулаа	татаха	VERB	_	_	8	parataxis	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Хатарай	хатар	NOUN	_	_	2	nmod	_	_
+2	училищияа	училищи	NOUN	_	_	3	dobj	_	_
+3	дүүргэжэ	дүүргэхэ	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	«	«	PUNCT	_	_	6	punct	_	_
+6	Байгал	Байгал	PROPN	_	_	8	compound	_	_
+7	»	»	PUNCT	_	_	6	punct	_	_
+8	ансамблиин	ансамбль	NOUN	_	_	9	nmod	_	_
+9	хатаршан	хатаршан	NOUN	_	_	10	dobj	_	_
+10	болоһон	болохо	VERB	_	_	3	parataxis	_	_
+11	юм	юм	PART	_	_	10	discourse	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Эндэ	эндэ	ADV	_	_	11	advmod	_	_
+2	гэр	гэр	NOUN	_	_	3	nmod	_	_
+3	бүлэ	бүлэ	NOUN	_	_	10	nmod	_	_
+4	гү	гү	PART	_	_	3	discourse	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	али	али	CONJ	_	_	3	cc	_	_
+7	хатар	хатар	NOUN	_	_	3	conj	_	_
+8	гэһэн	гэһэн	ADV	_	_	11	advmod	_	_
+9	хоёр	хоёр	NUM	_	_	10	nummod	_	_
+10	харгы	харгы	NOUN	_	_	11	nmod	_	_
+11	шэлэхэ	шэлэхэ	VERB	_	_	0	root	_	_
+12	гээд	гээд	PART	_	_	11	discourse	_	_
+13	,	,	PUNCT	_	_	11	punct	_	_
+14	гэр	гэр	NOUN	_	_	15	nmod	_	_
+15	бүлэ	бүлэ	NOUN	_	_	23	conj	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	үри	үри	ADV	_	_	18	advmod	_	_
+18	хүүгэдни	хүүгэн	NOUN	_	_	15	conj	_	_
+19	-	-	PUNCT	_	_	18	punct	_	_
+20	ажабайдалаймни	ажабайдал	NOUN	_	_	21	nmod	_	_
+21	амжалта	амжалта	NOUN	_	_	23	nmod	_	_
+22	гэжэ	гэ	PART	_	_	23	discourse	_	_
+23	шиидэһэн	шиидэхэ	VERB	_	_	11	parataxis	_	_
+24	байна	байха	AUX	_	_	23	aux	_	_
+25	.	.	PUNCT	_	_	23	punct	_	_
+
+1	Хоёр	хоёр	NUM	_	_	2	nummod	_	_
+2	хүбүүдээ	хүбүүн	NOUN	_	_	5	dobj	_	_
+3	хүүгэдэй	хүүгэн	NOUN	_	_	4	nmod	_	_
+4	сэсэрлигтэ	сэсэрлиг	NOUN	_	_	5	nmod	_	_
+5	ябуулаад	ябуулха	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	өөрөө	өөрөө	PRON	_	_	15	nsubj	_	_
+8	Зүүн	зүүн	ADJ	_	_	9	name	_	_
+9	Сибириин	Сибирь	PROPN	_	_	10	name	_	_
+10	соёлой	соёл	NOUN	_	_	11	name	_	_
+11	академи	академи	NOUN	_	_	14	nmod	_	_
+12	очно	очно	ADJ	_	_	13	amod	_	_
+13	түхэлөөр	түхэл	NOUN	_	_	14	nmod	_	_
+14	дүүргэжэ	дүүргэхэ	VERB	_	_	15	xcomp	_	_
+15	гараа	гараха	VERB	_	_	5	parataxis	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+1	-	-	PUNCT	_	_	0	root	_	_
+2	Нёдондо	нёдондо	ADV	_	_	4	advmod	_	_
+3	алтанхан	алтанхан	ADJ	_	_	4	amod	_	_
+4	намарай	намар	NOUN	_	_	6	nmod	_	_
+5	намжаа	намжаа	ADJ	_	_	6	amod	_	_
+6	үдэрнүүдтэ	үдэр	NOUN	_	_	19	nmod	_	_
+7	Усть-Ордын	Усть-Орда	PROPN	_	_	9	nmod	_	_
+8	үндэһэтэ	үндэһэтэ	ADJ	_	_	9	amod	_	_
+9	арадай	арад	NOUN	_	_	12	nmod	_	_
+10	уран	уран	ADJ	_	_	12	amod	_	_
+11	һайханай	һайхан	ADJ	_	_	12	amod	_	_
+12	түбэй	түбэй	NOUN	_	_	13	nmod	_	_
+13	мэргэжэлтэд	мэргэжэл	NOUN	_	_	19	nsubj	_	_
+14	Хаашаг	Хаашаг	PROPN	_	_	15	compound	_	_
+15	дайда	дайда	NOUN	_	_	19	nmod	_	_
+16	руу	руу	ADP	_	_	15	case	_	_
+17	этнографическа	этнографическа	ADJ	_	_	18	amod	_	_
+18	экспедицеэр	экспедици	NOUN	_	_	19	nmod	_	_
+19	ошоһон	ошохо	VERB	_	_	0	root	_	_
+20	байна	байха	AUX	_	_	19	aux	_	_
+21	.	.	PUNCT	_	_	19	punct	_	_
+
+1	Директор	директор	NOUN	_	_	3	compound	_	_
+2	Вероника	Вероника	PROPN	_	_	3	name	_	_
+3	Харбановагай	Харбанова	PROPN	_	_	4	nmod	_	_
+4	ударидалгатай	ударидалга	NOUN	_	_	7	nmod	_	_
+5	эбтэй	эбтэй	ADJ	_	_	6	compound	_	_
+6	эетэй	эбтэй	ADJ	_	_	7	amod	_	_
+7	коллективтэй	коллектив	NOUN	_	_	9	nmod	_	_
+8	хамта	хамта	CONJ	_	_	7	cc	_	_
+9	би	би	PRON	_	_	11	nsubj	_	_
+10	баһал	баһа	ADV	_	_	11	advmod	_	_
+11	ябалсааб	ябаха	VERB	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Һүүлээрнь	һүүлээр	ADV	_	_	6	advmod	_	_
+2	аймагай	аймаг	NOUN	_	_	4	nmod	_	_
+3	соёлой	соёл	NOUN	_	_	4	nmod	_	_
+4	байшан	байшан	NOUN	_	_	5	nmod	_	_
+5	ошожо	ошохо	VERB	_	_	6	xcomp	_	_
+6	хараһан	хараха	VERB	_	_	0	root	_	_
+7	байнабди	байха	AUX	_	_	6	aux	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Шэнэ	шэнэ	ADJ	_	_	2	amod	_	_
+2	эрилтын	эрилтэ	NOUN	_	_	5	nmod	_	_
+3	гэрэлтэ	гэрэлтэ	ADJ	_	_	5	amod	_	_
+4	гоё	гоё	ADJ	_	_	5	amod	_	_
+5	зал	зал	NOUN	_	_	8	nsubj	_	_
+6	харагшадай	харагша	NOUN	_	_	7	nmod	_	_
+7	анхарал	анхарал	NOUN	_	_	8	dobj	_	_
+8	татаа	татаха	VERB	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Манай	манай	DET	_	_	2	det	_	_
+2	курсые	курс	NOUN	_	_	4	nmod	_	_
+3	даагша	даагша	ADJ	_	_	4	amod	_	_
+4	профессор	профессор	NOUN	_	_	7	compound	_	_
+5	Анастасия	Анастасия	PROPN	_	_	6	name	_	_
+6	Григорьевна	Григорьевна	PROPN	_	_	7	name	_	_
+7	Митрошкинатай	Митрошкина	PROPN	_	_	9	iobj	_	_
+8	ономастика	ономастика	NOUN	_	_	9	dobj	_	_
+9	шэнжэлхэеэ	шэнжэлхэ	VERB	_	_	11	xcomp	_	_
+10	иишээ	иишэ	ADV	_	_	11	advmod	_	_
+11	ерээ	ерэхэ	VERB	_	_	0	root	_	_
+12	бэлэйбди	бэлэйбди	PART	_	_	11	discourse	_	_
+13	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Тиимэһээ	тиимэһээ	ADV	_	_	9	advmod	_	_
+2	Хаашагай	Хаашаг	PROPN	_	_	3	nmod	_	_
+3	зоной	зон	NOUN	_	_	5	nmod	_	_
+4	заншалта	заншалта	ADJ	_	_	5	amod	_	_
+5	соёлтой	соёл	NOUN	_	_	6	nmod	_	_
+6	танилсалга	танилсалга	NOUN	_	_	9	nsubj	_	_
+7	Малые-Голы	Малые-Голы	PROPN	_	_	8	nmod	_	_
+8	һууринһаа	һуури	NOUN	_	_	9	dobj	_	_
+9	эхилхэдэнь	эхилхэ	VERB	_	_	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ехэ	ехэ	ADV	_	_	12	advmod	_	_
+12	баярлааб	баярлаха	VERB	_	_	9	parataxis	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	һонирхооб	һонирхохо	VERB	_	_	12	conj	_	_
+15	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Юһэн	юһэн	NUM	_	_	2	nummod	_	_
+2	жэлэй	жэл	NOUN	_	_	3	nmod	_	_
+3	һургуулида	һургуули	NOUN	_	_	6	nmod	_	_
+4	52	52	NUM	_	_	5	nummod	_	_
+5	үхибүүд	үхибүүн	NOUN	_	_	6	nsubj	_	_
+6	һурана	һураха	VERB	_	_	0	root	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Сэхынь	сэхэ	NOUN	_	_	3	dobj	_	_
+3	хэлэхэдэ	хэлэхэ	VERB	_	_	9	advcl	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	би	би	PRON	_	_	9	nsubj	_	_
+6	олон	олон	DET	_	_	7	det	_	_
+7	жэлээр	жэл	NOUN	_	_	9	nmod	_	_
+8	Усть-Ордада	Усть-Орда	PROPN	_	_	9	nmod	_	_
+9	ажаһуугаад	ажаһууха	VERB	_	_	0	root	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	Хаашагай	Хаашаг	PROPN	_	_	12	compound	_	_
+12	аймагаар	аймаг	NOUN	_	_	15	nmod	_	_
+13	буряадууд	буряяад	NOUN	_	_	15	nsubj	_	_
+14	олоор	олоор	ADV	_	_	15	advmod	_	_
+15	ажаһуудаг	ажаһууха	VERB	_	_	18	ccomp	_	_
+16	юм	юм	PART	_	_	18	discourse	_	_
+17	гэжэ	гэ	PART	_	_	18	discourse	_	_
+18	мэдэдэггүй	мэдэхэ	VERB	_	_	9	parataxis	_	_
+19	байгааб	байха	AUX	_	_	18	aux	_	_
+20	.	.	PUNCT	_	_	18	punct	_	_
+
+1	Харгыдаа	харгы	NOUN	_	_	4	compound	_	_
+2	«	«	PUNCT	_	_	3	punct	_	_
+3	Шишкинские	Шишкин	PROPN	_	_	4	name	_	_
+4	писаницы	писаница	NOUN	_	_	11	nmod	_	_
+5	»	»	PUNCT	_	_	4	punct	_	_
+6	гэһэн	гэһэн	ADV	_	_	11	advmod	_	_
+7	дэлхэйн	дэлхэйн	NOUN	_	_	8	nmod	_	_
+8	удхатай	удхатай	ADJ	_	_	10	acl	_	_
+9	соёлой	соёл	NOUN	_	_	10	nmod	_	_
+10	хүшөө	хүшөө	NOUN	_	_	11	dobj	_	_
+11	хараабди	хараха	VERB	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Yглөөгүүр	γглөөгγγр	NOUN	_	_	2	nmod	_	_
+2	бодоходо	бодохо	VERB	_	_	13	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	нютагай	нютаг	NOUN	_	_	5	nmod	_	_
+5	үзэсхэлэнтэ	үзэсхэлэн	NOUN	_	_	7	nmod	_	_
+6	гоё	гоё	ADJ	_	_	7	amod	_	_
+7	байгаали	байгаали	NOUN	_	_	13	nsubj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	арюун	арюун	ADJ	_	_	11	amod	_	_
+10	тунгалаг	тунгалаг	ADJ	_	_	11	amod	_	_
+11	агаар	агаар	NOUN	_	_	7	conj	_	_
+12	бултанииемнай	булта	PRON	_	_	13	dobj	_	_
+13	гайхуулаа	гайхуулха	VERB	_	_	0	root	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Магданай	Магда	PROPN	_	_	2	nmod	_	_
+2	ажаһуугшад	ажаһуугша	NOUN	_	_	11	nsubj	_	_
+3	ехэ	ехэ	ADV	_	_	4	advmod	_	_
+4	хүндэмүүшэ	хүндэмүүшэ	ADJ	_	_	11	amod	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	урагшаа	урагшаа	ADV	_	_	7	advmod	_	_
+7	һанаатай	һанаатай	ADJ	_	_	4	conj	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	сагаан	сагаан	ADJ	_	_	10	amod	_	_
+10	сэдьхэлтэй	сэдьхэлтэй	ADJ	_	_	4	conj	_	_
+11	зон	зон	NOUN	_	_	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Тогооной	тогоон	NOUN	_	_	2	nmod	_	_
+2	архи	архи	NOUN	_	_	5	dobj	_	_
+3	айл	айл	DET	_	_	4	det	_	_
+4	бүхэн	бүхы	NOUN	_	_	5	nsubj	_	_
+5	нэрэнэ	нэрэхэ	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Магад	магад	ADV	_	_	7	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	тунгус	тунгус	NOUN	_	_	5	nmod	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	эвенкнүүдтэй	эвенк	NOUN	_	_	6	nmod	_	_
+6	холисолдоһон	холихо	VERB	_	_	7	acl	_	_
+7	арад	арад	NOUN	_	_	0	root	_	_
+8	гү	гү	PART	_	_	7	discourse	_	_
+9	?	?	PUNCT	_	_	7	punct	_	_
+
+1	Хоёр	хоёр	NUM	_	_	2	nummod	_	_
+2	аха	аха	NOUN	_	_	3	compound	_	_
+3	дүү	дүү	NOUN	_	_	4	nsubj	_	_
+4	байгаа	байха	VERB	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	нэгэниинь	нэгэн	PRON	_	_	12	nsubj	_	_
+7	хоёр	хоёр	NUM	_	_	8	nummod	_	_
+8	хүбүүгээ	хүбүүн	NOUN	_	_	9	dobj	_	_
+9	дахуулаад	дахаха	VERB	_	_	12	advcl	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	эндэ	эндэ	ADV	_	_	12	advmod	_	_
+12	тогтоһон	тогтохо	VERB	_	_	4	parataxis	_	_
+13	юм	юм	PART	_	_	12	discourse	_	_
+14	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Ехэ	ехэ	ADJ	_	_	2	amod	_	_
+2	хүбүүн	хүбүүн	NOUN	_	_	4	nsubj	_	_
+3	эндэһээ	эндэ	ADV	_	_	4	advmod	_	_
+4	таһараа	таһарха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Бидэ	бидэ	PRON	_	_	3	nsubj	_	_
+2	монголоо	монгол	NOUN	_	_	3	nmod	_	_
+3	эдеэлүүлхэдээ	эдеэлүүлхэ	VERB	_	_	0	root	_	_
+4	(	(	PUNCT	_	_	5	punct	_	_
+5	эрхүү	эрхүү	ADJ	_	_	6	amod	_	_
+6	буряадай	буряяад	NOUN	_	_	7	nmod	_	_
+7	мүргэл	мүргэл	NOUN	_	_	3	appos	_	_
+8	)	)	PUNCT	_	_	7	punct	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	тэрэ	тэрэ	DET	_	_	11	det	_	_
+11	нютагаа	нютаг	NOUN	_	_	12	dobj	_	_
+12	дурданабди	дурдаха	VERB	_	_	3	conj	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Баруун	баруун	ADJ	_	_	2	name	_	_
+2	Баянгаза	баян	NOUN	_	_	4	nsubj	_	_
+3	манаа	бидэ	PRON	_	_	4	nmod	_	_
+4	уридаг	уриха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Хотын	хото	NOUN	_	_	3	nmod	_	_
+3	хүлгөөнһөө	хүлгөөн	NOUN	_	_	5	nmod	_	_
+4	холо	холо	ADV	_	_	5	advmod	_	_
+5	байхадаа	байха	VERB	_	_	12	advcl	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	түрэл	түрэл	ADJ	_	_	8	amod	_	_
+8	хэлэеэ	хэлэн	NOUN	_	_	12	dobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	ёһо	ёһо	NOUN	_	_	11	compound	_	_
+11	заншалаа	заншал	NOUN	_	_	8	conj	_	_
+12	мартаагүй	мартаха	VERB	_	_	0	root	_	_
+13	байна	байха	AUX	_	_	12	aux	_	_
+14	гэжэ	гэ	PART	_	_	15	discourse	_	_
+15	һанахаар	һанаха	VERB	_	_	12	parataxis	_	_
+16	гү	гү	PART	_	_	15	discourse	_	_
+17	?	?	PUNCT	_	_	15	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Үнэхөөрөө	үнэхөөр	ADV	_	_	4	advmod	_	_
+3	гайхалтай	гайхалтай	ADJ	_	_	4	amod	_	_
+4	нютаг	нютаг	NOUN	_	_	0	root	_	_
+5	даа	даа	PART	_	_	4	discourse	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Хүн	хүн	NOUN	_	_	2	compound	_	_
+2	зон	зон	NOUN	_	_	4	nsubj	_	_
+3	ехэ	ехэ	ADV	_	_	4	advmod	_	_
+4	сэбэр	сэбэр	ADJ	_	_	0	root	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	нягта	нягта	ADJ	_	_	4	conj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	һайн	һайн	ADV	_	_	9	advmod	_	_
+9	һанаатай	һанаатай	ADJ	_	_	4	conj	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Хулгай	хулгай	NOUN	_	_	5	dobj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	худал	худал	NOUN	_	_	1	conj	_	_
+4	гэжэ	гэ	PART	_	_	5	discourse	_	_
+5	мэдэхэгүй	мэдэхэ	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	гэрээшье	гэр	NOUN	_	_	8	dobj	_	_
+8	шэбхэдэнэгүй	шэбхэдэхэ	VERB	_	_	5	conj	_	_
+9	–	–	PUNCT	_	_	8	punct	_	_
+10	тэрээндэнь	тэрэ	PRON	_	_	12	nmod	_	_
+11	ехэ	ехэ	ADV	_	_	12	advmod	_	_
+12	гайхааб	гайхаха	VERB	_	_	5	parataxis	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Энэ	энэ	DET	_	_	3	det	_	_
+2	һайхан	һайхан	ADJ	_	_	3	amod	_	_
+3	нютагай	нютаг	NOUN	_	_	4	nmod	_	_
+4	зон	зон	NOUN	_	_	6	nmod	_	_
+5	тухай	тухай	ADP	_	_	4	case	_	_
+6	хөөрэнгүй	хөөрэхэ	VERB	_	_	8	xcomp	_	_
+7	байха	байха	AUX	_	_	6	aux	_	_
+8	аргамгүй	аргалха	VERB	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Басаганиинь	басаган	NOUN	_	_	4	nsubj	_	_
+2	Францида	Франци	PROPN	_	_	4	nmod	_	_
+3	хадамда	хадам	NOUN	_	_	4	mwe	_	_
+4	гаранхай	гараха	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Улаан-Yдэ	Улаан-Yдэ	PROPN	_	_	4	nmod	_	_
+2	Сагаалганай	Сагаалган	PROPN	_	_	3	nmod	_	_
+3	һайндэртэ	һайндэр	NOUN	_	_	4	nmod	_	_
+4	ошоо	ошохо	VERB	_	_	0	root	_	_
+5	һэмди	һэмди	PART	_	_	4	discourse	_	_
+6	»	»	PUNCT	_	_	4	punct	_	_
+7	,	,	PUNCT	_	_	4	punct	_	_
+8	-	-	PUNCT	_	_	4	punct	_	_
+9	гэжэ	гэ	PART	_	_	12	discourse	_	_
+10	Раиса	Раиса	PROPN	_	_	11	name	_	_
+11	Родионовна	Родионовна	PROPN	_	_	12	nsubj	_	_
+12	хөөрэнэ	хөөрэхэ	VERB	_	_	4	parataxis	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Энээн	энэ	PRON	_	_	4	nmod	_	_
+2	тухай	тухай	ADP	_	_	1	case	_	_
+3	манай	манай	DET	_	_	4	det	_	_
+4	хөөрэлдөөн	хөөрэлдөөн	NOUN	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	-	-	PUNCT	_	_	0	root	_	_
+
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	Гансашье	гансал	ADV	_	_	3	advmod	_	_
+3	би	би	PRON	_	_	0	root	_	_
+4	бэшэб	бэшэб	PART	_	_	3	discourse	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Жэшээнь	жэшээнь	ADV	_	_	12	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	«	«	PUNCT	_	_	4	punct	_	_
+4	Информ	Информ	PROPN	_	_	5	name	_	_
+5	Полис	Полис	PROPN	_	_	7	compound	_	_
+6	»	»	PUNCT	_	_	5	punct	_	_
+7	хэблэлэй	хэблэлэй	ADJ	_	_	8	compound	_	_
+8	байшан	байшан	NOUN	_	_	12	nsubj	_	_
+9	дасанда	дасан	NOUN	_	_	12	nmod	_	_
+10	пластик	пластик	ADJ	_	_	11	amod	_	_
+11	сонхонуудые	сонхо	NOUN	_	_	12	dobj	_	_
+12	табиха	табиха	VERB	_	_	0	root	_	_
+13	...	...	PUNCT	_	_	12	punct	_	_
+
+1	Тиихэдэнь	тиихэдэнь	ADV	_	_	5	advmod	_	_
+2	тэрэниие	тэрэ	PRON	_	_	5	dobj	_	_
+3	Суулгада	Суулга	PROPN	_	_	5	nmod	_	_
+4	дахин	дахин	ADV	_	_	5	advmod	_	_
+5	бодхоогоо	бодхоохо	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Совет	совет	ADJ	_	_	2	amod	_	_
+2	үедэ	үе	NOUN	_	_	5	nmod	_	_
+3	олонхи	олонхи	ADV	_	_	4	advmod	_	_
+4	дасангууд	дасан	NOUN	_	_	5	nsubj	_	_
+5	һандаргагдажа	һандаргаха	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	манайшье	бидэ	DET	_	_	8	det	_	_
+8	дасан	дасан	NOUN	_	_	9	nsubj	_	_
+9	хохидоһон	хохидохо	VERB	_	_	5	parataxis	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Мүнөө	мүнөө	ADV	_	_	4	advmod	_	_
+2	гансал	гансал	ADV	_	_	4	advmod	_	_
+3	ханануудынь	хана	NOUN	_	_	4	nsubj	_	_
+4	үлэнхэй	үлэхэ	VERB	_	_	0	root	_	_
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Та	та	PRON	_	_	3	nsubj	_	_
+2	нютагтаа	нютаг	NOUN	_	_	3	nmod	_	_
+3	айлшалхадаа	айлшалха	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	хүн	хүн	NOUN	_	_	6	nmod	_	_
+6	зоной	зон	NOUN	_	_	7	nmod	_	_
+7	ажабайдал	ажабайдал	NOUN	_	_	8	dobj	_	_
+8	харанат	хараха	VERB	_	_	3	advcl	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Энэнь	энэ	PRON	_	_	3	nsubj	_	_
+2	тон	тон	ADV	_	_	3	advmod	_	_
+3	зүб	зүб	ADJ	_	_	0	root	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	Гадна	гадна	ADV	_	_	9	advmod	_	_
+2	Зандинһаа	Зандин	PROPN	_	_	3	nmod	_	_
+3	гарбалтай	гарбалтай	NOUN	_	_	5	nmod	_	_
+4	бусад	бусад	DET	_	_	5	det	_	_
+5	хүнүүдэй	хүн	NOUN	_	_	7	nmod	_	_
+6	иимэ	иимэ	DET	_	_	7	det	_	_
+7	ажахынуудые	ажахы	NOUN	_	_	8	dobj	_	_
+8	нээжэ	нээхэ	VERB	_	_	9	xcomp	_	_
+9	эхилээ	эхилхэ	VERB	_	_	0	root	_	_
+10	һаань	һаа	SCONJ	_	_	9	mark	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	нютагтамнай	нютаг	NOUN	_	_	14	nmod	_	_
+13	хүн	хүн	NOUN	_	_	14	compound	_	_
+14	зон	зон	NOUN	_	_	15	nsubj	_	_
+15	олошорхо	олошорхо	VERB	_	_	9	parataxis	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+1	Тиимэһээ	тиимэһээ	ADV	_	_	5	advmod	_	_
+2	баһал	баһа	ADV	_	_	5	advmod	_	_
+3	түрүүшын	түрүүшын	ADJ	_	_	4	amod	_	_
+4	алхам	алхам	NOUN	_	_	5	dobj	_	_
+5	болгожо	болгохо	VERB	_	_	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	Зандинда	Зандин	PROPN	_	_	18	nmod	_	_
+8	буряад	буряад	ADJ	_	_	9	amod	_	_
+9	хэлэ	хэлэн	NOUN	_	_	13	nmod	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ёһо	ёһо	NOUN	_	_	12	compound	_	_
+12	заншал	заншал	NOUN	_	_	9	conj	_	_
+13	шудалалгын	шудалалга	NOUN	_	_	14	nmod	_	_
+14	шэглэлтэй	шэглэхэ	VERB	_	_	17	acl	_	_
+15	хүүгэдэй	хүүгэдэй	ADJ	_	_	17	amod	_	_
+16	зунай	зун	NOUN	_	_	17	nmod	_	_
+17	лагерь	лагерь	NOUN	_	_	18	dobj	_	_
+18	нээхэдэ	нээхэ	VERB	_	_	5	parataxis	_	_
+19	болоно	болохо	AUX	_	_	18	aux	_	_
+20	.	.	PUNCT	_	_	18	punct	_	_
+
+1	Энэ	энэ	DET	_	_	2	det	_	_
+2	хэрэгтэ	хэрэг	NOUN	_	_	4	nmod	_	_
+3	зандинаархиниие	Зандин	NOUN	_	_	4	dobj	_	_
+4	хабаадуулхада	хабаадаха	VERB	_	_	0	root	_	_
+5	болохо	болохо	AUX	_	_	4	aux	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+1	Эдэ	эдэ	DET	_	_	2	det	_	_
+2	бүгэдые	бүгэдые	PRON	_	_	3	dobj	_	_
+3	бэелүүлхын	бэелүүлхэ	VERB	_	_	0	root	_	_
+4	тула	тула	ADP	_	_	3	case	_	_
+5	зоной	зон	NOUN	_	_	6	nmod	_	_
+6	байра	байра	NOUN	_	_	7	nmod	_	_
+7	байдал	байдал	NOUN	_	_	8	dobj	_	_
+8	зохёохо	зохёохо	VERB	_	_	3	advcl	_	_
+9	шухала	шухала	AUX	_	_	8	aux	_	_
+
+1	Намааршье	би	PRON	_	_	3	nmod	_	_
+2	бодоод	бодохо	VERB	_	_	3	xcomp	_	_
+3	үзэхэдэ	үзэхэ	VERB	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	би	би	PRON	_	_	8	nsubj	_	_
+6	хамһабариин	хамһабариин	ADJ	_	_	7	amod	_	_
+7	ажахы	ажахы	NOUN	_	_	8	dobj	_	_
+8	нээхэ	нээхэ	VERB	_	_	3	parataxis	_	_
+9	гэхэдээ	гэхэ	PART	_	_	8	discourse	_	_
+10	,	,	PUNCT	_	_	8	punct	_	_
+11	даб	даб	ADV	_	_	13	advmod	_	_
+12	дээрээ	дээрээ	ADP	_	_	11	case	_	_
+13	аргагүйдэнэб	аргалха	VERB	_	_	8	parataxis	_	_
+14	.	.	PUNCT	_	_	13	punct	_	_
+
+1	Жэшээнь	жэшээнь	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	Хүсөөтэдэ	Хүсөө	PROPN	_	_	6	nmod	_	_
+4	хүүгэдэй	хүүгэдэй	ADJ	_	_	5	compound	_	_
+5	сэсэрлиг	сэсэрлиг	NOUN	_	_	6	dobj	_	_
+6	нээхэ	нээхэ	VERB	_	_	0	root	_	_
+7	хэрэгтэй	хэрэг	AUX	_	_	6	aux	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Гашей	Гашей	PROPN	_	_	5	nmod	_	_
+2	шадар	шадар	ADV	_	_	5	advmod	_	_
+3	Алташын-Адагай	Алташын-Адага	PROPN	_	_	4	nmod	_	_
+4	заказник	заказник	NOUN	_	_	5	nsubj	_	_
+5	байна	байха	VERB	_	_	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	Мухар-Шэбэрэй	Мухар-Шэбэр	PROPN	_	_	2	nmod	_	_
+2	аймагта	аймаг	NOUN	_	_	4	nmod	_	_
+3	аяншалгашье	аяншалга	NOUN	_	_	4	dobj	_	_
+4	хүгжөөхөөр	хүгжөөхэ	VERB	_	_	0	root	_	_
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	татаарнууд	татаар	NOUN	_	_	11	nsubj	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	шэмээшэгүүд	шэмээшэг	NOUN	_	_	6	conj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	буряадууд	буряяад	NOUN	_	_	6	conj	_	_
+11	ажаһуудаг	ажаһууха	VERB	_	_	4	parataxis	_	_
+12	ха	ха	PART	_	_	11	discourse	_	_
+13	юм	юм	PART	_	_	11	discourse	_	_
+14	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Ажалгүйдэнэ	ажал	NOUN	_	_	0	root	_	_
+2	ха	ха	PART	_	_	1	discourse	_	_
+3	юм	юм	PART	_	_	1	discourse	_	_
+4	.	.	PUNCT	_	_	1	punct	_	_
+
+1	Колхоз	колхоз	NOUN	_	_	4	nsubj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	совхозуудай	совхоз	NOUN	_	_	1	conj	_	_
+4	һандархада	һандарха	VERB	_	_	18	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	бүхы	бүхы	DET	_	_	8	det	_	_
+7	таряалан	таряалан	NOUN	_	_	8	nmod	_	_
+8	газарнууднай	газар	NOUN	_	_	11	dobj	_	_
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	бэлшээринүүднай	бэлшээри	NOUN	_	_	8	conj	_	_
+11	хэрэглэгдэхэеэ	хэрэглэхэ	VERB	_	_	12	xcomp	_	_
+12	болижо	болихо	VERB	_	_	4	parataxis	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	нэгэ	нэгэ	NUM	_	_	15	nummod	_	_
+15	талаар	талаар	NOUN	_	_	18	nmod	_	_
+16	газарнай	газар	NOUN	_	_	17	nmod	_	_
+17	амараад	амарха	VERB	_	_	18	xcomp	_	_
+18	абаа	абаха	VERB	_	_	0	root	_	_
+19	.	.	PUNCT	_	_	18	punct	_	_
+
+1	Бишье	би	PRON	_	_	21	nsubj	_	_
+2	хадаа	хадаа	PART	_	_	1	discourse	_	_
+3	Улаан-Үдэдэ	Улаан-Үдэ	PROPN	_	_	4	nmod	_	_
+4	ажалтай	ажалха	VERB	_	_	1	acl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	сүлөөгүй	сүлөө	ADJ	_	_	8	amod	_	_
+7	хэбэртэй	хэбэртэй	ADV	_	_	8	advmod	_	_
+8	хүн	хүн	NOUN	_	_	1	appos	_	_
+9	аад	аад	PART	_	_	8	discourse	_	_
+10	,	,	PUNCT	_	_	9	discourse	_	_
+11	үхэр	үхэр	NOUN	_	_	12	compound	_	_
+12	мал	мал	NOUN	_	_	13	dobj	_	_
+13	бариха	бариха	VERB	_	_	14	xcomp	_	_
+14	дуратай	дураха	VERB	_	_	21	advcl	_	_
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	байгаалидаа	байгаали	NOUN	_	_	20	nmod	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	газартаа	газар	NOUN	_	_	16	conj	_	_
+19	дүтэ	дүтэ	ADV	_	_	20	advmod	_	_
+20	байхаяа	байха	VERB	_	_	21	xcomp	_	_
+21	оролдодог	оролдохо	VERB	_	_	0	root	_	_
+22	болонхойб	болохо	AUX	_	_	21	aux	_	_
+23	.	.	PUNCT	_	_	22	punct	_	_
+
+1	Юундэ	юундэ	ADV	_	_	19	advmod	_	_
+2	бидэ	бидэ	NOUN	_	_	19	nsubj	_	_
+3	мал	мал	NOUN	_	_	4	nmod	_	_
+4	ажалаар	ажал	NOUN	_	_	5	nmod	_	_
+5	амидардаг	амидарха	VERB	_	_	7	acl	_	_
+6	байһан	байха	AUX	_	_	5	aux	_	_
+7	элинсэг	элинсэг	NOUN	_	_	8	nmod	_	_
+8	хулинсагуудай	хулинсаг	NOUN	_	_	9	nmod	_	_
+9	үри	үри	NOUN	_	_	10	dobj	_	_
+10	һадаһад	һадаха	VERB	_	_	2	acl	_	_
+11	аад	аад	PART	_	_	10	discourse	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	хаана	хаана	ADV	_	_	16	advmod	_	_
+14	холоһоо	холоһоо	ADV	_	_	15	advmod	_	_
+15	асарагдаһан	асарагдаха	VERB	_	_	16	acl	_	_
+16	мяха	мяха	NOUN	_	_	19	dobj	_	_
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	һү	һүн	NOUN	_	_	16	conj	_	_
+19	хэрэглэхэ	хэрэглэхэ	VERB	_	_	0	root	_	_
+20	болоо	болохо	AUX	_	_	19	aux	_	_
+21	юмбибди	юмбибди	PART	_	_	19	discourse	_	_
+22	?	?	PUNCT	_	_	19	punct	_	_
+
+1	Багадаашье	бага	NOUN	_	_	3	nmod	_	_
+2	шуран	шуран	ADV	_	_	3	compound	_	_
+3	бэрхэ	бэрхэ	ADJ	_	_	0	root	_	_
+4	байгаагүйб	байха	VERB	_	_	3	cop	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	эдэбхи	эдэбхи	NOUN	_	_	11	nmod	_	_
+7	үүсхэл	үүсхэл	NOUN	_	_	6	conj	_	_
+8	ехэтэй	ехэ	ADJ	_	_	6	amod	_	_
+9	һэмби	һэм	PART	_	_	11	discourse	_	_
+10	гэжэшье	гэжэшье	PART	_	_	11	discourse	_	_
+11	һанадаггүйб	һанаха	VERB	_	_	3	parataxis	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	Жэшээнь	жэшээнь	ADV	_	_	10	advmod	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	аалиншье	аалин	ADJ	_	_	6	acl	_	_
+4	һаам	һаам	PART	_	_	3	discourse	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	намайе	би	PRON	_	_	10	dobj	_	_
+7	9-дэхи	9-дэхи	NUM	_	_	8	nummod	_	_
+8	класста	класс	NOUN	_	_	10	nmod	_	_
+9	комсоргоор	комсорг	NOUN	_	_	10	iobj	_	_
+10	һунгаа	һунгаха	VERB	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Теэд	теэд	ADV	_	_	3	advmod	_	_
+2	түргэн	түргэн	ADV	_	_	3	advmod	_	_
+3	түүхэй	түүхэй	ADJ	_	_	0	root	_	_
+4	байнхаар	байха	VERB	_	_	3	cop	_	_
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	удаан	удаа	ADV	_	_	7	advmod	_	_
+7	даамай	даамай	ADJ	_	_	3	punct	_	_
+8	байһаниинь	байха	VERB	_	_	7	cop	_	_
+9	дээрэ	дээрэ	ADV	_	_	7	advmod	_	_
+10	.	.	PUNCT	_	_	7	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Хуби	хуби	NOUN	_	_	3	nmod	_	_
+3	заяамни	заяан	NOUN	_	_	0	root	_	_
+4	гэжэ	гэ	PART	_	_	5	discourse	_	_
+5	һанагшаб	һанагдаха	VERB	_	_	3	parataxis	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Бэлэн	бэлэн	ADV	_	_	0	root	_	_
+3	бэшэ	бэшэ	PART	_	_	2	neg	_	_
+4	.	.	PUNCT	_	_	3	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Хүнэй	хүн	NOUN	_	_	4	nmod	_	_
+3	ямар	ямар	DET	_	_	4	det	_	_
+4	абари	абари	NOUN	_	_	5	nmod	_	_
+5	зан	зан	NOUN	_	_	8	nsubj	_	_
+6	танда	танда	PRON	_	_	8	nmod	_	_
+7	тон	тон	ADV	_	_	8	advmod	_	_
+8	сэнтэйб	сэнтэй	ADJ	_	_	0	root	_	_
+9	?	?	PUNCT	_	_	8	punct	_	_
+
+1	Энэ	энэ	DET	_	_	2	det	_	_
+2	дүримые	дүрим	NOUN	_	_	7	dobj	_	_
+3	би	би	PRON	_	_	8	nsubj	_	_
+4	гэртэхинэйнгээ	гэртэхин	NOUN	_	_	5	nmod	_	_
+5	жэшээгээр	жэшээ	NOUN	_	_	7	nmod	_	_
+6	ходо	ходо	ADV	_	_	8	advmod	_	_
+7	сахихаяа	сахиха	VERB	_	_	8	xcomp	_	_
+8	оролдодогби	оролдохо	VERB	_	_	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+1	Нютагаа	нютаг	NOUN	_	_	2	nmod	_	_
+2	ошоходош	ошохо	VERB	_	_	7	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	нүхэдынь	нүхэр	NOUN	_	_	7	nsubj	_	_
+5	намайе	би	PRON	_	_	7	dobj	_	_
+6	дулааханаар	дулааханаар	ADV	_	_	7	advmod	_	_
+7	угтадаг	угтаха	VERB	_	_	0	root	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	ехэ	ехэ	ADV	_	_	10	advmod	_	_
+10	дүтөөр	дүтөөр	ADV	_	_	11	advmod	_	_
+11	һанадаг	һанаха	VERB	_	_	7	conj	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Соёлма	Соёлма	PROPN	_	_	3	name	_	_
+3	Баяртуевна	Баяртуевна	PROPN	_	_	14	vocative	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	та	та	PRON	_	_	14	nsubj	_	_
+6	эсэбэритэй	эсэбэритэй	ADJ	_	_	5	amod	_	_
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	сүлөөгүй	сүлөө	ADJ	_	_	9	amod	_	_
+9	ажалтайт	ажалтай	NOUN	_	_	5	nmod	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	олониитын	олон	NOUN	_	_	12	nmod	_	_
+12	ажабайдалда	ажабайдал	NOUN	_	_	14	nmod	_	_
+13	эдэбхитэйгээр	эдэбхитэйгээр	ADV	_	_	14	advmod	_	_
+14	хабаададагта	хабаадаха	VERB	_	_	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+1	Хаанаһаа	хаана	ADV	_	_	4	advmod	_	_
+2	хүсэ	хүсэ	NOUN	_	_	4	dobj	_	_
+3	шадал	шадал	NOUN	_	_	2	conj	_	_
+4	абадаг	абаха	VERB	_	_	0	root	_	_
+5	гээшэбта	гээшэбта	PART	_	_	4	discourse	_	_
+6	?	?	PUNCT	_	_	4	punct	_	_
+
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	Наһанайнгаа	наһан	NOUN	_	_	3	nmod	_	_
+3	нүхэрэй	нүхэр	NOUN	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	үхибүүдэйнгээ	үхибүүн	NOUN	_	_	6	nmod	_	_
+6	дэмжэлгэһээ	дэмжэлгэ	NOUN	_	_	3	conj	_	_
+7	.	.	PUNCT	_	_	6	punct	_	_
+
+1	Би	би	PRON	_	_	3	nsubj	_	_
+2	хоёр	хоёр	NUM	_	_	3	nummod	_	_
+3	хүбүүтэйб	хүбүүн	NOUN	_	_	0	root	_	_
+4	,	,	PUNCT	_	_	3	nmod	_	_
+5	тиихэдэ	тиихэдэ	ADV	_	_	10	advmod	_	_
+6	дүүнэрэймни	дүүнэрэ	ADJ	_	_	8	amod	_	_
+7	хоёр	хоёр	NUM	_	_	8	nummod	_	_
+8	хүбүүд	хүбүүн	NOUN	_	_	10	nsubj	_	_
+9	бидэнтэеэ	бидэ	PRON	_	_	10	nmod	_	_
+10	ажаһуудаг	ажаһууха	VERB	_	_	3	parataxis	_	_
+11	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Түрэлхид	түрэлхид	NOUN	_	_	2	nmod	_	_
+2	гаралхидни	гаралта	NOUN	_	_	12	nsubj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	түрэл	түрэл	ADJ	_	_	5	amod	_	_
+5	нютагни	нютаг	NOUN	_	_	2	conj	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	Байгал	Байгал	PROPN	_	_	8	compound	_	_
+8	далаймни	далай	NOUN	_	_	2	conj	_	_
+9	намда	би	PRON	_	_	12	iobj	_	_
+10	хүсэ	хүсэ	NOUN	_	_	0	root	_	_
+11	зориг	зориг	NOUN	_	_	10	conj	_	_
+12	үгэдэг	үгэхэ	VERB	_	_	0	root	_	_
+13	.	.	PUNCT	_	_	12	punct	_	_
+
+1	Ошохоо	ошохо	VERB	_	_	2	xcomp	_	_
+2	һанана	һанаха	VERB	_	_	0	root	_	_
+3	гүш	гүш	PART	_	_	2	discourse	_	_
+4	?	?	PUNCT	_	_	2	punct	_	_
+
+1	Игаузу	Игаузу	PROPN	_	_	4	nsubj	_	_
+2	гээшэ	гээшэ	PART	_	_	4	discourse	_	_
+3	томо	томо	ADJ	_	_	4	amod	_	_
+4	гүрэн	гүрэн	NOUN	_	_	0	root	_	_
+5	гү	гү	PART	_	_	4	discourse	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	бага	бага	ADJ	_	_	4	amod	_	_
+8	гү	гү	PART	_	_	4	discourse	_	_
+9	?	?	PUNCT	_	_	4	punct	_	_
+
+1	Питер	Питер	PROPN	_	_	2	name	_	_
+2	Смит	Смит	PROPN	_	_	5	conj	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Мэри	Мэри	PROPN	_	_	5	name	_	_
+5	Браун	Браун	PROPN	_	_	8	dobj	_	_
+6	хоёрой	хоёрой	CONJ	_	_	5	cc	_	_
+7	алииеньшье	алииеньшье	PRON	_	_	5	appos	_	_
+8	шэлэхын	шэлэхэ	VERB	_	_	9	xcomp	_	_
+9	аргагүй	аргатай	ADJ	_	_	0	root	_	_
+10	байба	байха	AUX	_	_	9	cop	_	_
+11	.	.	PUNCT	_	_	9	punct	_	_
+
+1	Юугээ	юу	PRON	_	_	2	dobj	_	_
+2	харанабши	хараха	VERB	_	_	0	root	_	_
+3	?	?	PUNCT	_	_	2	punct	_	_
+
+1	Тэрэ	тэрэ	DET	_	_	2	det	_	_
+2	хүн	хүн	NOUN	_	_	4	nsubj	_	_
+3	машина	машина	NOUN	_	_	4	dobj	_	_
+4	абаа	абаха	VERB	_	_	10	conj	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	харин	харин	CONJ	_	_	2	cc	_	_
+7	дүүнь	дүүн	NOUN	_	_	10	nsubj	_	_
+8	оройдоол	оройдоол	ADV	_	_	10	advmod	_	_
+9	велосипед	велосипед	NOUN	_	_	10	dobj	_	_
+10	абажа	абаха	VERB	_	_	0	root	_	_
+11	шадаа	шадаха	AUX	_	_	10	aux	_	_
+12	.	.	PUNCT	_	_	10	punct	_	_
+
+1	Үһэеэ	үһэн	NOUN	_	_	2	dobj	_	_
+2	заһуулха	заһуулха	VERB	_	_	0	root	_	_
+3	хүн	хүн	NOUN	_	_	2	nsubj	_	_
+4	аад	аад	CONJ	_	_	2	cc	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	тэрэ	тэрэ	DET	_	_	7	det	_	_
+7	үдэр	үдэр	NOUN	_	_	14	nmod	_	_
+8	юундэ	юундэ	SCONJ	_	_	11	mark	_	_
+9	хынь	хынь	PART	_	_	11	discourse	_	_
+10	бү	бү	PART	_	_	11	neg	_	_
+11	мэдэ	мэдэхэ	VERB	_	_	14	parataxis	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	залхуунь	залхуунь	NOUN	_	_	14	nsubj	_	_
+14	хүрэбэ	хүрэхэ	VERB	_	_	2	advcl	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
 
