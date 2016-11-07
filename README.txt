@@ -9,3 +9,12 @@ Genre: grammar-examples news fiction
 Contributors: Badmaeva, Elena; Tyers, Francis
 Contact:
 ---------------------------------
+
+Changelog
+
+2015-05-15 v1.1
+
+* Added lemmas
+
+* Corrected tokenization in sentences 123 and 456 ```
+

@@ -161,7 +161,7 @@
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 1	унталгын	унталга	NOUN	_	_	2	compound	_	_
-2	хубсаһан	хубсаһан	NOUN	_	_	0	root	_	_
+2	хубсаһан	хубсаһан	NOUN	_	_	4	nmod	_	_
 3	соогоо	соогоо	ADP	_	_	2	case	_	_
 4	байгаад	байха	VERB	_	_	2	cop	_	_
 5	,	,	PUNCT	_	_	2	punct	_	_
@@ -694,7 +694,7 @@
 9	анхан	анхан	ADV	_	_	19	advmod	_	_
 10	«	«	PUNCT	_	_	11	punct	_	_
 11	Монголһоо	Монгол	PROPN	_	_	12	nmod	_	_
-12	Могол	Могол	PROPN	_	_	0	root	_	_
+12	Могол	Могол	PROPN	_	_	16	compound	_	_
 13	хүрэтэр	хүрэтэр	ADP	_	_	12	case	_	_
 14	»	»	PUNCT	_	_	13	punct	_	_
 15	гэһэн	гэһэн	PART	_	_	16	discourse	_	_
@@ -778,7 +778,7 @@
 3	замаар	зам	NOUN	_	_	13	nmod	_	_
 4	нэгэдүүлэгдэһэн	нэгэдүүлэгдэһэн	ADJ	_	_	5	amod	_	_
 5	арадуудай	арад	NOUN	_	_	6	nmod	_	_
-6	дуу	дуу	NOUN	_	_	0	root	_	_
+6	дуу	дуу	NOUN	_	_	13	nmod	_	_
 7	хүгжэм	хүгжэм	NOUN	_	_	6	conj	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	хатар	хатар	NOUN	_	_	6	conj	_	_
@@ -819,7 +819,7 @@
 16	дээрэ	дээрэ	ADP	_	_	15	case	_	_
 17	«	«	PUNCT	_	_	18	punct	_	_
 18	Лебединое	лебединое	ADJ	_	_	19	amod	_	_
-19	озеро	озеро	NOUN	_	_	0	root	_	_
+19	озеро	озеро	NOUN	_	_	43	nmod	_	_
 20	»	»	PUNCT	_	_	19	punct	_	_
 21	,	,	PUNCT	_	_	19	punct	_	_
 22	“	“	PUNCT	_	_	23	punct	_	_
@@ -884,7 +884,7 @@
 26	2	2	NUM	_	_	29	compound	_	_
 27	”	”	PUNCT	_	_	26	punct	_	_
 28	гэһэн	гэһэн	PART	_	_	29	discourse	_	_
-29	сэгнэлтэнүүдые	сэгнэлтэ	NOUN	_	_	0	root	_	_
+29	сэгнэлтэнүүдые	сэгнэлтэ	NOUN	_	_	30	dobj	_	_
 30	абажа	абаха	VERB	_	_	31	xcomp	_	_
 31	эхилээб	эхилхэ	VERB	_	_	21	parataxis	_	_
 32	.	.	PUNCT	_	_	31	punct	_	_
@@ -1103,7 +1103,7 @@
 27	юм	юм	PART	_	_	26	discourse	_	_
 28	.	.	PUNCT	_	_	26	punct	_	_
 
-1	Эндэ	эндэ	ADV	_	_	0	root	_	_
+1	Эндэ	эндэ	ADV	_	_	7	advmod	_	_
 2	хадаа	хадаа	PART	_	_	1	discourse	_	_
 3	урагшаа	урагшаа	ADV	_	_	4	advmod	_	_
 4	һанаатай	һанаха	VERB	_	_	5	acl	_	_
@@ -1335,10 +1335,10 @@
 5	һургуулиин	һургуули	NOUN	_	_	8	nmod	_	_
 6	буряад	буряад	ADJ	_	_	7	amod	_	_
 7	хэлэнэй	хэлэн	NOUN	_	_	8	nmod	_	_
-8	багшанар	багша	NOUN	_	_	0	root	_	_
+8	багшанар	багша	NOUN	_	_	11	compound	_	_
 9	Таисия	Таисия	PROPN	_	_	10	name	_	_
 10	Хандуевна	Хандуевна	PROPN	_	_	11	name	_	_
-11	Мархаева	Мархаева	PROPN	_	_	8	compound	_	_
+11	Мархаева	Мархаева	PROPN	_	_	18	nsubj	_	_
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	Оюна	Оюна	PROPN	_	_	14	name	_	_
 14	Тогтохоевна	Тогтохоевна	PROPN	_	_	15	name	_	_
@@ -1538,7 +1538,7 @@
 8	гэжэ	гэ	PART	_	_	9	discourse	_	_
 9	хүбүүн	хүбүүн	NOUN	_	_	7	appos	_	_
 10	культпросвет	культпросвет	NOUN	_	_	11	nmod	_	_
-11	училищида	училище	NOUN	_	_	0	root	_	_
+11	училищида	училище	NOUN	_	_	12	nmod	_	_
 12	һуража	һураха	VERB	_	_	0	root	_	_
 13	байгаа	бай	AUX	_	_	12	aux	_	_
 14	.	.	PUNCT	_	_	12	punct	_	_
@@ -1640,7 +1640,7 @@
 15	гараа	гараха	VERB	_	_	5	parataxis	_	_
 16	.	.	PUNCT	_	_	15	punct	_	_
 
-1	-	-	PUNCT	_	_	0	root	_	_
+1	-	-	PUNCT	_	_	2	punct	_	_
 2	Нёдондо	нёдондо	ADV	_	_	4	advmod	_	_
 3	алтанхан	алтанхан	ADJ	_	_	4	amod	_	_
 4	намарай	намар	NOUN	_	_	6	nmod	_	_
@@ -2305,7 +2305,7 @@
 7	Байгал	Байгал	PROPN	_	_	8	compound	_	_
 8	далаймни	далай	NOUN	_	_	2	conj	_	_
 9	намда	би	PRON	_	_	12	iobj	_	_
-10	хүсэ	хүсэ	NOUN	_	_	0	root	_	_
+10	хүсэ	хүсэ	NOUN	_	_	12	nmod	_	_
 11	зориг	зориг	NOUN	_	_	10	conj	_	_
 12	үгэдэг	үгэхэ	VERB	_	_	0	root	_	_
 13	.	.	PUNCT	_	_	12	punct	_	_

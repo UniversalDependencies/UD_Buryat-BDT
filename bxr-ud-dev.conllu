@@ -776,7 +776,7 @@
 11	арадуудай	арад	NOUN	_	_	12	nmod	_	_
 12	хубсаһа	хубсаһан	NOUN	_	_	3	conj	_	_
 13	шэмэг	шэмэг	NOUN	_	_	3	conj	_	_
-14	харуулан	харуулха	VERB	_	_	0	root	_	_
+14	харуулан	харуулха	VERB	_	_	25	advcl	_	_
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	дэлхэйн	дэлхэйн	NOUN	_	_	17	nmod	_	_
 17	арадуудай	арад	NOUN	_	_	18	nmod	_	_
@@ -1042,7 +1042,7 @@
 6	юм	юм	PART	_	_	4	discourse	_	_
 7	.	.	PUNCT	_	_	4	punct	_	_
 
-1	Булад	Булад	PROPN	_	_	0	root	_	_
+1	Булад	Булад	PROPN	_	_	11	nsubj	_	_
 2	Бэшүүрэй	Бэшүүра	PROPN	_	_	3	name	_	_
 3	аймагай	аймаг	NOUN	_	_	1	nmod	_	_
 4	хадаа	хадаа	ADV	_	_	7	advmod	_	_
@@ -1080,7 +1080,7 @@
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	Москвадашье	Москва	PROPN	_	_	11	nmod	_	_
 11	хатархаар	хатарха	VERB	_	_	12	acl	_	_
-12	бэлигтэй	бэлиг	NOUN	_	_	0	root	_	_
+12	бэлигтэй	бэлиг	NOUN	_	_	15	nmod	_	_
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	шадабаритай	шадабари	NOUN	_	_	15	nmod	_	_
 15	артистнар	артистнар	NOUN	_	_	16	nsubj	_	_
@@ -1098,7 +1098,7 @@
 6	уран	уран	ADJ	_	_	7	amod	_	_
 7	зурааша	зурааша	NOUN	_	_	8	compound	_	_
 8	–	–	PUNCT	_	_	9	compound	_	_
-9	найруулагша	найруулга	NOUN	_	_	0	root	_	_
+9	найруулагша	найруулга	NOUN	_	_	4	conj	_	_
 10	Солбон	Солбон	PROPN	_	_	11	name	_	_
 11	Дондокович	Дондокович	PROPN	_	_	12	name	_	_
 12	Лыгденов	Лыгденов	PROPN	_	_	17	nsubj	_	_
@@ -1544,7 +1544,7 @@
 17	үзэхэгүй	үзэхэ	VERB	_	_	19	xcomp	_	_
 18	юм	юм	PART	_	_	17	discourse	_	_
 19	биибди	бии	VERB	_	_	8	ccomp	_	_
-20	.	.	PUNCT	_	_	0	root	_	_
+20	.	.	PUNCT	_	_	19	punct	_	_
 
 1	Түрэл	түрэл	ADJ	_	_	2	amod	_	_
 2	хэлэн	хэлэн	NOUN	_	_	10	nsubjpass	_	_
@@ -1619,11 +1619,11 @@
 10	багшанар	багша	NOUN	_	_	11	nmod	_	_
 11	дайралдааб	дайраха	VERB	_	_	6	parataxis	_	_
 12	даа	даа	PART	_	_	11	discourse	_	_
-13	!	!	PUNCT	_	_	0	root	_	_
+13	!	!	PUNCT	_	_	6	punct	_	_
 14	Классическа	классическа	ADJ	_	_	15	amod	_	_
 15	танцын	танцы	NOUN	_	_	16	nmod	_	_
 16	багша	багша	NOUN	_	_	17	compound	_	_
-17	Баранов	Баранов	PROPN	_	_	0	root	_	_
+17	Баранов	Баранов	PROPN	_	_	6	parataxis	_	_
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	арадай	арадай	ADJ	_	_	20	amod	_	_
 20	хатарай	хатар	NOUN	_	_	21	nmod	_	_
@@ -1641,12 +1641,12 @@
 3	үедэнь	үе	NOUN	_	_	14	nmod	_	_
 4	СССР-эй	СССР	PROPN	_	_	6	nmod	_	_
 5	арадай	арадай	ADJ	_	_	6	amod	_	_
-6	артист	артист	NOUN	_	_	0	root	_	_
+6	артист	артист	NOUN	_	_	14	nsubj	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	суута	суута	ADJ	_	_	9	amod	_	_
 9	хатаршан	хатаршан	NOUN	_	_	11	compound	_	_
 10	Махмуд	Махмуд	PROPN	_	_	11	name	_	_
-11	Исимбаев	Исимбаев	PROPN	_	_	14	nsubj	_	_
+11	Исимбаев	Исимбаев	PROPN	_	_	6	appos	_	_
 12	гастрольдо	гастроли	NOUN	_	_	14	nmod	_	_
 13	Улаан-Үдэ	Улаан-Үдэ	PROPN	_	_	14	nmod	_	_
 14	ерэжэ	ерэхэ	VERB	_	_	0	root	_	_
@@ -1819,7 +1819,7 @@
 8	Мандухаев	Мандухаев	PROPN	_	_	5	appos	_	_
 9	байһан	байха	VERB	_	_	5	cop	_	_
 10	юм	юм	PART	_	_	9	discourse	_	_
-11	.	.	PUNCT	_	_	0	root	_	_
+11	.	.	PUNCT	_	_	5	punct	_	_
 
 1	Ехэ	ехэ	ADV	_	_	2	advmod	_	_
 2	шанга	шанга	ADJ	_	_	3	amod	_	_
@@ -1868,7 +1868,7 @@
 19	Азиин	Азии	PROPN	_	_	22	nmod	_	_
 20	ори	ори	ADV	_	_	21	advmod	_	_
 21	гансахан	гансахан	ADJ	_	_	22	amod	_	_
-22	музей	музей	NOUN	_	_	0	root	_	_
+22	музей	музей	NOUN	_	_	3	parataxis	_	_
 23	.	.	PUNCT	_	_	22	punct	_	_
 
 1	Хабсагайн	хабсагай	NOUN	_	_	2	nmod	_	_
@@ -1907,18 +1907,11 @@
 13	гээшэб	гээшэ	PART	_	_	12	discourse	_	_
 14	?	?	PUNCT	_	_	12	punct	_	_
 
-1	-	-	PUNCT	_	_	0	root	_	_
-2	Айл	айл	NOUN	_	_	3	nmod	_	_
-3	бүхэн	бүхы	NOUN	_	_	0	root	_	_
-4	элинсэгүүдэйнгээ	элинсэг	NOUN	_	_	0	root	_	_
-5	заншалаар	заншал	NOUN	_	_	0	root	_	_
-6	адууһа	адуулха	VERB	_	_	0	root	_	_
-
 1	Харин	харин	ADV	_	_	5	advmod	_	_
 2	хүдэлмэришэ	хүдэлмэришэ	ADJ	_	_	3	amod	_	_
 3	хүн	хүн	NOUN	_	_	5	nsubj	_	_
 4	хаанашье	хаанашье	ADV	_	_	5	advmod	_	_
-5	байбал	байха	VERB	_	_	0	root	_	_
+5	байбал	байха	VERB	_	_	15	parataxis	_	_
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ажалайнгаа	ажал	NOUN	_	_	8	nmod	_	_
 8	дүнгүүдээр	дүнг	NOUN	_	_	13	nmod	_	_
@@ -1987,7 +1980,7 @@
 1	Ёһоороо	ёһо	NOUN	_	_	6	nmod	_	_
 2	Баянгаза	Баянгаза	PROPN	_	_	3	compound	_	_
 3	нютаг	нютаг	NOUN	_	_	6	nsubj	_	_
-4	-	-	PUNCT	_	_	0	root	_	_
+4	-	-	PUNCT	_	_	3	punct	_	_
 5	аха	аха	NOUN	_	_	6	compound	_	_
 6	дүү	дүү	NOUN	_	_	0	root	_	_
 7	хоёр	хоёр	NUM	_	_	6	nummod	_	_
@@ -2129,7 +2122,7 @@
 15	сухарихагүй	сухариха	VERB	_	_	18	acl	_	_
 16	зориг	зориг	NOUN	_	_	17	nmod	_	_
 17	түгэлдэр	түгэлдэр	ADJ	_	_	18	amod	_	_
-18	баатарнуудаараа	баатар	NOUN	_	_	0	root	_	_
+18	баатарнуудаараа	баатар	NOUN	_	_	35	parataxis	_	_
 19	,	,	PUNCT	_	_	18	punct	_	_
 20	хурса	хурса	ADV	_	_	21	advmod	_	_
 21	ухаатай	ухаатай	ADJ	_	_	32	amod	_	_
