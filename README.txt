@@ -1,14 +1,12 @@
-Buryat data.
-
---- Machine-readable metadata ---
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
 Documentation status: stub
 Data source: manual
-Data available since: UD v2.0
+Data available since: UD v2.1
 License: CC BY-SA 4.0
 Genre: grammar-examples news fiction
 Contributors: Badmaeva, Elena; Tyers, Francis
-Contact:
----------------------------------
+Contact: ftyers@prompsit.com
+===============================================================================
 
 Changelog
 
