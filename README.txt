@@ -1,6 +1,6 @@
 # Summary
 
-The UD Buryat treebank was annotated manually natively in UD and contains grammar book sentences, along with 
+The UD Buryat treebank was annotated manually natively in UD and contains grammar book sentences, along with
 news and some fiction.
 
 # Introduction
@@ -8,12 +8,12 @@ news and some fiction.
 The treebank was annotated manually for part-of-speech, lemmas and dependency relations, and morphological
 features were added automatically using a finite-state transducer based on these.
 
-# Acknowledgments 
+# Acknowledgments
 
 If you use this treebank please cite:
 
 @inproceedings{badmaeva:2017,
-    author = {Elena Badmaeva and Francis M. Tyers}, 
+    author = {Elena Badmaeva and Francis M. Tyers},
     title = {Dependency Treebank for Buryat},
     booktitle = {Proceedings of the 15th International Workshop on Treebanks and Linguistic Theories (TLT15)},
     pages = {1--12},
@@ -33,8 +33,8 @@ Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples news fiction
-Lemmas: manual
-UPOS: manual
+Lemmas: manual native
+UPOS: manual native
 Features: automatic
 Relations: manual native
 Contributors: Badmaeva, Elena; Tyers, Francis
