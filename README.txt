@@ -39,6 +39,7 @@ Includes text: yes
 Genre: grammar-examples news fiction
 Lemmas: manual native
 UPOS: manual native
+XPOS: not available
 Features: automatic
 Relations: manual native
 Contributors: Badmaeva, Elena; Tyers, Francis
