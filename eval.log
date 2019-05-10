@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Buryat-BDT:
-commit a36b2ca1c4aa44c573c17cd2527611fd364de591
-Merge: d2da48e 80a2e1f
+commit 1b175a14fa309619e5a3c3ebe4b142dc2664e287
+Merge: f06103d 3060788
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 10185 of 10185 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.64183209935754.
