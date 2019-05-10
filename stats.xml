@@ -6,6 +6,9 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>927</sentences><tokens>10185</tokens><words>10185</words><fused>0</fused></total>
+    <train><sentences>19</sentences><tokens>153</tokens><words>153</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>908</sentences><tokens>10032</tokens><words>10032</words><fused>0</fused></test>
   </size>
   <lemmas unique="2465" /><!-- ., ,, бай, гэ, буряад, боло, би, хүн, -, нютаг, энэ, юм, хэлэн, тэрэ, « -->
   <forms unique="4108" /><!-- ., ,, гэжэ, буряад, -, юм, байгаа, «, », энэ, би, байна, ехэ, хүн, ? -->
