@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Buryat-BDT:
-commit 1b175a14fa309619e5a3c3ebe4b142dc2664e287
-Merge: f06103d 3060788
+commit 611dca093d2301ee3a2156d5977576db1d10febf
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:56:58 2019 +0200
 Size: counted 10185 of 10185 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.64183209935754.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,10 +23,32 @@ Udapi: found 907 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10185 words.
 Genres: found 3 out of 17 known.
 validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-test.conllu
-*** PASSED ***
+[Line 36 Sent bxr-ud3::3 Node 4]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (4:үлгөөтэй:fixed --> 5:байһан:fixed)
+[Line 37 Sent bxr-ud3::3 Node 5]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (5:байһан:fixed --> 6:шкаф:fixed)
+[Line 38 Sent bxr-ud3::3 Node 6]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (6:шкаф:fixed --> 7:сооһоонь:case)
+[Line 117 Sent bxr-ud3::11 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 131 Sent bxr-ud3::13 Node 1]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'NUM'
+[Line 197 Sent bxr-ud3::19 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'ADJ'
+[Line 215 Sent bxr-ud3::21 Node 4]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 228 Sent bxr-ud3::22 Node 9]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 227 Sent bxr-ud3::22 Node 9]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (9:байгаа:cop --> 8:гэжэ:discourse)
+...suppressing further errors regarding Syntax
+Syntax errors: 495
+*** FAILED *** with 495 errors
+Exit code: 1
 validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 65 Sent bxr-ud3::902 Node 1]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 66 Sent bxr-ud3::902 Node 2]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1]
+[Line 67 Sent bxr-ud3::902 Node 3]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+[Line 68 Sent bxr-ud3::902 Node 4]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3]
+[Line 69 Sent bxr-ud3::902 Node 5]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 70 Sent bxr-ud3::902 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3, 5]
+[Line 71 Sent bxr-ud3::902 Node 7]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+[Line 72 Sent bxr-ud3::902 Node 8]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3, 5, 7]
+Syntax errors: 8
+*** FAILED *** with 8 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
@@ -35,6 +57,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
 (weight=0.307692307692308) * (score{udapi}=0.10947471772214) = 0.0336845285298894
 (weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.397464166534653) * (availability=1) * (validity=1) = 0.397464166534653
-STARS = 2
-UD_Buryat-BDT	0.397464166534653	2
+(TOTAL score=0.397464166534653) * (availability=1) * (validity=0.01) = 0.00397464166534653
+STARS = 0
+UD_Buryat-BDT	0.00397464166534653	0
