@@ -63,13 +63,13 @@
 # sent_id = bxr-ud3::902
 # text = Мэри – хүрэл, Питер – мүнгэн, харин Джейн – алтан медаль тус тус абаба.
 1	Мэри	Мэри	PROPN	_	Case=Nom|Gender=Fem	10	orphan	_	_
-2	–	–	PUNCT	_	_	16	punct	_	_
+2	–	–	PUNCT	_	_	1	punct	_	_
 3	хүрэл	хүрэл	NOUN	_	Case=Nom	12	orphan	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	16	punct	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
 5	Питер	Питер	PROPN	_	Case=Nom|Gender=Masc	10	orphan	_	_
-6	–	–	PUNCT	_	_	16	punct	_	_
+6	–	–	PUNCT	_	_	5	punct	_	_
 7	мүнгэн	мүнгэн	NOUN	_	Case=Nom	12	orphan	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	16	punct	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
 9	харин	харин	CCONJ	_	_	16	cc	_	_
 10	Джейн	Джейн	PROPN	_	Case=Nom|Gender=Fem	16	nsubj	_	_
 11	–	–	PUNCT	_	_	10	punct	_	_
@@ -87,7 +87,7 @@
 3	томо	томо	ADJ	_	_	4	amod	_	_
 4	гүрэн	гүрэн	NOUN	_	Case=Nom	0	root	_	_
 5	гү	гү	PART	_	Number=Sing|Person=3	4	discourse	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	4	punct	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
 7	бага	бага	ADJ	_	_	4	amod	_	_
 8	гү	гү	PART	_	Number=Sing|Person=3	4	discourse	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	4	punct	_	_
@@ -96,7 +96,7 @@
 # text = Питер Смит, Мэри Браун хоёрой алииеньшье шэлэхын аргагүй байба.
 1	Питер	Питер	PROPN	_	Case=Nom|Gender=Masc	8	obj	_	_
 2	Смит	Смит	PROPN	_	Case=Nom	1	flat	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
 4	Мэри	Мэри	PROPN	_	Case=Nom|Gender=Fem	2	conj	_	_
 5	Браун	Браун	PROPN	_	Case=Nom	4	flat	_	_
 6	хоёрой	хоёрой	CCONJ	_	_	5	cc	_	_
@@ -136,7 +136,7 @@
 2	хүн	хүн	NOUN	_	Case=Nom	4	nsubj	_	_
 3	машина	машина	NOUN	_	Case=Nom	4	obj	_	_
 4	абаа	аба	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
+5	,	,	PUNCT	_	_	6	punct	_	_
 6	харин	харин	CCONJ	_	_	2	cc	_	_
 7	дүүнь	дүү	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
 8	оройдоол	оройдоол	ADV	_	_	10	advmod	_	_
@@ -162,7 +162,7 @@
 2	заһуулха	заһуул	VERB	_	_	0	root	_	_
 3	хүн	хүн	NOUN	_	Case=Nom	2	nsubj	_	_
 4	аад	аад	CCONJ	_	_	2	cc	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	_	_
+5	,	,	PUNCT	_	_	14	punct	_	_
 6	тэрэ	тэрэ	DET	_	PronType=Dem	7	det	_	_
 7	үдэр	үдэр	NOUN	_	Case=Nom	14	nmod	_	_
 8	юундэ	юундэ	ADV	_	PronType=Int	11	mark	_	_
