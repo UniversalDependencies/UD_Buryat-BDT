@@ -14,7 +14,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	аба	аба	NOUN	_	Case=Nom	7	nsubj	_	_
 6	кофе	кофе	NOUN	_	Case=Nom	7	obj	_	_
-7	шанажа	шана	VERB	_	VerbForm=Coverb	3	advcl	_	_
+7	шанажа	шана	VERB	_	VerbForm=Inf	3	advcl	_	_
 8	байгаа	бай	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -80,7 +80,7 @@
 1	«	«	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Путкинотко	Путкинотко	PROPN	_	Case=Nom	5	nmod	_	SpaceAfter=No
 3	»	»	PUNCT	_	_	2	punct	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	нэрэтэй	нэрэ	NOUN	_	Case=Com	6	amod	_	_
 6	ном	ном	NOUN	_	Case=Nom	10	nmod	_	_
 7	соо	соо	ADP	_	_	6	case	_	_
@@ -113,7 +113,7 @@
 2	соо	соо	ADP	_	_	1	case	_	_
 3	зарим	зарим	DET	_	PronType=Ind	4	det	_	_
 4	хубилалтанууд	хубилалта	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
-5	хэгдэжэ	хэ	VERB	_	VerbForm=Coverb	0	root	_	_
+5	хэгдэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 6	болохо	боло	VERB	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -154,9 +154,9 @@
 3	хэлээб	хэ	VERB	_	Mood=Des|Number=Sing|Person=1|Voice=Rcp	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	уһан	уһан	NOUN	_	Case=Nom	6	nsubj	_	_
-6	бусалжа	бусал	VERB	_	VerbForm=Coverb	3	ccomp	_	_
+6	бусалжа	бусал	VERB	_	VerbForm=Inf	3	ccomp	_	_
 7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	aux	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	SpaceAfter=No
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::16
@@ -195,7 +195,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	ерэхэ	ерэ	VERB	_	_	2	xcomp	_	_
 5	шадалтай	шадалтай	ADJ	_	_	4	aux	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	4	discourse	_	SpaceAfter=No
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::20
@@ -220,11 +220,11 @@
 1	Тэрэнэй	тэрэ	PRON	_	Case=Gen|PronType=Dem	2	det	_	_
 2	һэдэлгэнь	һэдэлгэ	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
-4	ошожо	ошо	VERB	_	VerbForm=Coverb	5	compound	_	_
+4	ошожо	ошо	VERB	_	VerbForm=Inf	5	compound	_	_
 5	зайгаа	зай	VERB	_	_	0	root	_	_
 6	һаа	һаа	PART	_	_	5	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	9	discourse	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
 9	байгаа	бай	VERB	_	_	5	cop	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -269,7 +269,7 @@
 1	Тогтоол	тогтоол	NOUN	_	Case=Nom	4	nsubj:pass	_	_
 2	ноябрь	ноябрь	NOUN	_	Case=Nom	3	nmod	_	_
 3	һарада	һара	NOUN	_	Case=Dat	4	nmod	_	_
-4	табигдаһаан	табигда	VERB	_	VerbForm=Coverb	0	root	_	_
+4	табигдаһаан	табигда	VERB	_	VerbForm=Inf	0	root	_	_
 5	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -321,7 +321,7 @@
 3	Энээхэн	энээхэн	DET	_	PronType=Dem	4	det	_	_
 4	юумэндэ	юумэн	NOUN	_	Case=Dat	7	nmod	_	_
 5	юун	юун	PRON	_	Case=Nom|PronType=Int	7	nsubj	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 7	хэлэхэбши	хэлэ	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin	0	root	_	_
 8	даа	даа	PART	_	_	7	discourse	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	7	punct	_	_
@@ -341,7 +341,7 @@
 # text = Энэшни юуншье гэжэ хэлээгүй.
 1	Энэшни	энэ	PRON	_	Case=Nom|PronType=Dem	4	nsubj	_	_
 2	юуншье	юун	PRON	_	Case=Nom|PronType=Int	4	obj	_	_
-3	гэжэ	гэ	VERB	_	VerbForm=Coverb	4	discourse	_	_
+3	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	_
 4	хэлээгүй	хэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Rcp	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -469,7 +469,7 @@
 6	ерэхэб	ерэ	VERB	_	Case=Nom|VerbForm=Ger	0	root	_	SpaceAfter=No
 7	»	»	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	6	punct	_	SpaceAfter=No
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	12	discourse	_	_
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	12	discourse	_	_
 10	эрэ	эрэ	DET	_	PronType=Dem	11	det	_	_
 11	хүн	хүн	NOUN	_	Case=Nom	12	nsubj	_	_
 12	хэлээ	хэ	VERB	_	Mood=Des|Number=Sing|Person=3|Voice=Rcp	6	parataxis	_	SpaceAfter=No
@@ -560,7 +560,7 @@
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	үүдэ	үүдэн	NOUN	_	Case=Nom	5	obj	_	_
 3	хамаг	хамаг	DET	_	PronType=Ind	2	det	_	_
-4	хаажа	хаа	VERB	_	VerbForm=Coverb	5	compound	_	_
+4	хаажа	хаа	VERB	_	VerbForm=Inf	5	compound	_	_
 5	орхеоб	орхи	VERB	_	_	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -619,7 +619,7 @@
 7	баһаашье	баһаа	ADV	_	_	10	advmod	_	_
 8	үүдэнэй	үүдэн	NOUN	_	Case=Gen	10	nmod	_	_
 9	хажууда	хажууда	ADP	_	_	8	case	_	_
-10	зогсожо	зогсо	VERB	_	VerbForm=Coverb	0	root	_	_
+10	зогсожо	зогсо	VERB	_	VerbForm=Inf	0	root	_	_
 11	байгаа	бай	AUX	_	_	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -668,7 +668,7 @@
 1	Пеккэ	Пекка	PROPN	_	Case=Nom|Gender=Masc	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	наашаа	наашаа	ADV	_	_	4	advmod	_	_
-4	дүтэлжэ	дүтэл	VERB	_	VerbForm=Coverb	0	root	_	_
+4	дүтэлжэ	дүтэл	VERB	_	VerbForm=Inf	0	root	_	_
 5	шадаха	шада	AUX	_	_	4	aux	_	_
 6	байгаа	бай	AUX	_	_	4	aux	_	_
 7	гү	гү	PART	_	Number=Sing|Person=3	4	discourse	_	SpaceAfter=No
@@ -861,7 +861,7 @@
 3	баар	баар	NOUN	_	Case=Nom	6	nmod	_	_
 4	соо	соо	ADP	_	_	3	case	_	_
 5	үүдэшэнөөр	үүдэшэн	NOUN	_	_	6	nmod	_	_
-6	ажалжа	ажал	VERB	_	VerbForm=Coverb	0	root	_	_
+6	ажалжа	ажал	VERB	_	VerbForm=Inf	0	root	_	_
 7	байгаа	бай	AUX	_	_	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -1037,7 +1037,7 @@
 1	Тэрэшни	тэрэ	PRON	_	Case=Nom|PronType=Dem	3	nsubj	_	_
 2	үдэшэндөө	үдэшэндөө	ADV	_	_	3	advmod	_	_
 3	ерэхэб	ерэ	VERB	_	Case=Nom|VerbForm=Ger	0	root	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	хэлээ	хэ	VERB	_	Mood=Des|Number=Sing|Person=3|Voice=Rcp	3	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -1206,7 +1206,7 @@
 2	нэгэ	нэгэ	NUM	_	NumType=Card	3	nummod	_	_
 3	нэгэниинь	нэгэн	PRON	_	_	5	nsubj	_	Morf=Unknown
 4	намда	би	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	iobj	_	_
-5	туһалсажа	туһалса	VERB	_	VerbForm=Coverb	0	root	_	_
+5	туһалсажа	туһалса	VERB	_	VerbForm=Inf	0	root	_	_
 6	шадаха	шада	AUX	_	_	5	aux	_	_
 7	байгаа	бай	AUX	_	_	5	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
@@ -1250,7 +1250,7 @@
 1	Сонхоор	сонхо	NOUN	_	_	4	nmod	_	_
 2	хүхэ	хүхэ	ADJ	_	_	3	amod	_	_
 3	юумэн	юумэн	NOUN	_	Case=Nom	4	nsubj	_	_
-4	харагдажа	харагда	VERB	_	VerbForm=Coverb	0	root	_	_
+4	харагдажа	харагда	VERB	_	VerbForm=Inf	0	root	_	_
 5	байгаа	бай	AUX	_	_	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -1270,7 +1270,7 @@
 1	Тэдэнэр	тэдэ	PRON	_	Case=Nom|Number=Plur|PronType=Dem	11	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	ном	ном	NOUN	_	Case=Nom	4	obj	_	_
-4	бэшэжэ	бэшэ	VERB	_	VerbForm=Coverb	6	acl	_	_
+4	бэшэжэ	бэшэ	VERB	_	VerbForm=Inf	6	acl	_	_
 5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
 6	зон	зон	NOUN	_	Case=Nom	1	acl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
@@ -1283,7 +1283,7 @@
 # sent_id = bxr-ud3::129
 # text = Терапи зууршалагдаһан байгаа тэрэ хүн зондо, хэн усалталгада орооб.
 1	Терапи	терапи	NOUN	_	Case=Nom	2	nsubj:pass	_	_
-2	зууршалагдаһан	зууршал	VERB	_	VerbForm=Coverb	0	root	_	_
+2	зууршалагдаһан	зууршал	VERB	_	VerbForm=Inf	0	root	_	_
 3	байгаа	бай	AUX	_	_	2	aux:pass	_	_
 4	тэрэ	тэрэ	DET	_	PronType=Dem	5	det	_	_
 5	хүн	хүн	NOUN	_	Case=Nom	6	nmod	_	_
@@ -1300,7 +1300,7 @@
 2	хойно	хойно	ADP	_	_	1	case	_	_
 3	хүхэ	хүхэ	ADJ	_	_	4	amod	_	_
 4	юумэн	юумэн	NOUN	_	Case=Nom	5	nsubj	_	_
-5	харагдажа	харагда	VERB	_	VerbForm=Coverb	0	root	_	_
+5	харагдажа	харагда	VERB	_	VerbForm=Inf	0	root	_	_
 6	байгаа	бай	AUX	_	_	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -1311,7 +1311,7 @@
 3	хүн	хүн	NOUN	_	Case=Nom	4	nmod	_	_
 4	зондо	зон	NOUN	_	Case=Dat	6	iobj	_	_
 5	терапи	терапи	NOUN	_	Case=Nom	6	nsubj:pass	_	_
-6	зууршалагдаһан	зууршал	VERB	_	VerbForm=Coverb	0	root	_	_
+6	зууршалагдаһан	зууршал	VERB	_	VerbForm=Inf	0	root	_	_
 7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	aux:pass	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -1679,7 +1679,7 @@
 2	энээхэндэ	энээхэн	PRON	_	Case=Dat|PronType=Dem	5	nmod	_	_
 3	газаа	газаа	ADP	_	_	5	xcomp	_	_
 4	гараад	гара	VERB	_	Mood=Des|Number=Plur|Person=3	3	fixed	_	_
-5	амаржа	амар	VERB	_	VerbForm=Coverb	0	root	_	_
+5	амаржа	амар	VERB	_	VerbForm=Inf	0	root	_	_
 6	ябаха	яба	VERB	_	_	5	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -1688,7 +1688,7 @@
 1	Сарюун	сарюун	ADV	_	_	4	nsubj	_	_
 2	газаа	газаа	ADP	_	_	4	advcl	_	_
 3	гараад	гара	VERB	_	Mood=Des|Number=Plur|Person=3	2	fixed	_	_
-4	амаржа	амар	VERB	_	VerbForm=Coverb	0	root	_	_
+4	амаржа	амар	VERB	_	VerbForm=Inf	0	root	_	_
 5	ябаха	яба	VERB	_	_	4	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -1698,9 +1698,9 @@
 2	һанаархалга	һанаархалга	NOUN	_	Case=Nom	5	nsubj	_	_
 3	газаа	газаа	ADP	_	_	5	advcl	_	_
 4	гараад	гара	VERB	_	Mood=Des|Number=Plur|Person=3	3	fixed	_	_
-5	амаржа	амар	VERB	_	VerbForm=Coverb	0	root	_	_
+5	амаржа	амар	VERB	_	VerbForm=Inf	0	root	_	_
 6	ябаха	яба	VERB	_	_	5	xcomp	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 8	байгаа	бай	VERB	_	_	5	cop	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -1709,7 +1709,7 @@
 1	Энэ	энэ	DET	_	PronType=Dem	2	det	_	_
 2	ажал	ажал	NOUN	_	Case=Nom	4	nsubj:pass	_	_
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
-4	хэгдэжэ	хэ	VERB	_	VerbForm=Coverb	0	root	_	_
+4	хэгдэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
 6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
@@ -1719,7 +1719,7 @@
 1	Матти	Матти	PROPN	_	Case=Nom|Gender=Masc	4	nsubj	_	_
 2	ажалаа	ажал	NOUN	_	Case=Nom|Reflex=Yes	4	obj	_	_
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
-4	хэжэ	хэ	VERB	_	VerbForm=Coverb	0	root	_	_
+4	хэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
 6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
@@ -1729,7 +1729,7 @@
 1	Энэ	энэ	DET	_	PronType=Dem	2	det	_	_
 2	ажал	ажал	NOUN	_	Case=Nom	4	nsubj:pass	_	_
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
-4	хэгдэжэ	хэ	VERB	_	VerbForm=Coverb	0	root	_	_
+4	хэгдэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
 6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
@@ -1846,14 +1846,14 @@
 # text = Би морожено эдижэ байгааб.
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	морожено	морожено	NOUN	_	Case=Nom	3	obj	_	_
-3	эдижэ	эди	VERB	_	VerbForm=Coverb	0	root	_	_
+3	эдижэ	эди	VERB	_	VerbForm=Inf	0	root	_	_
 4	байгааб	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::189
 # text = Бороо дуһаажа эхилээ һаань, би зосоо орохоб.
 1	Бороо	бороо	NOUN	_	Case=Nom	3	nsubj	_	_
-2	дуһаажа	дуһаа	VERB	_	VerbForm=Coverb	3	xcomp	_	_
+2	дуһаажа	дуһаа	VERB	_	VerbForm=Inf	3	xcomp	_	_
 3	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 4	һаань	һаань	PART	_	_	3	mark	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
@@ -1945,7 +1945,7 @@
 1	Өөһэнөө	өөһэн	PRON	_	Case=Acc|Reflex=Yes	3	obj	_	_
 2	хиртээнгүйгөөр	хиртээнгүйгөөр	ADV	_	_	3	advmod	_	_
 3	ябаарай	яба	VERB	_	Mood=Prsc|Number=Sing|Person=3	0	root	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	_
 5	эжынь	эжы	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
 6	хэлэбэ	хэлэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
@@ -2004,12 +2004,12 @@
 # text = Дошхон үреэ һургажа үзэе, дэлхэйн баялигые абажа ойлгое.
 1	Дошхон	дошхон	NOUN	_	Case=Nom	4	obj	_	_
 2	үреэ	үреэ	INTJ	_	_	4	discourse	_	_
-3	һургажа	һурга	VERB	_	VerbForm=Coverb	4	xcomp	_	_
+3	һургажа	һурга	VERB	_	VerbForm=Inf	4	xcomp	_	_
 4	үзэе	үзэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	дэлхэйн	дэлхэйн	NOUN	_	Case=Nom	9	obj	_	_
 7	баялигые	баялиг	NOUN	_	Case=Acc|Reflex=Yes	8	nmod	_	_
-8	абажа	аба	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	абажа	аба	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	ойлгое	ойлго	VERB	_	Mood=Des|Number=Sing|Person=3	4	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -2017,7 +2017,7 @@
 # text = Буладай хатууе туршажа үзэе, буряад нэрэеэ дээрэ үргэе.
 1	Буладай	булад	NOUN	_	Case=Gen	4	obj	_	_
 2	хатууе	хатуу	ADJ	_	Case=Acc	3	advmod	_	_
-3	туршажа	турша	VERB	_	VerbForm=Coverb	4	xcomp	_	_
+3	туршажа	турша	VERB	_	VerbForm=Inf	4	xcomp	_	_
 4	үзэе	үзэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	буряад	буряад	ADJ	_	_	7	amod	_	_
@@ -2127,12 +2127,12 @@
 1	Өөһэдөө	өөһэд	PRON	_	Case=Nom|Reflex=Yes	4	nsubj	_	_
 2	һургуулида	һургуули	NOUN	_	Case=Dat	4	nmod	_	_
 3	һайнааршье	һайнааршье	ADV	_	_	4	advmod	_	_
-4	һуража	һура	VERB	_	VerbForm=Coverb	0	root	_	_
+4	һуража	һура	VERB	_	VerbForm=Inf	0	root	_	_
 5	үрдеэгүй	үрдеэ	ADJ	_	_	4	aux	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	4	punct	_	_
 7	харин	харин	CCONJ	_	_	4	cc	_	_
 8	үхибүүдэй	үхибүүн	NOUN	_	Case=Gen|Number=Plur	9	obj	_	_
-9	һургажа	һурга	VERB	_	VerbForm=Coverb	4	conj	_	_
+9	һургажа	һурга	VERB	_	VerbForm=Inf	4	conj	_	_
 10	гаргаа	гарга	VERB	_	Mood=Des|Number=Sing|Person=3	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -2184,7 +2184,7 @@
 # text = Дармаевтанайнгаа уг һажаажа, һургуулияа амжалтатайгаар дүүргээ.
 1	Дармаевтанайнгаа	Дармаев	PROPN	_	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	2	nmod:own	_	_
 2	уг	уг	NOUN	_	Case=Nom	3	obj	_	_
-3	һажаажа	һажаа	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	һажаажа	һажаа	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	һургуулияа	һургуули	NOUN	_	Case=Nom|Reflex=Yes	7	nmod	_	_
 6	амжалтатайгаар	амжалтатайгаар	ADV	_	_	7	advmod	_	_
@@ -2215,7 +2215,7 @@
 # text = Тиигээд нютагаа бусажа ерээ юм.
 1	Тиигээд	тиигээд	ADP	_	_	4	case	_	_
 2	нютагаа	нютаг	NOUN	_	Case=Nom|Reflex=Yes	3	nmod	_	_
-3	бусажа	буса	VERB	_	VerbForm=Coverb	4	compound	_	_
+3	бусажа	буса	VERB	_	VerbForm=Inf	4	compound	_	_
 4	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	юм	юм	AUX	_	Evident=Fh	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
@@ -2286,7 +2286,7 @@
 4	дүшэн	дүшэн	NUM	_	NumType=Card	5	nummod	_	_
 5	наһанайнгаа	наһан	NOUN	_	Case=Gen|Reflex=Yes	6	nmod	_	_
 6	даба	даба	NOUN	_	Case=Nom	7	nmod	_	_
-7	дабажа	даба	VERB	_	VerbForm=Coverb	0	root	_	_
+7	дабажа	даба	VERB	_	VerbForm=Inf	0	root	_	_
 8	ябана	яба	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -2301,7 +2301,7 @@
 7	хэлэн	хэлэн	NOUN	_	Case=Nom	9	nmod	_	_
 8	дээрээ	дээрээ	ADP	_	_	7	case	_	_
 9	шүлэг	шүлэг	NOUN	_	Case=Nom	10	nmod	_	_
-10	бэшэжэ	бэшэ	VERB	_	VerbForm=Coverb	11	xcomp	_	_
+10	бэшэжэ	бэшэ	VERB	_	VerbForm=Inf	11	xcomp	_	_
 11	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	3	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -2399,7 +2399,7 @@
 2	бэеынгээ	бэеэ	PRON	_	_	4	nmod	_	Morf=Unknown
 3	түрэһэн	түрэһэн	ADJ	_	_	4	amod	_	_
 4	нютаг	нютаг	NOUN	_	Case=Nom	5	nmod	_	_
-5	ошожо	ошо	VERB	_	VerbForm=Coverb	7	xcomp	_	_
+5	ошожо	ошо	VERB	_	VerbForm=Inf	7	xcomp	_	_
 6	үзэе	үзэ	VERB	_	VerbForm=Ger	5	aux	_	_
 7	гэлсээбди	гэлсэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
@@ -2562,7 +2562,7 @@
 2	наринаар	наринаар	ADV	_	_	4	parataxis	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	нангинаар	нангинаар	ADV	_	_	5	advmod	_	_
-5	зураглажа	зурагла	VERB	_	VerbForm=Coverb	0	root	_	_
+5	зураглажа	зурагла	VERB	_	VerbForm=Inf	0	root	_	_
 6	шадана	шада	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -2577,7 +2577,7 @@
 # sent_id = bxr-ud3::256
 # text = Дали нэмэжэ дээшэн татааш.
 1	Дали	дали	NOUN	_	Case=Nom	2	obj	_	_
-2	нэмэжэ	нэмэ	VERB	_	VerbForm=Coverb	4	xcomp	_	_
+2	нэмэжэ	нэмэ	VERB	_	VerbForm=Inf	4	xcomp	_	_
 3	дээшэн	дээшэ	ADV	_	Number[psor]=Sing|Person[psor]=3	4	advmod	_	_
 4	татааш	тата	VERB	_	Mood=Des|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -2627,7 +2627,7 @@
 # text = Дуран халуун дүлөөр соробхилно.
 1	Дуран	дуран	NOUN	_	Case=Nom	3	nsubj	_	_
 2	халуун	халуун	ADV	_	_	3	advmod	_	_
-3	дүлөөр	дүлэтэ	VERB	_	VerbForm=Coverb	0	root	_	_
+3	дүлөөр	дүлэтэ	VERB	_	VerbForm=Inf	0	root	_	_
 4	соробхилно	соробхилно	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -2966,8 +2966,8 @@
 3	зузаан	зузаан	ADJ	_	_	4	amod	_	_
 4	дэбтэрнүүд	дэбтэр	NOUN	_	Case=Nom|Number=Plur	7	obj	_	_
 5	сонь	сонь	ADP	_	_	4	case	_	_
-6	шэлэжэ	шэлэ	VERB	_	VerbForm=Coverb	7	compound	_	_
-7	һунгажа	һунга	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+6	шэлэжэ	шэлэ	VERB	_	VerbForm=Inf	7	compound	_	_
+7	һунгажа	һунга	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	һуугаа	һуу	VERB	_	_	0	root	_	_
 9	бэзэ	бэзэ	PART	_	_	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
@@ -3047,7 +3047,7 @@
 3	Блогой	Блог	PROPN	_	Case=Gen	2	flat	_	_
 4	шүлэгэй	шүлэг	NOUN	_	Case=Gen	5	nmod	_	_
 5	шэнхинээн	шэнхинээн	NOUN	_	Case=Nom	6	nsubj	_	_
-6	зэдэлшэхэдэл	зэдэлшэ	VERB	_	VerbForm=Coverb	0	root	_	_
+6	зэдэлшэхэдэл	зэдэлшэ	VERB	_	VerbForm=Inf	0	root	_	_
 7	гэдэг	гэ	VERB	_	_	6	discourse	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -3067,7 +3067,7 @@
 2	юумэн	юумэн	NOUN	_	Case=Nom	6	nmod	_	_
 3	тээшэ	тээшэ	ADP	_	_	2	case	_	_
 4	хододоо	хододоо	ADV	_	_	6	advmod	_	_
-5	эрмэлзэжэ	эрмэлзэ	VERB	_	VerbForm=Coverb	6	compound	_	_
+5	эрмэлзэжэ	эрмэлзэ	VERB	_	VerbForm=Inf	6	compound	_	_
 6	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 7	юм	юм	AUX	_	Evident=Fh	6	discourse	_	_
 8	даа	даа	PART	_	_	6	discourse	_	SpaceAfter=No
@@ -3076,7 +3076,7 @@
 # sent_id = bxr-ud3::306
 # text = Хужар гэжэ нютагта үндын дээшээ хүн болоо.
 1	Хужар	Хужар	PROPN	_	Case=Nom	3	nmod	_	_
-2	гэжэ	гэ	VERB	_	VerbForm=Coverb	3	discourse	_	_
+2	гэжэ	гэ	VERB	_	VerbForm=Inf	3	discourse	_	_
 3	нютагта	нютаг	NOUN	_	Case=Dat	7	nmod	_	_
 4	үндын	үндын	NOUN	_	Case=Nom	6	nmod	_	_
 5	дээшээ	дээшээ	ADP	_	_	4	case	_	_
@@ -3187,7 +3187,7 @@
 # text = Аяга сай уужа һуха зуураа шүлэгүүдэй зохёохо аргатай.
 1	Аяга	аяга	NOUN	_	Case=Nom	2	nmod	_	_
 2	сай	сай	NOUN	_	Case=Nom	3	nmod	_	_
-3	уужа	уу	VERB	_	VerbForm=Coverb	4	xcomp	_	_
+3	уужа	уу	VERB	_	VerbForm=Inf	4	xcomp	_	_
 4	һуха	һуу	VERB	_	_	0	root	_	_
 5	зуураа	зуураа	ADJ	_	_	6	amod	_	_
 6	шүлэгүүдэй	шүлэг	NOUN	_	Case=Gen|Number=Plur	7	obj	_	_
@@ -3707,7 +3707,7 @@
 2	урда	урда	ADP	_	_	3	nmod	_	_
 3	сагта	саг	NOUN	_	Case=Dat	10	nmod	_	_
 4	Хоридой	Хоридой	PROPN	_	Case=Nom	5	compound	_	_
-5	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	compound	_	_
+5	гэжэ	гэ	VERB	_	VerbForm=Inf	6	compound	_	_
 6	нэрэтэй	нэрэ	NOUN	_	Case=Com	7	compound	_	_
 7	мэргэн	мэргэн	NOUN	_	Case=Nom	10	nsubj	_	_
 8	11	11	NUM	_	NumType=Card	9	nummod	_	_
@@ -3885,7 +3885,7 @@
 3	уласые	улас	NOUN	_	Case=Acc|Reflex=Yes	7	nsubj	_	_
 4	гадна	гадна	ADV	_	_	5	advmod	_	_
 5	добтолгоһоо	добтолго	NOUN	_	Case=Abl	7	nmod	_	_
-6	баталжа	батал	VERB	_	VerbForm=Coverb	7	compound	_	_
+6	баталжа	батал	VERB	_	VerbForm=Inf	7	compound	_	_
 7	хамгаалха	хамгаал	VERB	_	_	0	root	_	_
 8	үүргэтэй	үүргэ	NOUN	_	Case=Com	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
@@ -4098,7 +4098,7 @@
 11	»	»	PUNCT	_	_	10	punct	_	_
 12	театр	театр	NOUN	_	Case=Nom	10	flat	_	_
 13	ялас	ялас	NOUN	_	Case=Nom	15	amod	_	_
-14	гэмэ	гэ	VERB	_	VerbForm=Coverb	13	fixed	_	_
+14	гэмэ	гэ	VERB	_	VerbForm=Inf	13	fixed	_	_
 15	концерт	концерт	NOUN	_	Case=Nom	16	nmod	_	_
 16	наадаар	наадан	NOUN	_	_	20	iobj	_	_
 17	харагшадаа	харагша	NOUN	_	Case=Dat|Reflex=Yes	20	obj	_	_
@@ -4213,7 +4213,7 @@
 2	Бадлуевай	Бадлуев	PROPN	_	Case=Gen|Gender=Masc	1	flat	_	_
 3	һанаһан	һана	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
 4	проектые	проект	NOUN	_	Case=Acc	5	obj	_	_
-5	ойлгожо	ойлго	VERB	_	VerbForm=Coverb	29	advcl	_	SpaceAfter=No
+5	ойлгожо	ойлго	VERB	_	VerbForm=Inf	29	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	бэелүүлэлсэһэн	бэелүүлэлсэһэн	ADJ	_	_	11	amod	_	_
 8	Хойто	Хойто	PROPN	_	Case=Nom	10	compound	_	_
@@ -4304,9 +4304,9 @@
 19	зогсон	зогсо	VERB	_	_	12	parataxis	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	9	punct	_	_
 21	альгаа	альган	NOUN	_	Case=Nom|Reflex=Yes	22	obj	_	_
-22	ташажал	таша	VERB	_	VerbForm=Coverb	25	xcomp	_	SpaceAfter=No
+22	ташажал	таша	VERB	_	VerbForm=Inf	25	xcomp	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	9	punct	_	_
-24	ташажал	таша	VERB	_	VerbForm=Coverb	22	conj	_	_
+24	ташажал	таша	VERB	_	VerbForm=Inf	22	conj	_	_
 25	байгаа	бай	VERB	_	_	19	advcl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -4321,7 +4321,7 @@
 # text = Энэ юрэ суглуулагдаһан дуу, хатарай концерт наадан бэшэ, өөрын онсо удхатай бүридхэмэл проект болоно.
 1	Энэ	энэ	PRON	_	Case=Nom|PronType=Dem	8	nsubj	_	_
 2	юрэ	юрэ	ADV	_	_	3	advmod	_	_
-3	суглуулагдаһан	суглуулагдаха	VERB	_	VerbForm=Coverb	4	acl	_	_
+3	суглуулагдаһан	суглуулагдаха	VERB	_	VerbForm=Inf	4	acl	_	_
 4	дуу	дуу	NOUN	_	Case=Nom	7	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	хатарай	хатар	NOUN	_	Case=Gen	4	conj	_	_
@@ -4365,8 +4365,8 @@
 24	Энэдхэг	Энэдхэг	PROPN	_	Case=Nom	22	conj	_	_
 25	орон	орон	NOUN	_	Case=Nom	27	nmod	_	_
 26	хүрэтэр	хүрэтэр	ADP	_	_	25	case	_	_
-27	нэбтэрүүлэгдэн	нэбтэрүүлэгдэхэ	VERB	_	VerbForm=Coverb	28	xcomp	_	_
-28	шэнгэжэ	шэнгэ	VERB	_	VerbForm=Coverb	11	parataxis	_	SpaceAfter=No
+27	нэбтэрүүлэгдэн	нэбтэрүүлэгдэхэ	VERB	_	VerbForm=Inf	28	xcomp	_	_
+28	шэнгэжэ	шэнгэ	VERB	_	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	28	punct	_	_
 30	өөрын	өөрөө	PRON	_	Case=Gen|Reflex=Yes	31	det	_	_
 31	нүлөө	нүлөө	NOUN	_	Case=Nom	32	nsubj	_	_
@@ -4391,7 +4391,7 @@
 12	,	,	PUNCT	_	_	24	punct	_	_
 13	Афганай	Афган	PROPN	_	Case=Gen	14	nmod	_	_
 14	газарта	газар	NOUN	_	Case=Dat	15	nmod	_	_
-15	үлэшэһэн	үлэшэ	VERB	_	VerbForm=Coverb	16	acl	_	_
+15	үлэшэһэн	үлэшэ	VERB	_	VerbForm=Inf	16	acl	_	_
 16	хазар-монголшууд	хазар-монголшууд	NOUN	_	Case=Nom	7	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	24	punct	_	_
 18	уйгуурнууд	уйгуур	NOUN	_	Case=Nom|Number=Plur	7	conj	_	_
@@ -4433,7 +4433,7 @@
 22	мүр	мүр	NOUN	_	Case=Nom	23	compound	_	_
 23	сараа	сараа	NOUN	_	Case=Nom	24	obj	_	_
 24	гэршэлэн	гэршэлэ	VERB	_	_	25	xcomp	_	_
-25	харуулжа	харуул	VERB	_	VerbForm=Coverb	0	root	_	_
+25	харуулжа	харуул	VERB	_	VerbForm=Inf	0	root	_	_
 26	шадаа	шада	AUX	_	Mood=Des|Number=Sing|Person=3	25	aux	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	25	punct	_	_
 
@@ -4537,7 +4537,7 @@
 21	шалтагһаа	шалтаг	NOUN	_	Case=Abl	25	nmod	_	_
 22	энэ	энэ	DET	_	PronType=Dem	23	det	_	_
 23	концерт	концерт	NOUN	_	Case=Nom	25	nsubj	_	_
-24	боложо	боло	VERB	_	VerbForm=Coverb	25	xcomp	_	_
+24	боложо	боло	VERB	_	VerbForm=Inf	25	xcomp	_	_
 25	тодорбо	тодор	VERB	_	_	15	advcl	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	25	punct	_	_
 
@@ -4557,7 +4557,7 @@
 12	һонин	һонин	ADJ	_	_	13	amod	_	_
 13	үйлэ	үйлэ	NOUN	_	Case=Nom	14	compound	_	_
 14	хэрэгүүд	хэрэг	NOUN	_	Case=Nom|Number=Plur	15	nsubj	_	_
-15	тохёолдожо	тохёолдо	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+15	тохёолдожо	тохёолдо	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	бүхы	бүхы	ADV	_	_	18	det	_	_
 18	арадуудай	арад	NOUN	_	Case=Gen|Number=Plur	19	nmod	_	_
@@ -4602,7 +4602,7 @@
 15	заншал	заншал	NOUN	_	Case=Nom	13	conj	_	_
 16	али	али	CCONJ	_	_	19	advmod	_	_
 17	нэгэмнай	нэгэ	NUM	_	_	19	nsubj	_	Morf=Unknown
-18	сахижа	сахи	VERB	_	VerbForm=Coverb	19	xcomp	_	_
+18	сахижа	сахи	VERB	_	VerbForm=Inf	19	xcomp	_	_
 19	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	9	parataxis	_	_
 20	гү	гү	PART	_	Number=Sing|Person=3	19	discourse	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	6	punct	_	_
@@ -4612,11 +4612,11 @@
 25	гү	гү	PART	_	Number=Sing|Person=3	24	discourse	_	_
 26	гэһэн	гэһэн	ADV	_	_	24	discourse	_	_
 27	бодолоор	бодол	NOUN	_	_	28	nmod	_	_
-28	шэнжэлэн	шэнжэл	VERB	_	VerbForm=Coverb	29	xcomp	_	_
+28	шэнжэлэн	шэнжэл	VERB	_	VerbForm=Inf	29	xcomp	_	_
 29	үзэһэн	үзэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	parataxis	_	_
 30	байнаб	бай	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	29	aux	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	6	punct	_	_
-32	гэжэ	гэ	VERB	_	VerbForm=Coverb	35	discourse	_	_
+32	гэжэ	гэ	VERB	_	VerbForm=Inf	35	discourse	_	_
 33	Дандар	Дандар	PROPN	_	Case=Nom|Gender=Masc	35	nsubj	_	_
 34	Жапович	Жапович	PROPN	_	Case=Nom|Gender=Masc	33	flat	_	_
 35	хөөрэнэ	хөөрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	29	parataxis	_	SpaceAfter=No
@@ -4626,11 +4626,11 @@
 # text = Дандар Бадлуев зорижо, Хойто Энэдхэг аяншалан ошоһон байна.
 1	Дандар	Дандар	PROPN	_	Case=Nom|Gender=Masc	8	nsubj	_	_
 2	Бадлуев	Бадлуев	PROPN	_	Case=Nom|Gender=Masc	1	flat	_	_
-3	зорижо	зори	VERB	_	VerbForm=Coverb	8	xcomp	_	SpaceAfter=No
+3	зорижо	зори	VERB	_	VerbForm=Inf	8	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	Хойто	Хойто	PROPN	_	Case=Nom	7	nmod	_	_
 6	Энэдхэг	Энэдхэг	PROPN	_	Case=Nom	5	flat	_	_
-7	аяншалан	аяншал	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+7	аяншалан	аяншал	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	ошоһон	ошо	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
@@ -4659,7 +4659,7 @@
 4	Монголшуудай	Монголшууд	PROPN	_	Case=Gen|Number=Plur	6	nmod	_	_
 5	нэрэ	нэрэ	NOUN	_	Case=Nom	6	compound	_	_
 6	зэргэ	зэргэ	NOUN	_	Case=Nom	0	root	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	10	discourse	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	10	discourse	_	_
 8	толи	толи	NOUN	_	Case=Nom	10	nmod	_	_
 9	соо	соо	ADP	_	_	8	case	_	_
 10	тайлбарилаатай	тайлбарил	VERB	_	VerbForm=Ger	6	parataxis	_	SpaceAfter=No
@@ -4711,7 +4711,7 @@
 7	Алан-гуагай	Алан-гуагай	PROPN	_	Case=Nom	9	nmod	_	_
 8	зээ	зээ	NOUN	_	Case=Nom	9	compound	_	_
 9	хүбүүн	хүбүүн	NOUN	_	Case=Nom	1	fixed	_	_
-10	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	хэлсэдэг	хэлсэ	VERB	_	_	9	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -4751,7 +4751,7 @@
 6	ганса	ганса	ADV	_	_	9	advmod	_	_
 7	газар	газар	NOUN	_	Case=Nom	9	obj	_	_
 8	уһа	уһан	NOUN	_	Case=Nom	7	conj	_	_
-9	эзэмдэжэ	эзэмдэ	VERB	_	VerbForm=Coverb	10	xcomp	_	_
+9	эзэмдэжэ	эзэмдэ	VERB	_	VerbForm=Inf	10	xcomp	_	_
 10	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 11	бэшэ	бэшэ	ADV	_	_	10	advmod:neg	_	_
 12	харин	харин	ADP	_	_	10	parataxis	_	_
@@ -4796,7 +4796,7 @@
 18	түүхэтэ	түүхэтэй	ADJ	_	_	19	amod	_	_
 19	саг	саг	NOUN	_	Case=Nom	12	parataxis	_	_
 20	гээшэ	гээшэ	VERB	_	Mood=Imp|VerbForm=Fin	19	discourse	_	_
-21	гэжэ	гэ	VERB	_	VerbForm=Coverb	23	discourse	_	_
+21	гэжэ	гэ	VERB	_	VerbForm=Inf	23	discourse	_	_
 22	эрдэмтэд	эрдэмтэн	NOUN	_	Case=Nom|Number=Plur	23	nsubj	_	_
 23	тэмдэглэдэг	тэмдэглэ	VERB	_	_	19	parataxis	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	12	punct	_	_
@@ -4828,7 +4828,7 @@
 23	зүйлнүүд	зүйл	NOUN	_	Case=Nom|Number=Plur	14	parataxis	_	_
 24	гээшэ	гээшэ	VERB	_	Mood=Imp|VerbForm=Fin	23	discourse	_	SpaceAfter=No
 25	»	»	PUNCT	_	_	5	punct	_	_
-26	гэжэ	гэ	VERB	_	VerbForm=Coverb	27	discourse	_	_
+26	гэжэ	гэ	VERB	_	VerbForm=Inf	27	discourse	_	_
 27	тэмдэглээ	тэмдэглэ	VERB	_	VerbForm=Ger	23	parataxis	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -4867,7 +4867,7 @@
 31	үндэр	үндэр	ADJ	_	_	32	amod	_	_
 32	хэмжээнэй	хэмжээн	NOUN	_	Case=Gen	29	conj	_	_
 33	болоо	боло	VERB	_	Mood=Des|Number=Sing|Person=3	29	cop	_	_
-34	гэжэ	гэ	VERB	_	VerbForm=Coverb	35	discourse	_	_
+34	гэжэ	гэ	VERB	_	VerbForm=Inf	35	discourse	_	_
 35	бэшэгдэһэн	бэшэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	29	parataxis	_	_
 36	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	35	aux	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	20	punct	_	_
@@ -4901,7 +4901,7 @@
 9	театр	театр	NOUN	_	Case=Nom	5	nmod	_	_
 10	холбоо	холбоо	NOUN	_	Case=Nom	11	nmod	_	_
 11	харилсаа	харилсаан	NOUN	_	Case=Nom	12	nmod	_	_
-12	эрхилжэ	эрхил	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+12	эрхилжэ	эрхил	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	хани	хани	NOUN	_	Case=Nom	15	nmod	_	_
 15	барисаата	бариса	NOUN	_	Case=Dat	16	nmod	_	_
@@ -4930,7 +4930,7 @@
 10	ехэ	ехэ	ADV	_	_	11	amod	_	_
 11	проектын	проект	NOUN	_	Case=Gen	12	nmod	_	_
 12	эхин	эхин	NOUN	_	Case=Nom	13	nmod	_	_
-13	боложо	боло	VERB	_	VerbForm=Coverb	14	xcomp	_	_
+13	боложо	боло	VERB	_	VerbForm=Inf	14	xcomp	_	_
 14	үгэнэ	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
@@ -4985,9 +4985,9 @@
 # text = Эдэ бүгэдые үзэжэ, тааруулжа, ехэхэн ажал ябуулагдаа.
 1	Эдэ	эдэ	PRON	_	Case=Nom|Number=Plur|PronType=Dem	2	det	_	_
 2	бүгэдые	бүгэдэн	PRON	_	Case=Acc|PronType=Dem	3	obj	_	_
-3	үзэжэ	үзэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	үзэжэ	үзэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	тааруулжа	тааруул	VERB	_	VerbForm=Coverb	3	conj	_	SpaceAfter=No
+5	тааруулжа	тааруул	VERB	_	VerbForm=Inf	3	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ехэхэн	ехэ	ADJ	_	_	8	amod	_	_
 8	ажал	ажал	NOUN	_	Case=Nom	9	obj	_	_
@@ -5029,7 +5029,7 @@
 16	проект	проект	NOUN	_	Case=Nom	17	nmod	_	_
 17	бэлдэгшэд	бэлдэгшэд	NOUN	_	Case=Nom	19	nsubj	_	_
 18	харагшадтаа	харагша	NOUN	_	Case=Dat|Number=Plur|Reflex=Yes	19	obj	_	_
-19	ойлгуулжа	ойлгуул	VERB	_	VerbForm=Coverb	0	root	_	_
+19	ойлгуулжа	ойлгуул	VERB	_	VerbForm=Inf	0	root	_	_
 20	шадаа	шада	AUX	_	Mood=Des|Number=Sing|Person=3	19	aux	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
 
@@ -5042,10 +5042,10 @@
 5	Чингисхаан	Чингисхаан	PROPN	_	Case=Nom|Gender=Masc	4	flat	_	_
 6	газар	газар	NOUN	_	Case=Nom	7	nmod	_	_
 7	дэлхэй	дэлхэй	NOUN	_	Case=Nom	8	obj	_	_
-8	эзэмдэжэ	эзэмдэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+8	эзэмдэжэ	эзэмдэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	байдал	байдал	NOUN	_	Case=Nom	11	obj	_	_
-11	һандаргажа	һандарга	VERB	_	VerbForm=Coverb	12	xcomp	_	_
+11	һандаргажа	һандарга	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	8	advcl	_	_
 13	бэшэ	бэшэ	ADV	_	_	12	advmod:neg	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	8	punct	_	_
@@ -5056,11 +5056,11 @@
 19	,	,	PUNCT	_	_	8	punct	_	_
 20	соёл	соёл	NOUN	_	Case=Nom	18	conj	_	_
 21	заншал	заншал	NOUN	_	Case=Nom	18	conj	_	_
-22	хүгжөөжэ	хүгжөө	VERB	_	VerbForm=Coverb	15	fixed	_	SpaceAfter=No
+22	хүгжөөжэ	хүгжөө	VERB	_	VerbForm=Inf	15	fixed	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	8	punct	_	_
 24	онсо	онсо	ADJ	_	_	25	amod	_	_
 25	нүлөө	нүлөө	NOUN	_	Case=Nom	26	obj	_	_
-26	оруулжа	оруул	VERB	_	VerbForm=Coverb	22	conj	_	SpaceAfter=No
+26	оруулжа	оруул	VERB	_	VerbForm=Inf	22	conj	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	8	punct	_	_
 28	бүхы	бүхы	ADV	_	_	29	det	_	_
 29	арадуудые	арад	NOUN	_	Case=Acc|Number=Plur	30	obj	_	_
@@ -5111,9 +5111,9 @@
 8	арендэ	арендэ	NOUN	_	Case=Nom	4	parataxis	_	SpaceAfter=No
 9	-	-	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	түлбэри	түлбэри	NOUN	_	Case=Nom	11	obj	_	_
-11	хэжэ	хэ	VERB	_	VerbForm=Coverb	8	parataxis	_	SpaceAfter=No
+11	хэжэ	хэ	VERB	_	VerbForm=Inf	8	parataxis	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	4	punct	_	_
-13	ажаллажа	ажалла	VERB	_	VerbForm=Coverb	14	xcomp	_	_
+13	ажаллажа	ажалла	VERB	_	VerbForm=Inf	14	xcomp	_	_
 14	ябахадань	яба	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	8	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	4	punct	_	_
 16	хайшаа	хайшаа	ADV	_	_	14	advcl	_	_
@@ -5204,7 +5204,7 @@
 5	хэмжээнэй	хэмжээн	NOUN	_	Case=Gen	7	nmod	_	_
 6	хэдэн	хэдэн	DET	_	PronType=Ind	7	det	_	_
 7	харалга-наадануудта	харалга-наадануудта	NOUN	_	Case=Nom	8	nmod	_	_
-8	хабаадажа	хабаада	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+8	хабаадажа	хабаада	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	амжалта	амжалта	NOUN	_	Case=Nom	11	nmod	_	_
 11	туйлаһан	туйла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	advcl	_	SpaceAfter=No
@@ -5239,7 +5239,7 @@
 40	зүжэгүүдтэ	зүжэг	NOUN	_	Case=Dat|Number=Plur	19	conj	_	_
 41	гол	гол	NOUN	_	Case=Nom	42	amod	_	_
 42	парти	парти	NOUN	_	Case=Nom	43	obj	_	_
-43	гүйсэдхэжэ	гүйсэдхэ	VERB	_	VerbForm=Coverb	11	parataxis	_	SpaceAfter=No
+43	гүйсэдхэжэ	гүйсэдхэ	VERB	_	VerbForm=Inf	11	parataxis	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	8	punct	_	_
 45	харагшадай	харагша	NOUN	_	Case=Gen|Number=Plur	48	obj	_	_
 46	үндэр	үндэр	ADJ	_	_	47	amod	_	_
@@ -5311,7 +5311,7 @@
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 3	балет	балет	NOUN	_	Case=Nom	6	nmod	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	_
 5	юумэ	юумэн	NOUN	_	Case=Nom	6	nmod	_	_
 6	мэдэхэгүй	мэдэ	VERB	_	Mood=Ind|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
@@ -5327,7 +5327,7 @@
 17	харахаш	хара	VERB	_	Case=Nom|VerbForm=Ger	10	conj	_	_
 18	гэхэдэнь	гэ	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	6	parataxis	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	18	punct	_	_
-20	мэхэлэгдээд	мэхэлэгдэхэ	VERB	_	VerbForm=Coverb	21	xcomp	_	_
+20	мэхэлэгдээд	мэхэлэгдэхэ	VERB	_	VerbForm=Inf	21	xcomp	_	_
 21	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
 22	хүм	хүн	PART	_	Number=Sing|Person=1	21	discourse	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	6	punct	_	_
@@ -5343,7 +5343,7 @@
 7	һуралсалай	һуралсал	NOUN	_	Case=Gen	8	nmod	_	_
 8	программа	программа	NOUN	_	Case=Nom	9	nsubj	_	_
 9	ондоо	ондо	ADJ	_	_	4	parataxis	_	_
-10	байжа	бай	VERB	_	VerbForm=Coverb	9	cop	_	SpaceAfter=No
+10	байжа	бай	VERB	_	VerbForm=Inf	9	cop	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	29	punct	_	_
 12	нютагайнгаа	нютаг	NOUN	_	Case=Gen|Reflex=Yes	13	nmod	_	_
 13	һургуулиин	һургуули	NOUN	_	Case=Gen	15	nmod	_	_
@@ -5354,7 +5354,7 @@
 18	,	,	PUNCT	_	_	29	punct	_	_
 19	нэгэ	нэгэ	NUM	_	NumType=Card	20	nummod	_	_
 20	класс	класс	NOUN	_	Case=Nom	21	nmod	_	_
-21	алгадажа	алгада	VERB	_	VerbForm=Coverb	16	parataxis	_	SpaceAfter=No
+21	алгадажа	алгада	VERB	_	VerbForm=Inf	16	parataxis	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	29	punct	_	_
 23	одоо	одоо	ADV	_	_	31	advmod	_	_
 24	ганса	ганса	ADV	_	_	31	advmod	_	_
@@ -5363,7 +5363,7 @@
 27	”	”	PUNCT	_	_	26	punct	_	_
 28	гэһэн	гэһэн	ADV	_	_	29	discourse	_	_
 29	сэгнэлтэнүүдые	сэгнэлтэ	NOUN	_	Case=Acc|Number=Plur	0	root	_	_
-30	абажа	аба	VERB	_	VerbForm=Coverb	31	xcomp	_	_
+30	абажа	аба	VERB	_	VerbForm=Inf	31	xcomp	_	_
 31	эхилээб	эхил	VERB	_	Mood=Des|Number=Sing|Person=1	21	parataxis	_	SpaceAfter=No
 32	.	.	PUNCT	_	_	29	punct	_	_
 
@@ -5371,7 +5371,7 @@
 # text = Тиигэһээр тэрэмни мэдэгдэжэ, Лариса Иннокентьевна намда математика, ород хэлэ һайнаар үзүүлжэ, үетэнөө хүсэһэн байгааб, - гэжэ Булад хөөрэнэ.
 1	Тиигэһээр	тиигэһээр	ADV	_	_	3	advmod	_	_
 2	тэрэмни	тэрэ	PRON	_	Case=Nom|PronType=Dem	3	nmod	_	_
-3	мэдэгдэжэ	мэдэгдэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	мэдэгдэжэ	мэдэгдэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	Лариса	Лариса	PROPN	_	Case=Nom|Gender=Fem	13	nsubj	_	_
 6	Иннокентьевна	Иннокентьевич	PROPN	_	Case=Nom|Gender=Fem	5	flat	_	_
@@ -5381,14 +5381,14 @@
 10	ород	ород	ADJ	_	_	11	amod	_	_
 11	хэлэ	хэлэн	NOUN	_	Case=Nom	8	conj	_	_
 12	һайнаар	һайнаар	ADV	_	_	13	advmod	_	_
-13	үзүүлжэ	үзүүл	VERB	_	VerbForm=Coverb	3	parataxis	_	SpaceAfter=No
+13	үзүүлжэ	үзүүл	VERB	_	VerbForm=Inf	3	parataxis	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	үетэнөө	үетэн	NOUN	_	Case=Nom|Reflex=Yes	16	obj	_	_
 16	хүсэһэн	хүсэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	parataxis	_	_
 17	байгааб	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	16	aux	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	3	punct	_	_
 19	-	-	PUNCT	_	_	3	punct	_	_
-20	гэжэ	гэ	VERB	_	VerbForm=Coverb	22	discourse	_	_
+20	гэжэ	гэ	VERB	_	VerbForm=Inf	22	discourse	_	_
 21	Булад	Булад	PROPN	_	Case=Nom|Gender=Masc	22	nsubj	_	_
 22	хөөрэнэ	хөөрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	16	parataxis	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	_
@@ -5420,7 +5420,7 @@
 17	угаараа	уг	NOUN	_	Reflex=Yes	18	nmod	_	_
 18	дамжуулһан	дамжуул	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl	_	_
 19	бэлиг	бэлиг	NOUN	_	Case=Nom	14	conj	_	_
-20	гэжэ	гэ	VERB	_	VerbForm=Coverb	21	discourse	_	_
+20	гэжэ	гэ	VERB	_	VerbForm=Inf	21	discourse	_	_
 21	байдаг	бай	VERB	_	_	8	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	21	punct	_	_
 
@@ -5431,7 +5431,7 @@
 3	аха	аха	NOUN	_	Case=Nom	7	nmod	_	_
 4	Раднаев	Раднаев	PROPN	_	Case=Nom|Gender=Masc	3	appos	_	_
 5	Еши	Еши	PROPN	_	Case=Nom|Gender=Masc	4	flat	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 7	абгань	абга	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	16	nsubj	_	_
 8	1940	1940	NUM	_	NumType=Card	9	nummod	_	_
 9	ондо	он	NOUN	_	Case=Dat	12	nmod	_	_
@@ -5441,7 +5441,7 @@
 13	буряад	буряад	ADJ	_	_	14	amod	_	_
 14	соёлой	соёл	NOUN	_	Case=Gen	15	nmod	_	_
 15	декадада	декада	NOUN	_	Case=Dat	16	nmod	_	_
-16	хабаадажа	хабаада	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+16	хабаадажа	хабаада	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	бөө	бөө	NOUN	_	Case=Nom	19	compound	_	_
 19	удаганай	удаган	NOUN	_	Case=Gen	20	nmod	_	_
@@ -5544,13 +5544,13 @@
 7	болоходоо	боло	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	11	acl	_	_
 8	ядахагүйб	ядаха	ADJ	_	_	7	aux	_	SpaceAfter=No
 9	”	”	PUNCT	_	_	11	punct	_	_
-10	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	шүлэг	шүлэг	NOUN	_	Case=Nom	12	obj	_	_
 12	уншадаг	унша	VERB	_	_	0	root	_	_
 13	һэм	һэм	AUX	_	Number=Sing|Person=3	12	discourse	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	_
 15	-	-	PUNCT	_	_	12	punct	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	18	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
 17	Булад	Булад	PROPN	_	Case=Nom|Gender=Masc	18	nsubj	_	_
 18	энеэнэ	энеэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	12	parataxis	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
@@ -5579,7 +5579,7 @@
 10	хотын	хотын	ADJ	_	_	11	amod	_	_
 11	хүүгэдтэй	хүүгэн	NOUN	_	Case=Com|Number=Plur	13	nmod	_	_
 12	адлихан	адлихан	ADJ	_	_	14	advmod	_	_
-13	һуража	һура	VERB	_	VerbForm=Coverb	14	xcomp	_	_
+13	һуража	һура	VERB	_	VerbForm=Inf	14	xcomp	_	_
 14	эхилхэдээ	эхил	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	8	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	ород	ород	ADJ	_	_	17	amod	_	_
@@ -5593,7 +5593,7 @@
 # sent_id = bxr-ud3::472
 # text = Юумэ хэлэжэ ядаха, буряадаар хэлэхэеэ эшэхэ, тиимэһээ бэеэ абанги, дуугай ябаха.
 1	Юумэ	юумэн	NOUN	_	Case=Nom	2	nmod	_	_
-2	хэлэжэ	хэлэ	VERB	_	VerbForm=Coverb	3	xcomp	_	_
+2	хэлэжэ	хэлэ	VERB	_	VerbForm=Inf	3	xcomp	_	_
 3	ядаха	яда	AUX	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	буряадаар	буряадаар	ADV	_	_	6	advmod	_	_
@@ -5626,7 +5626,7 @@
 4	хадаа	хадаа	ADV	_	_	7	advmod	_	_
 5	ород	ород	ADJ	_	_	6	amod	_	_
 6	арадтаяа	арад	NOUN	_	Case=Dat	7	nmod	_	_
-7	харилсажа	харилса	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+7	харилсажа	харилса	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	һураһан	һура	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
 9	ород	ород	ADJ	_	_	10	amod	_	_
 10	хэлэндэ	хэлэн	NOUN	_	Case=Dat	11	nmod	_	_
@@ -5671,7 +5671,7 @@
 16	ерэгты	ерэ	VERB	_	VerbForm=Ger	12	parataxis	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	6	punct	_	_
 18	-	-	PUNCT	_	_	6	punct	_	_
-19	гэжэ	гэ	VERB	_	VerbForm=Coverb	21	discourse	_	_
+19	гэжэ	гэ	VERB	_	VerbForm=Inf	21	discourse	_	_
 20	Булад	Булад	PROPN	_	Case=Nom|Gender=Masc	21	nsubj	_	_
 21	уряална	уряал	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	16	parataxis	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	_
@@ -5734,7 +5734,7 @@
 1	Морихиро	Морихиро	PROPN	_	Case=Nom	3	compound	_	_
 2	Ивато	Ивато	PROPN	_	Case=Nom|Gender=Masc	1	flat	_	_
 3	балетмейстер	балетмейстер	NOUN	_	Case=Nom	5	nsubj	_	_
-4	найруулан	найруул	VERB	_	VerbForm=Coverb	5	xcomp	_	_
+4	найруулан	найруул	VERB	_	VerbForm=Inf	5	xcomp	_	_
 5	табяа	табилха	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -5750,7 +5750,7 @@
 8	гэһэн	гэһэн	ADV	_	_	9	discourse	_	_
 9	бүлэгэй	бүлэг	NOUN	_	Case=Gen	10	nmod	_	_
 10	репетиторнүүд	репетитор	NOUN	_	Case=Nom|Number=Plur	12	nsubj	_	_
-11	ерэжэ	ерэ	VERB	_	VerbForm=Coverb	12	xcomp	_	_
+11	ерэжэ	ерэ	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	табилсаа	табилха	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -5795,7 +5795,7 @@
 15	артистнар	артистнар	NOUN	_	Case=Nom	16	nsubj	_	_
 16	байнат	бай	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Aor|VerbForm=Fin	19	parataxis	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	16	punct	_	_
-18	гэжэ	гэ	VERB	_	VerbForm=Coverb	19	discourse	_	_
+18	гэжэ	гэ	VERB	_	VerbForm=Inf	19	discourse	_	_
 19	магтаа	магта	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
 
@@ -5815,7 +5815,7 @@
 12	хүсэлтэйбди	хүсэ	VERB	_	_	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	-	-	PUNCT	_	_	12	punct	_	_
-15	гэжэ	гэ	VERB	_	VerbForm=Coverb	17	discourse	_	_
+15	гэжэ	гэ	VERB	_	VerbForm=Inf	17	discourse	_	_
 16	Булад	Булад	PROPN	_	Case=Nom|Gender=Masc	17	nsubj	_	_
 17	хубаалдаба	хубаалда	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	12	parataxis	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
@@ -5831,7 +5831,7 @@
 7	наһанайнгаа	наһан	NOUN	_	Case=Gen|Reflex=Yes	8	nmod	_	_
 8	амаралтада	амаралта	NOUN	_	Case=Dat	9	nmod	_	_
 9	гарахаб	гара	VERB	_	Case=Nom|VerbForm=Ger	5	advcl	_	_
-10	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	мэдүүлбэ	мэдүүл	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -5857,7 +5857,7 @@
 2	наһанһаа	наһан	NOUN	_	Case=Abl	5	nmod	_	_
 3	тайзан	тайзан	NOUN	_	Case=Nom	5	nmod	_	_
 4	дээрэ	дээрэ	ADP	_	_	3	case	_	_
-5	хатаржа	хатар	VERB	_	VerbForm=Coverb	6	xcomp	_	_
+5	хатаржа	хатар	VERB	_	VerbForm=Inf	6	xcomp	_	_
 6	эхилһэн	эхил	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl	_	_
 7	Булад	Булад	PROPN	_	Case=Nom|Gender=Masc	11	nsubj	_	_
 8	10	10	NUM	_	NumType=Card	9	nummod	_	_
@@ -5868,7 +5868,7 @@
 13	дахин	дахин	ADV	_	_	14	advmod	_	_
 14	хатархаяа	хатар	VERB	_	Case=Acc|VerbForm=Ger	15	xcomp	_	_
 15	һанашадагби	һана	VERB	_	VerbForm=Ger	11	advcl	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	17	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	17	discourse	_	_
 17	хөөрэнэ	хөөрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	15	parataxis	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -5905,7 +5905,7 @@
 6	абатайм	аба	NOUN	_	Case=Com	9	nmod	_	_
 7	намайе	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	9	nmod	_	_
 8	ехэ	ехэ	ADV	_	_	9	advmod	_	_
-9	хүлеэжэ	хүлеэ	VERB	_	VerbForm=Coverb	0	root	_	_
+9	хүлеэжэ	хүлеэ	VERB	_	VerbForm=Inf	0	root	_	_
 10	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	9	aux	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	-	-	PUNCT	_	_	9	punct	_	_
@@ -5982,7 +5982,7 @@
 17	бүлэдэ	бүлэ	NOUN	_	Case=Dat	20	nmod	_	_
 18	одхон	одхон	ADJ	_	_	19	amod	_	_
 19	үринь	үри	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	20	nmod	_	_
-20	боложо	боло	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+20	боложо	боло	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	20	punct	_	_
 22	1971	1971	NUM	_	NumType=Card	23	nummod	_	_
 23	оной	он	NOUN	_	Case=Gen	24	nmod	_	_
@@ -6000,18 +6000,18 @@
 4	тоонто	тоонто	NOUN	_	Case=Nom	5	amod	_	_
 5	нютагтаа	нютаг	NOUN	_	Case=Dat|Reflex=Yes	7	nmod	_	_
 6	хүлөө	хүл	NOUN	_	Case=Nom|Reflex=Yes	7	nmod	_	_
-7	шоройдожо	шоройдо	VERB	_	VerbForm=Coverb	19	xcomp	_	SpaceAfter=No
+7	шоройдожо	шоройдо	VERB	_	VerbForm=Inf	19	xcomp	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	арюун	арюун	NOUN	_	Case=Nom	11	amod	_	_
 10	сэбэр	сэбэр	ADV	_	_	11	amod	_	_
 11	агаараарнь	агаар	NOUN	_	Number[psor]=Sing|Person[psor]=3	12	nmod	_	_
-12	амилжа	амил	VERB	_	VerbForm=Coverb	7	conj	_	SpaceAfter=No
+12	амилжа	амил	VERB	_	VerbForm=Inf	7	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	19	punct	_	_
 14	эм	эм	NOUN	_	Case=Nom	15	compound	_	_
 15	домто	дом	NOUN	_	Case=Dat	17	nmod	_	_
 16	аршаан	аршаан	NOUN	_	Case=Nom	17	amod	_	_
 17	булагһаань	булаг	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	18	nmod	_	_
-18	ундалжа	ундал	VERB	_	VerbForm=Coverb	12	conj	_	_
+18	ундалжа	ундал	VERB	_	VerbForm=Inf	12	conj	_	_
 19	үндыһэн	үнды	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 20	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
@@ -6032,7 +6032,7 @@
 12	уран	уран	ADJ	_	_	14	amod	_	_
 13	һайханай-графическа	һайханай-графическа	ADJ	_	_	14	amod	_	_
 14	отделенидэ	отделени	NOUN	_	Case=Dat	15	nmod	_	_
-15	орожо	оро	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+15	орожо	оро	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	тэрэнээ	тэрэ	PRON	_	_	20	obj	_	Morf=Unknown
 18	1991	1991	NUM	_	NumType=Card	19	nummod	_	_
@@ -6083,7 +6083,7 @@
 6	бэлиг	бэлиг	NOUN	_	Case=Nom	7	nmod	_	_
 7	талаантай	талаан	NOUN	_	Case=Com	8	nmod	_	_
 8	хүбүүе	хүбүүн	NOUN	_	Case=Acc	9	obj	_	_
-9	урижа	ури	VERB	_	VerbForm=Coverb	16	advcl	_	SpaceAfter=No
+9	урижа	ури	VERB	_	VerbForm=Inf	16	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	уран	уран	ADJ	_	_	12	amod	_	_
 12	зурааша	зурааша	NOUN	_	Case=Nom	13	compound	_	_
@@ -6105,7 +6105,7 @@
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	компьютерна	компьютерна	ADJ	_	_	9	amod	_	_
 9	графика	графика	NOUN	_	Case=Nom	10	obj	_	_
-10	хэрэглэжэ	хэрэглэ	VERB	_	VerbForm=Coverb	11	xcomp	_	_
+10	хэрэглэжэ	хэрэглэ	VERB	_	VerbForm=Inf	11	xcomp	_	_
 11	хүдэлдэг	хүдэл	VERB	_	_	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	2	punct	_	_
 13	өөрынгөө	өөрөө	PRON	_	Case=Gen|Reflex=Yes	15	det	_	_
@@ -6165,7 +6165,7 @@
 12	уран	уран	ADJ	_	_	14	amod	_	_
 13	һайханай	һайхан	ADJ	_	_	14	amod	_	_
 14	кинодо	кино	NOUN	_	Case=Dat	15	nmod	_	_
-15	хабаадалсаһан	хабаада	VERB	_	VerbForm=Coverb	7	advcl	_	_
+15	хабаадалсаһан	хабаада	VERB	_	VerbForm=Inf	7	advcl	_	_
 16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -6196,7 +6196,7 @@
 3	Сибириин	Сибирь	PROPN	_	Case=Gen	2	flat	_	_
 4	технологическа	технологическа	NOUN	_	Case=Nom	5	nmod	_	_
 5	университет	университет	NOUN	_	Case=Nom	6	obj	_	_
-6	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+6	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	инженер–биотехнологой	инженер-биотехнологой	NOUN	_	Case=Nom	9	nmod	_	_
 9	мэргэжэлтэй	мэргэжэлтэй	ADJ	_	_	10	nmod	_	_
@@ -6245,7 +6245,7 @@
 11	басагадынь	басаган	NOUN	_	Case=Gen|Number=Plur	13	nsubj	_	_
 12	баһал	баһа	ADV	_	_	13	advmod	_	_
 13	һажаанхай	һажаа	VERB	_	_	7	parataxis	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 15	тэмдэглэмээр	тэмдэглэ	VERB	_	_	13	aux	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -6278,7 +6278,7 @@
 6	режиссёрнуудтай	режиссёр	NOUN	_	Case=Com|Number=Plur	9	nmod	_	_
 7	суг	суг	ADV	_	_	8	advmod	_	_
 8	хамта	хамта	ADV	_	_	9	advmod	_	_
-9	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+9	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	мэдээжэ	мэдээжэ	ADJ	_	_	16	amod	_	_
 12	«	«	PUNCT	_	_	13	punct	_	SpaceAfter=No
@@ -6306,7 +6306,7 @@
 34	ба	ба	CCONJ	_	_	16	cc	_	_
 35	бусадшье	бусадшье	DET	_	PronType=Ind	36	det	_	_
 36	проектнүүдые	проект	NOUN	_	Case=Acc|Number=Plur	16	conj	_	_
-37	бэелүүлсэһэн	бэелүүл	VERB	_	VerbForm=Coverb	38	acl	_	_
+37	бэелүүлсэһэн	бэелүүл	VERB	_	VerbForm=Inf	38	acl	_	_
 38	габьяатай	габьяа	NOUN	_	Case=Com	9	parataxis	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	38	punct	_	_
 
@@ -6314,7 +6314,7 @@
 # text = Бэлиг талаангаа мүлижэ, хари гүрэнэй «Код Апокалипсиса», «Миссия невыполнима-4» ба бусад кинофильмнүүдтэ хүдэлхэ азатай байһан юм.
 1	Бэлиг	бэлиг	NOUN	_	Case=Nom	2	nmod	_	_
 2	талаангаа	талаан	NOUN	_	Case=Nom|Reflex=Yes	3	nmod	_	_
-3	мүлижэ	мүли	VERB	_	VerbForm=Coverb	23	advcl	_	SpaceAfter=No
+3	мүлижэ	мүли	VERB	_	VerbForm=Inf	23	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	хари	хари	VERB	_	Mood=Imp|VerbForm=Fin	6	amod	_	_
 6	гүрэнэй	гүрэнэй	NOUN	_	Case=Nom	9	nmod	_	_
@@ -6388,7 +6388,7 @@
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	соёл	соёл	NOUN	_	Case=Nom	14	compound	_	_
 14	болбосоролдо	болбосорол	NOUN	_	Case=Dat	15	nmod	_	_
-15	хабаатай	хабаада	VERB	_	VerbForm=Coverb	16	acl	_	_
+15	хабаатай	хабаада	VERB	_	VerbForm=Inf	16	acl	_	_
 16	хүнүүд	хүн	NOUN	_	Case=Nom|Number=Plur	11	conj	_	_
 17	онсо	онсо	ADJ	_	_	18	amod	_	_
 18	анхаралаа	анхарал	NOUN	_	Case=Nom|Reflex=Yes	19	obj	_	_
@@ -6409,7 +6409,7 @@
 10	Тайна	тайна	NOUN	_	Case=Nom	14	compound	_	_
 11	Чингисхана	Чингисхан	PROPN	_	Case=Gen|Gender=Masc	10	flat	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	11	punct	_	_
-13	гэжэ	гэ	VERB	_	VerbForm=Coverb	14	discourse	_	_
+13	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 14	кинодо	кино	NOUN	_	Case=Dat	17	nmod	_	_
 15	уран	уран	ADJ	_	_	16	amod	_	_
 16	зурааша-найруулагшаар	зурааша-найруулагшаар	NOUN	_	Case=Nom	17	nmod	_	_
@@ -6425,7 +6425,7 @@
 4	гүрэндэ	гүрэн	NOUN	_	Case=Dat	7	nmod	_	_
 5	һайн	һайн	ADJ	_	_	6	amod	_	_
 6	дураараа	дураараа	NOUN	_	Case=Nom	7	nmod	_	_
-7	хамжан	хам	VERB	_	VerbForm=Coverb	8	acl	_	_
+7	хамжан	хам	VERB	_	VerbForm=Inf	8	acl	_	_
 8	ороһоор	оро	VERB	_	_	11	nmod	_	_
 9	350	350	NUM	_	NumType=Card	10	nummod	_	_
 10	жэлэй	жэл	NOUN	_	Case=Gen	11	nmod	_	_
@@ -6462,7 +6462,7 @@
 11	буулгаха	буулга	VERB	_	_	12	acl	_	_
 12	хүсэлөө	хүсэл	NOUN	_	Case=Nom|Reflex=Yes	13	obj	_	_
 13	бэелүүлхэ	бэелүүл	VERB	_	_	0	root	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 15	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	Булаг	Булаг	PROPN	_	Case=Nom|Gender=Masc	19	compound	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	16	punct	_	_
@@ -6473,7 +6473,7 @@
 22	оной	он	NOUN	_	Case=Gen	24	nmod	_	_
 23	январь	январь	NOUN	_	Case=Nom	24	compound	_	_
 24	һарада	һара	NOUN	_	Case=Dat	25	nmod	_	_
-25	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	13	parataxis	_	_
+25	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	13	parataxis	_	_
 26	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	25	aux	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -6490,7 +6490,7 @@
 9	,	,	PUNCT	_	_	12	punct	_	_
 10	Захааминай	Захаамин	PROPN	_	Case=Gen	8	conj	_	_
 11	аймагуудта	аймаг	NOUN	_	Case=Dat|Number=Plur	6	conj	_	_
-12	буулгажа	буулга	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+12	буулгажа	буулга	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	6	6	NUM	_	NumType=Card	15	nummod	_	_
 15	һарын	һара	NOUN	_	Case=Gen	16	nmod	_	_
@@ -6613,7 +6613,7 @@
 16	бүлэгтэеэ	бүлэгтэ	NOUN	_	Case=Acc	19	nmod	_	_
 17	саашань	сааша	ADV	_	Number[psor]=Sing|Person[psor]=3	19	advmod	_	_
 18	эршэтэйгээр	эршэтэйгээр	ADV	_	_	19	advmod	_	_
-19	хүдэлмэрилжэ	хүдэлмэрил	VERB	_	VerbForm=Coverb	0	root	_	_
+19	хүдэлмэрилжэ	хүдэлмэрил	VERB	_	VerbForm=Inf	0	root	_	_
 20	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	19	aux	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
 
@@ -6649,7 +6649,7 @@
 17	туһалдаг	туһал	VERB	_	_	0	root	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	дэмжэдэг	дэмжэ	VERB	_	_	17	conj	_	_
-20	гэжэ	гэ	VERB	_	VerbForm=Coverb	17	discourse	_	_
+20	гэжэ	гэ	VERB	_	VerbForm=Inf	17	discourse	_	_
 21	тэрэ	тэрэ	PRON	_	Case=Nom|PronType=Dem	27	nsubj	_	_
 22	Интернедтэ	интернет	NOUN	_	Case=Dat|Number=Plur	27	nmod	_	_
 23	өөрынгөө	өөрөө	PRON	_	Case=Gen|Reflex=Yes	24	det	_	_
@@ -6703,10 +6703,10 @@
 4	гүнзэгы	гүнзэгы	ADV	_	_	5	amod	_	_
 5	удхатай	удха	NOUN	_	Case=Com	6	nmod	_	_
 6	фильмнүүдые	фильм	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
-7	буулгажа	буулга	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+7	буулгажа	буулга	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	харагшадаа	харагша	NOUN	_	Case=Dat|Reflex=Yes	10	obj	_	_
-10	хужарлуулыт	хужарла	VERB	_	VerbForm=Coverb	7	advcl	_	_
+10	хужарлуулыт	хужарла	VERB	_	VerbForm=Inf	7	advcl	_	_
 11	гэхэ	гэ	VERB	_	_	12	discourse	_	_
 12	байнаб	бай	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	_
@@ -6849,7 +6849,7 @@
 11	»	»	PUNCT	_	_	10	punct	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	9	punct	_	_
 13	-	-	PUNCT	_	_	9	punct	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	18	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
 15	Валентина	Валентина	PROPN	_	Case=Nom|Gender=Fem	18	nsubj	_	_
 16	Лочиновна	Лочинович	PROPN	_	Case=Nom|Gender=Fem	15	flat	_	_
 17	ходо	ходо	ADV	_	_	18	advmod	_	_
@@ -6951,7 +6951,7 @@
 4	команда	команда	NOUN	_	Case=Nom	8	nsubj	_	_
 5	оло	олон	ADJ	_	_	6	amod	_	_
 6	дахин	даха	NOUN	_	Case=Gen	7	nmod	_	_
-7	илажа	ила	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+7	илажа	ила	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	гараһан	гара	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
@@ -7036,7 +7036,7 @@
 9	хүбүүн	хүбүүн	NOUN	_	Case=Nom	13	nsubj	_	_
 10	1	1	NUM	_	NumType=Card	11	nummod	_	_
 11	баллаар	бал	NOUN	_	_	12	nmod	_	_
-12	шүүжэ	шүү	VERB	_	VerbForm=Coverb	13	xcomp	_	_
+12	шүүжэ	шүү	VERB	_	VerbForm=Inf	13	xcomp	_	_
 13	ябаба	яба	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -7048,7 +7048,7 @@
 4	Иванов	Иванов	PROPN	_	Case=Nom|Gender=Masc	7	nsubj	_	_
 5	шиидхэхы	шиидхэхы	ADJ	_	_	6	amod	_	_
 6	арга	арга	NOUN	_	Case=Nom	7	obj	_	_
-7	хэжэ	хэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+7	хэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	диилээ	диилэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
 10	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	9	aux	_	SpaceAfter=No
@@ -7070,7 +7070,7 @@
 12	болохо	боло	VERB	_	_	13	acl	_	_
 13	аргатай	аргатай	NOUN	_	Case=Nom	14	nmod	_	_
 14	байна	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
-15	гэжэ	гэ	VERB	_	VerbForm=Coverb	14	discourse	_	_
+15	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 16	Валерий	Валерий	PROPN	_	Case=Nom|Gender=Masc	18	nsubj	_	_
 17	Николаевич	Николаевич	PROPN	_	Case=Nom|Gender=Masc	16	flat	_	_
 18	ойлгоходоо	ойлго	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	14	parataxis	_	SpaceAfter=No
@@ -7096,7 +7096,7 @@
 4	Ивановой	Иванов	PROPN	_	Case=Gen|Gender=Masc	3	flat	_	_
 5	бүлэгтэ	бүлэг	NOUN	_	Case=Dat	6	nmod	_	_
 6	һорилго	һорилго	NOUN	_	Case=Nom	7	obj	_	_
-7	хэжэ	хэ	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+7	хэжэ	хэ	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	захалба	захал	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -7130,8 +7130,8 @@
 26	,	,	PUNCT	_	_	25	punct	_	_
 27	шадабари	шадабари	NOUN	_	Case=Nom	28	nmod	_	_
 28	мэргэжэлые	мэргэжэл	NOUN	_	Case=Acc|Reflex=Yes	25	conj	_	_
-29	хараада	хара	VERB	_	VerbForm=Coverb	30	xcomp	_	_
-30	абажа	аба	VERB	_	VerbForm=Coverb	18	parataxis	_	SpaceAfter=No
+29	хараада	хара	VERB	_	VerbForm=Inf	30	xcomp	_	_
+30	абажа	аба	VERB	_	VerbForm=Inf	18	parataxis	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	6	punct	_	_
 32	ажалдаа	ажал	NOUN	_	Case=Dat|Reflex=Yes	35	nmod	_	_
 33	зохёохы	зохёохы	ADJ	_	_	34	advmod	_	_
@@ -7223,7 +7223,7 @@
 7	хэлэ	хэлэн	NOUN	_	Case=Nom	8	obj	_	_
 8	мэдэхэ	мэдэ	VERB	_	_	9	acl	_	_
 9	шадабаряараа	шадабари	NOUN	_	_	10	iobj	_	Morf=Unknown
-10	мүрысэжэ	мүрысэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+10	мүрысэжэ	мүрысэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	түрүү	түрүүн	ADJ	_	_	13	amod	_	_
 13	шалгаран	шалгаран	NOUN	_	Case=Nom	15	nsubj:pass	_	_
@@ -7279,7 +7279,7 @@
 18	һургуулиин	һургуули	NOUN	_	Case=Gen	19	nmod	_	_
 19	багшанарһаа	багша	NOUN	_	Case=Abl|Number=Plur	20	iobj	_	_
 20	дулдыдана	дулдыда	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	13	parataxis	_	_
-21	гэжэ	гэ	VERB	_	VerbForm=Coverb	22	discourse	_	_
+21	гэжэ	гэ	VERB	_	VerbForm=Inf	22	discourse	_	_
 22	хэлсэдэг	хэлсэ	VERB	_	_	0	root	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	22	punct	_	_
 
@@ -7292,15 +7292,15 @@
 5	хүдөө	хүдөө	NOUN	_	Case=Nom	3	conj	_	_
 6	һургуулинуудай	һургуули	NOUN	_	Case=Gen|Number=Plur	7	nmod	_	_
 7	багшанартай	багша	NOUN	_	Case=Com|Number=Plur	8	obj	_	_
-8	уулзажа	уулза	VERB	_	VerbForm=Coverb	17	advcl	_	SpaceAfter=No
+8	уулзажа	уулза	VERB	_	VerbForm=Inf	17	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Coverb	8	conj	_	SpaceAfter=No
+10	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Inf	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
 12	багшанарай	багша	NOUN	_	Case=Gen|Number=Plur	13	nmod	_	_
 13	һанамжа	һанамжа	NOUN	_	Case=Nom	17	obj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	дурадхалнууд	дурадхал	NOUN	_	Case=Nom|Number=Plur	13	parataxis	_	_
-16	мэдэжэ	мэдэ	VERB	_	VerbForm=Coverb	17	compound	_	_
+16	мэдэжэ	мэдэ	VERB	_	VerbForm=Inf	17	compound	_	_
 17	абабабди	аба	VERB	_	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_
 
@@ -7360,7 +7360,7 @@
 8	хэлсэдэг	хэлсэ	VERB	_	_	9	acl	_	_
 9	зон	зон	NOUN	_	Case=Nom	12	obj	_	_
 10	үсөөн	үсөөн	ADV	_	_	12	advmod	_	_
-11	гэжэ	гэ	VERB	_	VerbForm=Coverb	12	discourse	_	_
+11	гэжэ	гэ	VERB	_	VerbForm=Inf	12	discourse	_	_
 12	мэдэрнэбди	мэдэр	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -7432,7 +7432,7 @@
 3	минии	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	det	_	_
 4	һурагшад	һурагша	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 5	аймагтаа	аймаг	NOUN	_	Case=Dat|Reflex=Yes	6	nmod	_	_
-6	түрүүлжэ	түрүүл	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+6	түрүүлжэ	түрүүл	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	республикын	республика	NOUN	_	Case=Gen	9	nmod	_	_
 9	олимпиадада	олимпиадада	NOUN	_	Case=Nom	10	nmod	_	_
@@ -7557,7 +7557,7 @@
 2	соогоо	соогоо	ADP	_	_	1	case	_	_
 3	үндэһэн	үндэһэн	NOUN	_	Case=Nom	4	amod	_	_
 4	һургуули	һургуули	NOUN	_	Case=Nom	6	nsubj	_	_
-5	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	_
+5	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	_
 6	тоологдодог	тоологдо	VERB	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -7567,7 +7567,7 @@
 2	хэлэ	хэлэн	NOUN	_	Case=Nom	10	nsubj:pass	_	_
 3	түрэл	түрэл	ADJ	_	_	4	amod	_	_
 4	хэлэн	хэлэн	NOUN	_	Case=Nom	10	nmod	_	_
-5	гэжэ	гэ	VERB	_	VerbForm=Coverb	10	discourse	_	_
+5	гэжэ	гэ	VERB	_	VerbForm=Inf	10	discourse	_	_
 6	аймагтамнай	аймаг	NOUN	_	Case=Dat	10	nmod	_	_
 7	оройдоол	оройдоол	ADV	_	_	10	advmod	_	_
 8	4	4	NUM	_	NumType=Card	9	nummod	_	_
@@ -7605,7 +7605,7 @@
 12	хэлэеэ	хэлэн	NOUN	_	Case=Nom|Reflex=Yes	16	obj	_	_
 13	түрэл	түрэл	ADJ	_	_	14	amod	_	_
 14	хэлэн	хэлэн	NOUN	_	Case=Nom	16	nmod	_	_
-15	гэжэ	гэ	VERB	_	VerbForm=Coverb	16	discourse	_	_
+15	гэжэ	гэ	VERB	_	VerbForm=Inf	16	discourse	_	_
 16	шудалхаар	шудал	VERB	_	_	27	advcl	_	_
 17	аргатай	аргатай	NOUN	_	Case=Nom	16	aux	_	_
 18	аад	аад	CCONJ	_	_	16	advmod	_	SpaceAfter=No
@@ -7616,7 +7616,7 @@
 23	хотын	хотын	ADJ	_	_	24	amod	_	_
 24	һургуулинуудтай	һургуули	NOUN	_	Case=Com|Number=Plur	26	nmod	_	_
 25	адлихан	адлихан	ADJ	_	_	26	advmod	_	_
-26	үзэдэгынь	үзэдэ	VERB	_	VerbForm=Coverb	27	xcomp	_	_
+26	үзэдэгынь	үзэдэ	VERB	_	VerbForm=Inf	27	xcomp	_	_
 27	гайхалтай	гайхалтай	ADJ	_	_	0	root	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	27	punct	_	_
 
@@ -7711,7 +7711,7 @@
 1	Ород	ород	ADJ	_	_	3	amod	_	_
 2	буряад	буряад	ADJ	_	_	1	conj	_	_
 3	хэлые	хэлэн	NOUN	_	Case=Acc	4	obj	_	_
-4	холижо	холи	VERB	_	VerbForm=Coverb	9	advcl	_	SpaceAfter=No
+4	холижо	холи	VERB	_	VerbForm=Inf	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	хэшээлээ	хэшээл	NOUN	_	Case=Nom|Reflex=Yes	7	obj	_	_
 7	үнгэргэхэ	үнгэргэ	VERB	_	_	9	xcomp	_	_
@@ -7891,7 +7891,7 @@
 2	литературын	литература	NOUN	_	Case=Gen	3	nmod	_	_
 3	номууд	ном	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 4	хуушаранхай	хуушар	VERB	_	_	0	root	_	_
-5	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	_
+5	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	_
 6	һананагүйб	һана	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -7904,7 +7904,7 @@
 5	бусад	бусад	DET	_	PronType=Ind	6	det	_	_
 6	классигуудай	классиг	NOUN	_	Case=Gen|Number=Plur	1	conj	_	_
 7	зохёолнуудые	зохёол	NOUN	_	Case=Acc|Number=Plur	8	obj	_	_
-8	шудалжал	шудал	VERB	_	VerbForm=Coverb	0	root	_	_
+8	шудалжал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 9	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	8	aux	_	_
 10	ха	ха	PART	_	_	8	discourse	_	_
 11	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
@@ -7923,7 +7923,7 @@
 1	Буряад	буряад	ADJ	_	_	2	amod	_	_
 2	хэлэнэй	хэлэн	NOUN	_	Case=Gen	3	nmod	_	_
 3	баялиг	баялиг	NOUN	_	Case=Nom	4	obj	_	_
-4	шудалагдажал	шудал	VERB	_	VerbForm=Coverb	0	root	_	_
+4	шудалагдажал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 5	бай	бай	AUX	_	Mood=Imp|VerbForm=Fin	4	aux	_	_
 6	ёһотой	ёһотой	ADV	_	_	4	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
@@ -7947,7 +7947,7 @@
 7	түрэл	түрэл	ADJ	_	_	12	amod	_	_
 8	ба	ба	CCONJ	_	_	7	cc	_	_
 9	гүрэнэй	гүрэнэй	NOUN	_	Case=Nom	7	conj	_	_
-10	гэжэ	гэ	VERB	_	VerbForm=Coverb	15	discourse	_	_
+10	гэжэ	гэ	VERB	_	VerbForm=Inf	15	discourse	_	_
 11	хуубааһан	хуу	ADJ	_	_	12	amod	_	_
 12	ушар	ушар	NOUN	_	Case=Nom	14	nmod	_	_
 13	ямар	ямар	DET	_	PronType=Int	14	det	_	_
@@ -7965,17 +7965,17 @@
 4	туршада	турша	NOUN	_	Case=Dat	7	nmod	_	_
 5	буряад	буряад	ADJ	_	_	6	amod	_	_
 6	хэлэеэ	хэлэн	NOUN	_	Case=Nom|Reflex=Yes	7	obj	_	_
-7	шудалжал	шудал	VERB	_	VerbForm=Coverb	0	root	_	_
+7	шудалжал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 8	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 9	аад	аад	CCONJ	_	_	7	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	гэнтэ	гэнтэ	ADV	_	_	17	advmod	_	_
 12	гүрэнэй	гүрэнэй	NOUN	_	Case=Nom	13	amod	_	_
 13	хэлэн	хэлэн	NOUN	_	Case=Nom	15	nmod	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	16	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	16	discourse	_	_
 15	программа	программа	NOUN	_	Case=Nom	16	obj	_	_
 16	шэлэн	шэлэ	VERB	_	_	17	xcomp	_	_
-17	абалга	аба	VERB	_	VerbForm=Coverb	18	csubj	_	_
+17	абалга	аба	VERB	_	VerbForm=Inf	18	csubj	_	_
 18	гайхалтай	гайхалтай	ADJ	_	_	7	parataxis	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 
@@ -8015,7 +8015,7 @@
 4	арад	арад	NOUN	_	Case=Nom	5	csubj	_	_
 5	арад	арад	NOUN	_	Case=Nom	0	root	_	_
 6	бэшэ	бэшэ	ADV	_	_	5	advmod:neg	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 8	сэсэн	сэсэн	ADJ	_	_	9	amod	_	_
 9	үгые	үгы	NOUN	_	Case=Nom|Reflex=Yes	11	obj	_	_
 10	эндэ	эндэ	ADV	_	_	11	advmod	_	_
@@ -8097,13 +8097,13 @@
 # sent_id = bxr-ud3::612
 # text = Хэншье заажа үгөө бэшэ, юрэ өөрөө мэдэржэ, зохёоһон хатараа гүйсэдхэнэ.
 1	Хэншье	хэншье	PRON	_	_	3	nsubj	_	Morf=Unknown
-2	заажа	заа	VERB	_	VerbForm=Coverb	3	xcomp	_	_
+2	заажа	заа	VERB	_	VerbForm=Inf	3	xcomp	_	_
 3	үгөө	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
 4	бэшэ	бэшэ	ADV	_	_	3	discourse	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	3	punct	_	_
 6	юрэ	юрэ	ADV	_	_	8	advmod	_	_
 7	өөрөө	өөрөө	PRON	_	Case=Nom|Reflex=Yes	8	nsubj	_	_
-8	мэдэржэ	мэдэр	VERB	_	VerbForm=Coverb	12	advcl	_	SpaceAfter=No
+8	мэдэржэ	мэдэр	VERB	_	VerbForm=Inf	12	advcl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	зохёоһон	зохёоһон	ADJ	_	_	11	amod	_	_
 11	хатараа	хатар	NOUN	_	Case=Nom|Reflex=Yes	12	obj	_	_
@@ -8131,7 +8131,7 @@
 5	доро	доро	ADV	_	_	6	advmod	_	_
 6	дохин	дохи	VERB	_	_	10	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
-8	гүйжэ	гүй	VERB	_	VerbForm=Coverb	10	compound	_	_
+8	гүйжэ	гүй	VERB	_	VerbForm=Inf	10	compound	_	_
 9	газаашаа	газар	NOUN	_	_	10	nmod	_	Morf=Unknown
 10	гарашаба	гара	VERB	_	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
@@ -8146,8 +8146,8 @@
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	хатарша	хатар	VERB	_	_	5	conj	_	Morf=Unknown
 8	зон	зон	NOUN	_	Case=Nom	0	root	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	10	discourse	_	_
-10	мэдээжэ	мэдээ	VERB	_	VerbForm=Coverb	8	parataxis	_	SpaceAfter=No
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	10	discourse	_	_
+10	мэдээжэ	мэдээ	VERB	_	VerbForm=Inf	8	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::616
@@ -8201,13 +8201,13 @@
 2	басагаханай	басагахан	NOUN	_	Case=Gen	1	appos	_	_
 3	дунда	дунда	ADJ	_	_	4	amod	_	_
 4	классуудта	класс	NOUN	_	Case=Dat|Number=Plur	5	nmod	_	_
-5	һуража	һура	VERB	_	VerbForm=Coverb	0	root	_	_
+5	һуража	һура	VERB	_	VerbForm=Inf	0	root	_	_
 6	байхада	бай	AUX	_	Case=Dat|VerbForm=Ger	5	aux	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	нютагайнь	нютаг	NOUN	_	Case=Gen|Number[psor]=Sing|Person[psor]=3	10	nmod	_	_
 9	Вера	Вера	PROPN	_	Case=Nom|Gender=Masc	14	nsubj	_	_
 10	Ракшаева	Ракшаев	PROPN	_	Case=Nom|Gender=Fem	9	flat	_	_
-11	гэжэ	гэ	VERB	_	VerbForm=Coverb	12	discourse	_	_
+11	гэжэ	гэ	VERB	_	VerbForm=Inf	12	discourse	_	_
 12	басаган	басаган	NOUN	_	Case=Nom	10	appos	_	_
 13	дуу	дуу	NOUN	_	Case=Nom	14	obj	_	_
 14	дууладаг	дуула	VERB	_	_	5	parataxis	_	SpaceAfter=No
@@ -8227,19 +8227,19 @@
 # text = 10-дахи класс дүүргэжэ байһан Вера доогуур һураһан Цыпелмаае обёоржо хараад, өөрынгөө гүйсэдхэдэг хатарнуудые заажа үгөө бэлэй.
 1	10-дахи	10	NUM	_	NumType=Card	2	nummod	_	_
 2	класс	класс	NOUN	_	Case=Nom	3	obj	_	_
-3	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Coverb	5	acl	_	_
+3	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Inf	5	acl	_	_
 4	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux	_	_
 5	Вера	Вера	PROPN	_	Case=Nom|Gender=Masc	9	nsubj	_	_
 6	доогуур	доогуур	ADV	_	_	7	advmod	_	_
 7	һураһан	һура	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl	_	_
 8	Цыпелмаае	Цыпелма	PROPN	_	Case=Acc|Gender=Fem	9	obj	_	_
-9	обёоржо	обёор	VERB	_	VerbForm=Coverb	0	root	_	_
+9	обёоржо	обёор	VERB	_	VerbForm=Inf	0	root	_	_
 10	хараад	хара	VERB	_	Mood=Des|Number=Plur|Person=3	9	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	9	punct	_	_
 12	өөрынгөө	өөрөө	PRON	_	Case=Gen|Reflex=Yes	14	det	_	_
 13	гүйсэдхэдэг	гүйсэдхэ	VERB	_	_	14	amod	_	_
 14	хатарнуудые	хатар	NOUN	_	Case=Acc|Number=Plur	15	obj	_	_
-15	заажа	заа	VERB	_	VerbForm=Coverb	9	conj	_	_
+15	заажа	заа	VERB	_	VerbForm=Inf	9	conj	_	_
 16	үгөө	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	15	advcl	_	_
 17	бэлэй	бэлэй	VERB	_	Mood=Imp|VerbForm=Fin	15	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	9	punct	_	_
@@ -8247,7 +8247,7 @@
 # sent_id = bxr-ud3::620
 # text = Тэрээнһээ эхилжэ, Цыпелма Жаргалова (Шаланова) һургуулиингаа хатарай багша мэтэ басагадта заажа, өөрөөшье хатаржа эхилээ һэн.
 1	Тэрээнһээ	тэрэ	PRON	_	Case=Abl|PronType=Dem	2	nmod	_	_
-2	эхилжэ	эхил	VERB	_	VerbForm=Coverb	18	advcl	_	SpaceAfter=No
+2	эхилжэ	эхил	VERB	_	VerbForm=Inf	18	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	Цыпелма	Цыпелма	PROPN	_	Case=Nom|Gender=Fem	14	nsubj	_	_
 5	Жаргалова	Жаргалов	PROPN	_	Case=Nom|Gender=Fem	4	flat	_	_
@@ -8259,10 +8259,10 @@
 11	багша	багша	NOUN	_	Case=Nom	5	appos	_	_
 12	мэтэ	мэтэ	ADV	_	_	14	advmod	_	_
 13	басагадта	басаган	NOUN	_	Case=Dat|Number=Plur	14	obj	_	_
-14	заажа	заа	VERB	_	VerbForm=Coverb	18	advcl	_	SpaceAfter=No
+14	заажа	заа	VERB	_	VerbForm=Inf	18	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	өөрөөшье	өөрөө	PRON	_	Case=Nom|Reflex=Yes	18	nsubj	_	_
-17	хатаржа	хатар	VERB	_	VerbForm=Coverb	18	xcomp	_	_
+17	хатаржа	хатар	VERB	_	VerbForm=Inf	18	xcomp	_	_
 18	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 19	һэн	һэн	PART	_	_	18	discourse	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	18	punct	_	_
@@ -8276,11 +8276,11 @@
 5	нютагайнь	нютаг	NOUN	_	Case=Gen|Number[psor]=Sing|Person[psor]=3	7	nmod	_	_
 6	Цыдып	Цыдып	PROPN	_	Case=Nom|Gender=Masc	12	nsubj	_	_
 7	Чимитов	Чимитов	PROPN	_	Case=Nom|Gender=Masc	6	flat	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	9	discourse	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
 9	хүбүүн	хүбүүн	NOUN	_	Case=Nom	7	appos	_	_
 10	культпросвет	культпросвет	NOUN	_	Case=Nom	11	nmod	_	_
 11	училищида	училищи	NOUN	_	Case=Dat	12	nmod	_	_
-12	һуража	һура	VERB	_	VerbForm=Coverb	0	root	_	_
+12	һуража	һура	VERB	_	VerbForm=Inf	0	root	_	_
 13	байгаа	бай	AUX	_	_	12	aux	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -8297,7 +8297,7 @@
 9	мэдээд	мэдэхэ	VERB	_	VerbForm=Ger	12	advcl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	гэртэхиндэнь	гэртэхин	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	12	nmod	_	_
-12	ошожо	ошо	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+12	ошожо	ошо	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	басагаяа	басаган	NOUN	_	Case=Acc	17	obj	_	_
 15	хатарай	хатар	NOUN	_	Case=Gen	16	nmod	_	_
@@ -8313,7 +8313,7 @@
 2	Цыпелма	Цыпелма	PROPN	_	Case=Nom|Gender=Fem	5	nsubj	_	_
 3	Цыдып	Цыдып	PROPN	_	Case=Nom|Gender=Masc	4	compound	_	_
 4	ахайе	аха	NOUN	_	Case=Acc	5	obj	_	_
-5	дахажа	даха	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+5	дахажа	даха	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	Улаан-Үдэ	Улаан-Үдэ	PROPN	_	Case=Nom	8	nmod	_	_
 8	ерээд	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	SpaceAfter=No
@@ -8341,12 +8341,12 @@
 14	гэгшэд	гэгшэд	PART	_	_	17	discourse	_	_
 15	бэлиг	бэлиг	NOUN	_	Case=Nom	17	nmod	_	_
 16	дүршэлөөрөө	дүршэлөөрөө	ADV	_	_	17	advmod	_	_
-17	хубаалдажа	хубаалда	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+17	хубаалдажа	хубаалда	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	ёһотойл	ёһотой	ADJ	_	_	20	amod	_	_
 20	артистын	артист	NOUN	_	Case=Gen	21	nmod	_	_
 21	харгы	харгы	NOUN	_	Case=Nom	22	nmod	_	_
-22	заажа	заа	VERB	_	VerbForm=Coverb	23	xcomp	_	_
+22	заажа	заа	VERB	_	VerbForm=Inf	23	xcomp	_	_
 23	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	xcomp	_	_
 24	юм	юм	AUX	_	Evident=Fh	23	discourse	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	17	punct	_	_
@@ -8366,7 +8366,7 @@
 11	Исимбаев	Исимбаев	PROPN	_	Case=Nom|Gender=Masc	10	flat	_	_
 12	гастрольдо	гастроль	NOUN	_	Case=Dat	14	nmod	_	_
 13	Улаан-Үдэ	Улаан-Үдэ	PROPN	_	Case=Nom	14	nmod	_	_
-14	ерэжэ	ерэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+14	ерэжэ	ерэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
 16	концерт	концерт	NOUN	_	Case=Nom	17	nmod	_	_
 17	наадаяа	наадан	NOUN	_	Case=Acc	18	obj	_	_
@@ -8399,7 +8399,7 @@
 5	артистын	артист	NOUN	_	Case=Gen	6	nmod	_	_
 6	хатар	хатар	NOUN	_	Case=Nom	7	nmod	_	_
 7	хараха	хара	VERB	_	_	8	xcomp	_	_
-8	дуратайл	дура	VERB	_	VerbForm=Coverb	0	root	_	_
+8	дуратайл	дура	VERB	_	VerbForm=Inf	0	root	_	_
 9	байгаа	бай	AUX	_	_	8	aux	_	_
 10	бэзэ	бэзэ	PART	_	_	8	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_
@@ -8427,7 +8427,7 @@
 9	һайхан	һайхан	ADV	_	_	11	amod	_	_
 10	концерт	концерт	NOUN	_	Case=Nom	11	nmod	_	_
 11	наада	наада	NOUN	_	Case=Nom	12	nmod	_	_
-12	хаража	хара	VERB	_	VerbForm=Coverb	6	parataxis	_	SpaceAfter=No
+12	хаража	хара	VERB	_	VerbForm=Inf	6	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	зүрхэ	зүрхэ	NOUN	_	Case=Nom	16	obj	_	_
 15	сэдьхэлээ	сэдьхэл	NOUN	_	Case=Nom|Reflex=Yes	16	obj	_	_
@@ -8441,7 +8441,7 @@
 # text = Хатарай училищияа дүүргэжэ, «Байгал» ансамблиин хатаршан болоһон юм.
 1	Хатарай	хатар	NOUN	_	Case=Gen	2	nmod	_	_
 2	училищияа	училищи	NOUN	_	Case=Nom|Reflex=Yes	3	obj	_	_
-3	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	«	«	PUNCT	_	_	6	punct	_	SpaceAfter=No
 6	Байгал	Байгал	PROPN	_	Case=Nom	8	compound	_	SpaceAfter=No
@@ -8472,11 +8472,11 @@
 8	ансамблиин	ансамбль	NOUN	_	Case=Gen	9	nmod	_	_
 9	артист	артист	NOUN	_	Case=Nom	10	obj	_	_
 10	болохоб	боло	VERB	_	Case=Nom|VerbForm=Ger	13	xcomp	_	_
-11	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+11	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 12	ходол	ходол	ADV	_	_	13	advmod	_	_
-13	хүсэжэ	хүсэ	VERB	_	VerbForm=Coverb	16	advcl	_	SpaceAfter=No
+13	хүсэжэ	хүсэ	VERB	_	VerbForm=Inf	16	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
-15	һанажа	һана	VERB	_	VerbForm=Coverb	16	xcomp	_	_
+15	һанажа	һана	VERB	_	VerbForm=Inf	16	xcomp	_	_
 16	ябаһан	яба	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 17	юумэнэйнь	юумэн	NOUN	_	Case=Gen|Number[psor]=Sing|Person[psor]=3	19	amod	_	_
 18	эди	эди	NOUN	_	Case=Nom	19	compound	_	_
@@ -8567,7 +8567,7 @@
 11	болоод	боло	VERB	_	Mood=Des|Number=Plur|Person=3	8	advcl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	ходол	ходол	ADV	_	_	15	advmod	_	_
-14	һанажа	һана	VERB	_	VerbForm=Coverb	15	xcomp	_	_
+14	һанажа	һана	VERB	_	VerbForm=Inf	15	xcomp	_	_
 15	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	11	parataxis	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -8578,14 +8578,14 @@
 3	дахин	даха	NOUN	_	Case=Gen	6	nmod	_	_
 4	гастрольдо	гастроль	NOUN	_	Case=Dat	6	nmod	_	_
 5	ансамбльтаяа	ансамбль	NOUN	_	Case=Dat	6	obj	_	_
-6	ерэжэ	ерэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+6	ерэжэ	ерэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	энэл	энэ	DET	_	PronType=Dem	9	det	_	_
 9	тайзан	тайзан	NOUN	_	Case=Nom	13	nmod	_	_
 10	дээрээ	дээрээ	ADP	_	_	9	case	_	_
 11	хэды	хэды	ADV	_	PronType=Int	12	det	_	_
 12	дахин	даха	NOUN	_	Case=Gen	13	nmod	_	_
-13	хатаржа	хатар	VERB	_	VerbForm=Coverb	6	parataxis	_	SpaceAfter=No
+13	хатаржа	хатар	VERB	_	VerbForm=Inf	6	parataxis	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	нютагайхидайнгаа	нютагайхида	NOUN	_	Case=Acc|Number=Plur	21	iobj	_	_
 16	үшөө	үшөө	ADV	_	_	21	advmod	_	_
@@ -8633,7 +8633,7 @@
 8	ажаһуудаг	ажаһуу	VERB	_	_	9	acl	_	_
 9	хүбүүндэ	хүбүүн	NOUN	_	Case=Dat	11	nmod	_	_
 10	хадамда	хадам	NOUN	_	Case=Dat	0	root	_	_
-11	гаража	гара	VERB	_	VerbForm=Coverb	10	fixed	_	SpaceAfter=No
+11	гаража	гара	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	гурбан	гурбан	NUM	_	NumType=Card	14	nummod	_	_
 14	хүбүүдые	хүбүүн	NOUN	_	Case=Acc|Number=Plur	15	obj	_	_
@@ -8663,7 +8663,7 @@
 19	-	-	PUNCT	_	_	23	punct	_	SpaceAfter=No
 20	ажабайдалаймни	ажабайдал	NOUN	_	Case=Gen	21	nmod	_	_
 21	амжалта	амжалта	NOUN	_	Case=Nom	23	nmod	_	_
-22	гэжэ	гэ	VERB	_	VerbForm=Coverb	23	discourse	_	_
+22	гэжэ	гэ	VERB	_	VerbForm=Inf	23	discourse	_	_
 23	шиидэһэн	шиидэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	_
 24	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	23	aux	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	11	punct	_	_
@@ -8683,7 +8683,7 @@
 11	академи	академи	NOUN	_	Case=Nom	10	flat	_	_
 12	очно	очно	ADJ	_	_	13	amod	_	_
 13	түхэлөөр	түхэл	NOUN	_	_	14	nmod	_	_
-14	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Coverb	15	xcomp	_	_
+14	дүүргэжэ	дүүргэ	VERB	_	VerbForm=Inf	15	xcomp	_	_
 15	гараа	гара	VERB	_	Mood=Des|Number=Sing|Person=3	5	parataxis	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
@@ -8699,7 +8699,7 @@
 8	гимназиин	гимнази	NOUN	_	Case=Gen	11	nmod	_	_
 9	хатарай	хатар	NOUN	_	Case=Gen	10	nmod	_	_
 10	багшаар	багша	NOUN	_	_	11	iobj	_	_
-11	ажаллажа	ажалла	VERB	_	VerbForm=Coverb	12	xcomp	_	_
+11	ажаллажа	ажалла	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	3	parataxis	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 
@@ -8723,7 +8723,7 @@
 4	тээ	тээ	ADP	_	_	5	case	_	_
 5	эндэ	эндэ	ADV	_	_	6	advmod	_	_
 6	бии	бии	VERB	_	Mood=Imp|VerbForm=Fin	7	xcomp	_	_
-7	болгогдоһон	болго	VERB	_	VerbForm=Coverb	12	acl	_	_
+7	болгогдоһон	болго	VERB	_	VerbForm=Inf	12	acl	_	_
 8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	Ургы	Ургы	PROPN	_	Case=Nom	12	compound	_	SpaceAfter=No
 10	»	»	PUNCT	_	_	9	punct	_	_
@@ -8732,7 +8732,7 @@
 13	«	«	PUNCT	_	_	14	punct	_	SpaceAfter=No
 14	Ургыхан	Ургыхан	PROPN	_	Case=Nom	17	nmod	_	SpaceAfter=No
 15	»	»	PUNCT	_	_	14	punct	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	17	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	17	discourse	_	_
 17	нэрлээд	нэрлэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	нютагай	нютаг	NOUN	_	Case=Gen	20	nmod	_	_
@@ -8776,7 +8776,7 @@
 6	үнгэргэгдэһэн	үнгэргэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl	_	_
 7	Уласхоорондын	уласхоорондын	ADJ	_	_	8	amod	_	_
 8	фестивальнуудта	фестиваль	NOUN	_	Case=Dat|Number=Plur	9	nmod	_	_
-9	хабаадажа	хабаада	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+9	хабаадажа	хабаада	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	амжалта	амжалта	NOUN	_	Case=Nom	12	obj	_	_
 12	туйлаһан	туйла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
@@ -8820,14 +8820,14 @@
 6	мүнөө	мүнөө	ADV	_	_	9	advmod	_	_
 7	эдиршүүлдэ	эдиршүүл	NOUN	_	Case=Dat	9	nmod	_	_
 8	хатар	хатар	NOUN	_	Case=Nom	9	obj	_	_
-9	заажа	заа	VERB	_	VerbForm=Coverb	10	xcomp	_	_
+9	заажа	заа	VERB	_	VerbForm=Inf	10	xcomp	_	_
 10	байхадаа	бай	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	13	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	ехэ	ехэ	ADV	_	_	13	advmod	_	_
 13	баяртайб	баярла	VERB	_	_	4	parataxis	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	-	-	PUNCT	_	_	4	punct	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	18	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
 17	тэрэ	тэрэ	PRON	_	Case=Nom|PronType=Dem	18	nsubj	_	_
 18	мэдэрнэ	мэдэр	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	13	parataxis	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	4	punct	_	_
@@ -8864,11 +8864,11 @@
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	байдалаараашье	байдал	NOUN	_	Reflex=Yes	5	conj	_	_
 8	ондоо	ондо	ADJ	_	_	0	root	_	_
-9	боложо	боло	VERB	_	VerbForm=Coverb	8	cop	_	SpaceAfter=No
+9	боложо	боло	VERB	_	VerbForm=Inf	8	cop	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
 11	ехэ	ехэ	ADV	_	_	12	amod	_	_
 12	хубилалтада	хубилалта	NOUN	_	Case=Dat	13	nmod	_	_
-13	орожо	оро	VERB	_	VerbForm=Coverb	8	parataxis	_	_
+13	орожо	оро	VERB	_	VerbForm=Inf	8	parataxis	_	_
 14	байгаа	бай	AUX	_	_	13	aux	_	_
 15	бэзэ	бэзэ	PART	_	_	13	discourse	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	8	punct	_	_
@@ -8955,10 +8955,10 @@
 13	нангин	нангин	ADJ	_	_	14	amod	_	_
 14	соёл	соёл	NOUN	_	Case=Nom	5	conj	_	_
 15	мартаа	марта	VERB	_	Mood=Des|Number=Sing|Person=3	17	ccomp	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	17	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	17	discourse	_	_
 17	хэлэхээр	хэлэ	VERB	_	_	0	root	_	_
 18	бэшэ	бэшэ	ADV	_	_	17	advmod:neg	_	_
-19	гэжэ	гэ	VERB	_	VerbForm=Coverb	20	discourse	_	_
+19	гэжэ	гэ	VERB	_	VerbForm=Inf	20	discourse	_	_
 20	тэмдэглэдэг	тэмдэглэ	VERB	_	_	17	parataxis	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	_
 
@@ -8971,7 +8971,7 @@
 5	тойрогоор	тойрог	NOUN	_	_	4	flat	_	_
 6	мэдээжэ	мэдээжэ	ADJ	_	_	7	amod	_	_
 7	сурбалжалагшатай	сурбалжалагша	NOUN	_	Case=Com	8	nmod	_	_
-8	уулзажа	уулза	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+8	уулзажа	уулза	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	ажалайнгаа	ажал	NOUN	_	Case=Gen|Reflex=Yes	11	amod	_	_
 11	үедэ	үе	NOUN	_	Case=Dat	12	nmod	_	_
@@ -8994,7 +8994,7 @@
 7	соо	соо	ADP	_	_	6	case	_	_
 8	тойрогой	тойрог	NOUN	_	Case=Gen	9	nmod	_	_
 9	мэдээсэлдэ	мэдээсэл	NOUN	_	Case=Dat	10	nmod	_	_
-10	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	0	root	_	_
+10	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	0	root	_	_
 11	байнат	бай	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Aor|VerbForm=Fin	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -9010,7 +9010,7 @@
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	тэрээн	тэрэ	PRON	_	Case=Nom|PronType=Dem	11	nmod	_	_
 10	тухайгаа	тухайгаа	ADP	_	_	9	case	_	_
-11	хөөрэжэ	хөөрэ	VERB	_	VerbForm=Coverb	12	xcomp	_	_
+11	хөөрэжэ	хөөрэ	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	үгыт	үгэ	VERB	_	_	0	root	_	Morf=Unknown
 13	даа	даа	PART	_	_	12	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	_
@@ -9121,7 +9121,7 @@
 5	Анна	Анна	PROPN	_	Case=Nom|Gender=Fem	8	nsubj	_	_
 6	Шеметова	Шеметов	PROPN	_	Case=Nom|Gender=Fem	5	flat	_	_
 7	маанарые	бидэ	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	_
-8	угтажа	угта	VERB	_	VerbForm=Coverb	14	advmod	_	SpaceAfter=No
+8	угтажа	угта	VERB	_	VerbForm=Inf	14	advmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	номой	ном	NOUN	_	Case=Gen	11	nmod	_	_
 11	санда	сан	NOUN	_	Case=Dat	14	nmod	_	_
@@ -9139,7 +9139,7 @@
 5	номуудай	ном	NOUN	_	Case=Gen|Number=Plur	7	nmod	_	_
 6	багахан	багахан	ADJ	_	_	7	amod	_	_
 7	выставкэ	выставкэ	NOUN	_	Case=Nom	8	nsubj	_	_
-8	эмхидхэгдэжэ	эмхидхэ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+8	эмхидхэгдэжэ	эмхидхэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	Анна	Анна	PROPN	_	Case=Nom|Gender=Fem	14	nsubj	_	_
 11	Ивановна	Иванович	PROPN	_	Case=Nom|Gender=Fem	10	flat	_	_
@@ -9154,7 +9154,7 @@
 2	аймагай	аймаг	NOUN	_	Case=Gen	4	nmod	_	_
 3	соёлой	соёл	NOUN	_	Case=Gen	4	nmod	_	_
 4	байшан	байшан	NOUN	_	Case=Nom	5	nmod	_	_
-5	ошожо	ошо	VERB	_	VerbForm=Coverb	6	xcomp	_	_
+5	ошожо	ошо	VERB	_	VerbForm=Inf	6	xcomp	_	_
 6	хараһан	хара	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	байнабди	бай	AUX	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
@@ -9235,7 +9235,7 @@
 11	ябахадаа	яба	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	Малые-Голы	Малые-Голы	PROPN	_	Case=Nom	15	compound	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 15	һуурин	һуурин	NOUN	_	Case=Nom	16	nmod	_	_
 16	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	_
 17	һэм	һэм	AUX	_	Number=Sing|Person=3	16	discourse	_	SpaceAfter=No
@@ -9368,7 +9368,7 @@
 10	гэһэн	гэһэн	ADV	_	_	13	advmod	_	_
 11	факультативна	факультативна	ADJ	_	_	12	amod	_	_
 12	хэшээл	хэшээл	NOUN	_	Case=Nom	13	obj	_	_
-13	ябуулжа	ябуул	VERB	_	VerbForm=Coverb	18	advcl	_	SpaceAfter=No
+13	ябуулжа	ябуул	VERB	_	VerbForm=Inf	18	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	арадайнгаа	арад	NOUN	_	Case=Gen|Reflex=Yes	16	nmod	_	_
 16	һайндэрнүүдые	һайндэр	NOUN	_	Case=Acc|Number=Plur	17	obj	_	_
@@ -9383,7 +9383,7 @@
 3	нютагта	нютаг	NOUN	_	Case=Dat	9	nmod	_	_
 4	25	25	NUM	_	NumType=Card	5	nummod	_	_
 5	жэл	жэл	NOUN	_	Case=Nom	6	nsubj	_	_
-6	боложо	боло	VERB	_	VerbForm=Coverb	9	advcl	_	SpaceAfter=No
+6	боложо	боло	VERB	_	VerbForm=Inf	9	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	дахяад	дахяад	ADV	_	_	9	advmod	_	_
 9	ерэхэдээ	ерэ	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	0	root	_	SpaceAfter=No
@@ -9425,7 +9425,7 @@
 14	олоор	олоор	NOUN	_	Case=Nom	15	advmod	_	_
 15	ажаһуудаг	ажаһуу	VERB	_	_	18	ccomp	_	_
 16	юм	юм	AUX	_	Evident=Fh	18	discourse	_	_
-17	гэжэ	гэ	VERB	_	VerbForm=Coverb	18	discourse	_	_
+17	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
 18	мэдэдэггүй	мэдэ	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	9	parataxis	_	_
 19	байгааб	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	aux	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	9	punct	_	_
@@ -9452,7 +9452,7 @@
 6	хараанда	хараанда	NOUN	_	Case=Nom	11	nmod	_	_
 7	түбхинэһэн	түбхинэһэн	ADJ	_	_	11	amod	_	_
 8	Магдан	Магдан	PROPN	_	Case=Nom|Gender=Masc	11	compound	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	8	discourse	_	_
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	8	discourse	_	_
 10	буряад	буряад	ADJ	_	_	11	amod	_	_
 11	нютаг	нютаг	NOUN	_	Case=Nom	13	nmod	_	_
 12	руу	руу	ADP	_	_	11	case	_	_
@@ -9532,7 +9532,7 @@
 4	суута	суута	ADV	_	_	6	amod	_	_
 5	зурагай	зураг	NOUN	_	Case=Gen	6	nmod	_	_
 6	галерей	галерей	NOUN	_	Case=Nom	8	obj	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	8	discourse	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	8	discourse	_	_
 8	хэлсэдэг	хэлсэ	VERB	_	_	0	root	_	_
 9	бэшэ	бэшэ	ADV	_	_	8	discourse	_	_
 10	гү	гү	PART	_	Number=Sing|Person=3	8	discourse	_	SpaceAfter=No
@@ -9597,7 +9597,7 @@
 5	үдэшын	үдэшын	ADJ	_	_	6	amod	_	_
 6	харанхыда	харанхы	NOUN	_	Case=Dat	8	nmod	_	_
 7	Магдан	Магдан	PROPN	_	Case=Nom|Gender=Masc	8	nmod	_	_
-8	хүрэжэ	хүрэ	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	хүрэжэ	хүрэ	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	ерээбди	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -9620,14 +9620,14 @@
 2	юһэн	юһэн	NUM	_	NumType=Card	3	nummod	_	_
 3	хүниие	хүн	NOUN	_	Case=Acc	5	obj	_	_
 4	бултыемнай	булта	PRON	_	Case=Acc|PronType=Ind	3	appos	_	_
-5	сайлуулжа	сайла	VERB	_	VerbForm=Coverb|Voice=Cau	0	root	_	SpaceAfter=No
+5	сайлуулжа	сайла	VERB	_	VerbForm=Inf|Voice=Cau	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	тэрэ	тэрэ	PRON	_	Case=Nom|PronType=Dem	12	advmod	_	_
 8	дороо	дороо	ADV	_	_	7	fixed	_	_
 9	үбгэд	үбгэн	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	хүгшэдые	хүгшэн	NOUN	_	Case=Acc|Number=Plur	9	conj	_	_
-12	суглуулжа	суглуул	VERB	_	VerbForm=Coverb	5	conj	_	SpaceAfter=No
+12	суглуулжа	суглуул	VERB	_	VerbForm=Inf	5	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	ажал	ажал	NOUN	_	Case=Nom	15	compound	_	_
 15	хүдэлмэримнай	хүдэлмэри	NOUN	_	Case=Nom	16	nsubj	_	_
@@ -9731,10 +9731,10 @@
 5	хүнүүд	хүн	NOUN	_	Case=Nom|Number=Plur	8	nsubj	_	_
 6	ямар	ямар	DET	_	PronType=Int	7	det	_	_
 7	ажал	ажал	NOUN	_	Case=Nom	8	obj	_	_
-8	хэжэ	хэ	VERB	_	VerbForm=Coverb	12	xcomp	_	SpaceAfter=No
+8	хэжэ	хэ	VERB	_	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	юу	юун	PRON	_	Case=Nom|PronType=Int	11	obj	_	_
-11	хэжэ	хэ	VERB	_	VerbForm=Coverb	8	conj	_	_
+11	хэжэ	хэ	VERB	_	VerbForm=Inf	8	conj	_	_
 12	ажаһууна	ажаһуу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
 13	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	12	punct	_	_
@@ -9776,7 +9776,7 @@
 11	баян	баян	NOUN	_	Case=Nom	12	advmod	_	_
 12	садхалан	садхалан	ADV	_	_	9	conj	_	_
 13	ажаһуудаг	ажаһуу	VERB	_	_	5	parataxis	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	15	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	15	discourse	_	_
 15	һанааб	һана	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
@@ -9801,7 +9801,7 @@
 9	холын	холын	ADV	_	_	10	amod	_	_
 10	ой	ой	NOUN	_	Case=Nom	11	nmod	_	_
 11	хадаар	хада	NOUN	_	_	12	nmod	_	_
-12	түбхинөө	түбхинэ	VERB	_	VerbForm=Coverb	0	root	_	_
+12	түбхинөө	түбхинэ	VERB	_	VerbForm=Inf	0	root	_	_
 13	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	12	punct	_	_
 
@@ -9812,7 +9812,7 @@
 3	тунгус	тунгус	NOUN	_	Case=Nom	5	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	эвенкнүүдтэй	эвенк	NOUN	_	Case=Com|Number=Plur	6	nmod	_	_
-6	холисолдоһон	холи	VERB	_	VerbForm=Coverb	7	acl	_	_
+6	холисолдоһон	холи	VERB	_	VerbForm=Inf	7	acl	_	_
 7	арад	арад	NOUN	_	Case=Nom	0	root	_	_
 8	гү	гү	PART	_	Number=Sing|Person=3	7	discourse	_	SpaceAfter=No
 9	?	?	PUNCT	_	_	7	punct	_	_
@@ -9948,7 +9948,7 @@
 10	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
 11	Магдан	Магдан	PROPN	_	Case=Nom|Gender=Masc	14	compound	_	_
 12	Магна	Магна	PROPN	_	Case=Nom|Gender=Masc	11	flat	_	_
-13	гэжэ	гэ	VERB	_	VerbForm=Coverb	14	discourse	_	_
+13	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 14	нэрэ	нэрэ	NOUN	_	Case=Nom	15	obj	_	_
 15	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
@@ -9984,7 +9984,7 @@
 # text = Баруун Баянгазада ошожо, тогооной архи абаад, мүргэхэ һанаатайбди.
 1	Баруун	баруун	ADJ	_	_	3	nmod	_	_
 2	Баянгазада	Баянгаза	PROPN	_	Case=Dat	1	flat	_	_
-3	ошожо	ошо	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	ошожо	ошо	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	тогооной	тогоон	NOUN	_	Case=Gen	6	nmod	_	_
 6	архи	архи	NOUN	_	Case=Nom	7	nmod	_	_
@@ -10019,7 +10019,7 @@
 9	шэбхэдэдэггүйбди	шэбхэдэ	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	хулгай	хулгай	NOUN	_	Case=Nom	9	parataxis	_	_
-12	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+12	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 13	үгы	үгы	PART	_	_	11	advmod:neg	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -10045,7 +10045,7 @@
 11	заншалаа	заншал	NOUN	_	Case=Nom|Reflex=Yes	8	conj	_	_
 12	мартаагүй	марта	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	12	aux	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	15	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	15	discourse	_	_
 15	һанахаар	һана	VERB	_	_	12	parataxis	_	_
 16	гү	гү	PART	_	Number=Sing|Person=3	15	discourse	_	SpaceAfter=No
 17	?	?	PUNCT	_	_	12	punct	_	_
@@ -10077,7 +10077,7 @@
 1	Хулгай	хулгай	NOUN	_	Case=Nom	5	obj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	худал	худал	NOUN	_	Case=Nom	1	conj	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	мэдэхэгүй	мэдэ	VERB	_	Mood=Ind|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	гэрээшье	гэр	NOUN	_	Case=Nom|Reflex=Yes	8	obj	_	_
@@ -10108,7 +10108,7 @@
 4	арадай	арад	NOUN	_	Case=Gen	6	nmod	_	_
 5	олон	олон	ADJ	_	_	6	amod	_	_
 6	дуунуудые	дуун	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
-7	дуулажа	дуула	VERB	_	VerbForm=Coverb	8	xcomp	_	_
+7	дуулажа	дуула	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	үгэбэ	үгэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -10142,11 +10142,11 @@
 7	адууһа	адууһа	NOUN	_	Case=Nom	8	compound	_	_
 8	малай	мал	NOUN	_	Case=Gen	9	nmod	_	_
 9	үбшые	үбшэн	NOUN	_	Case=Acc	10	obj	_	_
-10	аргалжа	аргал	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+10	аргалжа	аргал	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	арадтаа	арад	NOUN	_	Case=Dat|Reflex=Yes	14	iobj	_	_
 13	туһаяа	туһа	NOUN	_	Case=Acc	14	obj	_	_
-14	үзүүлжэ	үзүүл	VERB	_	VerbForm=Coverb	10	advcl	_	_
+14	үзүүлжэ	үзүүл	VERB	_	VerbForm=Inf	10	advcl	_	_
 15	байдаг	бай	AUX	_	_	14	aux	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -10172,7 +10172,7 @@
 18	Ханхареевнатай	Ханхареевич	PROPN	_	Case=Com|Gender=Fem	17	flat	_	_
 19	8	8	NUM	_	NumType=Card	20	nummod	_	_
 20	үхибүүдые	үхибүүн	NOUN	_	Case=Acc|Number=Plur	21	nmod	_	_
-21	хүмүүжүүлжэ	хүмүүжүүл	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+21	хүмүүжүүлжэ	хүмүүжүүл	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	21	punct	_	_
 23	мүнөө	мүнөө	ADV	_	_	29	advmod	_	_
 24	18	18	NUM	_	NumType=Card	25	nummod	_	_
@@ -10221,7 +10221,7 @@
 11	тээ	тээ	ADP	_	_	10	case	_	_
 12	түрэл	түрэл	ADJ	_	_	13	amod	_	_
 13	дайдаяа	дайда	NOUN	_	Case=Acc	15	nmod	_	_
-14	бусажа	буса	VERB	_	VerbForm=Coverb	15	xcomp	_	_
+14	бусажа	буса	VERB	_	VerbForm=Inf	15	xcomp	_	_
 15	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	һэн	һэн	PART	_	_	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	15	punct	_	_
@@ -10260,7 +10260,7 @@
 8	Хартикова	Хартиков	PROPN	_	Case=Nom|Gender=Fem	7	flat	_	_
 9	эндэ	эндэ	ADV	_	_	11	advmod	_	_
 10	хадамда	хадам	NOUN	_	Case=Dat	0	root	_	_
-11	гаража	гара	VERB	_	VerbForm=Coverb	10	fixed	_	SpaceAfter=No
+11	гаража	гара	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	1977	1977	NUM	_	NumType=Card	14	nummod	_	_
 14	онһоо	он	NOUN	_	Case=Abl	15	nmod	_	_
@@ -10304,7 +10304,7 @@
 7	хүнүүд	хүн	NOUN	_	Case=Nom|Number=Plur	10	nsubj	_	_
 8	арадайнгаа	арад	NOUN	_	Case=Gen|Reflex=Yes	9	nmod	_	_
 9	дуунуудые	дуун	NOUN	_	Case=Acc|Number=Plur	10	obj	_	_
-10	дуулажа	дуула	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+10	дуулажа	дуула	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	ёохор	ёохор	NOUN	_	Case=Nom	13	obj	_	_
 13	хатарнабди	хатар	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
@@ -10320,7 +10320,7 @@
 6	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	_
 8	-	-	PUNCT	_	_	4	punct	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	12	discourse	_	_
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	12	discourse	_	_
 10	Раиса	Раиса	PROPN	_	Case=Nom|Gender=Fem	12	nsubj	_	_
 11	Родионовна	Родионович	PROPN	_	Case=Nom|Gender=Fem	10	flat	_	_
 12	хөөрэнэ	хөөрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
@@ -10377,7 +10377,7 @@
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	ороһон	ороһон	ADJ	_	_	16	amod	_	_
 16	айлшадаа	айлшан	NOUN	_	Case=Dat|Reflex=Yes	17	nmod	_	_
-17	хүндэлэн	хүндэл	VERB	_	VerbForm=Coverb	9	parataxis	_	_
+17	хүндэлэн	хүндэл	VERB	_	VerbForm=Inf	9	parataxis	_	_
 18	байба	бай	AUX	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	17	aux	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -10392,7 +10392,7 @@
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	сэдьхэлэйнгээ	сэдьхэл	NOUN	_	Case=Gen|Reflex=Yes	9	nmod	_	_
 9	хүбшэргэйе	хүбшэр	NOUN	_	Case=Acc	10	obj	_	_
-10	хүдэлгөөжэ	хүдэл	VERB	_	VerbForm=Coverb	11	xcomp	_	_
+10	хүдэлгөөжэ	хүдэл	VERB	_	VerbForm=Inf	11	xcomp	_	_
 11	баярлаабди	баярла	VERB	_	Mood=Des|Number=Plur|Person=1	6	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -10402,7 +10402,7 @@
 2	алдарта	алдар	NOUN	_	Case=Dat	4	nmod	_	_
 3	аман	аман	NOUN	_	Case=Nom	4	compound	_	_
 4	зохёол	зохёол	NOUN	_	Case=Nom	5	obj	_	_
-5	бэшэжэ	бэшэ	VERB	_	VerbForm=Coverb	6	xcomp	_	_
+5	бэшэжэ	бэшэ	VERB	_	VerbForm=Inf	6	xcomp	_	_
 6	абаабди	аба	VERB	_	Mood=Des|Number=Plur|Person=1	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -10486,7 +10486,7 @@
 18	һайхан	һайхан	ADV	_	_	19	advmod	_	_
 19	байг	бай	VERB	_	VerbForm=Ger	10	parataxis	_	_
 20	лэ	лэ	PART	_	_	24	discourse	_	_
-21	гэжэ	гэ	VERB	_	VerbForm=Coverb	24	discourse	_	_
+21	гэжэ	гэ	VERB	_	VerbForm=Inf	24	discourse	_	_
 22	үнэн	үнэн	ADJ	_	_	23	amod	_	_
 23	зүрхэнһөө	зүрхэн	NOUN	_	Case=Abl	24	nmod	_	_
 24	хүсэхөөр	хүсэ	VERB	_	_	19	parataxis	_	SpaceAfter=No
@@ -10533,14 +10533,14 @@
 25	,	,	PUNCT	_	_	32	punct	_	_
 26	арад	арад	NOUN	_	Case=Nom	27	compound	_	_
 27	зондоо	зон	NOUN	_	Case=Dat|Reflex=Yes	28	nmod	_	_
-28	урбашагүй	урба	VERB	_	VerbForm=Coverb	29	xcomp	_	_
+28	урбашагүй	урба	VERB	_	VerbForm=Inf	29	xcomp	_	_
 29	дуратай	дуратай	ADJ	_	_	31	acl	_	_
 30	хатан	хатан	NOUN	_	Case=Nom	31	nmod	_	_
 31	дангинанаараа	дангина	NOUN	_	_	32	nmod	_	_
 32	суурхадаг	суурхадаг	ADJ	_	_	35	parataxis	_	_
 33	байһан	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	cop	_	_
-34	гэжэ	гэ	VERB	_	VerbForm=Coverb	35	discourse	_	_
-35	мэдээжэ	мэдээ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+34	гэжэ	гэ	VERB	_	VerbForm=Inf	35	discourse	_	_
+35	мэдээжэ	мэдээ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	35	punct	_	_
 
 # sent_id = bxr-ud3::759
@@ -10598,7 +10598,7 @@
 6	ехэ	ехэ	ADV	_	_	7	amod	_	_
 7	мүнгэ	мүнгэн	NOUN	_	Case=Nom	8	obj	_	_
 8	үргөө	үргөө	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	10	discourse	_	_
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	10	discourse	_	_
 10	дуулааб	дуула	VERB	_	Mood=Des|Number=Sing|Person=1	8	parataxis	_	SpaceAfter=No
 11	...	...	PUNCT	_	_	10	punct	_	_
 
@@ -10673,7 +10673,7 @@
 10	буряадуудай	буряад	NOUN	_	Case=Gen|Number=Plur	12	nmod	_	_
 11	түрүүшын	түрүүшын	ADJ	_	_	12	amod	_	_
 12	дасан	дасан	NOUN	_	Case=Nom	0	root	_	_
-13	боложо	боло	VERB	_	VerbForm=Coverb	14	xcomp	_	_
+13	боложо	боло	VERB	_	VerbForm=Inf	14	xcomp	_	_
 14	мүндэлөөд	мүндэл	VERB	_	Mood=Des|Number=Plur|Person=3	2	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	12	punct	_	_
 16	удаань	удаа	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	17	advmod	_	_
@@ -10695,7 +10695,7 @@
 2	үедэ	үе	NOUN	_	Case=Dat	5	nmod	_	_
 3	олонхи	олонхи	ADV	_	_	4	advmod	_	_
 4	дасангууд	дасан	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
-5	һандаргагдажа	һандарга	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+5	һандаргагдажа	һандарга	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	манайшье	бидэ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	8	det	_	_
 8	дасан	дасан	NOUN	_	Case=Nom	9	nsubj	_	_
@@ -10724,7 +10724,7 @@
 # text = Тэндэ хүнүүд ошожо, ходо мүргэдэг.
 1	Тэндэ	тэндэ	ADV	_	_	3	advmod	_	_
 2	хүнүүд	хүн	NOUN	_	Case=Nom|Number=Plur	3	nsubj	_	_
-3	ошожо	ошо	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+3	ошожо	ошо	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	ходо	ходо	ADV	_	_	6	advmod	_	_
 6	мүргэдэг	мүргэ	VERB	_	_	3	parataxis	_	SpaceAfter=No
@@ -10814,12 +10814,12 @@
 9	байнхаар	бай	AUX	_	_	8	aux	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	8	punct	_	_
 11	нютагаа	нютаг	NOUN	_	Case=Nom|Reflex=Yes	12	nmod	_	_
-12	бусажа	буса	VERB	_	VerbForm=Coverb	16	advcl	_	SpaceAfter=No
+12	бусажа	буса	VERB	_	VerbForm=Inf	16	advcl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	үхэр	үхэр	NOUN	_	Case=Nom	15	compound	_	_
 15	малаа	мал	NOUN	_	Case=Nom|Reflex=Yes	16	obj	_	_
-16	тэжээгты	тэжээ	VERB	_	VerbForm=Coverb	8	parataxis	_	_
-17	гэжэ	гэ	VERB	_	VerbForm=Coverb	19	discourse	_	_
+16	тэжээгты	тэжээ	VERB	_	VerbForm=Inf	8	parataxis	_	_
+17	гэжэ	гэ	VERB	_	VerbForm=Inf	19	discourse	_	_
 18	ходо	ходо	ADV	_	_	19	advmod	_	_
 19	заадаг	заа	VERB	_	_	8	parataxis	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	_
@@ -10850,7 +10850,7 @@
 5	һандаранхай	һандар	VERB	_	_	2	parataxis	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	магазин	магазин	NOUN	_	Case=Nom	5	parataxis	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 9	оройдоо	оройдоо	ADV	_	_	7	advmod	_	_
 10	үгы	үгы	PART	_	_	9	advmod:neg	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	_
@@ -10868,7 +10868,7 @@
 5	түрүүн	түрүүн	ADV	_	_	8	advmod	_	_
 6	хүн	хүн	NOUN	_	Case=Nom	7	compound	_	_
 7	зоноо	зон	NOUN	_	Case=Nom|Reflex=Yes	8	obj	_	_
-8	бусааха	буса	VERB	_	VerbForm=Coverb	0	root	_	_
+8	бусааха	буса	VERB	_	VerbForm=Inf	0	root	_	_
 9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -10881,7 +10881,7 @@
 5	буусада	бууса	NOUN	_	Case=Dat	8	nmod	_	_
 6	хамһабариин	хамһабариин	ADJ	_	_	7	amod	_	_
 7	ажахы	ажахы	NOUN	_	Case=Nom	8	obj	_	_
-8	нээжэ	нээ	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+8	нээжэ	нээ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	мал	мал	NOUN	_	Case=Nom	11	obj	_	_
 11	тэжээхэ	тэжээ	VERB	_	_	12	xcomp	_	_
@@ -10909,7 +10909,7 @@
 1	Тиин	тиин	ADV	_	_	5	advmod	_	_
 2	тэрэ	тэрэ	DET	_	PronType=Dem	3	det	_	_
 3	газараа	газар	NOUN	_	Case=Nom|Reflex=Yes	4	obj	_	_
-4	худалдажа	худалда	VERB	_	VerbForm=Coverb	5	xcomp	_	_
+4	худалдажа	худалда	VERB	_	VerbForm=Inf	5	xcomp	_	_
 5	абааб	аба	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -10919,7 +10919,7 @@
 2	жэлдэ	жэл	NOUN	_	Case=Dat	5	nmod	_	_
 3	гэрэй	гэр	NOUN	_	Case=Gen	4	nmod	_	_
 4	һуури	һуури	NOUN	_	Case=Nom	5	obj	_	_
-5	табижа	таби	VERB	_	VerbForm=Coverb	12	advcl	_	SpaceAfter=No
+5	табижа	таби	VERB	_	VerbForm=Inf	12	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	бага	бага	ADJ	_	_	12	advmod	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	7	fixed	_	SpaceAfter=No
@@ -10956,7 +10956,7 @@
 5	хүнүүдэй	хүн	NOUN	_	Case=Gen|Number=Plur	7	nmod	_	_
 6	иимэ	иимэ	ADV	_	_	7	det	_	_
 7	ажахынуудые	ажахы	NOUN	_	Case=Acc|Number=Plur	8	obj	_	_
-8	нээжэ	нээ	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	нээжэ	нээ	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 10	һаань	һаань	PART	_	_	9	mark	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
@@ -10994,7 +10994,7 @@
 3	мүнөө	мүнөө	ADV	_	_	6	advmod	_	_
 4	буряад	буряад	ADJ	_	_	5	amod	_	_
 5	хэлэеэ	хэлэн	NOUN	_	Case=Nom|Reflex=Yes	6	obj	_	_
-6	һэргээе	һэргээ	VERB	_	VerbForm=Coverb	7	xcomp	_	_
+6	һэргээе	һэргээ	VERB	_	VerbForm=Inf	7	xcomp	_	_
 7	гэлдэнэбди	гэлдэ	VERB	_	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -11015,7 +11015,7 @@
 13	бэшэ	бэшэ	ADV	_	_	15	advmod	_	_
 14	буряад	буряад	ADJ	_	_	15	amod	_	_
 15	һургуули	һургуули	NOUN	_	Case=Nom	8	parataxis	_	_
-16	гэжэ	гэ	VERB	_	VerbForm=Coverb	15	discourse	_	_
+16	гэжэ	гэ	VERB	_	VerbForm=Inf	15	discourse	_	_
 17	үгы	үгы	PART	_	_	15	advmod:neg	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -11025,7 +11025,7 @@
 2	баһал	баһа	ADV	_	_	5	advmod	_	_
 3	түрүүшын	түрүүшын	ADJ	_	_	4	amod	_	_
 4	алхам	алхам	NOUN	_	Case=Nom	5	obj	_	_
-5	болгожо	болго	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+5	болгожо	болго	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	Зандинда	зандин	PROPN	_	Case=Dat	18	nmod	_	_
 8	буряад	буряад	ADJ	_	_	9	amod	_	_
@@ -11074,7 +11074,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	жэнхэни	жэнхэни	ADV	_	_	5	advmod	_	_
 5	буряадаараа	буряадаараа	ADV	_	_	6	advmod	_	_
-6	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Coverb	8	acl	_	_
+6	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Inf	8	acl	_	_
 7	шадаха	шада	AUX	_	_	6	aux	_	_
 8	гэртэхиншье	гэртэхин	NOUN	_	Case=Nom	9	nsubj	_	_
 9	үсөөн	үсөөн	ADV	_	_	0	root	_	_
@@ -11130,7 +11130,7 @@
 14	зөөхэй	зөөхэй	NOUN	_	Case=Nom	15	nmod	_	_
 15	буйлуулдаг	буйлуул	VERB	_	_	8	conj	_	_
 16	байгааб	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	aux	_	_
-17	гэжэ	гэ	VERB	_	VerbForm=Coverb	19	discourse	_	_
+17	гэжэ	гэ	VERB	_	VerbForm=Inf	19	discourse	_	_
 18	ехэ	ехэ	ADV	_	_	19	advmod	_	_
 19	һонирхохо	һонирхо	VERB	_	_	15	parataxis	_	_
 20	һэн	һэн	PART	_	_	19	discourse	_	SpaceAfter=No
@@ -11147,7 +11147,7 @@
 7	али	али	CCONJ	_	_	4	cc	_	_
 8	ээрсэгээр	ээрсэг	NOUN	_	_	10	nmod	_	_
 9	нооһо	нооһон	NOUN	_	Case=Nom	10	obj	_	_
-10	ээрэжэ	ээрэ	VERB	_	VerbForm=Coverb	11	xcomp	_	_
+10	ээрэжэ	ээрэ	VERB	_	VerbForm=Inf	11	xcomp	_	_
 11	туршаха	турша	VERB	_	_	12	xcomp	_	_
 12	дуратай	дуратай	ADJ	_	_	4	conj	_	_
 13	байхал	бай	AUX	_	Case=Nom|VerbForm=Ger	12	aux	_	_
@@ -11184,7 +11184,7 @@
 3	багааршье	багаар	ADV	_	_	2	fixed	_	_
 4	һаань	һаань	PART	_	_	6	mark	_	_
 5	юумэ	юумэн	NOUN	_	Case=Nom	6	obj	_	_
-6	хэжэл	хэ	VERB	_	VerbForm=Coverb	0	root	_	_
+6	хэжэл	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 7	байхада	бай	AUX	_	Case=Dat|VerbForm=Ger	6	aux	_	_
 8	һүүлэй	һүүл	NOUN	_	Case=Gen	11	nmod	_	_
 9	һүүлдэ	һүүлдэ	NOUN	_	Case=Nom	8	fixed	_	_
@@ -11261,7 +11261,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	бага	бага	ADJ	_	_	6	amod	_	_
 6	һууринуудые	һуури	NOUN	_	Case=Acc|Number=Plur	7	obj	_	_
-7	һэргээжэ	һэргээ	VERB	_	VerbForm=Coverb	3	parataxis	_	_
+7	һэргээжэ	һэргээ	VERB	_	VerbForm=Inf	3	parataxis	_	_
 8	боломоор	боло	VERB	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -11286,7 +11286,7 @@
 # text = Нэгэл тугал худалдажа абанхайб.
 1	Нэгэл	нэгэн	NUM	_	NumType=Card	2	nummod	_	_
 2	тугал	тугал	NOUN	_	Case=Nom	3	obj	_	_
-3	худалдажа	худалда	VERB	_	VerbForm=Coverb	4	xcomp	_	_
+3	худалдажа	худалда	VERB	_	VerbForm=Inf	4	xcomp	_	_
 4	абанхайб	аба	VERB	_	Number=Sing|Person=1	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -11398,7 +11398,7 @@
 # text = Мэргэдэй хэрэм гэжэ байна, Табан хурган, Балтын хажууда сонгоол болон хори буряадуудай түрүүшынхиеэ уулзаһан газар бии.
 1	Мэргэдэй	Мэргэд	PROPN	_	Case=Gen|Gender=Masc	4	nsubj	_	_
 2	хэрэм	хэрэм	NOUN	_	Case=Nom	1	flat	_	_
-3	гэжэ	гэ	VERB	_	VerbForm=Coverb	4	discourse	_	_
+3	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	_
 4	байна	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	Табан	табан	NUM	_	NumType=Card	7	nummod	_	_
@@ -11423,9 +11423,9 @@
 3	юу	юун	PRON	_	Case=Nom|PronType=Int	4	obj	_	_
 4	хэхээр	хэ	VERB	_	_	0	root	_	_
 5	бэ	бэ	PART	_	_	4	discourse	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	4	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	_
 7	һайса	һайса	ADV	_	_	8	advmod	_	_
-8	шүүжэ	шүү	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	шүүжэ	шүү	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	үзэхэ	үзэ	VERB	_	_	4	parataxis	_	_
 10	хэрэгтэй	хэрэг	NOUN	_	Case=Com	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
@@ -11435,7 +11435,7 @@
 1	Юундэ	юундэ	ADV	_	PronType=Int	5	advmod	_	_
 2	хүнүүд	хүн	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
 3	хүдөөһөө	хүдөө	NOUN	_	Case=Abl	5	nmod	_	_
-4	гаража	гара	VERB	_	VerbForm=Coverb	5	xcomp	_	_
+4	гаража	гара	VERB	_	VerbForm=Inf	5	xcomp	_	_
 5	ошоноб	ошо	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	5	punct	_	_
 
@@ -11525,14 +11525,14 @@
 1	Мүртэй	мүртэй	ADJ	_	_	2	amod	_	_
 2	ажал	ажал	NOUN	_	Case=Nom	3	nsubj:pass	_	_
 3	олдоногүй	олдо	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	шалтаад	шалта	VERB	_	Mood=Des|Number=Plur|Person=3	3	parataxis	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	мүнөө	мүнөө	ADV	_	_	8	advmod	_	_
 8	саг	саг	NOUN	_	Case=Nom	9	nsubj	_	_
 9	хүндэ	хүндэ	NOUN	_	Case=Nom	3	parataxis	_	_
 10	болошоо	болошо	VERB	_	Mood=Des|Number=Sing|Person=3	9	cop	_	_
-11	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+11	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 12	бэеэ	бэе	NOUN	_	Case=Acc	13	obj	_	_
 13	үмөөрөөд	үмөөр	VERB	_	Mood=Des|Number=Plur|Person=3	9	parataxis	_	_
 14	лэ	лэ	PART	_	_	13	discourse	_	SpaceAfter=No
@@ -11555,7 +11555,7 @@
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	дахин	дахин	ADV	_	_	8	advmod	_	_
 8	дабтагдадаг	дабта	VERB	_	_	0	root	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 10	зүб	зүб	ADV	_	_	11	advmod	_	_
 11	хэлсэдэг	хэлсэ	VERB	_	_	8	punct	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	11	punct	_	_
@@ -11582,8 +11582,8 @@
 8	газарнууднай	газар	NOUN	_	Case=Gen|Number=Plur	11	obj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	бэлшээринүүднай	бэлшээри	NOUN	_	Case=Gen|Number=Plur	8	conj	_	_
-11	хэрэглэгдэхэеэ	хэрэглэ	VERB	_	VerbForm=Coverb	12	xcomp	_	_
-12	болижо	боли	VERB	_	VerbForm=Coverb	4	parataxis	_	SpaceAfter=No
+11	хэрэглэгдэхэеэ	хэрэглэ	VERB	_	VerbForm=Inf	12	xcomp	_	_
+12	болижо	боли	VERB	_	VerbForm=Inf	4	parataxis	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	18	punct	_	_
 14	нэгэ	нэгэ	NUM	_	NumType=Card	15	nummod	_	_
 15	талаар	талаар	NOUN	_	Case=Nom	18	nmod	_	_
@@ -11612,8 +11612,8 @@
 4	дээрээ	дээрээ	ADP	_	_	3	case	_	_
 5	хүдэлхэ	хүдэл	VERB	_	_	8	ccomp	_	_
 6	хэрэгтэй	хэрэг	NOUN	_	Case=Com	5	aux	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	9	discourse	_	_
-8	ойлгожо	ойлго	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
+8	ойлгожо	ойлго	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -11710,7 +11710,7 @@
 3	бододог	бодо	VERB	_	_	4	acl	_	_
 4	зон	зон	NOUN	_	Case=Nom	0	root	_	_
 5	олон	олон	ADJ	_	_	4	amod	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 7	һананаб	һана	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -11842,7 +11842,7 @@
 3	хэн	хэн	NOUN	_	Case=Nom	7	obj	_	_
 4	нэгэндэ	нэгэн	NUM	_	NumType=Card	3	nummod	_	_
 5	тиимэш-иимэш	тиимэш-иимэш	ADV	_	_	7	advmod	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 7	хэлэхэеэ	хэлэ	VERB	_	_	8	xcomp	_	_
 8	яарадаггүйб	яара	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
@@ -11893,7 +11893,7 @@
 5	би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 6	эжыдээ	эжы	NOUN	_	Case=Dat|Reflex=Yes	7	obj	_	_
 7	туһалха	туһал	VERB	_	_	10	xcomp	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 9	почтыень	почта	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	10	obj	_	_
 10	тараадаг	тара	VERB	_	_	0	root	_	_
 11	һэм	һэм	AUX	_	Number=Sing|Person=3	10	discourse	_	SpaceAfter=No
@@ -11908,7 +11908,7 @@
 5	Гашейн	Гашейн	PROPN	_	Case=Nom	6	nmod	_	_
 6	таһагта	таһаг	NOUN	_	Case=Dat	8	nmod	_	_
 7	хониндо	хонин	NOUN	_	Case=Dat	8	obj	_	_
-8	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	эхилхэдэнь	эхил	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	хоёр	хоёр	NUM	_	NumType=Card	12	nummod	_	_
@@ -11961,7 +11961,7 @@
 6	эгэшэ	эгэшэ	NOUN	_	Case=Nom	7	nmod	_	_
 7	хүн	хүн	NOUN	_	Case=Nom	0	root	_	_
 8	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	7	discourse	_	_
-9	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	SpaceAfter=No
+9	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	7	punct	_	_
 11	гэртэхинэйнгээ	гэртэхин	NOUN	_	Case=Gen|Reflex=Yes	13	iobj	_	_
 12	сүлөө	сүлөө	NOUN	_	Case=Nom	13	obj	_	_
@@ -11969,13 +11969,13 @@
 14	тула	тула	ADP	_	_	13	case	_	_
 15	Суулга	Суулга	PROPN	_	Case=Nom	17	nmod	_	_
 16	соогуур	соогуур	ADP	_	_	15	case	_	_
-17	ябажа	яба	VERB	_	VerbForm=Coverb	13	parataxis	_	SpaceAfter=No
+17	ябажа	яба	VERB	_	VerbForm=Inf	13	parataxis	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	7	punct	_	_
 19	машина	машина	NOUN	_	Case=Nom	22	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	трактортай	трактаар	NOUN	_	Case=Com	19	conj	_	_
 22	зонтой	зон	NOUN	_	Case=Com	23	nmod	_	_
-23	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Coverb	17	parataxis	_	SpaceAfter=No
+23	хөөрэлдэжэ	хөөрэлдэ	VERB	_	VerbForm=Inf	17	parataxis	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	7	punct	_	_
 25	гэртээ	гэр	NOUN	_	Case=Dat|Reflex=Yes	26	nmod	_	_
 26	буулгуулдаг	буулга	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Cau	23	parataxis	_	_
@@ -11997,7 +11997,7 @@
 11	тэрэ	тэрэ	DET	_	PronType=Dem	12	det	_	_
 12	хүндэ	хүн	NOUN	_	Case=Dat	6	conj	_	_
 13	хандахаб	ханда	VERB	_	Case=Nom|VerbForm=Ger	15	acl	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	13	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 15	түсэб	түсэб	NOUN	_	Case=Nom	16	obj	_	_
 16	табихаш	таби	VERB	_	Case=Nom|VerbForm=Ger	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	16	punct	_	_
@@ -12010,7 +12010,7 @@
 4	республика	республика	NOUN	_	Case=Nom	7	nmod	_	_
 5	дотор	дотор	ADP	_	_	6	compound	_	_
 6	тон	тон	NOUN	_	Case=Nom	7	nmod	_	_
-7	мэдээжэ	мэдээ	VERB	_	VerbForm=Coverb	8	acl	_	_
+7	мэдээжэ	мэдээ	VERB	_	VerbForm=Inf	8	acl	_	_
 8	сониной	сонин	NOUN	_	Case=Gen	14	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	ехэ	ехэ	ADV	_	_	13	amod	_	_
@@ -12025,7 +12025,7 @@
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Хуби	хуби	NOUN	_	Case=Nom	3	nmod	_	_
 3	заяамни	заяан	NOUN	_	Case=Nom	0	root	_	_
-4	гэжэ	гэ	VERB	_	VerbForm=Coverb	5	discourse	_	_
+4	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	һанагшаб	һана	VERB	_	Case=Nom	3	parataxis	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -12040,7 +12040,7 @@
 7	институдта	институд	NOUN	_	Case=Dat	9	nmod	_	_
 8	шалгалта	шалгалта	NOUN	_	Case=Nom	9	obj	_	_
 9	бариха	бари	VERB	_	_	11	xcomp	_	_
-10	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	байхадам	бай	VERB	_	Case=Dat|VerbForm=Ger	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	намайе	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	16	obj	_	_
@@ -12048,7 +12048,7 @@
 15	талаараа	талаар	NOUN	_	Case=Nom|Reflex=Yes	16	advmod	_	_
 16	орохо	оро	VERB	_	_	20	acl	_	_
 17	болонхой	боло	VERB	_	_	16	aux	_	_
-18	гэжэ	гэ	VERB	_	VerbForm=Coverb	21	discourse	_	_
+18	гэжэ	гэ	VERB	_	VerbForm=Inf	21	discourse	_	_
 19	худал	худал	NOUN	_	Case=Nom	20	amod	_	_
 20	зугаа	зугаа	NOUN	_	Case=Nom	21	nmod	_	_
 21	гараа	гара	VERB	_	Mood=Des|Number=Sing|Person=3	11	parataxis	_	_
@@ -12077,7 +12077,7 @@
 # sent_id = bxr-ud3::862
 # text = Тэндэ һуража бай үедөө наһанайнгаа нүхэртэй танилсаад, гэр бүлэ болообди.
 1	Тэндэ	тэндэ	ADV	_	_	2	advmod	_	_
-2	һуража	һура	VERB	_	VerbForm=Coverb	4	acl	_	_
+2	һуража	һура	VERB	_	VerbForm=Inf	4	acl	_	_
 3	бай	бай	AUX	_	Mood=Imp|VerbForm=Fin	2	aux	_	_
 4	үедөө	үе	NOUN	_	Case=Dat|Reflex=Yes	7	nmod	_	_
 5	наһанайнгаа	наһан	NOUN	_	Case=Gen|Reflex=Yes	6	nmod	_	_
@@ -12104,7 +12104,7 @@
 11	нива	нива	NOUN	_	Case=Nom	10	flat	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	11	punct	_	_
 13	сониндо	сониндо	NOUN	_	Case=Nom	14	nmod	_	_
-14	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	15	xcomp	_	_
+14	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	15	xcomp	_	_
 15	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
 
@@ -12123,7 +12123,7 @@
 11	Бурятия	Бурятия	PROPN	_	Case=Nom	13	compound	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	11	punct	_	_
 13	сониндо	сониндо	NOUN	_	Case=Nom	14	nmod	_	_
-14	хүдэлжэ	хүдэл	VERB	_	VerbForm=Coverb	16	acl	_	_
+14	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	16	acl	_	_
 15	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 16	би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	_
 17	нүхэртэеэ	нүхэр	NOUN	_	_	18	nmod	_	Morf=Unknown
@@ -12215,7 +12215,7 @@
 5	дэмжэдэг	дэмжэ	VERB	_	_	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	ходо	ходо	ADV	_	_	8	advmod	_	_
-8	туһалжа	туһал	VERB	_	VerbForm=Coverb	5	parataxis	_	_
+8	туһалжа	туһал	VERB	_	VerbForm=Inf	5	parataxis	_	_
 9	байдаг	бай	AUX	_	_	8	aux	_	_
 10	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
@@ -12290,7 +12290,7 @@
 5	нэгэшье	нэгэшье	ADV	_	_	7	nummod	_	_
 6	муу	муу	ADJ	_	_	7	amod	_	_
 7	юумэ	юумэн	NOUN	_	Case=Nom	8	obj	_	_
-8	хэжэ	хэ	VERB	_	VerbForm=Coverb	9	xcomp	_	_
+8	хэжэ	хэ	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	үзөөгүй	үзэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	хазагай	хазагай	ADJ	_	_	12	amod	_	_
@@ -12308,10 +12308,10 @@
 # sent_id = bxr-ud3::876
 # text = Хамагые ойлгожо, бүхые багтаажа шададаг бэлэй.
 1	Хамагые	хамаг	PRON	_	Case=Acc|PronType=Int	2	obj	_	_
-2	ойлгожо	ойлго	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+2	ойлгожо	ойлго	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	бүхые	бүхэ	PRON	_	Case=Acc|PronType=Dem	5	obj	_	_
-5	багтаажа	багта	VERB	_	VerbForm=Coverb	2	conj	_	_
+5	багтаажа	багта	VERB	_	VerbForm=Inf	2	conj	_	_
 6	шададаг	шада	AUX	_	_	5	aux	_	_
 7	бэлэй	бэлэй	VERB	_	Mood=Imp|VerbForm=Fin	5	discourse	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
@@ -12354,13 +12354,13 @@
 2	эхэ	эхэ	NOUN	_	Case=Nom	3	compound	_	_
 3	эсэгыемни	эсэгэ	NOUN	_	Case=Acc	4	obj	_	_
 4	үгылнэ	үгы	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Rcp	0	root	_	_
-5	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	_
+5	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	_
 6	ойлгодогби	ойлго	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	гэртэхинэйнгээ	гэртэхин	NOUN	_	Case=Gen|Reflex=Yes	9	nmod	_	_
 9	нэрэ	нэрэ	NOUN	_	Case=Nom	11	nmod	_	_
 10	һайханаар	һайханаар	ADV	_	_	11	advmod	_	_
-11	нэрлүүлжэ	нэрлүүл	VERB	_	VerbForm=Coverb	12	xcomp	_	_
+11	нэрлүүлжэ	нэрлүүл	VERB	_	VerbForm=Inf	12	xcomp	_	_
 12	ябахаяа	яба	VERB	_	Case=Acc|VerbForm=Ger	13	xcomp	_	_
 13	оролдодогби	оролдо	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
@@ -12455,7 +12455,7 @@
 6	дээрэ	дээрэ	ADP	_	_	5	cc	_	_
 7	уһанайнь	уһан	NOUN	_	Case=Gen|Number[psor]=Sing|Person[psor]=3	8	nsubj	_	_
 8	долгилхые	долгил	VERB	_	Case=Acc|VerbForm=Ger	9	ccomp	_	_
-9	хаража	хара	VERB	_	VerbForm=Coverb	10	xcomp	_	_
+9	хаража	хара	VERB	_	VerbForm=Inf	10	xcomp	_	_
 10	һуухадам	һуу	VERB	_	Case=Dat|VerbForm=Ger	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	бүхы	бүхы	ADV	_	_	14	det	_	_
@@ -12501,7 +12501,7 @@
 
 # sent_id = bxr-ud3::891
 # text = Айлшалжа ошоходоо, таһалһан талхатай шүлыень яаралгүйхэн амтархан уужа байхадаа, эхэ эсэгэ тухайм, балшар наһан тухайм хөөрөөнүүдыень шагнаха дуратайб.
-1	Айлшалжа	айлшал	VERB	_	VerbForm=Coverb	2	xcomp	_	_
+1	Айлшалжа	айлшал	VERB	_	VerbForm=Inf	2	xcomp	_	_
 2	ошоходоо	ошо	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	таһалһан	таһалһан	ADJ	_	_	5	amod	_	_
@@ -12509,7 +12509,7 @@
 6	шүлыень	шүлэн	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	9	obj	_	_
 7	яаралгүйхэн	яаралгүйхэн	ADV	_	_	8	advmod	_	_
 8	амтархан	амтархан	ADV	_	_	9	advmod	_	_
-9	уужа	уу	VERB	_	VerbForm=Coverb	2	advcl	_	_
+9	уужа	уу	VERB	_	VerbForm=Inf	2	advcl	_	_
 10	байхадаа	бай	AUX	_	Case=Dat|Reflex=Yes|VerbForm=Ger	9	aux	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	2	punct	_	_
 12	эхэ	эхэ	NOUN	_	Case=Nom	13	compound	_	_
@@ -12536,7 +12536,7 @@
 8	иигэжэ	иигэжэ	ADV	_	_	9	advmod	_	_
 9	хэлэдэг	хэлэ	VERB	_	_	4	parataxis	_	_
 10	байгааш	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	9	aux	_	_
-11	гэжэ	гэ	VERB	_	VerbForm=Coverb	9	discourse	_	_
+11	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
 12	нэгэл	нэгэн	NUM	_	NumType=Card	13	nummod	_	_
 13	хөөрөөнэй	хөөрөөн	NOUN	_	Case=Gen	15	nmod	_	_
 14	ходо	ходо	ADV	_	_	15	advmod	_	_
@@ -12545,7 +12545,7 @@
 17	,	,	PUNCT	_	_	4	punct	_	_
 18	ехэ	ехэ	ADV	_	_	19	amod	_	_
 19	дуратайгаар	дуратай	NOUN	_	_	20	nmod	_	_
-20	шагнажа	шагна	VERB	_	VerbForm=Coverb	15	parataxis	_	SpaceAfter=No
+20	шагнажа	шагна	VERB	_	VerbForm=Inf	15	parataxis	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	4	punct	_	_
 22	зүрхэ	зүрхэ	NOUN	_	Case=Nom	23	nmod	_	_
 23	сэдьхэлшни	сэдьхэл	NOUN	_	Case=Nom	24	nsubj	_	_
@@ -12658,7 +12658,7 @@
 2	хэлэhэн	_	ADJ	_	_	3	amod	_	Morf=Unknown
 3	үгэнүүд	үгэ	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 4	домог	_	NOUN	_	_	5	nsubj	_	Morf=Unknown
-5	боложо	боло	VERB	_	VerbForm=Coverb	6	ccomp	_	_
+5	боложо	боло	VERB	_	VerbForm=Inf	6	ccomp	_	_
 6	дэлгэрдэг	_	ADJ	_	_	0	root	_	Morf=Unknown
 7	байгаа	бай	VERB	_	_	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
@@ -12689,7 +12689,7 @@
 2	тиихэдэ	тиихэдэ	ADV	_	_	5	advmod	_	_
 3	залуу	залуу	ADJ	_	_	4	amod	_	_
 4	найруулагша	найруулагша	NOUN	_	Case=Nom	5	nsubj	_	_
-5	оролдожол	оролдо	VERB	_	VerbForm=Coverb	0	root	_	SpaceAfter=No
+5	оролдожол	оролдо	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	хаба	хаба	NOUN	_	Case=Nom	8	nmod	_	_
 8	шадалаа	шадала	NOUN	_	Case=Nom|Reflex=Yes	9	obj	_	_

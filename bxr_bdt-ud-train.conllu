@@ -4,7 +4,7 @@
 2	һанахада	һанаха	NOUN	_	Case=Dat	5	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	бороо	бороо	NOUN	_	Case=Nom	5	nsubj	_	_
-5	орожо	оро	VERB	_	VerbForm=Coverb	0	root	_	_
+5	орожо	оро	VERB	_	VerbForm=Inf	0	root	_	_
 6	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	5	aux	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -14,7 +14,7 @@
 2	хүн	хүн	NOUN	_	Case=Nom	6	nsubj	_	_
 3	архи	архи	NOUN	_	Case=Nom	5	obj	_	_
 4	тамхияа	тамхи	NOUN	_	Case=Nom|Reflex=Yes	3	conj	_	_
-5	хаяжа	хая	VERB	_	VerbForm=Coverb	6	xcomp	_	_
+5	хаяжа	хая	VERB	_	VerbForm=Inf	6	xcomp	_	_
 6	үзэбэ	үзэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -40,7 +40,7 @@
 3	үбгэеэ	үбгэн	NOUN	_	Case=Nom|Reflex=Yes	7	iobj	_	_
 4	машинаа	машина	NOUN	_	Case=Nom|Reflex=Yes	5	obj	_	_
 5	угаагыш	үгэ	VERB	_	_	7	xcomp	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	7	discourse	_	_
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 7	баалаба	баала	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -124,7 +124,7 @@
 # sent_id = bxr-ud3::907
 # text = Хэзээ ерэжэ шадахаяа мэдэнэ гүш?
 1	Хэзээ	хэзээ	ADV	_	PronType=Int	2	advmod	_	_
-2	ерэжэ	ерэ	VERB	_	VerbForm=Coverb	3	xcomp	_	_
+2	ерэжэ	ерэ	VERB	_	VerbForm=Inf	3	xcomp	_	_
 3	шадахаяа	шада	VERB	_	Case=Acc|VerbForm=Ger	4	advcl	_	_
 4	мэдэнэ	мэдэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
 5	гүш	гү	PART	_	Number=Sing|Person=2	4	discourse	_	SpaceAfter=No
@@ -141,7 +141,7 @@
 7	дүүнь	дүү	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
 8	оройдоол	оройдоол	ADV	_	_	10	advmod	_	_
 9	велосипед	велосипед	NOUN	_	Case=Nom	10	obj	_	_
-10	абажа	аба	VERB	_	VerbForm=Coverb	4	conj	_	_
+10	абажа	аба	VERB	_	VerbForm=Inf	4	conj	_	_
 11	шадаа	шада	AUX	_	Mood=Des|Number=Sing|Person=3	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -150,7 +150,7 @@
 1	Питер	Питер	PROPN	_	Case=Nom|Gender=Masc	7	nsubj	_	_
 2	Мэри	Мэри	PROPN	_	Case=Nom|Gender=Fem	1	conj	_	_
 3	хоёр	хоёр	CCONJ	_	_	2	cc	_	_
-4	тэбэрилдээд	тэбэрил	VERB	_	VerbForm=Coverb	7	advcl	_	SpaceAfter=No
+4	тэбэрилдээд	тэбэрил	VERB	_	VerbForm=Inf	7	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	таһалгаһаа	таһалга	NOUN	_	Case=Abl	7	nmod	_	_
 7	гараба	гара	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -179,7 +179,7 @@
 1	Ехэ	ехэ	ADV	_	_	2	advmod	_	_
 2	хурдаар	хурдаар	ADV	_	_	3	advmod	_	_
 3	гүйхэдэнь	гүй	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	4	ccomp	_	_
-4	хүсэжэ	хүсэ	VERB	_	VerbForm=Coverb	0	root	_	_
+4	хүсэжэ	хүсэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	ядааб	яда	AUX	_	Mood=Des|Number=Sing|Person=1	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -190,7 +190,7 @@
 3	бэшэг	бэшэг	NOUN	_	Case=Nom	7	parataxis	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	үсэгэлдэр	үсэгэлдэр	ADV	_	_	7	advmod	_	_
-6	асаржа	асар	VERB	_	VerbForm=Coverb	7	compound	_	_
+6	асаржа	асар	VERB	_	VerbForm=Inf	7	compound	_	_
 7	үгөө	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	_
 8	һэн	һэн	PART	_	_	7	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
