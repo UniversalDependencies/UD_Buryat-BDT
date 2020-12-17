@@ -3967,7 +3967,7 @@
 6	температура	температура	NOUN	_	Case=Nom	13	nsubj	_	_
 7	0	0	NUM	_	NumType=Card	11	nummod	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	һээ	һээ	INTJ	_	_	7	goeswith	_	_
+9	һээ	һээ	ADP	_	_	7	case	_	_
 10	8	8	NUM	_	NumType=Card	11	nummod	_	_
 11	градус	градус	NOUN	_	Case=Nom	13	nmod	_	_
 12	хүрэтэр	хүрэтэр	ADP	_	_	11	case	_	_
