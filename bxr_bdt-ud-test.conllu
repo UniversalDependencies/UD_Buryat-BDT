@@ -29,12 +29,13 @@
 
 # sent_id = bxr-ud3::3
 # text = Би баһаа ханада үлгөөтэй байһан шкаф сооһоонь алха гаргааб.
+# text_en = I hung the bag on the wall and walked out of the closet.
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 2	баһаа	баһаа	ADV	_	_	9	advmod	_	_
 3	ханада	хана	NOUN	_	Case=Dat	9	nmod	_	_
-4	үлгөөтэй	үлгөөтэй	ADV	_	_	3	fixed	_	_
-5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	fixed	_	_
-6	шкаф	шкаф	NOUN	_	Case=Nom	5	fixed	_	_
+4	үлгөөтэй	үлгөөтэй	ADV	_	_	3	compound	_	_
+5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	compound	_	_
+6	шкаф	шкаф	NOUN	_	Case=Nom	5	compound	_	_
 7	сооһоонь	сооһоонь	ADP	_	_	6	case	_	_
 8	алха	алха	NOUN	_	Case=Nom	9	obj	_	_
 9	гаргааб	гарга	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	SpaceAfter=No
@@ -239,7 +240,7 @@
 # sent_id = bxr-ud3::24
 # text = Үнэндөө хэлээ һаа, тэрэшни үшөө үсэгэлдэртөө ерэнхэй.
 1	Үнэндөө	үнэн	NOUN	_	Case=Dat|Reflex=Yes	8	advmod	_	_
-2	хэлээ	хэ	VERB	_	Mood=Des|Number=Sing|Person=3|Voice=Rcp	1	fixed	_	_
+2	хэлээ	хэ	VERB	_	Mood=Des|Number=Sing|Person=3|Voice=Rcp	1	compound	_	_
 3	һаа	һаа	PART	_	_	2	discourse	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
 5	тэрэшни	тэрэ	PRON	_	Case=Nom|PronType=Dem	8	nsubj	_	_
@@ -252,7 +253,7 @@
 # text = Булта бүһэтэй зон толгойгороо һэжэрээ.
 1	Булта	булта	DET	_	PronType=Ind	3	det	_	_
 2	бүһэтэй	бүһэтэй	ADJ	_	_	5	nsubj	_	_
-3	зон	зон	NOUN	_	Case=Nom	2	fixed	_	_
+3	зон	зон	NOUN	_	Case=Nom	2	compound	_	_
 4	толгойгороо	толгой	NOUN	_	_	5	obj	_	_
 5	һэжэрээ	һэжэр	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -398,10 +399,11 @@
 
 # sent_id = bxr-ud3::41
 # text = Мааттида шэнэ түмэр морин.
+# text_en = Maatti has a new iron horse.
 1	Мааттида	Маатти	PROPN	_	Case=Dat|Gender=Masc	4	nmod:own	_	_
 2	шэнэ	шэнэ	ADJ	_	_	4	amod	_	_
 3	түмэр	түмэр	ADJ	_	_	0	root	_	_
-4	морин	морин	NOUN	_	Case=Nom	3	fixed	_	SpaceAfter=No
+4	морин	морин	NOUN	_	Case=Nom	3	compound	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::42
@@ -505,12 +507,13 @@
 
 # sent_id = bxr-ud3::52
 # text = Тиигэбэшье, ксилитоол шүдэнэй яһанай һандарал болохогүйнь түлөө хамгаалалдаг.
+# text_en = Xylitol protects against tooth decay.
 1	Тиигэбэшье	тиигэбэшье	ADP	_	_	9	case	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	ксилитоол	ксилитоол	NOUN	_	Case=Nom	9	nsubj	_	_
 4	шүдэнэй	шүдэн	NOUN	_	Case=Gen	7	nsubj	_	_
-5	яһанай	яһанай	NOUN	_	Case=Nom	4	fixed	_	_
-6	һандарал	һандарал	NOUN	_	Case=Nom	5	fixed	_	_
+5	яһанай	яһанай	NOUN	_	Case=Nom	4	compound	_	_
+6	һандарал	һандарал	NOUN	_	Case=Nom	5	compound	_	_
 7	болохогүйнь	боло	VERB	_	_	9	ccomp	_	_
 8	түлөө	түлөө	ADP	_	_	7	mark	_	_
 9	хамгаалалдаг	хамгаалал	VERB	_	_	0	root	_	SpaceAfter=No
@@ -518,11 +521,12 @@
 
 # sent_id = bxr-ud3::53
 # text = Маттиин гонзогорхон хобто түмэр морин соо орхигдоһон байна.
+# text_en = Mattii's long hobto is left in the iron horse.
 1	Маттиин	Матти	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 2	гонзогорхон	гонзогорхон	ADJ	_	_	3	compound	_	_
 3	хобто	хобто	NOUN	_	Case=Nom	7	nsubj	_	_
 4	түмэр	түмэр	ADJ	_	_	7	nmod	_	_
-5	морин	морин	NOUN	_	Case=Nom	4	fixed	_	_
+5	морин	морин	NOUN	_	Case=Nom	4	compound	_	_
 6	соо	соо	ADP	_	_	5	case	_	_
 7	орхигдоһон	орхигдоһон	ADJ	_	_	0	root	_	_
 8	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
@@ -637,8 +641,9 @@
 
 # sent_id = bxr-ud3::64
 # text = Түмэр морин, манай хажуугаар шуумайса гараһан, ехэл гүйдэлтэйгөөр ябаа.
+# text_en = An iron horse galloped past us with a roar.
 1	Түмэр	түмэр	ADJ	_	_	11	nsubj	_	_
-2	морин	морин	NOUN	_	Case=Nom	1	fixed	_	SpaceAfter=No
+2	морин	морин	NOUN	_	Case=Nom	1	compound	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
 4	манай	бидэ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	7	nmod	_	_
 5	хажуугаар	хажуугаар	ADP	_	_	4	case	_	_
@@ -652,11 +657,12 @@
 
 # sent_id = bxr-ud3::65
 # text = Эхэнэр, хэнэй түмэр морин һандарааб, абаралга гуйлаа.
+# text_en = My wife and I rode on an iron horse and begged for help.
 1	Эхэнэр	эхэнэр	NOUN	_	Case=Nom	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	хэнэй	хэнэй	PRON	_	_	5	det	_	Morf=Unknown
 4	түмэр	түмэр	ADJ	_	_	6	nsubj	_	_
-5	морин	морин	NOUN	_	Case=Nom	4	fixed	_	_
+5	морин	морин	NOUN	_	Case=Nom	4	compound	_	_
 6	һандарааб	һандар	VERB	_	Mood=Des|Number=Sing|Person=1	1	acl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	1	punct	_	_
 8	абаралга	абаралга	NOUN	_	Case=Nom	9	obj	_	_
