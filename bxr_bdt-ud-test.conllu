@@ -225,7 +225,7 @@
 5	зайгаа	зай	VERB	_	_	0	root	_	_
 6	һаа	һаа	PART	_	_	5	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 9	байгаа	бай	AUX	_	_	5	cop	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -6787,7 +6787,7 @@
 8	һүбэлгэн	һүбэлгэн	ADJ	_	_	9	compound	_	_
 9	бэрхэ	бэрхэ	ADJ	_	_	6	conj	_	_
 10	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-11	юм	юм	AUX	_	Evident=Fh	10	discourse	_	SpaceAfter=No
+11	юм	юм	AUX	_	Evident=Fh	6	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::533
@@ -6957,7 +6957,7 @@
 14	ёһотойл	ёһотой	ADJ	_	_	15	amod	_	_
 15	һайндэр	һайндэр	NOUN	_	Case=Nom	7	conj	_	_
 16	болодог	боло	AUX	_	_	7	cop	_	_
-17	һэн	һэн	PART	_	_	16	discourse	_	SpaceAfter=No
+17	һэн	һэн	PART	_	_	7	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::541
@@ -9328,7 +9328,7 @@
 7	Егорович	Егорович	PROPN	_	Case=Nom|Gender=Masc	6	flat	_	_
 8	Мандухаев	Мандухаев	PROPN	_	Case=Nom|Gender=Masc	7	flat	_	_
 9	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
-10	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
+10	юм	юм	AUX	_	Evident=Fh	5	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::680
@@ -10462,7 +10462,7 @@
 10	жэгтэй	жэгтэй	ADV	_	_	11	advmod	_	_
 11	гоё	гоё	ADJ	_	_	3	parataxis	_	_
 12	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-13	даа	даа	PART	_	_	12	discourse	_	SpaceAfter=No
+13	даа	даа	PART	_	_	11	discourse	_	SpaceAfter=No
 14	!	!	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::755
