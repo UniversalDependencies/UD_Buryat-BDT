@@ -32,10 +32,10 @@
 # text_en = I hung the bag on the wall and walked out of the closet.
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 2	баһаа	баһаа	ADV	_	_	9	advmod	_	_
-3	ханада	хана	NOUN	_	Case=Dat	9	nmod	_	_
-4	үлгөөтэй	үлгөөтэй	ADV	_	_	3	compound	_	_
-5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	compound	_	_
-6	шкаф	шкаф	NOUN	_	Case=Nom	5	compound	_	_
+3	ханада	хана	NOUN	_	Case=Dat	4	obl	_	_
+4	үлгөөтэй	үлгөөтэй	ADV	_	_	9	advcl	_	_
+5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+6	шкаф	шкаф	NOUN	_	Case=Nom	8	nmod	_	_
 7	сооһоонь	сооһоонь	ADP	_	_	6	case	_	_
 8	алха	алха	NOUN	_	Case=Nom	9	obj	_	_
 9	гаргааб	гарга	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	SpaceAfter=No
