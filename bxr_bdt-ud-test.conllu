@@ -224,7 +224,7 @@
 4	ошожо	ошо	VERB	_	VerbForm=Inf	5	compound	_	_
 5	зайгаа	зай	VERB	_	_	0	root	_	_
 6	һаа	һаа	PART	_	_	5	discourse	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
 8	гэжэ	гэ	VERB	_	VerbForm=Inf	5	discourse	_	_
 9	байгаа	бай	AUX	_	_	5	cop	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
