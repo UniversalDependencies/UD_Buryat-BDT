@@ -22,6 +22,10 @@ If you use this treebank please cite:
 
 # Changelog
 
+2021-05-15 v2.8
+
+* Fixed a number of validation errors.
+
 2018-04-15 v2.2
 
 * Repository renamed from UD_Buryat to UD_Buryat-BDT.
