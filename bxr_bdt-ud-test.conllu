@@ -164,10 +164,10 @@
 # text = Тэрэ, хажуудахи айлай нохой, эжые сухалдуулаа.
 1	Тэрэ	тэрэ	PRON	_	Case=Nom|PronType=Dem	8	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	5	punct	_	_
-3	хажуудахи	хажуудахи	ADP	_	_	5	nmod:own	_	_
-4	айлай	айлай	NOUN	_	Case=Nom	3	fixed	_	_
+3	хажуудахи	хажуудахи	ADP	_	_	4	case	_	_
+4	айлай	айлай	NOUN	_	Case=Nom	5	nmod	_	_
 5	нохой	нохой	NOUN	_	Case=Nom	1	appos	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	1	punct	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
 7	эжые	эжы	NOUN	_	Case=Nom|Reflex=Yes	8	obj	_	_
 8	сухалдуулаа	сухалда	VERB	_	Mood=Des|Number=Sing|Person=3|Voice=Cau	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
@@ -399,12 +399,12 @@
 
 # sent_id = bxr-ud3::41
 # text = Мааттида шэнэ түмэр морин.
-# text_en = Maatti has a new iron horse.
-1	Мааттида	Маатти	PROPN	_	Case=Dat|Gender=Masc	4	nmod:own	_	_
-2	шэнэ	шэнэ	ADJ	_	_	4	amod	_	_
-3	түмэр	түмэр	NOUN	_	_	4	compound	_	_
-4	морин	морин	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+# text_en = Maatti has a new car.
+1	Мааттида	Маатти	PROPN	_	Case=Dat|Gender=Masc	0	root	_	Gloss=to.Maatti
+2	шэнэ	шэнэ	ADJ	_	_	4	amod	_	Gloss=new
+3	түмэр	түмэр	NOUN	_	_	4	compound	_	Gloss=iron
+4	морин	морин	NOUN	_	Case=Nom	1	nsubj	_	Gloss=horse|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::42
 # text = Евэ ажалһаань ерээ.
@@ -534,7 +534,7 @@
 
 # sent_id = bxr-ud3::54
 # text = Түмэр морин хоер литрэй хүдэлгүүртэй.
-# text_en = The iron horse has a two-liter engine.
+# text_en = The car has a two-liter engine.
 1	Түмэр	түмэр	NOUN	_	_	2	compound	_	_
 2	морин	морин	NOUN	_	Case=Nom	5	nsubj	_	_
 3	хоер	хоёр	NUM	_	NumType=Card	4	nummod	_	_
@@ -642,7 +642,7 @@
 
 # sent_id = bxr-ud3::64
 # text = Түмэр морин, манай хажуугаар шуумайса гараһан, ехэл гүйдэлтэйгөөр ябаа.
-# text_en = An iron horse galloped past us with a roar.
+# text_en = A car galloped past us with a roar.
 1	Түмэр	түмэр	NOUN	_	_	2	compound	_	_
 2	морин	морин	NOUN	_	Case=Nom	11	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	7	punct	_	_
@@ -658,7 +658,7 @@
 
 # sent_id = bxr-ud3::65
 # text = Эхэнэр, хэнэй түмэр морин һандарааб, абаралга гуйлаа.
-# text_en = My wife and I rode on an iron horse and begged for help.
+# text_en = My wife and I rode on an car and begged for help.
 1	Эхэнэр	эхэнэр	NOUN	_	Case=Nom	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	хэнэй	хэнэй	PRON	_	_	5	det	_	Morf=Unknown
@@ -977,7 +977,7 @@
 # text = Хамтарал, тэрэнэй түрүүлэгшэ гэхэдээ, Матикайнэн.
 1	Хамтарал	хамтарал	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	_	_
-3	тэрэнэй	тэрэ	PRON	_	Case=Gen|PronType=Dem	4	nmod:own	_	_
+3	тэрэнэй	тэрэ	PRON	_	Case=Gen|PronType=Dem	4	nmod	_	_
 4	түрүүлэгшэ	түрүүлэгшэ	NOUN	_	Case=Nom	1	nmod	_	_
 5	гэхэдээ	гэхэ	PART	_	_	4	discourse	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
@@ -1177,7 +1177,7 @@
 
 # sent_id = bxr-ud3::117
 # text = Эхэнэр, хэнэй түмэр морин һандарааб, эндэ ерээд байна.
-# text_en = Woman, whose iron horse broke, is ninety here.
+# text_en = Woman, whose car broke, is ninety here.
 1	Эхэнэр	эхэнэр	NOUN	_	Case=Nom	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	хэнэй	хэнэй	PRON	_	_	5	det	_	Morf=Unknown
@@ -1340,7 +1340,7 @@
 
 # sent_id = bxr-ud3::133
 # text = Маттинай түмэр морин томо, Пеккинэй түмэр мориндо ороходоо.
-# text_en = Matti's iron horse is bigger than Pekka's (?)
+# text_en = Matti's car is bigger than Pekka's (?)
 1	Маттинай	Матти	PROPN	_	Case=Nom|Gender=Masc	3	nmod	_	_
 2	түмэр	түмэр	NOUN	_	_	3	compound	_	_
 3	морин	морин	NOUN	_	Case=Nom	4	nsubj	_	_
@@ -1407,7 +1407,7 @@
 
 # sent_id = bxr-ud3::139
 # text = Шандаганай хамагай муу дай жүрөөдэһэн.
-1	Шандаганай	шандаган	NOUN	_	Case=Gen	5	nmod:own	_	_
+1	Шандаганай	шандаган	NOUN	_	Case=Gen	5	nmod	_	_
 2	хамагай	хамагай	ADV	_	_	3	advmod	_	_
 3	муу	муу	ADJ	_	_	5	amod	_	_
 4	дай	дай	ADJ	_	_	5	compound	_	_
@@ -1429,7 +1429,7 @@
 2	шалгаруулха	шалгаруулха	NOUN	_	Case=Nom	3	compound	_	_
 3	тэмсээн	тэмсээн	NOUN	_	Case=Nom	6	nsubj	_	_
 4	–	–	PUNCT	_	_	3	punct	_	_
-5	Виртаненэй	Виртанен	PROPN	_	Case=Gen	6	nmod:own	_	_
+5	Виртаненэй	Виртанен	PROPN	_	Case=Gen	6	nmod	_	_
 6	зургаадахи	зурган	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -1498,27 +1498,28 @@
 2	соошоогоо	сошоо	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	8	punct	_	_
 4	хүбүүн	хүбүүн	NOUN	_	Case=Nom	8	nsubj	_	_
-5	мориной	морин	NOUN	_	Case=Gen	6	nmod:own	_	_
-6	нюрган	нюрган	NOUN	_	Case=Nom	8	nmod	_	_
+5	мориной	морин	NOUN	_	Case=Gen	6	nmod	_	_
+6	нюрган	нюрган	NOUN	_	Case=Nom	8	obl	_	_
 7	дээрэһээнь	дээрэһээнь	ADP	_	_	6	case	_	_
 8	унахадань	уна	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	2	advcl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::148
 # text = Гэрэй орой.
-1	Гэрэй	гэр	NOUN	_	Case=Gen	2	nmod:own	_	_
-2	орой	орой	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
+# text_en = Top of the house.
+1	Гэрэй	гэр	NOUN	_	Case=Gen	2	nmod	_	Gloss=house
+2	орой	орой	NOUN	_	Case=Nom	0	root	_	Gloss=top|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::149
 # text = Гэрэй байшан.
-1	Гэрэй	гэр	NOUN	_	Case=Gen	2	nmod:own	_	_
+1	Гэрэй	гэр	NOUN	_	Case=Gen	2	nmod	_	Gloss=house
 2	байшан	байшан	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::150
 # text = Сэсэгэй багтаамжын уналга.
-1	Сэсэгэй	сэсэг	NOUN	_	Case=Gen	2	compound	_	_
+1	Сэсэгэй	сэсэг	NOUN	_	Case=Gen	2	compound	_	Gloss=rose
 2	багтаамжын	багтаамжа	NOUN	_	Case=Gen	3	nmod	_	_
 3	уналга	уналга	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
@@ -1819,14 +1820,14 @@
 
 # sent_id = bxr-ud3::183
 # text = Майин хожомдохи нүхэр.
-1	Майин	Майа	PROPN	_	Case=Gen|Gender=Fem	3	nmod:own	_	_
+1	Майин	Майа	PROPN	_	Case=Gen|Gender=Fem	3	nmod	_	_
 2	хожомдохи	хожомдохи	ADJ	_	_	3	amod	_	_
 3	нүхэр	нүхэр	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::184
 # text = Майин нүхэр Туркуһаань бусахань.
-1	Майин	Майа	PROPN	_	Case=Gen|Gender=Fem	2	nmod:own	_	_
+1	Майин	Майа	PROPN	_	Case=Gen|Gender=Fem	2	nmod	_	_
 2	нүхэр	нүхэр	NOUN	_	Case=Nom	4	nsubj	_	_
 3	Туркуһаань	Турку	PROPN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	4	nmod	_	_
 4	бусахань	буса	VERB	_	Case=Nom|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	0	root	_	SpaceAfter=No
@@ -2081,7 +2082,7 @@
 
 # sent_id = bxr-ud3::207
 # text = Катя абгазы олон хүүгэдтэй гэр бүлэдэ түрэһэн юм.
-1	Катя	Катя	PROPN	_	Case=Nom|Gender=Fem	2	nmod:own	_	_
+1	Катя	Катя	PROPN	_	Case=Nom|Gender=Fem	2	nmod	_	_
 2	абгазы	абгазы	NOUN	_	Case=Nom	7	nsubj	_	_
 3	олон	олон	ADJ	_	_	4	amod	_	_
 4	хүүгэдтэй	хүүгэн	NOUN	_	Case=Com|Number=Plur	6	nmod	_	_
@@ -2196,7 +2197,7 @@
 
 # sent_id = bxr-ud3::217
 # text = Дармаевтанайнгаа уг һажаажа, һургуулияа амжалтатайгаар дүүргээ.
-1	Дармаевтанайнгаа	Дармаев	PROPN	_	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	2	nmod:own	_	_
+1	Дармаевтанайнгаа	Дармаев	PROPN	_	Case=Gen|Gender=Masc|Number=Plur|Reflex=Yes	2	nmod	_	_
 2	уг	уг	NOUN	_	Case=Nom	3	obj	_	_
 3	һажаажа	һажаа	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
@@ -2332,8 +2333,8 @@
 
 # sent_id = bxr-ud3::230
 # text = Долоон Мундаргын хормойдо мүндэлһэн.
-1	Долоон	долоон	NUM	_	NumType=Card	2	nummod	_	_
-2	Мундаргын	Мундарга	PROPN	_	_	3	nmod:own	_	Morf=Unknown
+1	Долоон	долоон	NUM	_	NumType=Card	2	nummod	_	Gloss=seven
+2	Мундаргын	Мундарга	PROPN	_	_	3	nmod	_	Morf=Unknown
 3	хормойдо	хормой	NOUN	_	Case=Dat	4	nmod	_	_
 4	мүндэлһэн	мүндэлһэн	ADJ	_	_	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_
@@ -2620,7 +2621,7 @@
 
 # sent_id = bxr-ud3::260
 # text = Екатерина Шенхоровагай шүлэгүүд соо инаг дуранай ошон зураглагдана.
-1	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	3	nmod:own	_	_
+1	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	3	nmod	_	_
 2	Шенхоровагай	Шенхоров	PROPN	_	Case=Gen|Gender=Fem	1	flat	_	_
 3	шүлэгүүд	шүлэг	NOUN	_	Case=Nom|Number=Plur	8	nmod	_	_
 4	соо	соо	ADP	_	_	3	case	_	_
@@ -2805,7 +2806,7 @@
 3	шүлэгдэмэл	шүлэгдэмэл	NOUN	_	Case=Nom	4	nmod	_	_
 4	зохёол	зохёол	NOUN	_	Case=Nom	8	nsubj	_	_
 5	баһал	баһа	ADV	_	_	8	advmod	_	_
-6	уншагшадай	уншагша	NOUN	_	Case=Gen|Number=Plur	7	nmod:own	_	_
+6	уншагшадай	уншагша	NOUN	_	Case=Gen|Number=Plur	7	nmod	_	_
 7	һонирхол	һонирхол	NOUN	_	Case=Nom	8	obj	_	_
 8	түрүүлнэ	түрүүл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
@@ -2939,7 +2940,7 @@
 
 # sent_id = bxr-ud3::292
 # text = Екатерина Дамдиновагай зохёохы оршом байгуулга.
-1	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	5	nmod:own	_	_
+1	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	5	nmod	_	_
 2	Дамдиновагай	Дамдинова	PROPN	_	Case=Gen|Gender=Masc	1	flat	_	_
 3	зохёохы	зохёохы	ADJ	_	_	4	amod	_	_
 4	оршом	оршом	NOUN	_	Case=Nom	5	nmod	_	_
@@ -2988,7 +2989,7 @@
 
 # sent_id = bxr-ud3::296
 # text = Россиин уран зохёолшодой холбооной гэшүүн.
-1	Россиин	России	PROPN	_	Case=Gen	3	nmod:own	_	_
+1	Россиин	России	PROPN	_	Case=Gen	3	nmod	_	_
 2	уран	уран	ADJ	_	_	3	compound	_	_
 3	зохёолшодой	зохеолшон	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
 4	холбооной	холбоон	NOUN	_	Case=Gen	5	nmod	_	_
@@ -3057,7 +3058,7 @@
 # sent_id = bxr-ud3::303
 # text = Эндэ Александр Блогой шүлэгэй шэнхинээн зэдэлшэхэдэл гэдэг.
 1	Эндэ	эндэ	ADV	_	_	6	advmod	_	_
-2	Александр	Александр	PROPN	_	Case=Nom|Gender=Masc	4	nmod:own	_	_
+2	Александр	Александр	PROPN	_	Case=Nom|Gender=Masc	4	nmod	_	_
 3	Блогой	Блог	PROPN	_	Case=Gen	2	flat	_	_
 4	шүлэгэй	шүлэг	NOUN	_	Case=Gen	5	nmod	_	_
 5	шэнхинээн	шэнхинээн	NOUN	_	Case=Nom	6	nsubj	_	_
@@ -3113,7 +3114,7 @@
 1	Тиигээд	тиигээд	CCONJ	_	_	7	cc	_	_
 2	лэ	лэ	PART	_	_	7	discourse	_	_
 3	тэдэнэр	тэдэ	PRON	_	Case=Nom|Number=Plur|PronType=Dem	7	nsubj	_	_
-4	Хэрэнэй	Хэрэн	PROPN	_	Case=Gen	6	nmod:own	_	_
+4	Хэрэнэй	Хэрэн	PROPN	_	Case=Gen	6	nmod	_	_
 5	дунда	дунда	ADJ	_	_	6	compound	_	_
 6	һургуули	һургуули	NOUN	_	Case=Nom	7	nmod	_	_
 7	дүүргээ	дүүргэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
@@ -3238,7 +3239,7 @@
 
 # sent_id = bxr-ud3::323
 # text = Саяан Мундаргын орой шэнги хурса һанаа бодолтой.
-1	Саяан	Саяан	PROPN	_	Case=Nom	3	nmod:own	_	_
+1	Саяан	Саяан	PROPN	_	Case=Nom	3	nmod	_	_
 2	Мундаргын	Мундарга	PROPN	_	_	1	flat	_	Morf=Unknown
 3	орой	орой	NOUN	_	Case=Nom	0	root	_	_
 4	шэнги	шэнги	ADV	_	_	3	advmod	_	_
@@ -3266,7 +3267,7 @@
 
 # sent_id = bxr-ud3::326
 # text = Түнхэнэй уран зохёолшодой хүтэлбэритэй золгоо.
-1	Түнхэнэй	Түнхэн	PROPN	_	Case=Gen	3	nmod:own	_	_
+1	Түнхэнэй	Түнхэн	PROPN	_	Case=Gen	3	nmod	_	_
 2	уран	уран	ADJ	_	_	3	amod	_	_
 3	зохёолшодой	зохеолшон	NOUN	_	Case=Gen|Number=Plur	4	nmod	_	_
 4	хүтэлбэритэй	хүтэлбэри	NOUN	_	Case=Com	5	nmod	_	_
@@ -3587,7 +3588,7 @@
 
 # sent_id = bxr-ud3::364
 # text = Саяанайм хурса оройнууд хүтэрэлдөөд еохор наада хатарба.
-1	Саяанайм	Саяан	PROPN	_	Case=Gen	3	nmod:own	_	_
+1	Саяанайм	Саяан	PROPN	_	Case=Gen	3	nmod	_	_
 2	хурса	хурса	ADJ	_	_	3	amod	_	_
 3	оройнууд	орой	NOUN	_	Case=Nom|Number=Plur	7	nsubj	_	_
 4	хүтэрэлдөөд	хүтэрэлдөөд	ADV	_	_	7	advmod	_	_
@@ -3607,7 +3608,7 @@
 
 # sent_id = bxr-ud3::366
 # text = Омар Хайямай алтан аялгаар.
-1	Омар	Омар	PROPN	_	Case=Nom|Gender=Masc	4	nmod:own	_	_
+1	Омар	Омар	PROPN	_	Case=Nom|Gender=Masc	4	nmod	_	_
 2	Хайямай	Хайям	PROPN	_	Case=Gen	1	flat	_	_
 3	алтан	алтан	NOUN	_	Case=Nom	4	amod	_	_
 4	аялгаар	аялга	NOUN	_	_	0	root	_	SpaceAfter=No
@@ -3919,14 +3920,15 @@
 
 # sent_id = bxr-ud3::388
 # text = Албан еһоной хэлэнүүд — пашту ба дари.
-1	Албан	Албан	PROPN	_	Case=Nom	3	nmod:own	_	_
-2	еһоной	еһоной	ADJ	_	_	3	amod	_	_
-3	хэлэнүүд	хэлэн	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
-4	—	—	PUNCT	_	_	3	punct	_	_
-5	пашту	пашту	NOUN	_	Case=Nom	0	root	_	_
-6	ба	ба	CCONJ	_	_	5	cc	_	_
-7	дари	дари	NOUN	_	Case=Nom	5	conj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
+# text_en = The official languages are Pashto and Dari.
+1	Албан	албан	ADJ	_	_	2	compound	_	Gloss=official
+2	еһоной	еһоной	ADJ	_	_	3	amod	_	Gloss=official
+3	хэлэнүүд	хэлэн	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	Gloss=languages
+4	—	—	PUNCT	_	_	3	punct	_	Gloss=—
+5	пашту	пашту	NOUN	_	Case=Nom	0	root	_	Gloss=Pashto
+6	ба	ба	CCONJ	_	_	7	cc	_	Gloss=and
+7	дари	дари	NOUN	_	Case=Nom	5	conj	_	Gloss=Dari|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::389
 # text = Диилэнхи шажан — лалын шажан.
