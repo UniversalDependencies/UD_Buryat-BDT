@@ -1341,7 +1341,7 @@
 2	түмэр	түмэр	NOUN	_	_	3	compound	_	_
 3	морин	морин	NOUN	_	Case=Nom	4	nsubj	_	_
 4	томо	томо	ADJ	_	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	7	punct	_	_
+5	,	,	PUNCT	_	_	8	punct	_	_
 6	Пеккинэй	Пекка	PROPN	_	Case=Gen|Gender=Masc	8	nmod	_	_
 7	түмэр	түмэр	NOUN	_	_	8	compound	_	_
 8	мориндо	морин	NOUN	_	Case=Dat	4	nmod	_	_
