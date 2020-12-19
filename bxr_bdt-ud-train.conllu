@@ -46,7 +46,8 @@
 
 # sent_id = bxr-ud3::900
 # text = Петиин хүршэ хорёогоо шэрдэбэ.
-1	Петиин	Пети	PROPN	_	Case=Gen|Gender=Masc	2	nmod:own	_	_
+# text_en = Peter's neighbor painted the fence black.
+1	Петиин	Пети	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
 2	хүршэ	хүршэ	NOUN	_	Case=Nom	4	nsubj	_	_
 3	хорёогоо	хорёо	NOUN	_	Case=Nom|Reflex=Yes	4	obj	_	_
 4	шэрдэбэ	шэрдэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -185,8 +186,9 @@
 
 # sent_id = bxr-ud3::912
 # text = Энэ Пётрой бэшэг, үсэгэлдэр асаржа үгөө һэн.
+# text_en = This letter is from Peter and it was delivered yesterday.
 1	Энэ	энэ	PRON	_	Case=Nom|PronType=Dem	3	nsubj	_	_
-2	Пётрой	Пётр	PROPN	_	Case=Gen|Gender=Masc	3	nmod:own	_	_
+2	Пётрой	Пётр	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
 3	бэшэг	бэшэг	NOUN	_	Case=Nom	7	parataxis	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	үсэгэлдэр	үсэгэлдэр	ADV	_	_	7	advmod	_	_
@@ -197,12 +199,13 @@
 
 # sent_id = bxr-ud3::913
 # text = Тэрэ басаган Франциин ниислэл хото Париста өөдөө болоо һэн.
+# text_en = She grew up in Paris, the capital of France.
 1	Тэрэ	тэрэ	DET	_	PronType=Dem	2	det	_	_
 2	басаган	басаган	NOUN	_	Case=Nom	8	nsubj	_	_
-3	Франциин	Франци	PROPN	_	Case=Gen	5	nmod:own	_	_
+3	Франциин	Франци	PROPN	_	Case=Gen	5	nmod	_	_
 4	ниислэл	ниислэл	NOUN	_	Case=Nom	5	compound	_	_
 5	хото	хото	NOUN	_	Case=Nom	6	nmod	_	_
-6	Париста	Парис	PROPN	_	Case=Dat	8	nmod	_	_
+6	Париста	Парис	PROPN	_	Case=Dat	8	obl	_	_
 7	өөдөө	өөдөө	PRON	_	Case=Nom|Reflex=Yes	8	compound	_	_
 8	болоо	боло	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 9	һэн	һэн	PART	_	_	8	discourse	_	SpaceAfter=No
