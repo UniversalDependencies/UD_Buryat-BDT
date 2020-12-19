@@ -29,17 +29,17 @@
 
 # sent_id = bxr-ud3::3
 # text = Би баһаа ханада үлгөөтэй байһан шкаф сооһоонь алха гаргааб.
-# text_en = I hung the bag on the wall and walked out of the closet.
-1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-2	баһаа	баһаа	ADV	_	_	9	advmod	_	_
-3	ханада	хана	NOUN	_	Case=Dat	4	obl	_	_
-4	үлгөөтэй	үлгөөтэй	ADV	_	_	9	advcl	_	_
-5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
-6	шкаф	шкаф	NOUN	_	Case=Nom	8	nmod	_	_
-7	сооһоонь	сооһоонь	ADP	_	_	6	case	_	_
-8	алха	алха	NOUN	_	Case=Nom	9	obj	_	_
-9	гаргааб	гарга	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	_
+# text_en = I also took the hammer out of the box on the wall.
+1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Gloss=I
+2	баһаа	баһаа	ADV	_	_	9	advmod	_	Gloss=also
+3	ханада	хана	NOUN	_	Case=Dat	4	obl	_	Gloss=wall
+4	үлгөөтэй	үлгөөтэй	ADV	_	_	6	acl	_	Gloss=hooked
+5	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	Gloss=is
+6	шкаф	шкаф	NOUN	_	Case=Nom	8	nmod	_	Gloss=closet
+7	сооһоонь	сооһоонь	ADP	_	_	6	case	_	Gloss=out
+8	алха	алха	NOUN	_	Case=Nom	9	obj	_	Gloss=hammer
+9	гаргааб	гарга	VERB	_	Mood=Des|Number=Sing|Person=1	0	root	_	Gloss=took|SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::4
 # text = Тэрэ хүн ехэ хүндөөр хэнхэй байна.
@@ -521,12 +521,12 @@
 
 # sent_id = bxr-ud3::53
 # text = Маттиин гонзогорхон хобто түмэр морин соо орхигдоһон байна.
-# text_en = Mattii's long hobto is left in the iron horse.
+# text_en = Matti's pencil case was left in the car.
 1	Маттиин	Матти	PROPN	_	Case=Gen|Gender=Masc	3	nmod	_	_
-2	гонзогорхон	гонзогорхон	ADJ	_	_	3	compound	_	_
-3	хобто	хобто	NOUN	_	Case=Nom	7	nsubj	_	_
-4	түмэр	түмэр	NOUN	_	_	5	compound	_	_
-5	морин	морин	NOUN	_	Case=Nom	7	obl	_	_
+2	гонзогорхон	гонзогорхон	ADJ	_	_	3	compound	_	Gloss=pencil
+3	хобто	хобто	NOUN	_	Case=Nom	7	nsubj	_	Gloss=case
+4	түмэр	түмэр	NOUN	_	_	5	compound	_	Gloss=iron
+5	морин	морин	NOUN	_	Case=Nom	7	obl	_	Gloss=horse
 6	соо	соо	ADP	_	_	5	case	_	_
 7	орхигдоһон	орхигдоһон	ADJ	_	_	0	root	_	_
 8	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
@@ -843,13 +843,14 @@
 
 # sent_id = bxr-ud3::85
 # text = Минии хани нүхэртэ Оулуһаань эльгээгдэһээн бэлэг.
+# text_en = My husband has a souvenir from Oulu.
 1	Минии	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	det	_	_
-2	хани	хани	NOUN	_	Case=Nom	6	nmod:own	_	_
-3	нүхэртэ	нүхэр	NOUN	_	Case=Dat	2	fixed	_	_
-4	Оулуһаань	Оулу	PROPN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	5	nmod	_	_
-5	эльгээгдэһээн	эльгээгдэһээн	ADJ	_	_	6	acl	_	_
-6	бэлэг	бэлэг	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+2	хани	хани	NOUN	_	Case=Nom	3	compound	_	_
+3	нүхэртэ	нүхэр	NOUN	_	Case=Dat	0	root	_	_
+4	Оулуһаань	Оулу	PROPN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	5	obl	_	_
+5	эльгээгдэһээн	эльгээгдэһээн	ADJ	_	_	6	amod	_	_
+6	бэлэг	бэлэг	NOUN	_	Case=Nom	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::86
 # text = Эрэ хүн баар соо үүдэшэн байгаа.
@@ -908,13 +909,14 @@
 
 # sent_id = bxr-ud3::91
 # text = Жирафууд – эгээл һонирхолтой зэрлиг амитад.
-1	Жирафууд	жираф	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
-2	–	–	PUNCT	_	_	1	punct	_	_
+# text_en = Giraffes – wild animals with a lovely nature.
+1	Жирафууд	жираф	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	Gloss=giraffes
+2	–	–	PUNCT	_	_	1	punct	_	Gloss=–
 3	эгээл	эгээл	ADV	_	_	4	advmod	_	_
 4	һонирхолтой	һонирхолтой	ADJ	_	_	6	amod	_	_
-5	зэрлиг	зэрлиг	ADJ	_	_	0	root	_	_
-6	амитад	амитан	NOUN	_	Case=Nom|Number=Plur	5	fixed	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+5	зэрлиг	зэрлиг	ADJ	_	_	6	amod	_	Gloss=wild
+6	амитад	амитан	NOUN	_	Case=Nom|Number=Plur	0	root	_	Gloss=animal|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::92
 # text = Эгээл һонирхолтой зэрлиг амитад гэхэдээ – жирафууд болоно.
@@ -930,13 +932,14 @@
 
 # sent_id = bxr-ud3::93
 # text = Жирафууд – эгээл һонирхолтой зэрлиг амитад.
-1	Жирафууд	жираф	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
-2	–	–	PUNCT	_	_	1	punct	_	_
+# text_en = Giraffes – wild animals with a lovely nature.
+1	Жирафууд	жираф	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	Gloss=giraffes
+2	–	–	PUNCT	_	_	1	punct	_	Gloss=–
 3	эгээл	эгээл	ADV	_	_	4	advmod	_	_
 4	һонирхолтой	һонирхолтой	ADJ	_	_	6	amod	_	_
-5	зэрлиг	зэрлиг	ADJ	_	_	0	root	_	_
-6	амитад	амитан	NOUN	_	Case=Nom|Number=Plur	5	fixed	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+5	зэрлиг	зэрлиг	ADJ	_	_	6	amod	_	Gloss=wild
+6	амитад	амитан	NOUN	_	Case=Nom|Number=Plur	0	root	_	Gloss=animal|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::94
 # text = Эгээл һонирхолтой зэрлиг амитад гэхэдээ – жирафууд болоно.
@@ -1064,17 +1067,18 @@
 
 # sent_id = bxr-ud3::107
 # text = Тооһоноо аршажа дууһаад, тиигээд тооһо хородог машинаар сэбэрлэлгэ хэбэ.
-1	Тооһоноо	тооһон	NOUN	_	Case=Nom|Reflex=Yes	2	nmod	_	_
-2	аршажа	аршажа	NOUN	_	Case=Nom	3	obj	_	_
-3	дууһаад	дууһа	VERB	_	Mood=Des|Number=Plur|Person=3	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	10	punct	_	_
-5	тиигээд	тиигээд	ADP	_	_	10	mark	_	_
-6	тооһо	тоо	NOUN	_	Case=Dat	9	nmod	_	_
-7	хородог	хородог	NOUN	_	Case=Nom	6	fixed	_	_
-8	машинаар	машина	NOUN	_	_	7	fixed	_	_
-9	сэбэрлэлгэ	сэбэрлэлгэ	NOUN	_	Case=Nom	10	obj	_	_
-10	хэбэ	хэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
+# text_en = After dusting, he vacuum-cleaned.
+1	Тооһоноо	тооһон	NOUN	_	Case=Nom|Reflex=Yes	2	nmod	_	Gloss=dust
+2	аршажа	аршажа	NOUN	_	Case=Nom	3	obj	_	Gloss=wiping
+3	дууһаад	дууһа	VERB	_	Mood=Des|Number=Plur|Person=3	10	advcl	_	Gloss=finished|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	Gloss=,
+5	тиигээд	тиигээд	ADV	_	_	10	advmod	_	Gloss=then
+6	тооһо	тооһон	NOUN	_	Case=Nom	8	compound	_	Gloss=dust
+7	хородог	хородог	NOUN	_	Case=Nom	8	compound	_	Gloss=sucker
+8	машинаар	машина	NOUN	Case=Ins	_	10	obl	_	Gloss=machine
+9	сэбэрлэлгэ	сэбэрлэлгэ	NOUN	_	Case=Nom	10	obj	_	Gloss=cleaning
+10	хэбэ	хэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=did|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	Gloss=.
 
 # sent_id = bxr-ud3::108
 # text = Сэдьхэлэй зобоһон, би ушаралай хүгжэлтые адаглааб.
@@ -1173,7 +1177,7 @@
 
 # sent_id = bxr-ud3::117
 # text = Эхэнэр, хэнэй түмэр морин һандарааб, эндэ ерээд байна.
-# text_en = Wife, whose iron horse snorted, is ninety here.
+# text_en = Woman, whose iron horse broke, is ninety here.
 1	Эхэнэр	эхэнэр	NOUN	_	Case=Nom	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
 3	хэнэй	хэнэй	PRON	_	_	5	det	_	Morf=Unknown
@@ -1264,14 +1268,14 @@
 
 # sent_id = bxr-ud3::127
 # text = Сэсэгүүдэй эгээл һайханиинь улаан бамба сэсэг байгаа.
-1	Сэсэгүүдэй	сэсэг	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	_
+1	Сэсэгүүдэй	сэсэг	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	Gloss=rose
 2	эгээл	эгээл	ADV	_	_	3	advmod	_	_
 3	һайханиинь	һайхан	ADJ	_	_	6	nsubj	_	_
-4	улаан	улаан	ADJ	_	_	6	amod	_	_
-5	бамба	бамба	ADJ	_	_	0	root	_	_
-6	сэсэг	сэсэг	NOUN	_	Case=Nom	5	fixed	_	_
+4	улаан	улаан	ADJ	_	_	6	amod	_	Gloss=red
+5	бамба	бамба	ADJ	_	_	6	amod	_	_
+6	сэсэг	сэсэг	NOUN	_	Case=Nom	0	root	_	Gloss=rose
 7	байгаа	бай	AUX	_	_	6	cop	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::128
 # text = Тэдэнэр, ном бэшэжэ байһан зон, мүн лэ тиигэжэ хэлээ.
