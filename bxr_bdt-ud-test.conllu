@@ -6320,9 +6320,9 @@
 31	Обитаемый	обитаемый	ADJ	_	_	13	conj	_	_
 32	остров	остров	NOUN	_	Case=Nom	31	flat	_	SpaceAfter=No
 33	»	»	PUNCT	_	_	31	punct	_	_
-34	ба	ба	CCONJ	_	_	31	cc	_	_
+34	ба	ба	CCONJ	_	_	36	cc	_	_
 35	бусадшье	бусадшье	DET	_	PronType=Ind	36	det	_	_
-36	проектнүүдые	проект	NOUN	_	Case=Acc|Number=Plur	16	conj	_	_
+36	проектнүүдые	проект	NOUN	_	Case=Acc|Number=Plur	13	conj	_	_
 37	бэелүүлсэһэн	бэелүүл	VERB	_	VerbForm=Inf	38	acl	_	_
 38	габьяатай	габьяа	NOUN	_	Case=Com	9	parataxis	_	SpaceAfter=No
 39	.	.	PUNCT	_	_	9	punct	_	_
@@ -6346,9 +6346,9 @@
 15	-	-	PUNCT	_	_	16	punct	_	SpaceAfter=No
 16	4	4	NUM	_	NumType=Card	13	flat	_	SpaceAfter=No
 17	»	»	PUNCT	_	_	13	punct	_	_
-18	ба	ба	CCONJ	_	_	13	cc	_	_
+18	ба	ба	CCONJ	_	_	20	cc	_	_
 19	бусад	бусад	DET	_	PronType=Ind	20	det	_	_
-20	кинофильмнүүдтэ	кинофильм	NOUN	_	Case=Dat|Number=Plur	9	conj	_	_
+20	кинофильмнүүдтэ	кинофильм	NOUN	_	Case=Dat|Number=Plur	8	conj	_	_
 21	хүдэлхэ	хүдэл	VERB	_	_	22	acl	_	_
 22	азатай	аза	NOUN	_	Case=Com	23	nmod	_	_
 23	байһан	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
