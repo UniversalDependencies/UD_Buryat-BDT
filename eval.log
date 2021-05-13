@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Buryat-BDT:
-commit 6e61f44a032cf3ce8e4858ed9921ab2567100dc2
+commit 61715a30de672d49b08c045176ed99013c39f234
+Merge: e0993d1 70e0ec4
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 17:38:59 2020 +0200
 Size: counted 10185 of 10185 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.64183209935754.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -15,52 +15,50 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 5660 out of 10185 total words have one or more features.
+Features: 5668 out of 10185 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 32 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 1024 bugs.
+Udapi:
+               TOTAL        675
+Udapi: found 675 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10185 words.
 Genres: found 3 out of 17 known.
 validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-test.conllu
-[Line 36 Sent bxr-ud3::3 Node 4]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (4:үлгөөтэй:fixed --> 5:байһан:fixed)
-[Line 37 Sent bxr-ud3::3 Node 5]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (5:байһан:fixed --> 6:шкаф:fixed)
-[Line 38 Sent bxr-ud3::3 Node 6]: [L3 Syntax leaf-fixed] 'fixed' not expected to have children (6:шкаф:fixed --> 7:сооһоонь:case)
-[Line 117 Sent bxr-ud3::11 Node 6]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
-[Line 131 Sent bxr-ud3::13 Node 1]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'NUM'
-[Line 197 Sent bxr-ud3::19 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'ADJ'
-[Line 215 Sent bxr-ud3::21 Node 4]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
-[Line 228 Sent bxr-ud3::22 Node 9]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
-[Line 227 Sent bxr-ud3::22 Node 9]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (9:байгаа:cop --> 8:гэжэ:discourse)
+[Line 198 Sent bxr-ud3::19 Node 5]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'ADJ'
+[Line 237 Sent bxr-ud3::23 Node 4]: [L5 Morpho aux-lemma] 'үнгэр' is not an auxiliary verb in language [bxr]
+[Line 237 Sent bxr-ud3::23 Node 4]: [L5 Syntax cop-lemma] 'үнгэр' is not a copula in language [bxr]
+[Line 283 Sent bxr-ud3::28 Node 5]: [L5 Syntax cop-lemma] 'боло' is not a copula in language [bxr]
+[Line 486 Sent bxr-ud3::49 Node 5]: [L5 Syntax cop-lemma] 'боло' is not a copula in language [bxr]
+[Line 679 Sent bxr-ud3::66 Node 5]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
+[Line 719 Sent bxr-ud3::70 Node 7]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 721 Sent bxr-ud3::70 Node 9]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+[Line 786 Sent bxr-ud3::77 Node 4]: [L5 Syntax cop-lemma] 'боло' is not a copula in language [bxr]
+[Line 895 Sent bxr-ud3::89 Node 7]: [L5 Morpho aux-lemma] 'яба' is not an auxiliary verb in language [bxr]
+[Line 895 Sent bxr-ud3::89 Node 7]: [L5 Syntax cop-lemma] 'яба' is not a copula in language [bxr]
+[Line 906 Sent bxr-ud3::90 Node 7]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'ADJ'
 ...suppressing further errors regarding Syntax
-[Line 672 Sent bxr-ud3::66 Node 5]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
-[Line 1210 Sent bxr-ud3::121 Node 6]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
-[Line 2077 Sent bxr-ud3::207 Node 8]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
-[Line 2220 Sent bxr-ud3::220 Node 5]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
-[Line 2232 Sent bxr-ud3::221 Node 8]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
-[Line 2500 Sent bxr-ud3::247 Node 7]: [L5 Morpho aux-lemma] 'гээшэ' is not an auxiliary verb in language [bxr]
-[Line 2566 Sent bxr-ud3::254 Node 6]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
-[Line 2946 Sent bxr-ud3::293 Node 10]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
-[Line 3072 Sent bxr-ud3::305 Node 7]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
+[Line 1222 Sent bxr-ud3::121 Node 6]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
+[Line 2092 Sent bxr-ud3::207 Node 8]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
+[Line 2151 Sent bxr-ud3::212 Node 10]: [L5 Morpho aux-lemma] 'гарга' is not an auxiliary verb in language [bxr]
+[Line 2235 Sent bxr-ud3::220 Node 5]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
+[Line 2247 Sent bxr-ud3::221 Node 8]: [L5 Morpho aux-lemma] 'юм' is not an auxiliary verb in language [bxr]
+[Line 2305 Sent bxr-ud3::227 Node 8]: [L5 Morpho aux-lemma] 'яба' is not an auxiliary verb in language [bxr]
 ...suppressing further errors regarding Morpho
-Morpho errors: 99
-Syntax errors: 495
-*** FAILED *** with 594 errors
+Morpho errors: 110
+Syntax errors: 94
+*** FAILED *** with 204 errors
 Exit code: 1
 validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-train.conllu
-[Line 65 Sent bxr-ud3::902 Node 1]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-[Line 66 Sent bxr-ud3::902 Node 2]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1]
-[Line 67 Sent bxr-ud3::902 Node 3]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
-[Line 68 Sent bxr-ud3::902 Node 4]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3]
-[Line 69 Sent bxr-ud3::902 Node 5]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
-[Line 70 Sent bxr-ud3::902 Node 6]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3, 5]
-[Line 71 Sent bxr-ud3::902 Node 7]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
-[Line 72 Sent bxr-ud3::902 Node 8]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [1, 3, 5, 7]
-[Line 145 Sent bxr-ud3::908 Node 11]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
-[Line 183 Sent bxr-ud3::911 Node 5]: [L5 Morpho aux-lemma] 'яда' is not an auxiliary verb in language [bxr]
+[Line 66 Sent bxr-ud3::902 Node 1]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 68 Sent bxr-ud3::902 Node 3]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+[Line 70 Sent bxr-ud3::902 Node 5]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nsubj'.
+[Line 72 Sent bxr-ud3::902 Node 7]: [L3 Syntax orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+[Line 146 Sent bxr-ud3::908 Node 11]: [L5 Morpho aux-lemma] 'шада' is not an auxiliary verb in language [bxr]
+[Line 184 Sent bxr-ud3::911 Node 5]: [L5 Morpho aux-lemma] 'яда' is not an auxiliary verb in language [bxr]
 Morpho errors: 2
-Syntax errors: 8
-*** FAILED *** with 10 errors
+Syntax errors: 4
+*** FAILED *** with 6 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
@@ -69,8 +67,8 @@ Validity: 0.01
 (weight=0.256410256410256) * (score{size}=0.335987011112061) = 0.0861505156697592
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.864864864864865) = 0.0665280665280665
-(TOTAL score=0.366856561081687) * (availability=1) * (validity=0.01) = 0.00366856561081687
+(weight=0.307692307692308) * (score{udapi}=0.337260677466863) = 0.10377251614365
+(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
+(TOTAL score=0.465473152069412) * (availability=1) * (validity=0.01) = 0.00465473152069412
 STARS = 0
-UD_Buryat-BDT	0.00366856561081687	0
+UD_Buryat-BDT	0.00465473152069412	0
