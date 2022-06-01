@@ -12572,7 +12572,7 @@
 
 # sent_id = bxr-ud3::893
 # text = Хэрбээ удаан сагта нютагаа ошоогүй һаа, намда муу байдаг.
-1	Хэрбээ	хэрбэ	AUX	_	_	5	aux	_	_
+1	Хэрбээ	хэрбэ	SCONJ	_	_	5	mark	_	_
 2	удаан	удаан	ADJ	_	_	3	amod	_	_
 3	сагта	саг	NOUN	_	Case=Dat	5	nmod	_	_
 4	нютагаа	нютаг	NOUN	_	Case=Nom|Reflex=Yes	5	nmod	_	_
