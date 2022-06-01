@@ -6263,7 +6263,7 @@
 12	баһал	баһа	ADV	_	_	13	advmod	_	_
 13	һажаанхай	һажаа	VERB	_	_	7	parataxis	_	_
 14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
-15	тэмдэглэмээр	тэмдэглэ	AUX	_	_	13	aux	_	SpaceAfter=No
+15	тэмдэглэмээр	тэмдэглэ	VERB	_	_	13	compound	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::509
