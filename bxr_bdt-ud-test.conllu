@@ -11683,7 +11683,7 @@
 18	һү	һүн	NOUN	_	Case=Nom	16	conj	_	_
 19	хэрэглэхэ	хэрэглэ	VERB	_	_	0	root	_	_
 20	болоо	боло	AUX	_	Mood=Des|Number=Sing|Person=3	19	aux	_	_
-21	юмбибди	юмби	AUX	_	Number=Plur|Person=1	19	discourse	_	SpaceAfter=No
+21	юмбибди	юмби	VERB	_	Number=Plur|Person=1	19	discourse	_	SpaceAfter=No
 22	?	?	PUNCT	_	_	19	punct	_	_
 
 # sent_id = bxr-ud3::838
