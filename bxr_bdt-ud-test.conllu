@@ -3852,9 +3852,9 @@
 5	Бурхан	Бурхан	PROPN	_	Case=Nom|Gender=Masc	8	nsubj	_	_
 6	Багша	багша	NOUN	_	Case=Nom	5	flat	_	_
 7	гуйлтыень	гуйлта	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	8	obj	_	_
-8	тогтоохо	тогтоо	VERB	_	_	4	ccomp	_	_
-9	баатай	баатай	AUX	_	Mood=Imp|VerbForm=Fin	8	aux	_	_
-10	болобо	боло	AUX	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	SpaceAfter=No
+8	тогтоохо	тогтоо	VERB	_	_	9	xcomp	_	_
+9	баатай	баатай	VERB	_	Mood=Imp|VerbForm=Fin	4	ccomp	_	_
+10	болобо	боло	AUX	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::383
@@ -7731,8 +7731,8 @@
 4	холижо	холи	VERB	_	VerbForm=Inf	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	хэшээлээ	хэшээл	NOUN	_	Case=Nom|Reflex=Yes	7	obj	_	_
-7	үнгэргэхэ	үнгэргэ	VERB	_	_	9	xcomp	_	_
-8	баатай	баатай	AUX	_	Mood=Imp|VerbForm=Fin	7	aux	_	_
+7	үнгэргэхэ	үнгэргэ	VERB	_	_	8	xcomp	_	_
+8	баатай	баатай	VERB	_	Mood=Imp|VerbForm=Fin	9	xcomp	_	_
 9	болонхойбди	боло	VERB	_	Number=Plur|Person=1	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
