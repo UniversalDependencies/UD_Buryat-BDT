@@ -6490,8 +6490,8 @@
 22	оной	он	NOUN	_	Case=Gen	24	nmod	_	_
 23	январь	январь	NOUN	_	Case=Nom	24	compound	_	_
 24	һарада	һара	NOUN	_	Case=Dat	25	nmod	_	_
-25	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	13	parataxis	_	_
-26	эхилээ	эхил	AUX	_	Mood=Des|Number=Sing|Person=3	25	aux	_	SpaceAfter=No
+25	хүдэлжэ	хүдэл	VERB	_	VerbForm=Inf	26	xcomp	_	_
+26	эхилээ	эхил	AUX	_	Mood=Des|Number=Sing|Person=3	13	parataxis	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id = bxr-ud3::519
