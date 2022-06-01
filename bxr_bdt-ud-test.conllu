@@ -4312,7 +4312,7 @@
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	тэдээнтэй	тэдэ	PRON	_	Case=Com|Number=Plur|PronType=Dem	12	nmod	_	_
 12	хахасаха	хахаса	VERB	_	_	9	parataxis	_	_
-13	аргагүйгөөр	аргагүйгөөр	AUX	_	_	12	aux	_	SpaceAfter=No
+13	аргагүйгөөр	аргагүйгөөр	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	19	punct	_	_
 15	үшөө	үшөө	ADV	_	_	16	advmod	_	_
 16	удаан	удаан	ADJ	_	_	19	advmod	_	_
