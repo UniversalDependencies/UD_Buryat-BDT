@@ -1764,7 +1764,7 @@
 3	зэбсэгүүдые	зэбсэг	NOUN	_	Case=Acc|Number=Plur	5	obj	_	_
 4	мүүнөөдэр	мүүнөөдэр	ADV	_	_	5	advmod	_	_
 5	үйлэдбэрилхэ	үйлэдбэрил	VERB	_	_	0	root	_	_
-6	алтай	алтай	ADV	_	_	5	aux	_	SpaceAfter=No
+6	алтай	алтай	ADV	_	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::177
@@ -1772,7 +1772,7 @@
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	энээниие	энэ	PRON	_	Case=Acc|PronType=Dem	3	obj	_	_
 3	үйлэдэхэ	үйлэдэ	VERB	_	_	0	root	_	_
-4	еһотойб	ёһотой	ADV	_	_	3	aux	_	SpaceAfter=No
+4	еһотойб	ёһотой	ADV	_	_	3	advmod	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::178
@@ -7942,7 +7942,7 @@
 3	баялиг	баялиг	NOUN	_	Case=Nom	4	obj	_	_
 4	шудалагдажал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 5	бай	бай	AUX	_	Mood=Imp|VerbForm=Fin	4	aux	_	_
-6	ёһотой	ёһотой	ADV	_	_	4	aux	_	SpaceAfter=No
+6	ёһотой	ёһотой	ADV	_	_	4	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::602
@@ -10815,7 +10815,7 @@
 2	мал	мал	NOUN	_	Case=Nom	3	amod	_	_
 3	ажал	ажал	NOUN	_	Case=Nom	4	obj	_	_
 4	эрхилхэдэл	эрхил	VERB	_	VerbForm=Ger	0	root	_	_
-5	тааруу	тааруу	ADV	_	_	4	aux	_	SpaceAfter=No
+5	тааруу	тааруу	ADV	_	_	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::781
@@ -11181,7 +11181,7 @@
 6	байра	байра	NOUN	_	Case=Nom	7	nmod	_	_
 7	байдал	байдал	NOUN	_	Case=Nom	8	obj	_	_
 8	зохёохо	зохёо	VERB	_	_	3	advcl	_	_
-9	шухала	шухала	ADV	_	_	8	aux	_	_
+9	шухала	шухала	ADV	_	_	8	advmod	_	_
 
 # sent_id = bxr-ud3::805
 # text = Худаг барихаһаа эхилээд, хэ ажал дүүрэн.
@@ -11268,7 +11268,7 @@
 7	баһал	баһа	ADV	_	_	9	advmod	_	_
 8	туһаламжа	туһаламжа	NOUN	_	Case=Nom	9	obj	_	_
 9	үзүүлэгдэхэ	үзүүл	VERB	_	_	0	root	_	Morf=Unknown
-10	ёһотой	ёһотой	ADV	_	_	9	aux	_	SpaceAfter=No
+10	ёһотой	ёһотой	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::811
@@ -11959,7 +11959,7 @@
 9	гэр	гэр	NOUN	_	Case=Nom	10	compound	_	_
 10	гэртэнь	гэр	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	11	nmod	_	_
 11	тарааха	тара	VERB	_	_	0	root	_	_
-12	ёһотой	ёһотой	ADV	_	_	11	aux	_	_
+12	ёһотой	ёһотой	ADV	_	_	11	advmod	_	_
 13	аад	аад	CCONJ	_	_	11	discourse	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	ехэнхидээ	ехэнхидээ	ADV	_	_	18	advmod	_	_
