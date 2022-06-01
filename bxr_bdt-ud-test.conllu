@@ -8352,8 +8352,8 @@
 8	багша	багша	NOUN	_	Case=Nom	10	compound	_	_
 9	Татьяна	Татьяна	PROPN	_	Case=Nom|Gender=Fem	17	nsubj	_	_
 10	Базаровна	Базарович	PROPN	_	Case=Nom|Gender=Fem	9	flat	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	10	punct	_	_
-12	Валентина	Валентина	PROPN	_	Case=Nom|Gender=Fem	17	nsubj	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	Валентина	Валентина	PROPN	_	Case=Nom|Gender=Fem	9	conj	_	_
 13	Санжиевна	Санжиевич	PROPN	_	Case=Nom|Gender=Fem	12	flat	_	_
 14	гэгшэд	гэгшэд	PART	_	_	17	discourse	_	_
 15	бэлиг	бэлиг	NOUN	_	Case=Nom	17	nmod	_	_
