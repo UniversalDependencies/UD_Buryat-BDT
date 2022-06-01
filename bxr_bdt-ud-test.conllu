@@ -195,7 +195,7 @@
 2	хэлээб	хэ	VERB	_	Mood=Des|Number=Sing|Person=1|Voice=Rcp	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	ерэхэ	ерэ	VERB	_	_	2	xcomp	_	_
-5	шадалтай	шадалтай	ADJ	_	_	4	aux	_	_
+5	шадалтай	шадалтай	ADJ	_	_	4	xcomp	_	_
 6	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -903,7 +903,7 @@
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	тиигэжэ	тиигэжэ	ADV	_	_	6	obj	_	_
 6	хэлэхэ	хэлэ	VERB	_	_	0	root	_	_
-7	хэрэггүй	хэрэг	ADJ	_	_	6	aux	_	_
+7	хэрэггүй	хэрэг	ADJ	_	_	6	xcomp	_	_
 8	байгаа	бай	AUX	_	_	6	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -1678,7 +1678,7 @@
 1	Энэшни	энэ	PRON	_	Case=Nom|PronType=Dem	3	nsubj	_	_
 2	гэртээ	гэр	NOUN	_	Case=Dat|Reflex=Yes	3	nmod	_	_
 3	ошохо	ошо	VERB	_	_	0	root	_	_
-4	еһотой	еһотой	ADJ	_	_	3	aux	_	_
+4	еһотой	еһотой	ADJ	_	_	3	xcomp	_	_
 
 # sent_id = bxr-ud3::168
 # text = Шамда һайн эдеэлхэ байлсаатай.
@@ -1726,7 +1726,7 @@
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
 4	хэгдэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
-6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
+6	еһотой	еһотой	ADJ	_	_	4	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::173
@@ -1736,7 +1736,7 @@
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
 4	хэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
-6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
+6	еһотой	еһотой	ADJ	_	_	4	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::174
@@ -1746,7 +1746,7 @@
 3	мүүнөөдэр	мүүнөөдэр	ADV	_	_	4	advmod	_	_
 4	хэгдэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	_
 5	дууһаха	дууһа	VERB	_	_	4	xcomp	_	_
-6	еһотой	еһотой	ADJ	_	_	4	aux	_	SpaceAfter=No
+6	еһотой	еһотой	ADJ	_	_	4	xcomp	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::175
@@ -1754,7 +1754,7 @@
 1	Матти	Матти	PROPN	_	Case=Nom|Gender=Masc	3	nsubj	_	_
 2	мүүнөөдэр	мүүнөөдэр	ADV	_	_	3	advmod	_	_
 3	ажаллаха	ажалла	VERB	_	_	0	root	_	_
-4	еһотой	еһотой	ADJ	_	_	3	aux	_	SpaceAfter=No
+4	еһотой	еһотой	ADJ	_	_	3	xcomp	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::176
@@ -2143,7 +2143,7 @@
 2	һургуулида	һургуули	NOUN	_	Case=Dat	4	nmod	_	_
 3	һайнааршье	һайнааршье	ADV	_	_	4	advmod	_	_
 4	һуража	һура	VERB	_	VerbForm=Inf	0	root	_	_
-5	үрдеэгүй	үрдеэ	ADJ	_	_	4	aux	_	SpaceAfter=No
+5	үрдеэгүй	үрдеэ	ADJ	_	_	4	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	харин	харин	CCONJ	_	_	4	cc	_	_
 8	үхибүүдэй	үхибүүн	NOUN	_	Case=Gen|Number=Plur	9	obj	_	_
@@ -2857,7 +2857,7 @@
 5	нарин	нарин	ADJ	_	_	6	amod	_	_
 6	утаһые	ута	NOUN	_	Case=Dat	7	obj	_	_
 7	дайраха	дайра	VERB	_	_	0	root	_	_
-8	шадалтай	шадалтай	ADJ	_	_	7	aux	_	SpaceAfter=No
+8	шадалтай	шадалтай	ADJ	_	_	7	xcomp	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::284
@@ -5559,7 +5559,7 @@
 5	“	“	PUNCT	_	_	7	punct	_	SpaceAfter=No
 6	Космонавт	космонавт	NOUN	_	Case=Nom	7	nmod	_	_
 7	болоходоо	боло	VERB	_	Case=Dat|Reflex=Yes|VerbForm=Ger	11	acl	_	_
-8	ядахагүйб	ядаха	ADJ	_	_	7	aux	_	SpaceAfter=No
+8	ядахагүйб	ядаха	ADJ	_	_	7	xcomp	_	SpaceAfter=No
 9	”	”	PUNCT	_	_	7	punct	_	_
 10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	шүлэг	шүлэг	NOUN	_	Case=Nom	12	obj	_	_
