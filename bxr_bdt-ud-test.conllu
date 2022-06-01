@@ -2144,11 +2144,11 @@
 3	һайнааршье	һайнааршье	ADV	_	_	4	advmod	_	_
 4	һуража	һура	VERB	_	VerbForm=Inf	0	root	_	_
 5	үрдеэгүй	үрдеэ	ADJ	_	_	4	xcomp	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	харин	харин	CCONJ	_	_	4	cc	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	харин	харин	CCONJ	_	_	10	cc	_	_
 8	үхибүүдэй	үхибүүн	NOUN	_	Case=Gen|Number=Plur	9	obj	_	_
-9	һургажа	һурга	VERB	_	VerbForm=Inf	4	conj	_	_
-10	гаргаа	гарга	AUX	_	Mood=Des|Number=Sing|Person=3	9	aux	_	SpaceAfter=No
+9	һургажа	һурга	VERB	_	VerbForm=Inf	10	xcomp	_	_
+10	гаргаа	гарга	VERB	_	Mood=Des|Number=Sing|Person=3	4	conj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::213
