@@ -1036,7 +1036,7 @@
 # text = Намда ошохо хэрэгтэй, орой болоо.
 1	Намда	би	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	ошохо	ошо	VERB	_	_	0	root	_	_
-3	хэрэгтэй	хэрэг	NOUN	_	Case=Com	2	aux	_	SpaceAfter=No
+3	хэрэгтэй	хэрэг	NOUN	_	Case=Com	2	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	орой	орой	NOUN	_	Case=Nom	2	advcl	_	_
 6	болоо	боло	AUX	_	Mood=Des|Number=Sing|Person=3	5	cop	_	SpaceAfter=No
@@ -2716,7 +2716,7 @@
 # text = Хэн мэдэхэ аргатайб?
 1	Хэн	хэн	NOUN	_	Case=Nom	2	nsubj	_	_
 2	мэдэхэ	мэдэ	VERB	_	_	0	root	_	_
-3	аргатайб	аргатай	NOUN	_	Case=Nom	2	aux	_	SpaceAfter=No
+3	аргатайб	аргатай	NOUN	_	Case=Nom	2	obl	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::271
@@ -3207,7 +3207,7 @@
 5	зуураа	зуураа	ADJ	_	_	6	amod	_	_
 6	шүлэгүүдэй	шүлэг	NOUN	_	Case=Gen|Number=Plur	7	obj	_	_
 7	зохёохо	зохёо	VERB	_	_	4	advcl	_	_
-8	аргатай	аргатай	NOUN	_	Case=Nom	7	aux	_	SpaceAfter=No
+8	аргатай	аргатай	NOUN	_	Case=Nom	7	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::320
@@ -3903,7 +3903,7 @@
 5	добтолгоһоо	добтолго	NOUN	_	Case=Abl	7	nmod	_	_
 6	баталжа	батал	VERB	_	VerbForm=Inf	7	compound	_	_
 7	хамгаалха	хамгаал	VERB	_	_	0	root	_	_
-8	үүргэтэй	үүргэ	NOUN	_	Case=Com	7	aux	_	SpaceAfter=No
+8	үүргэтэй	үүргэ	NOUN	_	Case=Com	7	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::387
@@ -7390,7 +7390,7 @@
 5	түрэл	түрэл	ADJ	_	_	6	amod	_	_
 6	хэлэндэнь	хэлэн	NOUN	_	Case=Dat|Number[psor]=Sing|Person[psor]=3	7	obj	_	_
 7	һургаха	һурга	VERB	_	_	0	root	_	_
-8	хэрэгтэй	хэрэг	NOUN	_	Case=Com	7	aux	_	_
+8	хэрэгтэй	хэрэг	NOUN	_	Case=Com	7	obl	_	_
 9	ха	ха	PART	_	_	7	discourse	_	_
 10	юм	юм	AUX	_	Evident=Fh	7	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
@@ -7502,7 +7502,7 @@
 6	хэблэлдэ	хэблэл	NOUN	_	Case=Dat	8	iobj	_	_
 7	баярые	баяр	NOUN	_	Case=Acc|Reflex=Yes	8	obj	_	_
 8	хүргэхэ	хүргэ	VERB	_	_	0	root	_	_
-9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	aux	_	SpaceAfter=No
+9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::572
@@ -7527,7 +7527,7 @@
 11	эрдэм	эрдэм	NOUN	_	Case=Nom	12	compound	_	_
 12	шадабари	шадабари	NOUN	_	Case=Nom	13	obj	_	_
 13	шалгаха	шалга	VERB	_	_	7	parataxis	_	_
-14	аргатай	аргатай	NOUN	_	Case=Nom	13	aux	_	SpaceAfter=No
+14	аргатай	аргатай	NOUN	_	Case=Nom	13	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	20	punct	_	_
 16	хэжэ	хэжэ	PART	_	_	20	discourse	_	_
 17	байһан	байһан	ADJ	_	_	18	amod	_	_
@@ -7624,7 +7624,7 @@
 14	хэлэн	хэлэн	NOUN	_	Case=Nom	16	nmod	_	_
 15	гэжэ	гэ	VERB	_	VerbForm=Inf	16	discourse	_	_
 16	шудалхаар	шудал	VERB	_	_	27	advcl	_	_
-17	аргатай	аргатай	NOUN	_	Case=Nom	16	aux	_	_
+17	аргатай	аргатай	NOUN	_	Case=Nom	16	obl	_	_
 18	аад	аад	CCONJ	_	_	16	advmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	16	punct	_	_
 20	3-дахи	3	NUM	_	NumType=Card	21	nummod	_	_
@@ -7803,7 +7803,7 @@
 20	булта	булта	DET	_	PronType=Ind	21	det	_	_
 21	нэгэдэн	нэгэдэ	VERB	_	_	19	conj	_	_
 22	шиидхэхэ	шиидхэ	VERB	_	_	9	ccomp	_	_
-23	хэрэгтэй	хэрэг	NOUN	_	Case=Com	22	aux	_	SpaceAfter=No
+23	хэрэгтэй	хэрэг	NOUN	_	Case=Com	22	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::591
@@ -8635,7 +8635,7 @@
 4	хүнэй	хүн	NOUN	_	Case=Gen	5	nmod	_	_
 5	үүргэ	үүргэ	NOUN	_	Case=Nom	6	obj	_	_
 6	дүүргэхэ	дүүргэ	VERB	_	_	0	root	_	_
-7	хэрэгтэй	хэрэг	NOUN	_	Case=Com	6	aux	_	SpaceAfter=No
+7	хэрэгтэй	хэрэг	NOUN	_	Case=Com	6	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::640
@@ -10886,7 +10886,7 @@
 6	хүн	хүн	NOUN	_	Case=Nom	7	compound	_	_
 7	зоноо	зон	NOUN	_	Case=Nom|Reflex=Yes	8	obj	_	_
 8	бусааха	буса	VERB	_	VerbForm=Inf	0	root	_	_
-9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	aux	_	SpaceAfter=No
+9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::786
@@ -11126,7 +11126,7 @@
 14	дээрэнь	дээрэнь	ADP	_	_	13	case	_	_
 15	дуугаргажа	дуугар	VERB	_	VerbForm=Ger	16	xcomp	_	_
 16	һургаха	һурга	VERB	_	_	6	parataxis	_	_
-17	аргатай	аргатай	NOUN	_	Case=Nom	16	aux	_	SpaceAfter=No
+17	аргатай	аргатай	NOUN	_	Case=Nom	16	obl	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::802
@@ -11343,7 +11343,7 @@
 4	хүүгэдэй	хүүгэдэй	ADJ	_	_	5	compound	_	_
 5	сэсэрлиг	сэсэрлиг	NOUN	_	Case=Nom	6	obj	_	_
 6	нээхэ	нээ	VERB	_	_	0	root	_	_
-7	хэрэгтэй	хэрэг	NOUN	_	Case=Com	6	aux	_	SpaceAfter=No
+7	хэрэгтэй	хэрэг	NOUN	_	Case=Com	6	obl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::817
@@ -11445,7 +11445,7 @@
 7	һайса	һайса	ADV	_	_	8	advmod	_	_
 8	шүүжэ	шүү	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	үзэхэ	үзэ	VERB	_	_	4	parataxis	_	_
-10	хэрэгтэй	хэрэг	NOUN	_	Case=Com	9	aux	_	SpaceAfter=No
+10	хэрэгтэй	хэрэг	NOUN	_	Case=Com	9	obl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::824
@@ -11629,7 +11629,7 @@
 3	газар	газар	NOUN	_	Case=Nom	5	nmod	_	_
 4	дээрээ	дээрээ	ADP	_	_	3	case	_	_
 5	хүдэлхэ	хүдэл	VERB	_	_	8	ccomp	_	_
-6	хэрэгтэй	хэрэг	NOUN	_	Case=Com	5	aux	_	_
+6	хэрэгтэй	хэрэг	NOUN	_	Case=Com	5	obl	_	_
 7	гэжэ	гэ	VERB	_	VerbForm=Inf	9	discourse	_	_
 8	ойлгожо	ойлго	VERB	_	VerbForm=Inf	9	xcomp	_	_
 9	эхилээ	эхил	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
@@ -12268,7 +12268,7 @@
 6	зондоо	зон	NOUN	_	Case=Dat|Reflex=Yes	7	nmod	_	_
 7	туһатай	туһатай	ADJ	_	_	8	xcomp	_	_
 8	бай	бай	VERB	_	Mood=Imp|VerbForm=Fin	4	parataxis	_	_
-9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	aux	_	SpaceAfter=No
+9	хэрэгтэй	хэрэг	NOUN	_	Case=Com	8	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::873
