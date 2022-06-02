@@ -11096,7 +11096,7 @@
 8	гэртэхиншье	гэртэхин	NOUN	_	Case=Nom	9	nsubj	_	_
 9	үсөөн	үсөөн	ADV	_	_	0	root	_	_
 10	ха	ха	PART	_	_	9	advmod	_	_
-11	юм	юм	AUX	_	Evident=Fh	9	aux	_	SpaceAfter=No
+11	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::800
@@ -12726,7 +12726,7 @@
 7	үндэр	үндэр	ADJ	_	_	8	amod	_	_
 8	сэгнэлтэдэ	сэгнэлтэ	NOUN	_	Case=Dat	9	nmod	_	_
 9	хүртэhэн	_	VERB	_	_	5	xcomp	_	Morf=Unknown
-10	юм	юм	AUX	_	_	9	aux	_	SpaceAfter=No
+10	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::924
