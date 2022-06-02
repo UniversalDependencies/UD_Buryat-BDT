@@ -886,14 +886,14 @@
 
 # sent_id = bxr-ud3::89
 # text = Энэшни баһаашье, хэзээб даа залуухан ябаа.
-1	Энэшни	энэ	PRON	_	Case=Nom|PronType=Dem	6	nsubj	_	_
-2	баһаашье	баһаа	ADV	_	_	6	advmod	_	SpaceAfter=No
+1	Энэшни	энэ	PRON	_	Case=Nom|PronType=Dem	7	nsubj	_	_
+2	баһаашье	баһаа	ADV	_	_	7	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	хэзээб	хэзээб	ADV	_	PronType=Int	6	advmod	_	_
+4	хэзээб	хэзээб	ADV	_	PronType=Int	7	advmod	_	_
 5	даа	даа	PART	_	_	4	discourse	_	_
-6	залуухан	залуухан	ADJ	_	_	0	root	_	_
-7	ябаа	яба	AUX	_	Mood=Des|Number=Sing|Person=3	6	cop	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	6	punct	_	_
+6	залуухан	залуухан	ADJ	_	_	7	xcomp	_	_
+7	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::90
 # text = Намда, гэбэшье, тиигэжэ хэлэхэ хэрэггүй байгаа.
@@ -2295,15 +2295,15 @@
 
 # sent_id = bxr-ud3::227
 # text = Мүнөө Екатерина Дамдиновна дүшэн наһанайнгаа даба дабажа ябана.
-1	Мүнөө	мүнөө	ADV	_	_	7	advmod	_	_
-2	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	7	nsubj	_	_
+1	Мүнөө	мүнөө	ADV	_	_	8	advmod	_	_
+2	Екатерина	Екатерина	PROPN	_	Case=Nom|Gender=Fem	8	nsubj	_	_
 3	Дамдиновна	Дамдинович	PROPN	_	Case=Nom|Gender=Fem	2	flat	_	_
 4	дүшэн	дүшэн	NUM	_	NumType=Card	5	nummod	_	_
 5	наһанайнгаа	наһан	NOUN	_	Case=Gen|Reflex=Yes	6	nmod	_	_
-6	даба	даба	NOUN	_	Case=Nom	7	nmod	_	_
-7	дабажа	даба	VERB	_	VerbForm=Inf	0	root	_	_
-8	ябана	яба	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	_
+6	даба	даба	NOUN	_	Case=Nom	7	obl	_	_
+7	дабажа	даба	VERB	_	VerbForm=Inf	8	xcomp	_	_
+8	ябана	яба	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::228
 # text = Далаад онһоо эхилээд, түрэл буряад хэлэн дээрээ шүлэг бэшэжэ эхилээ.
@@ -2414,8 +2414,8 @@
 2	бэеынгээ	бэеэ	PRON	_	_	4	nmod	_	Morf=Unknown
 3	түрэһэн	түрэһэн	ADJ	_	_	4	amod	_	_
 4	нютаг	нютаг	NOUN	_	Case=Nom	5	nmod	_	_
-5	ошожо	ошо	VERB	_	VerbForm=Inf	7	xcomp	_	_
-6	үзэе	үзэ	AUX	_	VerbForm=Ger	5	aux	_	_
+5	ошожо	ошо	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	үзэе	үзэ	VERB	_	VerbForm=Ger	7	xcomp	_	_
 7	гэлсээбди	гэлсэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -5611,7 +5611,7 @@
 # text = Юумэ хэлэжэ ядаха, буряадаар хэлэхэеэ эшэхэ, тиимэһээ бэеэ абанги, дуугай ябаха.
 1	Юумэ	юумэн	NOUN	_	Case=Nom	2	nmod	_	_
 2	хэлэжэ	хэлэ	VERB	_	VerbForm=Inf	3	xcomp	_	_
-3	ядаха	яда	AUX	_	_	0	root	_	SpaceAfter=No
+3	ядаха	яда	VERB	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	буряадаар	буряадаар	ADV	_	_	6	advmod	_	_
 6	хэлэхэеэ	хэлэ	VERB	_	_	7	xcomp	_	_
