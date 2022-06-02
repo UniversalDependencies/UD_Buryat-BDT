@@ -3159,7 +3159,7 @@
 2	ажалда	ажал	NOUN	_	Case=Dat	4	nmod	_	_
 3	хамсыгаа	хамсы	NOUN	_	Case=Nom|Reflex=Yes	4	nsubj	_	_
 4	шуугаа	шуу	VERB	_	_	0	root	_	_
-5	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	4	aux	_	SpaceAfter=No
+5	бэлэй	бэлэй	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::314
@@ -3254,7 +3254,7 @@
 2	бэеэ	бэеэ	PRON	_	_	4	nsubj	_	Morf=Unknown
 3	хадхан	хадхан	ADV	_	_	4	advmod	_	_
 4	дайралсадаг	дайралса	VERB	_	_	0	root	_	_
-5	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	4	aux	_	SpaceAfter=No
+5	бэлэй	бэлэй	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::325
@@ -6871,7 +6871,7 @@
 16	Лочиновна	Лочинович	PROPN	_	Case=Nom|Gender=Fem	15	flat	_	_
 17	ходо	ходо	ADV	_	_	18	advmod	_	_
 18	хэлэдэг	хэлэ	VERB	_	_	9	parataxis	_	_
-19	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	18	aux	_	SpaceAfter=No
+19	бэлэй	бэлэй	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	18	discourse	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::536
@@ -7068,7 +7068,7 @@
 7	хэжэ	хэ	VERB	_	VerbForm=Inf	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
 9	диилээ	диилэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
-10	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	9	aux	_	SpaceAfter=No
+10	бэлэй	бэлэй	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::547
@@ -8504,7 +8504,7 @@
 23	Цыпелма	Цыпелма	PROPN	_	Case=Nom|Gender=Fem	25	nsubj	_	_
 24	ехэтэ	ехэтэ	ADV	_	_	25	advmod	_	_
 25	гайхаа	гайхаа	ADJ	_	_	21	parataxis	_	_
-26	бэлэй	бэлэй	AUX	_	Mood=Imp|VerbForm=Fin	25	cop	_	SpaceAfter=No
+26	бэлэй	бэлэй	VERB	_	Mood=Imp|VerbForm=Fin	25	discourse	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = bxr-ud3::633
@@ -9271,7 +9271,7 @@
 9	шэнжэлхэеэ	шэнжэл	VERB	_	Case=Acc|VerbForm=Ger	11	xcomp	_	_
 10	иишээ	иишэ	ADV	_	_	11	advmod	_	_
 11	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-12	бэлэйбди	бэлэй	PART	_	Number=Plur|Person=1	11	discourse	_	SpaceAfter=No
+12	бэлэйбди	бэлэй	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	11	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::676
@@ -9342,7 +9342,7 @@
 7	хэлэһэниинь	хэлэһэн	NOUN	_	Case=Acc	9	nsubj	_	_
 8	тон	тон	NOUN	_	Case=Nom	9	obl	_	_
 9	тудалдадаг	тудалдадаг	ADJ	_	_	3	parataxis	_	_
-10	бэлэй	бэлэй	AUX	_	Mood=Imp|VerbForm=Fin	9	cop	_	SpaceAfter=No
+10	бэлэй	бэлэй	VERB	_	Mood=Imp|VerbForm=Fin	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::681
@@ -9413,7 +9413,7 @@
 16	үе	үе	NOUN	_	Case=Nom	18	nsubj	_	_
 17	эжэлүүдгүй	эжэлүүдгүй	ADV	_	_	18	advmod	_	_
 18	һанагдаа	һанагда	VERB	_	Mood=Des|Number=Sing|Person=3	9	parataxis	_	_
-19	бэлэй	бэлэй	AUX	_	Number=Sing|Person=3	18	aux	_	SpaceAfter=No
+19	бэлэй	бэлэй	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	18	discourse	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::685
