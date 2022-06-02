@@ -12726,7 +12726,7 @@
 7	үндэр	үндэр	ADJ	_	_	8	amod	_	_
 8	сэгнэлтэдэ	сэгнэлтэ	NOUN	_	Case=Dat	9	nmod	_	_
 9	хүртэhэн	_	VERB	_	_	5	xcomp	_	Morf=Unknown
-10	юм	_	PART	_	_	9	discourse	_	SpaceAfter=No
+10	юм	_	AUX	_	_	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::924
