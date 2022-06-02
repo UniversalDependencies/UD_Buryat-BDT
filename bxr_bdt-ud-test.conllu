@@ -5611,7 +5611,7 @@
 # text = Юумэ хэлэжэ ядаха, буряадаар хэлэхэеэ эшэхэ, тиимэһээ бэеэ абанги, дуугай ябаха.
 1	Юумэ	юумэн	NOUN	_	Case=Nom	2	nmod	_	_
 2	хэлэжэ	хэлэ	VERB	_	VerbForm=Inf	3	xcomp	_	_
-3	ядаха	яда	AUX	_	_	0	root	_	SpaceAfter=No
+3	ядаха	яда	VERB	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
 5	буряадаар	буряадаар	ADV	_	_	6	advmod	_	_
 6	хэлэхэеэ	хэлэ	VERB	_	_	7	xcomp	_	_
