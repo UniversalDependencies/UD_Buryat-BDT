@@ -2414,8 +2414,8 @@
 2	бэеынгээ	бэеэ	PRON	_	_	4	nmod	_	Morf=Unknown
 3	түрэһэн	түрэһэн	ADJ	_	_	4	amod	_	_
 4	нютаг	нютаг	NOUN	_	Case=Nom	5	nmod	_	_
-5	ошожо	ошо	VERB	_	VerbForm=Inf	7	xcomp	_	_
-6	үзэе	үзэ	AUX	_	VerbForm=Ger	5	aux	_	_
+5	ошожо	ошо	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	үзэе	үзэ	VERB	_	VerbForm=Ger	7	xcomp	_	_
 7	гэлсээбди	гэлсэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
