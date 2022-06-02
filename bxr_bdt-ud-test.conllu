@@ -2089,7 +2089,7 @@
 5	гэр	гэр	NOUN	_	Case=Nom	6	compound	_	_
 6	бүлэдэ	бүлэ	NOUN	_	Case=Dat	7	nmod	_	_
 7	түрэһэн	түрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-8	юм	юм	AUX	_	Evident=Fh	7	discourse	_	SpaceAfter=No
+8	юм	юм	PART	_	Evident=Fh	7	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::208
@@ -2232,7 +2232,7 @@
 2	нютагаа	нютаг	NOUN	_	Case=Nom|Reflex=Yes	3	nmod	_	_
 3	бусажа	буса	VERB	_	VerbForm=Inf	4	compound	_	_
 4	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	юм	юм	AUX	_	Evident=Fh	4	discourse	_	SpaceAfter=No
+5	юм	юм	PART	_	Evident=Fh	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::221
@@ -2244,7 +2244,7 @@
 5	һургуули	һургуули	NOUN	_	Case=Nom	6	nmod	_	_
 6	дүүргэнхэй	дүүргэнхэй	ADJ	_	_	0	root	_	_
 7	байгаа	бай	AUX	_	_	6	cop	_	_
-8	юм	юм	AUX	_	Evident=Fh	6	discourse	_	SpaceAfter=No
+8	юм	юм	PART	_	Evident=Fh	6	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::222
@@ -2958,7 +2958,7 @@
 7	ойлгон	ойлго	VERB	_	_	5	advcl	_	_
 8	абашахаар	абашахаар	ADV	_	_	7	advmod	_	_
 9	бэшэ	бэшэ	ADV	_	_	7	discourse	_	_
-10	юм	юм	AUX	_	Evident=Fh	7	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	7	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::294
@@ -3084,7 +3084,7 @@
 4	хододоо	хододоо	ADV	_	_	6	advmod	_	_
 5	эрмэлзэжэ	эрмэлзэ	VERB	_	VerbForm=Inf	6	compound	_	_
 6	ябаа	яба	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
-7	юм	юм	AUX	_	Evident=Fh	6	discourse	_	_
+7	юм	юм	PART	_	Evident=Fh	6	discourse	_	_
 8	даа	даа	PART	_	_	6	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -3234,7 +3234,7 @@
 1	Ухаан	ухаан	NOUN	_	Case=Nom	2	compound	_	_
 2	бодол	бодол	NOUN	_	Case=Nom	3	nmod	_	_
 3	хурсатай	хурса	ADJ	_	Case=Com	0	root	_	_
-4	юм	юм	AUX	_	Evident=Fh	3	discourse	_	SpaceAfter=No
+4	юм	юм	PART	_	Evident=Fh	3	discourse	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::323
@@ -3328,7 +3328,7 @@
 2	үдэрнүүд	үдэр	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
 3	заатагүй	заатагүй	ADV	_	_	4	advmod	_	_
 4	ерэхэл	ерэ	VERB	_	Case=Nom|VerbForm=Ger	0	root	_	_
-5	юм	юм	AUX	_	Evident=Fh	4	discourse	_	SpaceAfter=No
+5	юм	юм	PART	_	Evident=Fh	4	discourse	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::334
@@ -3351,7 +3351,7 @@
 1	Зол	зол	NOUN	_	Case=Nom	2	compound	_	_
 2	жаргал	жаргал	NOUN	_	Case=Nom	3	nsubj	_	_
 3	эдлээ	эдлэ	VERB	_	_	0	root	_	_
-4	юм	юм	AUX	_	Evident=Fh	3	discourse	_	SpaceAfter=No
+4	юм	юм	PART	_	Evident=Fh	3	discourse	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::337
@@ -3700,7 +3700,7 @@
 9	тон	тон	NOUN	_	Case=Nom	10	compound	_	_
 10	олоороо	олоор	NOUN	_	Case=Nom|Reflex=Yes	11	nsubj	_	_
 11	ажаһуудаг	ажаһуу	VERB	_	_	0	root	_	_
-12	юм	юм	AUX	_	Evident=Fh	11	discourse	_	SpaceAfter=No
+12	юм	юм	PART	_	Evident=Fh	11	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::374
@@ -3730,7 +3730,7 @@
 9	хүбүүдтэй	хүбүүн	NOUN	_	Case=Com|Number=Plur	10	obj	_	_
 10	байһан	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	байгаа	бай	AUX	_	_	10	aux	_	_
-12	юм	юм	AUX	_	Evident=Fh	10	discourse	_	SpaceAfter=No
+12	юм	юм	PART	_	Evident=Fh	10	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::376
@@ -3754,7 +3754,7 @@
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	гүн	гүн	ADJ	_	_	19	amod	_	_
 19	ухаан	ухаан	NOUN	_	Case=Nom	0	root	_	_
-20	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
+20	юм	юм	PART	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = bxr-ud3::377
@@ -3824,7 +3824,7 @@
 3	Сакья	Сакья	PROPN	_	Case=Nom|Gender=Masc	4	nmod	_	_
 4	гүрэндэ	гүрэн	NOUN	_	Case=Dat	5	nmod	_	_
 5	түрэһэн	түрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	юм	юм	AUX	_	Evident=Fh	5	discourse	_	SpaceAfter=No
+6	юм	юм	PART	_	Evident=Fh	5	discourse	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	Хоймор	Хоймор	PROPN	_	Case=Nom	12	nmod	_	_
 9	Энэдхэг	Энэдхэг	PROPN	_	Case=Nom	8	flat	_	_
@@ -4476,7 +4476,7 @@
 18	ажа	ажа	ADV	_	_	19	advmod	_	_
 19	амидарна	амидар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
 20	ха	ха	PART	_	_	19	discourse	_	_
-21	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
+21	юм	юм	PART	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::420
@@ -4688,7 +4688,7 @@
 2	Моголнуудай	могол	NOUN	_	Case=Gen|Number=Plur	1	flat	_	_
 3	импери	импери	NOUN	_	Case=Nom	4	obj	_	_
 4	байгуулһан	байгуул	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	юм	юм	AUX	_	Evident=Fh	4	discourse	_	_
+5	юм	юм	PART	_	Evident=Fh	4	discourse	_	_
 
 # sent_id = bxr-ud3::431
 # text = Чингисхаанай аша хүбүүн болохо Бабур шах хадаа Чагатай эсэгынгээ утаһаар Чингисхаанай аша хүбүүн, эхынгээ утаһаар Тимур хаанай мусульман яһатанай зээ хүбүүн болоно.
@@ -4755,7 +4755,7 @@
 8	Энэдхэг	Энэдхэг	PROPN	_	Case=Nom	7	flat	_	_
 9	гээд	гээд	PART	_	_	10	discourse	_	_
 10	нэгэдүүлэгдэһэн	нэгэдүүлэгдэһэн	ADJ	_	_	0	root	_	_
-11	юм	юм	AUX	_	Evident=Fh	10	discourse	_	SpaceAfter=No
+11	юм	юм	PART	_	Evident=Fh	10	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::435
@@ -5134,7 +5134,7 @@
 14	ябахадань	яба	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	8	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	хайшаа	хайшаа	ADV	_	_	14	advcl	_	_
-17	юм	юм	AUX	_	Evident=Fh	16	discourse	_	SpaceAfter=No
+17	юм	юм	PART	_	Evident=Fh	16	discourse	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::451
@@ -5165,7 +5165,7 @@
 24	баясуулха	баясуул	VERB	_	_	25	acl	_	_
 25	аргатай	аргатай	NOUN	_	Case=Nom	0	root	_	_
 26	ха	ха	PART	_	_	25	discourse	_	_
-27	юм	юм	AUX	_	Evident=Fh	25	discourse	_	SpaceAfter=No
+27	юм	юм	PART	_	Evident=Fh	25	discourse	_	SpaceAfter=No
 28	!	!	PUNCT	_	_	25	punct	_	_
 
 # sent_id = bxr-ud3::452
@@ -5297,7 +5297,7 @@
 22	Протасоватай	Протасов	PROPN	_	Case=Com|Gender=Fem	21	flat	_	_
 23	айлшаар	айлшан	NOUN	_	_	24	nmod	_	_
 24	ерэһэн	ерэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
-25	юм	юм	AUX	_	Evident=Fh	24	discourse	_	SpaceAfter=No
+25	юм	юм	PART	_	Evident=Fh	24	discourse	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::458
@@ -5508,7 +5508,7 @@
 19	мэдээжэ	мэдээжэ	ADJ	_	_	20	amod	_	_
 20	артистнар	артистнар	NOUN	_	Case=Nom	0	root	_	_
 21	ха	ха	PART	_	_	20	discourse	_	_
-22	юм	юм	AUX	_	Evident=Fh	20	discourse	_	_
+22	юм	юм	PART	_	Evident=Fh	20	discourse	_	_
 23	даа	даа	PART	_	_	20	discourse	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	20	punct	_	_
 
@@ -5533,7 +5533,7 @@
 17	һөөргөө	һөөргөө	ADV	_	_	19	advmod	_	_
 18	Шанагаяа	Шанага	PROPN	_	Case=Acc	19	nmod	_	_
 19	бусашаһан	буса	VERB	_	VerbForm=Ger	15	parataxis	_	_
-20	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
+20	юм	юм	PART	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::468
@@ -5632,7 +5632,7 @@
 3	тиимэл	тиимэл	ADV	_	_	4	advmod	_	_
 4	байгаа	бай	VERB	_	_	0	root	_	_
 5	ха	ха	PART	_	_	4	discourse	_	_
-6	юм	юм	AUX	_	Evident=Fh	4	discourse	_	SpaceAfter=No
+6	юм	юм	PART	_	Evident=Fh	4	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::474
@@ -5861,7 +5861,7 @@
 5	пенсидэ	пенси	NOUN	_	Case=Dat	6	nmod	_	_
 6	гарадаг	гара	VERB	_	_	0	root	_	_
 7	ха	ха	PART	_	_	6	discourse	_	_
-8	юм	юм	AUX	_	Evident=Fh	6	discourse	_	_
+8	юм	юм	PART	_	Evident=Fh	6	discourse	_	_
 9	даа	даа	PART	_	_	6	discourse	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	баледэй	балет	NOUN	_	Case=Gen|Number=Plur	12	nmod	_	_
@@ -6006,7 +6006,7 @@
 24	июниин	июнь	NOUN	_	Case=Gen	26	nmod	_	_
 25	27-до	27	NUM	_	NumType=Card	24	nummod	_	_
 26	түрэһэн	түрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	parataxis	_	_
-27	юм	юм	AUX	_	Evident=Fh	26	discourse	_	SpaceAfter=No
+27	юм	юм	PART	_	Evident=Fh	26	discourse	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = bxr-ud3::497
@@ -6030,7 +6030,7 @@
 17	булагһаань	булаг	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	18	nmod	_	_
 18	ундалжа	ундал	VERB	_	VerbForm=Inf	12	conj	_	_
 19	үндыһэн	үнды	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-20	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
+20	юм	юм	PART	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	19	punct	_	_
 
 # sent_id = bxr-ud3::498
@@ -6055,7 +6055,7 @@
 18	1991	1991	NUM	_	NumType=Card	19	nummod	_	_
 19	ондо	он	NOUN	_	Case=Dat	20	nmod	_	_
 20	дүүргэһэн	дүүргэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	parataxis	_	_
-21	юм	юм	AUX	_	Evident=Fh	20	discourse	_	SpaceAfter=No
+21	юм	юм	PART	_	Evident=Fh	20	discourse	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = bxr-ud3::499
@@ -6141,7 +6141,7 @@
 26	онол	он	NOUN	_	Case=Nom	27	nmod	_	_
 27	аргануудые	арга	NOUN	_	Case=Acc|Number=Plur	28	obj	_	_
 28	хэрэглэһэн	хэрэглэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	conj	_	_
-29	юм	юм	AUX	_	Evident=Fh	28	discourse	_	SpaceAfter=No
+29	юм	юм	PART	_	Evident=Fh	28	discourse	_	SpaceAfter=No
 30	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::503
@@ -6183,7 +6183,7 @@
 13	һайханай	һайхан	ADJ	_	_	14	amod	_	_
 14	кинодо	кино	NOUN	_	Case=Dat	15	nmod	_	_
 15	хабаадалсаһан	хабаада	VERB	_	VerbForm=Inf	7	advcl	_	_
-16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
+16	юм	юм	PART	_	Evident=Fh	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::505
@@ -6203,7 +6203,7 @@
 13	Ася	Ася	PROPN	_	Case=Nom|Gender=Fem	14	compound	_	_
 14	басагантай	басаган	NOUN	_	Case=Com	15	nmod	_	_
 15	танилсаһан	танилса	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
+16	юм	юм	PART	_	Evident=Fh	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id = bxr-ud3::506
@@ -6352,7 +6352,7 @@
 21	хүдэлхэ	хүдэл	VERB	_	_	22	acl	_	_
 22	азатай	аза	NOUN	_	Case=Com	23	nmod	_	_
 23	байһан	бай	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-24	юм	юм	AUX	_	Evident=Fh	23	discourse	_	SpaceAfter=No
+24	юм	юм	PART	_	Evident=Fh	23	discourse	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	23	punct	_	_
 
 # sent_id = bxr-ud3::512
@@ -6431,7 +6431,7 @@
 15	уран	уран	ADJ	_	_	16	amod	_	_
 16	зурааша-найруулагшаар	зурааша-найруулагшаар	NOUN	_	Case=Nom	17	nmod	_	_
 17	хүдэлһэн	хүдэл	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-18	юм	юм	AUX	_	Evident=Fh	17	discourse	_	SpaceAfter=No
+18	юм	юм	PART	_	Evident=Fh	17	discourse	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = bxr-ud3::516
@@ -6758,7 +6758,7 @@
 18	Цыренгармын	Цыренгарма	PROPN	_	Case=Gen|Gender=Masc	17	flat	_	_
 19	бүлэдэ	бүлэ	NOUN	_	Case=Dat	20	nmod	_	_
 20	түрэһэн	түрэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-21	юм	юм	AUX	_	Evident=Fh	20	discourse	_	SpaceAfter=No
+21	юм	юм	PART	_	Evident=Fh	20	discourse	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = bxr-ud3::531
@@ -6787,7 +6787,7 @@
 8	һүбэлгэн	һүбэлгэн	ADJ	_	_	9	compound	_	_
 9	бэрхэ	бэрхэ	ADJ	_	_	6	conj	_	_
 10	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-11	юм	юм	AUX	_	Evident=Fh	6	discourse	_	SpaceAfter=No
+11	юм	юм	PART	_	Evident=Fh	6	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::533
@@ -6970,7 +6970,7 @@
 6	дахин	даха	NOUN	_	Case=Gen	7	nmod	_	_
 7	илажа	ила	VERB	_	VerbForm=Inf	8	xcomp	_	_
 8	гараһан	гара	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-9	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
+9	юм	юм	PART	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::542
@@ -7177,7 +7177,7 @@
 16	һурган	һурга	VERB	_	_	17	xcomp	_	_
 17	бэлдэһэн	бэлдэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
 18	бай	бай	AUX	_	Mood=Imp|VerbForm=Fin	17	aux	_	_
-19	юм	юм	AUX	_	Evident=Fh	17	discourse	_	SpaceAfter=No
+19	юм	юм	PART	_	Evident=Fh	17	discourse	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::551
@@ -7392,7 +7392,7 @@
 7	һургаха	һурга	VERB	_	_	0	root	_	_
 8	хэрэгтэй	хэрэг	NOUN	_	Case=Com	7	obl	_	_
 9	ха	ха	PART	_	_	7	discourse	_	_
-10	юм	юм	AUX	_	Evident=Fh	7	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	7	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::564
@@ -7535,7 +7535,7 @@
 19	дүн	дүн	NOUN	_	Case=Nom	20	obj	_	_
 20	харана	хара	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 21	ха	ха	PART	_	_	20	discourse	_	_
-22	юм	юм	AUX	_	Evident=Fh	20	discourse	_	_
+22	юм	юм	PART	_	Evident=Fh	20	discourse	_	_
 23	даа	даа	PART	_	_	20	discourse	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -7603,7 +7603,7 @@
 7	зон	зон	NOUN	_	Case=Nom	8	nsubj	_	_
 8	ажаһууна	ажаһуу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	ха	ха	PART	_	_	8	discourse	_	_
-10	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::579
@@ -7776,7 +7776,7 @@
 11	лэ	лэ	PART	_	_	12	discourse	_	_
 12	ерэнэ	ерэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	ха	ха	PART	_	_	12	discourse	_	_
-14	юм	юм	AUX	_	Evident=Fh	12	discourse	_	SpaceAfter=No
+14	юм	юм	PART	_	Evident=Fh	12	discourse	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = bxr-ud3::590
@@ -7924,14 +7924,14 @@
 8	шудалжал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 9	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 10	ха	ха	PART	_	_	8	discourse	_	_
-11	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
+11	юм	юм	PART	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	19	punct	_	_
 13	юундэ	юундэ	ADV	_	PronType=Int	19	advmod	_	_
 14	бидэ	бидэ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	_
 15	буряад	буряад	ADJ	_	_	16	amod	_	_
 16	классигуудые	классиг	NOUN	_	Case=Acc|Number=Plur	17	obj	_	_
 17	үзэхэгүй	үзэ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	19	xcomp	_	_
-18	юм	юм	AUX	_	Evident=Fh	17	discourse	_	_
+18	юм	юм	PART	_	Evident=Fh	17	discourse	_	_
 19	биибди	бии	VERB	_	VerbForm=Ger	8	ccomp	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -8321,7 +8321,7 @@
 16	училищи	училищи	NOUN	_	Case=Nom	17	nmod	_	_
 17	эльгээхые	эльгээ	VERB	_	Case=Acc|VerbForm=Ger	18	xcomp	_	_
 18	дурадхаһан	дурадха	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	parataxis	_	_
-19	юм	юм	AUX	_	Evident=Fh	18	discourse	_	SpaceAfter=No
+19	юм	юм	PART	_	Evident=Fh	18	discourse	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = bxr-ud3::623
@@ -8337,7 +8337,7 @@
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	оюутан	оюутан	NOUN	_	Case=Nom	11	nmod	_	_
 11	болоһон	боло	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	_	_
-12	юм	юм	AUX	_	Evident=Fh	11	discourse	_	SpaceAfter=No
+12	юм	юм	PART	_	Evident=Fh	11	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::624
@@ -8365,7 +8365,7 @@
 21	харгы	харгы	NOUN	_	Case=Nom	22	nmod	_	_
 22	заажа	заа	VERB	_	VerbForm=Inf	23	xcomp	_	_
 23	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	xcomp	_	_
-24	юм	юм	AUX	_	Evident=Fh	23	discourse	_	SpaceAfter=No
+24	юм	юм	PART	_	Evident=Fh	23	discourse	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = bxr-ud3::625
@@ -8466,7 +8466,7 @@
 8	ансамблиин	ансамбль	NOUN	_	Case=Gen	9	nmod	_	_
 9	хатаршан	хатаршан	NOUN	_	Case=Nom	10	obj	_	_
 10	болоһон	боло	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	parataxis	_	_
-11	юм	юм	AUX	_	Evident=Fh	10	discourse	_	SpaceAfter=No
+11	юм	юм	PART	_	Evident=Fh	10	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = bxr-ud3::631
@@ -8757,7 +8757,7 @@
 21	хатар	хатар	NOUN	_	Case=Nom	22	nmod	_	_
 22	наада	наада	NOUN	_	Case=Nom	23	obj	_	_
 23	заадаг	заа	VERB	_	_	17	parataxis	_	_
-24	юм	юм	AUX	_	Evident=Fh	23	discourse	_	SpaceAfter=No
+24	юм	юм	PART	_	Evident=Fh	23	discourse	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	17	punct	_	_
 
 # sent_id = bxr-ud3::646
@@ -8797,7 +8797,7 @@
 10	,	,	PUNCT	_	_	12	punct	_	_
 11	амжалта	амжалта	NOUN	_	Case=Nom	12	obj	_	_
 12	туйлаһан	туйла	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
-13	юм	юм	AUX	_	Evident=Fh	12	discourse	_	SpaceAfter=No
+13	юм	юм	PART	_	Evident=Fh	12	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::649
@@ -8868,7 +8868,7 @@
 7	үни	үни	ADJ	_	_	8	amod	_	_
 8	сагһаа	саг	NOUN	_	Case=Abl	9	nmod	_	_
 9	ажаһууһан	ажаһуу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::654
@@ -8912,7 +8912,7 @@
 18	буряад	буряад	ADJ	_	_	19	amod	_	_
 19	айлнууд	айл	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	_
 20	дайралдадаг	дайралда	VERB	_	_	0	root	_	_
-21	юм	юм	AUX	_	Evident=Fh	20	discourse	_	SpaceAfter=No
+21	юм	юм	PART	_	Evident=Fh	20	discourse	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	20	punct	_	_
 
 # sent_id = bxr-ud3::656
@@ -9076,7 +9076,7 @@
 1	-	-	PUNCT	_	_	2	punct	_	_
 2	Хэр	хэр	ADV	_	_	3	advmod	_	_
 3	холо	холо	ADV	_	_	6	advmod	_	_
-4	юм	юм	AUX	_	Evident=Fh	3	discourse	_	_
+4	юм	юм	PART	_	Evident=Fh	3	discourse	_	_
 5	тэрэ	тэрэ	DET	_	PronType=Dem	6	det	_	_
 6	дайда	дайда	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	_	_	6	punct	_	_
@@ -9328,7 +9328,7 @@
 7	Егорович	Егорович	PROPN	_	Case=Nom|Gender=Masc	6	flat	_	_
 8	Мандухаев	Мандухаев	PROPN	_	Case=Nom|Gender=Masc	7	flat	_	_
 9	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
-10	юм	юм	AUX	_	Evident=Fh	5	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	5	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::680
@@ -9441,7 +9441,7 @@
 13	буряадууд	буряад	NOUN	_	Case=Nom|Number=Plur	15	nsubj	_	_
 14	олоор	олоор	NOUN	_	Case=Nom	15	obl	_	_
 15	ажаһуудаг	ажаһуу	VERB	_	_	18	ccomp	_	_
-16	юм	юм	AUX	_	Evident=Fh	18	discourse	_	_
+16	юм	юм	PART	_	Evident=Fh	18	discourse	_	_
 17	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
 18	мэдэдэггүй	мэдэ	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	9	parataxis	_	_
 19	байгааб	бай	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	18	aux	_	SpaceAfter=No
@@ -9602,7 +9602,7 @@
 14	жэл	жэл	NOUN	_	Case=Nom	16	nmod	_	_
 15	бүри	бүри	ADV	_	_	14	advmod	_	_
 16	үнгэрдэг	үнгэр	VERB	_	_	0	root	_	_
-17	юм	юм	AUX	_	Evident=Fh	16	discourse	_	SpaceAfter=No
+17	юм	юм	PART	_	Evident=Fh	16	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = bxr-ud3::696
@@ -9649,7 +9649,7 @@
 14	ажал	ажал	NOUN	_	Case=Nom	15	compound	_	_
 15	хүдэлмэримнай	хүдэлмэри	NOUN	_	Case=Nom	16	nsubj	_	_
 16	эхилһэн	эхил	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	parataxis	_	_
-17	юм	юм	AUX	_	Evident=Fh	16	discourse	_	SpaceAfter=No
+17	юм	юм	PART	_	Evident=Fh	16	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::699
@@ -9676,7 +9676,7 @@
 3	шэнги	шэнги	ADV	_	_	5	advmod	_	_
 4	газар	газар	NOUN	_	Case=Nom	5	nsubj	_	_
 5	байдаг	бай	VERB	_	_	0	root	_	_
-6	юм	юм	AUX	_	Evident=Fh	5	discourse	_	SpaceAfter=No
+6	юм	юм	PART	_	Evident=Fh	5	discourse	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::701
@@ -9903,7 +9903,7 @@
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	эндэ	эндэ	ADV	_	_	12	advmod	_	_
 12	тогтоһон	тогто	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
-13	юм	юм	AUX	_	Evident=Fh	12	discourse	_	SpaceAfter=No
+13	юм	юм	PART	_	Evident=Fh	12	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::718
@@ -9968,7 +9968,7 @@
 13	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 14	нэрэ	нэрэ	NOUN	_	Case=Nom	15	obj	_	_
 15	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
-16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No
+16	юм	юм	PART	_	Evident=Fh	15	discourse	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::723
@@ -10145,7 +10145,7 @@
 12	ехэ	ехэ	ADV	_	_	13	advmod	_	_
 13	хүндэтэй	хүндэтэй	ADJ	_	_	14	amod	_	_
 14	айлайхи	айлай	ADJ	_	_	0	root	_	_
-15	юм	юм	AUX	_	Evident=Fh	14	discourse	_	SpaceAfter=No
+15	юм	юм	PART	_	Evident=Fh	14	discourse	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = bxr-ud3::737
@@ -10682,7 +10682,7 @@
 2	дасан	дасан	NOUN	_	Case=Nom	12	parataxis	_	_
 3	баян	баян	NOUN	_	Case=Nom	4	amod	_	_
 4	түүхэтэй	түүхэ	NOUN	_	Case=Com	2	nmod	_	_
-5	юм	юм	AUX	_	Evident=Fh	2	discourse	_	SpaceAfter=No
+5	юм	юм	PART	_	Evident=Fh	2	discourse	_	SpaceAfter=No
 6	:	:	PUNCT	_	_	7	punct	_	_
 7	анхан	анхан	ADV	_	_	14	advmod	_	_
 8	Зандинда	зандин	PROPN	_	Case=Dat	14	nmod	_	_
@@ -11096,7 +11096,7 @@
 8	гэртэхиншье	гэртэхин	NOUN	_	Case=Nom	9	nsubj	_	_
 9	үсөөн	үсөөн	ADV	_	_	0	root	_	_
 10	ха	ха	PART	_	_	9	advmod	_	_
-11	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
+11	юм	юм	PART	_	Evident=Fh	9	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::800
@@ -11209,7 +11209,7 @@
 10	хэрэг	хэрэг	NOUN	_	Case=Nom	11	obj	_	_
 11	бүтэдэг	бүтээ	VERB	_	_	6	parataxis	_	_
 12	ха	ха	PART	_	_	11	discourse	_	_
-13	юм	юм	AUX	_	Evident=Fh	11	discourse	_	SpaceAfter=No
+13	юм	юм	PART	_	Evident=Fh	11	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::807
@@ -11409,7 +11409,7 @@
 10	буряадууд	буряад	NOUN	_	Case=Nom|Number=Plur	6	conj	_	_
 11	ажаһуудаг	ажаһуу	VERB	_	_	4	parataxis	_	_
 12	ха	ха	PART	_	_	11	discourse	_	_
-13	юм	юм	AUX	_	Evident=Fh	11	discourse	_	SpaceAfter=No
+13	юм	юм	PART	_	Evident=Fh	11	discourse	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::822
@@ -11461,7 +11461,7 @@
 # text = Ажалгүйдэнэ ха юм.
 1	Ажалгүйдэнэ	ажал	NOUN	_	_	0	root	_	Morf=Unknown
 2	ха	ха	PART	_	_	1	discourse	_	_
-3	юм	юм	AUX	_	Evident=Fh	1	discourse	_	SpaceAfter=No
+3	юм	юм	PART	_	Evident=Fh	1	discourse	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = bxr-ud3::826
@@ -12070,7 +12070,7 @@
 19	худал	худал	NOUN	_	Case=Nom	20	amod	_	_
 20	зугаа	зугаа	NOUN	_	Case=Nom	21	nmod	_	_
 21	гараа	гара	VERB	_	Mood=Des|Number=Sing|Person=3	11	parataxis	_	_
-22	юм	юм	AUX	_	Evident=Fh	21	discourse	_	SpaceAfter=No
+22	юм	юм	PART	_	Evident=Fh	21	discourse	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::861
@@ -12235,7 +12235,7 @@
 7	ходо	ходо	ADV	_	_	8	advmod	_	_
 8	туһалжа	туһал	VERB	_	VerbForm=Inf	5	parataxis	_	_
 9	байдаг	бай	AUX	_	_	8	aux	_	_
-10	юм	юм	AUX	_	Evident=Fh	8	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	8	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::870
@@ -12431,7 +12431,7 @@
 7	юумэн	юумэн	NOUN	_	Case=Nom	0	root	_	_
 8	үгы	үгы	PART	_	_	7	advmod:neg	_	_
 9	ха	ха	PART	_	_	7	discourse	_	_
-10	юм	юм	AUX	_	Evident=Fh	7	discourse	_	_
+10	юм	юм	PART	_	Evident=Fh	7	discourse	_	_
 
 # sent_id = bxr-ud3::885
 # text = Би хоёр хүбүүтэйб, тиихэдэ дүүнэрэймни хоёр хүбүүд бидэнтэеэ ажаһуудаг.
@@ -12726,7 +12726,7 @@
 7	үндэр	үндэр	ADJ	_	_	8	amod	_	_
 8	сэгнэлтэдэ	сэгнэлтэ	NOUN	_	Case=Dat	9	nmod	_	_
 9	хүртэhэн	_	VERB	_	_	5	xcomp	_	Morf=Unknown
-10	юм	юм	AUX	_	Evident=Fh	9	discourse	_	SpaceAfter=No
+10	юм	юм	PART	_	Evident=Fh	9	discourse	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::924

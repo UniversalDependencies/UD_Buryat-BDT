@@ -10,27 +10,27 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>908</sentences><tokens>10032</tokens><words>10032</words><fused>0</fused></test>
   </size>
-  <lemmas unique="2465" /><!-- ., ,, бай, гэ, буряад, боло, би, хүн, -, нютаг, энэ, юм, хэлэн, тэрэ, « -->
+  <lemmas unique="2465" /><!-- ., ,, бай, гэ, буряад, боло, би, хүн, -, нютаг, юм, энэ, хэлэн, тэрэ, « -->
   <forms unique="4108" /><!-- ., ,, гэжэ, буряад, -, юм, байгаа, «, », энэ, би, байна, ехэ, хүн, ? -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
     <tag name="ADJ">814</tag><!-- буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё -->
     <tag name="ADP">181</tag><!-- соо, дээрэ, тухай, дээрээ, харин, соогоо, руу, тула, хүрэтэр, түлөө -->
-    <tag name="ADV">775</tag><!-- ехэ, мүнөө, бэшэ, гэһэн, һайхан, эндэ, эгээл, үшөө, тэндэ, хадаа -->
-    <tag name="AUX">295</tag><!-- бай, юм, боло, шада, бэлэй, гээшэ, һэм, һаа, баатай, болошо -->
+    <tag name="ADV">776</tag><!-- ехэ, мүнөө, бэшэ, гэһэн, һайхан, эндэ, эгээл, үшөө, тэндэ, хадаа -->
+    <tag name="AUX">193</tag><!-- бай, боло, шада -->
     <tag name="CCONJ">83</tag><!-- ба, болон, аад, али, харин, хамта, баһа, гадна, гү, и -->
     <tag name="DET">152</tag><!-- энэ, тэрэ, бүхы, ямар, булта, иимэ, эрэ, бусад, зарим, ямаршье -->
     <tag name="INTJ">6</tag><!-- айн, зай, ёг, үреэ, һмм, һээ -->
     <tag name="NOUN">3112</tag><!-- хүн, нютаг, хэлэн, зон, гэр, ажал, буряад, наһан, хүбүүн, һургуули -->
     <tag name="NUM">223</tag><!-- нэгэ, хоёр, гурбан, зуун, мянган, арбан, нэгэн, табан, юһэн, 1 -->
-    <tag name="PART">177</tag><!-- даа, һэн, гү, ха, лэ, гээд, _, һаа, үгы, гэхэ -->
+    <tag name="PART">244</tag><!-- юм, даа, һэн, гү, ха, лэ, һаа, гээд, _, үгы -->
     <tag name="PRON">288</tag><!-- би, бидэ, тэрэ, энэ, өөрөө, тэдэ, бүхэ, ши, та, эдэ -->
     <tag name="PROPN">709</tag><!-- Байгал, Булад, Улаан-Үдэ, Цыпелма, Энэдхэг, Баяр, Матти, Дандар, Хойто, Баянгаза -->
     <tag name="PUNCT">1849</tag><!-- ., ,, -, «, », ?, –, :, (, ) -->
-    <tag name="SCONJ">21</tag><!-- тиимэһээ, теэд, гэбэл -->
+    <tag name="SCONJ">22</tag><!-- тиимэһээ, теэд, гэбэл, хэрбэ -->
     <tag name="SYM">3</tag><!-- °C -->
-    <tag name="VERB">1497</tag><!-- гэ, бай, боло, ерэ, яба, хэ, гара, ошо, хүдэл, аба -->
+    <tag name="VERB">1530</tag><!-- гэ, бай, боло, ерэ, яба, хэ, гара, ошо, хүдэл, аба -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="39">
@@ -44,12 +44,12 @@
     <feat name="Case" value="Dat" upos="AUX,NOUN,PRON,PROPN,VERB">507</feat><!-- үедэ, ондо, намда, гэртээ, нютагта, хотодо, һургуулида, туршада, хүндэ, гэхэдэ -->
     <feat name="Case" value="Gen" upos="ADJ,NOUN,PRON,PROPN,VERB">752</feat><!-- минии, манай, аймагай, соёлой, жэлэй, театрай, хэлэнэй, хүнэй, намайе, наһанайнгаа -->
     <feat name="Case" value="Nom" upos="ADJ,ADV,AUX,NOUN,NUM,PRON,PROPN,VERB">2431</feat><!-- би, хүн, зон, гэр, хэлэ, ажал, Байгал, хэлэн, Буряад, бэлиг -->
-    <feat name="Evident" value="Fh" upos="AUX">65</feat><!-- юм -->
+    <feat name="Evident" value="Fh" upos="PART">66</feat><!-- юм -->
     <feat name="Gender" value="Fem" upos="PROPN">147</feat><!-- Цыпелма, Екатерина, Соёлма, Валентина, Дамдиновна, Мэри, Намжилма, Роза, Алина, Андреевна -->
     <feat name="Gender" value="Masc" upos="PROPN">233</feat><!-- Булад, Баяр, Дандар, Матти, Магдан, Солбон, Валерий, Маатти, Чингисхаанай, Питер -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">9</feat><!-- байбал, болобол, гэбэл, оруулбал, хэлэбэл, шиидхэбэл -->
     <feat name="Mood" value="Des" upos="AUX,VERB">186</feat><!-- болоо, эхилээ, ябаа, болоод, гараад, абаад, гараа, золгооб, хэлээ, үнгэрөө -->
-    <feat name="Mood" value="Imp" upos="AUX,VERB">74</feat><!-- бии, гээшэ, бай, бэлэй, угаа, баатай, хэ, ябаарай, абарыт, байлсаатай -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">80</feat><!-- бии, бэлэй, гээшэ, бай, угаа, баатай, хэ, ябаарай, абарыт, байлсаатай -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">435</feat><!-- байна, байһан, болоно, байгааб, ерээ, ерээд, түрэһэн, ябаһан, байба, болоһон -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,PART,PRON,PROPN,VERB">540</feat><!-- манай, хүнүүд, арадуудай, бидэ, эдэ, үхибүүд, моголнуудай, болоод, ерээд, Тэдэнэй -->
     <feat name="Number" value="Sing" upos="AUX,PART,PRON,VERB">629</feat><!-- би, байна, байһан, болоно, гү, минии, болоо, намда, намайе, эхилээ -->
@@ -68,7 +68,7 @@
     <feat name="Tense" value="Past" upos="AUX,VERB">238</feat><!-- байһан, байгааб, ерээ, ерээд, түрэһэн, ябаһан, байба, болоһон, табигдаһан, гараһан -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">181</feat><!-- байна, болоно, ажаһууна, байнабди, хөөрэнэ, түрүүлнэ, хүрэнэ, үгөө, байнаб, байнат -->
     <feat name="VerbForm" value="Conv" upos="AUX,VERB">9</feat><!-- байбал, болобол, гэбэл, оруулбал, хэлэбэл, шиидхэбэл -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">507</feat><!-- байна, байһан, болоно, бии, гээшэ, бай, байгааб, бэлэй, ерээ, ерээд -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">513</feat><!-- байна, байһан, болоно, бии, бэлэй, гээшэ, бай, байгааб, ерээ, ерээд -->
     <feat name="VerbForm" value="Ger" upos="AUX,VERB">202</feat><!-- гэхэдэ, байхада, байхадаа, дүүргээд, ерэхэб, ошоходоо, хэлэхэдэ, үзэе, болохоб, дүүргээ -->
     <feat name="VerbForm" value="Inf" upos="AUX,VERB">316</feat><!-- гэжэ, боложо, хэжэ, ошожо, хүдэлжэ, заажа, һуража, абажа, дүүргэжэ, ерэжэ -->
     <feat name="Voice" value="Cau" upos="VERB">14</feat><!-- хандуулдаг, бадаруулһан, буулгуулдаг, дахуулаад, дурлуулһан, нэгэдүүлхэ, сайлуулжа, сухалдуулаа, татуулаа, ташуурдуулааб -->
@@ -78,38 +78,38 @@
   <deps unique="35">
     <dep name="acl">171</dep>
     <dep name="advcl">148</dep>
-    <dep name="advmod">612</dep>
+    <dep name="advmod">613</dep>
     <dep name="advmod:neg">19</dep>
     <dep name="amod">700</dep>
     <dep name="appos">62</dep>
-    <dep name="aux">137</dep>
+    <dep name="aux">136</dep>
     <dep name="aux:pass">2</dep>
     <dep name="case">153</dep>
     <dep name="cc">79</dep>
     <dep name="ccomp">22</dep>
-    <dep name="compound">348</dep>
+    <dep name="compound">351</dep>
     <dep name="conj">283</dep>
-    <dep name="cop">78</dep>
+    <dep name="cop">54</dep>
     <dep name="csubj">8</dep>
     <dep name="det">229</dep>
-    <dep name="discourse">396</dep>
+    <dep name="discourse">407</dep>
     <dep name="fixed">28</dep>
     <dep name="flat">276</dep>
     <dep name="flat:foreign">2</dep>
     <dep name="iobj">38</dep>
     <dep name="list">13</dep>
-    <dep name="mark">38</dep>
-    <dep name="nmod">1692</dep>
+    <dep name="mark">39</dep>
+    <dep name="nmod">1691</dep>
     <dep name="nsubj">722</dep>
     <dep name="nsubj:pass">16</dep>
     <dep name="nummod">182</dep>
     <dep name="obj">446</dep>
-    <dep name="obl">53</dep>
+    <dep name="obl">54</dep>
     <dep name="orphan">4</dep>
     <dep name="parataxis">276</dep>
     <dep name="punct">1848</dep>
     <dep name="root">927</dep>
     <dep name="vocative">6</dep>
-    <dep name="xcomp">171</dep>
+    <dep name="xcomp">180</dep>
   </deps>
 </treebank>
