@@ -12742,7 +12742,7 @@
 9	бүхэнэй	_	DET	_	_	8	det	_	Morf=Unknown
 10	шадалые	шадала	NOUN	_	Case=Acc	11	obj	_	_
 11	мэдэхэ	мэдэ	VERB	_	_	0	root	_	_
-12	ёhотой	_	AUX	_	_	11	aux	_	SpaceAfter=No
+12	ёhотой	_	VERB	_	_	11	compound	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::925
