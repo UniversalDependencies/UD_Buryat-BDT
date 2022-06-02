@@ -5564,7 +5564,7 @@
 10	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 11	шүлэг	шүлэг	NOUN	_	Case=Nom	12	obj	_	_
 12	уншадаг	унша	VERB	_	_	0	root	_	_
-13	һэм	һэм	AUX	_	Number=Sing|Person=3	12	discourse	_	SpaceAfter=No
+13	һэм	һэм	VERB	_	Number=Sing|Person=3	12	discourse	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	12	punct	_	_
 15	-	-	PUNCT	_	_	18	punct	_	_
 16	гэжэ	гэ	VERB	_	VerbForm=Inf	18	discourse	_	_
@@ -9255,7 +9255,7 @@
 14	гэжэ	гэ	VERB	_	VerbForm=Inf	13	discourse	_	_
 15	һуурин	һуурин	NOUN	_	Case=Nom	16	nmod	_	_
 16	ерээ	ерэ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	_
-17	һэм	һэм	AUX	_	Number=Sing|Person=3	16	discourse	_	SpaceAfter=No
+17	һэм	һэм	VERB	_	Number=Sing|Person=3	16	discourse	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = bxr-ud3::675
@@ -11786,7 +11786,7 @@
 6	эдэбхи	эдэбхи	NOUN	_	Case=Nom	11	nmod	_	_
 7	үүсхэл	үүсхэл	NOUN	_	Case=Nom	6	conj	_	_
 8	ехэтэй	ехэ	ADJ	_	_	6	amod	_	_
-9	һэмби	һэм	AUX	_	Number=Sing|Person=1	11	discourse	_	_
+9	һэмби	һэм	VERB	_	Number=Sing|Person=1	11	discourse	_	_
 10	гэжэшье	гэжэшье	PART	_	_	11	discourse	_	_
 11	һанадаггүйб	һана	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
@@ -11850,7 +11850,7 @@
 6	нэгэ	нэгэ	NUM	_	NumType=Card	7	nummod	_	_
 7	бага	бага	ADJ	_	_	8	advmod	_	_
 8	атаархадаг	атаарха	VERB	_	_	0	root	_	_
-9	һэмби	һэм	AUX	_	Number=Sing|Person=1	8	discourse	_	SpaceAfter=No
+9	һэмби	һэм	VERB	_	Number=Sing|Person=1	8	discourse	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = bxr-ud3::850
@@ -11914,7 +11914,7 @@
 8	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	_
 9	почтыень	почта	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	10	obj	_	_
 10	тараадаг	тара	VERB	_	_	0	root	_	_
-11	һэм	һэм	AUX	_	Number=Sing|Person=3	10	discourse	_	SpaceAfter=No
+11	һэм	һэм	VERB	_	Number=Sing|Person=3	10	discourse	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::854
