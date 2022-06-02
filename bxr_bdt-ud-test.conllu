@@ -2512,7 +2512,7 @@
 4	философско	философско	ADV	_	_	5	advmod	_	_
 5	удхатай	удхатай	ADJ	_	_	6	amod	_	_
 6	шүлэгүүд	шүлэг	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
-7	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	6	discourse	_	SpaceAfter=No
+7	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	6	discourse	_	SpaceAfter=No
 8	!	!	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::248
@@ -7971,7 +7971,7 @@
 14	зорилгодо	зорилго	NOUN	_	Case=Dat	15	obj	_	_
 15	табигдаһан	табигда	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	байгаа	бай	AUX	_	_	15	discourse	_	_
-17	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	15	discourse	_	SpaceAfter=No
+17	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	15	discourse	_	SpaceAfter=No
 18	?	?	PUNCT	_	_	15	punct	_	_
 
 # sent_id = bxr-ud3::604
@@ -9753,7 +9753,7 @@
 10	юу	юун	PRON	_	Case=Nom|PronType=Int	11	obj	_	_
 11	хэжэ	хэ	VERB	_	VerbForm=Inf	8	conj	_	_
 12	ажаһууна	ажаһуу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
+13	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	12	punct	_	_
 
 # sent_id = bxr-ud3::707
@@ -9819,7 +9819,7 @@
 10	ой	ой	NOUN	_	Case=Nom	11	nmod	_	_
 11	хадаар	хада	NOUN	_	_	12	nmod	_	_
 12	түбхинөө	түбхинэ	VERB	_	VerbForm=Inf	0	root	_	_
-13	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
+13	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	12	discourse	_	SpaceAfter=No
 14	?	?	PUNCT	_	_	12	punct	_	_
 
 # sent_id = bxr-ud3::712
@@ -10781,7 +10781,7 @@
 2	аргаар	арга	NOUN	_	_	4	nmod	_	_
 3	байдалыень	байдал	NOUN	_	Case=Acc|Number[psor]=Sing|Person[psor]=3	4	obj	_	_
 4	һайжаруулхаар	һайжаруул	VERB	_	_	0	root	_	_
-5	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	4	aux	_	SpaceAfter=No
+5	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	4	discourse	_	SpaceAfter=No
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::778
@@ -11978,7 +11978,7 @@
 5	би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 6	эгэшэ	эгэшэ	NOUN	_	Case=Nom	7	nmod	_	_
 7	хүн	хүн	NOUN	_	Case=Nom	0	root	_	_
-8	гээшэб	гээшэ	AUX	_	Number=Sing|Person=1	7	discourse	_	_
+8	гээшэб	гээшэ	VERB	_	Number=Sing|Person=1	7	discourse	_	_
 9	гэжэ	гэ	VERB	_	VerbForm=Inf	7	discourse	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	гэртэхинэйнгээ	гэртэхин	NOUN	_	Case=Gen|Reflex=Yes	13	iobj	_	_
