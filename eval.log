@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Buryat-BDT:
-commit dee015bc1ba61cbe349035bf03b43f70dd812e71
+commit 7ab7eab7b5051781b538cd08cd82a7392a8ff150
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:56:12 2024 +0200
+Date:   Mon Nov 11 15:03:53 2024 +0100
 Size: counted 10185 of 10185 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.64183209935754.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,28 +20,42 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        690
-Udapi: found 690 bugs.
+               TOTAL        678
+Udapi: found 678 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 10185 words.
-Genres: found 3 out of 17 known.
+Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-test.conllu
-[Line 6589 Sent bxr-ud3::523 Node 3]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 6588 Sent bxr-ud3::523 Node 2]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 6590 Sent bxr-ud3::523 Node 4]: [L3 Warning flat-foreign-upos-feats] The child of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-[Line 6588 Sent bxr-ud3::523 Node 2]: [L3 Warning flat-foreign-upos-feats] The parent of a flat:foreign relation should have UPOS X and Foreign=Yes (but no other features).
-Warnings: 4
-*** PASSED ***
+[Line 146 Sent bxr-ud3::14 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'гү али' does not have the 'ExtPos' feature
+[Line 363 Sent bxr-ud3::37 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Үдын хоолтой' does not have the 'ExtPos' feature
+[Line 1695 Sent bxr-ud3::169 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1704 Sent bxr-ud3::170 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1714 Sent bxr-ud3::171 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1895 Sent bxr-ud3::191 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Шулуу шонхо' does not have the 'ExtPos' feature
+[Line 1993 Sent bxr-ud3::199 Node 5]: [L3 Warning fixed-without-extpos] Fixed expression 'һүүлшын хирээр' does not have the 'ExtPos' feature
+[Line 3144 Sent bxr-ud3::311 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'хойно хойноһоонь' does not have the 'ExtPos' feature
+[Line 4008 Sent bxr-ud3::395 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'тус тусда' does not have the 'ExtPos' feature
+[Line 4117 Sent bxr-ud3::403 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'ялас гэмэ' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+[Line 7341 Sent bxr-ud3::559 Node 16]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB' word 'гэгшэд'
+[Line 9642 Sent bxr-ud3::698 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' word 'тэрэ'
+[Line 11951 Sent bxr-ud3::855 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON' word 'Юуб'
+Syntax errors: 3
+Warnings: 29
+*** FAILED *** with 3 errors
+Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-train.conllu
+[Line 86 Sent bxr-ud3::902 Node 14]: [L3 Warning fixed-without-extpos] Fixed expression 'тус тус' does not have the 'ExtPos' feature
+Warnings: 1
 *** PASSED ***
-Validity: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
-(weight=0.0769230769230769) * (score{genres}=0.176470588235294) = 0.0135746606334842
+(weight=0.0769230769230769) * (score{genres}=0.166666666666667) = 0.0128205128205128
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.335987011112061) = 0.0861505156697592
 (weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
 (weight=0.0769230769230769) * (score{tags}=0.941176470588235) = 0.0723981900452489
-(weight=0.307692307692308) * (score{udapi}=0.322533136966127) = 0.0992409652203467
+(weight=0.307692307692308) * (score{udapi}=0.334315169366716) = 0.102866205958989
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.460941601146108) * (availability=1) * (validity=1) = 0.460941601146108
-STARS = 2.5
-UD_Buryat-BDT	0.460941601146108	2.5
+(TOTAL score=0.46381269407178) * (availability=1) * (validity=0.01) = 0.0046381269407178
+STARS = 0
+UD_Buryat-BDT	0.0046381269407178	0
