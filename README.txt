@@ -40,6 +40,7 @@ If you use this treebank please cite:
 Data available since: UD v2.1
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples news fiction
 Lemmas: manual native
 UPOS: manual native
