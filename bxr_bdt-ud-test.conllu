@@ -12584,12 +12584,6 @@
 10	байдаг	бай	VERB	_	_	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
-# sent_id = bxr-ud3::894
-# text = Басаган бэшээ.
-1	Басаган	басаган	NOUN	_	Case=Nom	2	nsubj	_	_
-2	бэшээ	бэшэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
-
 # sent_id = bxr-ud3::914
 # text = Үшөөл олон гэрэл зурагууд, гар бэшэгүүд тэрээн соонь багтаагүй үлэшоо hэн.
 1	Үшөөл	_	ADV	_	_	11	advmod	_	Morf=Unknown
