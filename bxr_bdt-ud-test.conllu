@@ -143,7 +143,7 @@
 # sent_id = bxr-ud3::14
 # text = Харандаашууд гү али шугамууд.
 1	Харандаашууд	харандааш	NOUN	_	Case=Nom|Number=Plur	0	root	_	_
-2	гү	гү	CCONJ	_	_	1	cc	_	_
+2	гү	гү	CCONJ	_	ExtPos=CCONJ	1	cc	_	_
 3	али	али	CCONJ	_	_	2	fixed	_	_
 4	шугамууд	шугам	NOUN	_	Case=Nom|Number=Plur	1	conj	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	_
@@ -1990,7 +1990,7 @@
 2	аяншалгада	аяншалга	NOUN	_	Case=Dat	3	obj	_	_
 3	мордохом	мордо	VERB	_	Case=Nom|VerbForm=Ger	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	һүүлшын	һүүлшын	ADV	_	_	10	advmod	_	_
+5	һүүлшын	һүүлшын	ADV	_	ExtPos=ADV	10	advmod	_	_
 6	хирээр	хирээр	ADV	_	_	5	fixed	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	долоон	долоон	NUM	_	NumType=Card	9	compound	_	_
@@ -3141,7 +3141,7 @@
 # text = Хоер үхибүүд хойно хойноһоонь түрөө.
 1	Хоер	хоёр	NUM	_	NumType=Card	2	nummod	_	_
 2	үхибүүд	үхибүүн	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
-3	хойно	хойно	ADV	_	_	5	advmod	_	_
+3	хойно	хойно	ADV	_	ExtPos=ADV	5	advmod	_	_
 4	хойноһоонь	хойно	NOUN	_	Case=Abl|Number[psor]=Sing|Person[psor]=3	3	fixed	_	_
 5	түрөө	түрэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -5123,7 +5123,7 @@
 3	байра	байра	NOUN	_	Case=Nom	4	nsubj	_	_
 4	байшангүй	байша	VERB	_	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
-6	эндэ	эндэ	ADV	_	_	8	advmod	_	_
+6	эндэ	эндэ	ADV	_	ExtPos=ADV	8	advmod	_	_
 7	тэндэ	тэндэ	ADV	_	_	6	fixed	_	_
 8	арендэ	арендэ	NOUN	_	Case=Nom	4	parataxis	_	SpaceAfter=No
 9	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
@@ -9452,7 +9452,7 @@
 # sent_id = bxr-ud3::687
 # text = - Эндэ тэндэ ольтирогуудаар оршоһон буряад нютагууд бии.
 1	-	-	PUNCT	_	_	2	punct	_	_
-2	Эндэ	эндэ	ADV	_	_	8	advmod	_	_
+2	Эндэ	эндэ	ADV	_	ExtPos=ADV	8	advmod	_	_
 3	тэндэ	тэндэ	ADV	_	_	2	fixed	_	_
 4	ольтирогуудаар	ольтирог	NOUN	_	Number=Plur	8	nmod	_	_
 5	оршоһон	оршоһон	ADJ	_	_	7	amod	_	_
@@ -10941,7 +10941,7 @@
 4	һуури	һуури	NOUN	_	Case=Nom	5	obj	_	_
 5	табижа	таби	VERB	_	VerbForm=Inf	12	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
-7	бага	бага	ADJ	_	_	12	advmod	_	SpaceAfter=No
+7	бага	бага	ADJ	_	ExtPos=ADV	12	advmod	_	SpaceAfter=No
 8	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 9	багаар	багаар	ADV	_	_	7	fixed	_	_
 10	барилга	барилга	NOUN	_	Case=Nom	11	obj	_	_
@@ -11201,7 +11201,7 @@
 # sent_id = bxr-ud3::806
 # text = Теэд бага багааршье һаань юумэ хэжэл байхада һүүлэй һүүлдэ хэрэг бүтэдэг ха юм.
 1	Теэд	теэд	SCONJ	_	_	6	cc	_	_
-2	бага	бага	ADJ	_	_	6	advmod	_	_
+2	бага	бага	ADJ	_	ExtPos=ADV	6	advmod	_	_
 3	багааршье	багаар	ADV	_	_	2	fixed	_	_
 4	һаань	һаань	PART	_	_	6	mark	_	_
 5	юумэ	юумэн	NOUN	_	Case=Nom	6	obj	_	_
