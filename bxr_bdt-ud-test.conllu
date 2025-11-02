@@ -7323,6 +7323,7 @@
 
 # sent_id = bxr-ud3::559
 # text = Захааминай аймагай Санагын дунда һургуулиин буряад хэлэнэй багшанар Таисия Хандуевна Мархаева, Оюна Тогтохоевна Норбоева гэгшэд иигэжэ хэлэбэ:
+# text_en = Taisiya Khanduevna Markhaeva and Oyuna Togtokhoevna Norboeva, teachers of the Buryat language at Sanag secondary school in Zakhaamin aimag, said:
 1	Захааминай	Захаамин	PROPN	_	Case=Gen	5	nmod	_	_
 2	аймагай	аймаг	NOUN	_	Case=Gen	1	flat	_	_
 3	Санагын	Санага	PROPN	_	Case=Gen	5	nmod	_	_
@@ -7338,7 +7339,7 @@
 13	Оюна	Оюна	PROPN	_	Case=Nom|Gender=Fem	11	conj	_	_
 14	Тогтохоевна	Тогтохоевич	PROPN	_	Case=Nom|Gender=Fem	13	flat	_	_
 15	Норбоева	Норбоев	PROPN	_	Case=Nom|Gender=Fem	14	flat	_	_
-16	гэгшэд	гэ	VERB	_	Case=Nom|Number=Plur	18	advmod	_	_
+16	гэгшэд	гэ	VERB	_	Case=Nom|ExtPos=ADV|Number=Plur	18	advmod	_	_
 17	иигэжэ	иигэжэ	ADV	_	_	16	fixed	_	_
 18	хэлэбэ	хэлэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 19	:	:	PUNCT	_	_	18	punct	_	_
@@ -9633,13 +9634,14 @@
 
 # sent_id = bxr-ud3::698
 # text = Гэртээ юһэн хүниие бултыемнай сайлуулжа, тэрэ дороо үбгэд, хүгшэдые суглуулжа, ажал хүдэлмэримнай эхилһэн юм.
+# text_en = He invited all nine of us to his house, and immediately gathered the elderly and began our work.
 1	Гэртээ	гэр	NOUN	_	Case=Dat|Reflex=Yes	5	nmod	_	_
 2	юһэн	юһэн	NUM	_	NumType=Card	3	nummod	_	_
 3	хүниие	хүн	NOUN	_	Case=Acc	5	obj	_	_
 4	бултыемнай	булта	PRON	_	Case=Acc|PronType=Ind	3	appos	_	_
 5	сайлуулжа	сайла	VERB	_	VerbForm=Inf|Voice=Cau	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	12	punct	_	_
-7	тэрэ	тэрэ	PRON	_	Case=Nom|PronType=Dem	12	advmod	_	_
+7	тэрэ	тэрэ	PRON	_	Case=Nom|ExtPos=ADV|PronType=Dem	12	advmod	_	_
 8	дороо	дороо	ADV	_	_	7	fixed	_	_
 9	үбгэд	үбгэн	NOUN	_	Case=Nom|Number=Plur	16	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
@@ -11948,7 +11950,8 @@
 
 # sent_id = bxr-ud3::855
 # text = Юуб гэбэл, холын гүүртэнүүдэй хүүгэдые совхозой автобус гэр гэртэнь тарааха ёһотой аад, ехэнхидээ бидэнэй хойноһоо ерэдэггүй һэн.
-1	Юуб	юун	PRON	_	Case=Nom|PronType=Int	11	advmod	_	_
+# text_en = Because the state farm bus was supposed to take the children from distant villages home, but it usually didn't come after us.
+1	Юуб	юун	PRON	_	Case=Nom|ExtPos=ADV|PronType=Int	11	advmod	_	_
 2	гэбэл	гэ	VERB	_	Mood=Cnd|VerbForm=Conv	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	холын	холын	ADV	_	_	5	amod	_	_
