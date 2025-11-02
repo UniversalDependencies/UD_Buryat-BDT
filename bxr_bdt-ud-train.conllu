@@ -1,11 +1,12 @@
 # sent_id = bxr-ud3::894
 # parallel_id = cairo/1
-# text = Басаган бэшээ.
+# text = Басаган нүхэртөө бэшэг бэшэбэ.
 # text_en = The girl wrote a letter to her friend.
-# Google Translate of cairo/1 says it should be: Басаган нүхэртөө бэшэг бэшэбэ.
-1	Басаган	басаган	NOUN	_	Case=Nom	2	nsubj	_	_
-2	бэшээ	бэшэ	VERB	_	VerbForm=Ger	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	_	_	2	punct	_	_
+1	Басаган	басаган	NOUN	_	Case=Nom	4	nsubj	_	_
+2	нүхэртөө	нүхэр	NOUN	_	Case=Dat	4	obl	_	_
+3	бэшэг	бэшэг	NOUN	_	Case=Acc	4	obj	_	_
+4	бэшэбэ	бэшэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::895
 # parallel_id = cairo/2
