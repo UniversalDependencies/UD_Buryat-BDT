@@ -1,4 +1,15 @@
+# sent_id = bxr-ud3::894
+# parallel_id = cairo/1
+# text = Басаган нүхэртөө бэшэг бэшэбэ.
+# text_en = The girl wrote a letter to her friend.
+1	Басаган	басаган	NOUN	_	Case=Nom	4	nsubj	_	_
+2	нүхэртөө	нүхэр	NOUN	_	Case=Dat	4	obl	_	_
+3	бэшэг	бэшэг	NOUN	_	Case=Acc	4	obj	_	_
+4	бэшэбэ	бэшэ	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
 # sent_id = bxr-ud3::895
+# parallel_id = cairo/2
 # text = Минии һанахада, бороо орожо байна.
 # text_en = I think that it is raining.
 1	Минии	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	det	_	_
@@ -10,6 +21,7 @@
 7	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::896
+# parallel_id = cairo/3
 # text = Тэрэ хүн архи тамхияа хаяжа үзэбэ.
 # text_en = He tried to stop smoking and drinking.
 1	Тэрэ	тэрэ	DET	_	PronType=Dem	2	det	_	_
@@ -21,6 +33,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = bxr-ud3::897
+# parallel_id = cairo/4
 # text = Ошохоо һанана гүш?
 # text_en = Do you want to go?
 1	Ошохоо	ошо	VERB	_	Case=Nom|Reflex=Yes|VerbForm=Ger	2	xcomp	_	_
@@ -29,6 +42,7 @@
 4	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::898
+# parallel_id = cairo/5
 # text = Сэм, сонхо онгойлго!
 # text_en = Sam, open the window!
 1	Сэм	Сэм	PROPN	_	Case=Nom|Gender=Masc	4	vocative	_	SpaceAfter=No
@@ -38,6 +52,7 @@
 5	!	!	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::899
+# parallel_id = cairo/6
 # text = Тэрэ һамган үбгэеэ машинаа угаагыш гэжэ баалаба.
 # text_en = She made her husband wash the car.
 1	Тэрэ	тэрэ	DET	_	PronType=Dem	2	det	_	_
@@ -50,6 +65,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::900
+# parallel_id = cairo/7
 # text = Петиин хүршэ хорёогоо шэрдэбэ.
 # text_en = Peter's neighbor painted the fence black.
 1	Петиин	Пети	PROPN	_	Case=Gen|Gender=Masc	2	nmod	_	_
@@ -59,6 +75,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::901
+# parallel_id = cairo/8
 # text = Минии баабай шиниихиһээ бэрхэ.
 # text_en = My dad is cooler than yours.
 1	Минии	би	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	det	_	_
@@ -68,6 +85,7 @@
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::902
+# parallel_id = cairo/9
 # text = Мэри – хүрэл, Питер – мүнгэн, харин Джейн – алтан медаль тус тус абаба.
 # text_en = Mary won bronze, Peter silver, and Jane gold.
 1	Мэри	Мэри	PROPN	_	Case=Nom|Gender=Fem	0	root	_	_
@@ -89,6 +107,7 @@
 17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = bxr-ud3::903
+# parallel_id = cairo/10
 # text = Игаузу гээшэ томо гүрэн гү, бага гү?
 # text_en = Is Iguazu a big or a small country?
 1	Игаузу	Игаузу	PROPN	_	Case=Nom	4	nsubj	_	_
@@ -102,6 +121,7 @@
 9	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::904
+# parallel_id = cairo/11
 # text = Питер Смит, Мэри Браун хоёрой алииеньшье шэлэхын аргагүй байба.
 # text_en = Neither Peter Smith nor Mary Brown could be selected.
 1	Питер	Питер	PROPN	_	Case=Nom|Gender=Masc	8	obj	_	_
@@ -117,6 +137,7 @@
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id = bxr-ud3::905
+# parallel_id = cairo/12
 # text = Хэнэйшье бэшэһэн хынь оройдоо мэдэнэгүй.
 # text_en = They have no idea who wrote it.
 1	Хэнэйшье	хэнэй	PRON	_	_	2	nsubj	_	Morf=Unknown
@@ -127,6 +148,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::906
+# parallel_id = cairo/13
 # text = Юугээ харанабши?
 # text_en = What are you looking at?
 1	Юугээ	юу	PRON	_	_	2	obj	_	Morf=Unknown
@@ -134,6 +156,7 @@
 3	?	?	PUNCT	_	_	2	punct	_	_
 
 # sent_id = bxr-ud3::907
+# parallel_id = cairo/14
 # text = Хэзээ ерэжэ шадахаяа мэдэнэ гүш?
 # text_en = When do you think you can come?
 1	Хэзээ	хэзээ	ADV	_	PronType=Int	2	advmod	_	_
@@ -144,6 +167,7 @@
 6	?	?	PUNCT	_	_	4	punct	_	_
 
 # sent_id = bxr-ud3::908
+# parallel_id = cairo/15
 # text = Тэрэ хүн машина абаа, харин дүүнь оройдоол велосипед абажа шадаа.
 # text_en = He bought a car but his brother just a bike.
 1	Тэрэ	тэрэ	DET	_	PronType=Dem	2	det	_	_
@@ -160,6 +184,7 @@
 12	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id = bxr-ud3::909
+# parallel_id = cairo/16
 # text = Питер Мэри хоёр тэбэрилдээд, таһалгаһаа гараба.
 # text_en = Peter and Mary hugged each other and then left the room.
 1	Питер	Питер	PROPN	_	Case=Nom|Gender=Masc	7	nsubj	_	_
@@ -172,6 +197,7 @@
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::910
+# parallel_id = cairo/17
 # text = Үһэеэ заһуулха хүн аад, тэрэ үдэр юундэ хынь бү мэдэ, залхуунь хүрэбэ.
 # text_en = She should have been doing her hair but for some reason she wouldn't that day.
 1	Үһэеэ	үһэн	NOUN	_	Case=Nom|Reflex=Yes	2	obj	_	_
@@ -191,6 +217,7 @@
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id = bxr-ud3::911
+# parallel_id = cairo/18
 # text = Ехэ хурдаар гүйхэдэнь хүсэжэ ядааб.
 # text_en = I wasn't able to keep up, because he ran too fast.
 1	Ехэ	ехэ	ADV	_	_	2	advmod	_	_
@@ -201,6 +228,7 @@
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = bxr-ud3::912
+# parallel_id = cairo/19
 # text = Энэ Пётрой бэшэг, үсэгэлдэр асаржа үгөө һэн.
 # text_en = This letter is from Peter and it was delivered yesterday.
 1	Энэ	энэ	PRON	_	Case=Nom|PronType=Dem	3	nsubj	_	_
@@ -214,6 +242,7 @@
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = bxr-ud3::913
+# parallel_id = cairo/20
 # text = Тэрэ басаган Франциин ниислэл хото Париста өөдөө болоо һэн.
 # text_en = She grew up in Paris, the capital of France.
 1	Тэрэ	тэрэ	DET	_	PronType=Dem	2	det	_	_
