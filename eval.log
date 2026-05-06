@@ -1,7 +1,70 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue May 5 17:01:41 2026 +0200
+Evaluating the following revision of UD_Buryat-BDT:
+commit 9aa88457e89d140cb9a716003495f40be5be57c1
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed May 6 12:06:07 2026 +0200
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'bxr_bdt'
+Language code (from CoNLL-U file name) = 'bxr'
+Found the following data files: bxr_bdt-ud-test.conllu, bxr_bdt-ud-train.conllu
+Size: counted 10187 of 10187 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.64222479521586.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 5678 out of 10187 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Genres: found 3 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-test.conllu
+[Line 363 Sent bxr-ud3::37]: [L3 WARNING fixed-without-extpos] Fixed expression 'Үдын хоолтой' does not have the 'ExtPos' feature
+[Line 664 Sent bxr-ud3::65]: [L3 WARNING pron-det-without-prontype] The word 'хэнэй' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1120 Sent bxr-ud3::111]: [L3 WARNING pron-det-without-prontype] The word 'өөрынгөө' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1183 Sent bxr-ud3::117]: [L3 WARNING pron-det-without-prontype] The word 'хэнэй' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1219 Sent bxr-ud3::121]: [L3 WARNING pron-det-without-prontype] The word 'нэгэниинь' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1246 Sent bxr-ud3::124]: [L3 WARNING pron-det-without-prontype] The word 'нэгэниинь' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1256 Sent bxr-ud3::125]: [L3 WARNING pron-det-without-prontype] The word 'нэгэниинь' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1695 Sent bxr-ud3::169]: [L3 WARNING fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1704 Sent bxr-ud3::170]: [L3 WARNING fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1714 Sent bxr-ud3::171]: [L3 WARNING fixed-without-extpos] Fixed expression 'газаа гараад' does not have the 'ExtPos' feature
+[Line 1895 Sent bxr-ud3::191]: [L3 WARNING fixed-without-extpos] Fixed expression 'Шулуу шонхо' does not have the 'ExtPos' feature
+[Line 1918 Sent bxr-ud3::193]: [L3 WARNING pron-det-without-prontype] The word 'Өөһэнөө' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 1960 Sent bxr-ud3::196]: [L3 WARNING pron-det-without-prontype] The word 'Өөһэнөө' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2077 Sent bxr-ud3::206]: [L3 WARNING pron-det-without-prontype] The word 'өөрынгөө' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 2142 Sent bxr-ud3::212]: [L3 WARNING pron-det-without-prontype] The word 'Өөһэдөө' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 4008 Sent bxr-ud3::395]: [L3 WARNING fixed-without-extpos] Fixed expression 'тус тусда' does not have the 'ExtPos' feature
+[Line 4117 Sent bxr-ud3::403]: [L3 WARNING fixed-without-extpos] Fixed expression 'ялас гэмэ' does not have the 'ExtPos' feature
+[Line 4146 Sent bxr-ud3::405]: [L3 WARNING fixed-without-extpos] Fixed expression 'афиша соносхолнууд' does not have the 'ExtPos' feature
+[Line 4277 Sent bxr-ud3::411]: [L3 WARNING fixed-without-extpos] Fixed expression 'үеһөө үедэ' does not have the 'ExtPos' feature
+[Line 4359 Sent bxr-ud3::416]: [L3 WARNING fixed-without-extpos] Fixed expression 'Ушар юуб гэхэдэ' does not have the 'ExtPos' feature
+...suppressing further messages regarding WARNING/SYNTAX
+Warnings: 86
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang bxr --max-err=10 UD_Buryat-BDT/bxr_bdt-ud-train.conllu
+[Line 104 Sent bxr-ud3::902]: [L3 WARNING fixed-without-extpos] Fixed expression 'тус тус' does not have the 'ExtPos' feature
+[Line 133 Sent bxr-ud3::904]: [L3 WARNING pron-det-without-prontype] The word 'алииеньшье' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 143 Sent bxr-ud3::905]: [L3 WARNING pron-det-without-prontype] The word 'Хэнэйшье' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 154 Sent bxr-ud3::906]: [L3 WARNING pron-det-without-prontype] The word 'Юугээ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 254 Sent bxr-ud3::913]: [L3 WARNING pron-det-without-prontype] The word 'өөдөө' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 5
+*** PASSED ***
+Validity: 1
+(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
+(weight=0.111111111111111) * (score{genres}=0.166666666666667) = 0.0185185185185185
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.336015435386117) = 0.124450161254117
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=0.941176470588235) = 0.104575163398693
+(weight=0.111111111111111) * (score{udeprels}=0.837837837837838) = 0.0930930930930931
+(TOTAL score=0.521377677005162) * (availability=1) * (validity=1) = 0.521377677005162
+STARS = 2.5
+UD_Buryat-BDT	0.521377677005162	2.5
